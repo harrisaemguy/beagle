@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-09-01T06:56:35.192Z"
+        cq:lastModifiedBy="dvirmani"
+        cq:lastReplicated="{Date}2016-09-01T07:26:36.880Z"
+        cq:lastReplicatedBy="dvirmani"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Erin McLaughlin"
+        jcr:uuid="7bc3f473-0906-4347-94e4-36abf68ea093"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Erin McLaughlin | Font type designer on Adobe"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="light"
+        languageDirection="ltr"
+        marqueeStyle="newMarquee"
+        metaDescription="Showcase typeface fonts designed by Erin McLaughlin at Adobe. Check out profile and see designer's font collection."
+        pageTitle="Erin McLaughlin"
+        seodescription="Erin McLaughlin, type designer for Adobe">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_126b
+                jcr:lastModified="{Date}2016-07-28T23:26:40.036-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                layout="1;grid-cols-10 grid-offset-3;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-07-28T23:26:40.036-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_126b>
+            <text_8a3
+                jcr:created="{Date}2016-07-29T00:04:50.922-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-07-29T00:05:18.424-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&amp;nbsp;&amp;nbsp;&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <text_fbb2
+                jcr:created="{Date}2016-07-29T00:05:24.386-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-07-29T00:05:24.386-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&amp;nbsp;&amp;nbsp;&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <image_c7dd
+                jcr:created="{Date}2016-07-29T08:16:53.218-07:00"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-07-29T08:24:07.114-07:00"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Erin McLaughlin"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/Erin McLaughlin.jpg"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-07-29T08:24:07.114-07:00"
+                    jcr:lastModifiedBy="rbedi"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_c7dd>
+            <text_0_7199bcc5-c5d8-476a-a4c2-3aac3746b870
+                jcr:lastModified="{Date}2016-08-16T00:47:16.642-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h2 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h2>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Erin McLaughlin is an independent typeface designer from the United States who specializes in Indian and other non-Latin writing systems. Since 2013, she has worked as a non-Latin type consultant and designer for clients such as Adobe, Facebook, and Google, as well as other independent type foundries. Before moving into consulting, she worked as a typeface designer at Hoefler &amp;amp; Frere-Jones in New York. Erin has presented her work and research at design conferences in the United States and India, and was recipient of the 2011 Catalyst award from the Society of Typographic Aficionados. She received her BFA from the Minneapolis College of Art &amp;amp; Design, and her MA in Typeface Design from the University of Reading.&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <column_7a1d
+                jcr:created="{Date}2016-07-29T01:13:09.666-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-07-29T01:14:20.513-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10;"
+                bgColor=" "
+                columnCount="1-s"
+                layout="1;grid-span-0;"
+                layoutMode="structured"
+                multiplier="2"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-07-29T01:14:20.513-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_7a1d>
+            <text_b5f0
+                jcr:created="{Date}2016-07-29T01:16:55.573-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-19T02:47:06.256-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>Font family available from Adobe&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <image_0_72b60731-097c-4897-ace4-152ceb4596de
+                jcr:lastModified="{Date}2016-08-19T03:03:02.549-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Adobe Kannada"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/adobe-kannada.png"
+                link="http://www.adobe.com/products/type/fonts-by-adobe.html "
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-08-19T03:03:02.549-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_0_72b60731-097c-4897-ace4-152ceb4596de>
+            <end_14697799896740
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_7a1d"/>
+            <horizontalrule_2081
+                jcr:created="{Date}2016-07-29T01:22:15.827-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-07-29T01:22:15.827-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_14544550461840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_126b"/>
+            <column_bda9
+                jcr:created="{Date}2016-07-29T01:18:59.473-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-07-29T01:19:38.815-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-07-29T01:19:38.815-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_bda9>
+            <column_3aee
+                jcr:created="{Date}2016-07-29T01:19:48.094-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-07-29T01:20:15.121-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-07-29T01:20:15.121-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_3aee>
+            <text_bcf4
+                jcr:created="{Date}2016-07-31T22:57:15.252-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-07-31T22:57:15.252-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Learning&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers.html&quot;>Adobe Type Designers&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-team.html&quot;>Adobe Type Team&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-specimens.html&quot;>Type specimens&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-references-tips.html&quot;>Type reference materials&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-originals.html&quot;>Adobe Originals&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/opentype.html&quot;>OpenType&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14697804151450
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_3aee"/>
+            <text_4058
+                jcr:created="{Date}2016-07-31T22:57:17.955-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-07-31T22:57:17.955-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Resources&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blog.typekit.com/&quot;>Type &amp;amp; Typekit blog&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blogs.adobe.com/CCJKType/&quot;>CJK Type blog (Asian fonts)&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype.html&quot;>Developer information&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype/afdko.html&quot;>Font Development Kit&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/install-instructions.html&quot;>Font installation instructions&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14697804151471
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_3aee"/>
+            <text_e394
+                jcr:created="{Date}2016-07-31T22:57:20.739-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-09-01T06:56:35.181Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Help&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing Center&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/creative-cloud-fonts.html&quot;>CC Bundled Fonts&amp;nbsp;FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://typekit.com/help&quot;>Web Font FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/products/fontfolio/faq.html&quot;>Font Folio FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://forums.adobe.com/community/typography_fonts&quot;>Adobe Type user forums&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14697803881030
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_3aee"/>
+            <end_14697803394810
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_bda9"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2016-08-22T03:21:52.334-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2016-08-22T03:21:52.334-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+    </jcr:content>
+</jcr:root>

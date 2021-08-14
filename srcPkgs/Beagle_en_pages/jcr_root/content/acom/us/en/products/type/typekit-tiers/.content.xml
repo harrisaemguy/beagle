@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2018-01-29T21:29:25.085Z"
+        cq:lastModifiedBy="dwilbank"
+        cq:lastReplicated="{Date}2018-01-29T21:29:29.817Z"
+        cq:lastReplicatedBy="dwilbank"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Adobe Typekit Marketplace Price Tiers"
+        jcr:uuid="53d85cfa-86d8-4d37-b81a-4a1b7b894d8e"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Adobe Typekit Marketplace Price Tiers| Adobe Type"
+        disableGeoRouting="true"
+        distType="dist5"
+        enableBreadcrumb="true"
+        freeTrialUrlLoggedInModalScrolling="no"
+        freeTrialUrlLoggedInModalSize="426x240"
+        freeTrialUrlLoggedInTarget="_self"
+        freeTrialUrlModalScrolling="no"
+        freeTrialUrlModalSize="426x240"
+        freeTrialUrlTarget="_self"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        groupSectionNavTitle="Fonts by Adobe"
+        hideInSectionNav="true"
+        hideMerchandisingBar="inherit"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="inherit"
+        languageDirection="ltr"
+        marketSegmentRewrite="COM"
+        metaDescription="Adobe Typekit Marketplace Price Tiers"
+        modalSize="426x240"
+        noFollow="true"
+        noIndex="true"
+        pageTitle="Adobe Typekit Marketplace Price Tiers"
+        seodescription=""
+        stagelastReplicated="27-Jan-2017 21:27"
+        stagelastReplicatedBy="hmilks"
+        stageLastReplicationAction="ActivatedtoStage"
+        tryLinkModalScrolling="no"
+        tryLinkModalSize="426x240"
+        tryLinkProductPlanModalScrolling="no"
+        tryLinkProductPlanModalSize="426x240"
+        tryLinkProductPlanTarget="_self"
+        tryLinkTarget="_self"
+        useH1Tags="pageTitle">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_126b
+                jcr:lastModified="{Date}2016-08-02T04:54:01.780-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-02T04:54:01.780-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_126b>
+            <text_df67
+                jcr:created="{Date}2016-08-02T05:37:06.505-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2017-01-26T23:25:36.463Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>The table below shows available price tiers for fonts in the Adobe Typekit Marketplace, for use by Typekit’s foundry partners. All participating foundries must assign a tier for each font and package from the list below.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;Tiers address five specific currencies, but should be referenced by their USD amount. For example, a font assigned a price tier of “$29.99” would sell for $29.99 in the United States, and for ¥3,580 in Japan.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;This table of price tiers is subject to change – including adjustment of non-USD amounts due to currency exchange rate fluctuations, or addition or elimination of price tiers. Typekit foundry partners will be notified if and when changes occur.&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_3e54
+                jcr:created="{Date}2017-01-26T23:26:34.934Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-01-26T23:27:03.881Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-7-block&quot;>&lt;em>Last modified: 23 January 2017&lt;/em>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <table_1d30
+                jcr:created="{Date}2017-01-26T23:29:44.195Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-01-27T00:16:42.807Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/table"
+                tableDataHTML="&lt;table width=&quot;100%&quot; class=&quot;data-table&quot;>&#xa;&lt;tbody>&lt;tr>&lt;td width=&quot;10%&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>&lt;strong>USD&lt;/strong>&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>&lt;strong>EUR&lt;/strong>&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>&lt;strong>GBP&lt;/strong>&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>&lt;strong>AAU&lt;/strong>&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>&lt;strong>JPY&lt;/strong>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>1&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$9.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 9.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£7.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$11.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥1,180&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>2&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$14.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 14.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£11.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$17.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥1,780&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>3&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$19.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 19.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£15.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$23.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥2,380&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>4&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$24.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 24.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£19.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$29.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥2,980&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>5&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$29.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 29.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£23.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$35.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥3,580&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>6&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$34.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 34.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£27.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$41.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥4,180&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>7&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$39.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 39.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£31.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$47.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥4,780&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>8&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$49.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 49.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£39.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$71.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥5,880&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>9&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$59.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 59.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£47.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$83.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥7,080&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>10&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$69.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 69.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£55.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$95.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥8,280&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>11&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$79.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 79.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£63.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$107.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥9,480&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>12&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$89.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 89.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£71.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$119.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥10,680&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>13&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$99.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 99.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£79.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$131.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥11,780&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>14&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$109.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 109.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£87.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$143.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥12,980&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>15&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$119.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 119.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£95.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$155.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥14,180&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>16&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$129.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 129.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£103.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$155.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥15,380&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>17&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$139.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 139.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£111.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$167.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥16,580&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>18&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$149.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 149.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£119.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$179.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥17,680&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>19&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$159.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 159.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£127.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$191.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥18,880&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>20&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$169.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 169.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£135.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$203.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥20,080&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>21&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$179.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 179.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£143.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$219.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥21,280&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>22&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$199.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 199.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£159.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$239.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥23,580&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>23&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$229.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 229.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£183.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$275.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥27,180&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>24&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$249.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 249.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£199.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$299.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥29,480&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>25&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$279.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 279.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£223.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$335.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥33,080&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>26&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$299.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 299.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£239.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$359.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥35,380&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>27&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$329.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 329.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£269.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$395.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥38,980&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>28&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$349.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 349.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£279.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$419.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥41,280&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>29&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$379.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 379.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£303.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$455.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥44,880&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>30&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$399.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 399.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£319.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$479.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥47,580&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>31&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$449.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 449.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£359.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$539.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥53,080&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;10%&quot;>32&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>$499.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>€ 499.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>£399.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>AA$599.99&lt;/td>&#xa;&lt;td width=&quot;18%&quot; style=&quot;text-align: center;&quot;>¥58,980&lt;/td>&#xa;&lt;/tr>&lt;/tbody>&lt;/table>"/>
+            <end_14544550461840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_126b"/>
+            <column_5ad8
+                jcr:created="{Date}2016-08-02T05:34:25.294-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-03T04:28:09.781-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-03T04:28:09.781-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_5ad8>
+            <horizontalrule_a48a
+                jcr:created="{Date}2016-08-02T05:43:21.281-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-02T05:43:21.281-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_48d3
+                jcr:created="{Date}2016-08-02T05:35:45.762-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-02T05:35:45.762-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-07-29T03:25:33.888-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_48d3>
+            <text_95d9
+                jcr:created="{Date}2016-08-02T05:35:48.993-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-02T05:35:48.993-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Learning&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers.html&quot;>Adobe Type Designers&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-team.html&quot;>Adobe Type Team&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-specimens.html&quot;>Type specimens&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-references-tips.html&quot;>Type reference materials&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/typekit-tiers.html&quot;>Adobe Originals&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/opentype.html&quot;>OpenType&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14701413457770
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_48d3"/>
+            <text_76d5
+                jcr:created="{Date}2016-08-02T05:35:51.386-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-02T05:35:51.386-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Resources&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blog.typekit.com/&quot;>Type &amp;amp; Typekit blog&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blogs.adobe.com/CCJKType/&quot;>CJK Type blog (Asian fonts)&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype.html&quot;>Developer information&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype/afdko.html&quot;>Font Development Kit&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/install-instructions.html&quot;>Font installation instructions&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14701413457781
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_48d3"/>
+            <text_8fc8
+                jcr:created="{Date}2016-09-01T04:46:18.389Z"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-09-01T04:46:18.389Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Help&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing Center&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/creative-cloud-fonts.html&quot;>CC Bundled Fonts&amp;nbsp;FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://typekit.com/help&quot;>Web Font FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/products/fontfolio/faq.html&quot;>Font Folio FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://forums.adobe.com/community/typography_fonts&quot;>Adobe Type user forums&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14701413457792
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_48d3"/>
+            <end_14701412653050
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5ad8"/>
+        </contentbody>
+        <sectionMore
+            jcr:primaryType="nt:unstructured"
+            linkModalScrolling="no"
+            linkModalSize="426x240"
+            linkTarget="_self"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2018-01-29T21:29:25.059Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2018-01-29T21:29:25.059Z"
+                    jcr:lastModifiedBy="dwilbank"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+    </jcr:content>
+</jcr:root>

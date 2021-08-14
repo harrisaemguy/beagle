@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2021-05-07T09:46:46.804Z"
+        cq:lastModifiedBy="21n42737"
+        cq:lastReplicated="{Date}2020-12-15T07:45:41.811Z"
+        cq:lastReplicatedBy="shresinh"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/onecolumnpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Thank you"
+        jcr:uuid="16a1d4e5-4c45-4d34-a424-9ed1983bea06"
+        sling:resourceType="beagle/components/onecolumnpage">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_846b
+                jcr:created="{Date}2020-08-11T09:24:34.834Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2020-08-11T14:49:44.015Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-08-11T14:49:44.015Z"
+                        jcr:lastModifiedBy="shresinh"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_846b>
+            <text_ab6f
+                jcr:created="{Date}2020-08-11T09:24:58.670Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2020-08-11T09:25:19.730Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Deliver modern learning experiences with an award-winning LMS&lt;/span>&lt;/div>&#xa;"/>
+            <text_1b63
+                jcr:created="{Date}2020-08-11T09:25:30.361Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2020-08-11T14:50:44.814Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;strong>&lt;span class=&quot;text-light&quot;>Transform your organization's&amp;nbsp;&lt;strong>Digital Learning&lt;/strong>&amp;nbsp;with&amp;nbsp;&lt;strong>Adobe Captivate Prime LMS&lt;/strong>.&lt;/span>&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>To get in touch, please write to us at&amp;nbsp;&lt;a href=&quot;mailto:captivateprimesales@adobe.com&quot; target=&quot;_blank&quot;>captivateprimesales@adobe.com&lt;/a>.&lt;/span>&lt;/div>&#xa;"/>
+            <end_15971378748380
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_846b"/>
+            <column_5418
+                jcr:created="{Date}2020-08-11T09:26:42.962Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2020-08-11T16:12:04.399Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="2"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-08-11T16:12:04.399Z"
+                        jcr:lastModifiedBy="shresinh"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_5418>
+            <column_ea13
+                jcr:created="{Date}2020-08-11T09:27:07.435Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2020-08-11T16:10:36.536Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-08-11T16:10:36.536Z"
+                        jcr:lastModifiedBy="shresinh"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_ea13>
+            <inlinevideo_344
+                jcr:created="{Date}2020-08-13T10:21:30.781Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2021-05-07T09:36:21.079Z"
+                jcr:lastModifiedBy="21n42737"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/inlinevideo">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <text
+                        jcr:primaryType="nt:unstructured"
+                        text="&lt;p style=&quot;text-align: center;&quot;>A tour of Adobe Captivate Prime – probably world’s most awarded LMS&lt;/p>&#xa;"/>
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                        adobeTvNewAutoPlay="true"
+                        adobeTvNewUrl="37868"
+                        size="640x360"
+                        type="adobetvnew">
+                        <social jcr:primaryType="nt:unstructured"/>
+                        <meta
+                            jcr:primaryType="nt:unstructured"
+                            type="website">
+                            <image
+                                jcr:lastModified="{Date}2021-05-07T09:36:21.079Z"
+                                jcr:lastModifiedBy="21n42737"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="beagle/components/image"
+                                alt="&amp;nbsp;"/>
+                        </meta>
+                        <tracking jcr:primaryType="nt:unstructured"/>
+                    </video>
+                </contentlayer>
+                <image
+                    jcr:lastModified="{Date}2021-05-07T09:36:21.079Z"
+                    jcr:lastModifiedBy="21n42737"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/image"
+                    alt="A tour of Adobe Captivate Prime – probably world’s most awarded LMS"
+                    fileReference="/content/dam/acom/en/products/captivate-prime/Prime2020/Thumbnails_Adobe_Captivate_Prime.png"/>
+            </inlinevideo_344>
+            <break_15971380520390
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_ea13"/>
+            <inlinevideo_d84b
+                jcr:created="{Date}2020-08-13T10:21:33.682Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2020-08-13T10:23:17.082Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/inlinevideo">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <text
+                        jcr:primaryType="nt:unstructured"
+                        text="&lt;p style=&quot;text-align: center;&quot;>Building a Customer Education Program with Adobe Captivate Prime&lt;/p>&#xa;"/>
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                        adobeTvNewAutoPlay="true"
+                        adobeTvNewUrl="37866"
+                        size="640x360"
+                        type="adobetvnew">
+                        <social jcr:primaryType="nt:unstructured"/>
+                        <meta
+                            jcr:primaryType="nt:unstructured"
+                            type="website">
+                            <image
+                                jcr:lastModified="{Date}2020-08-13T10:23:17.082Z"
+                                jcr:lastModifiedBy="shresinh"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="beagle/components/image"
+                                alt="&amp;nbsp;"/>
+                        </meta>
+                        <tracking jcr:primaryType="nt:unstructured"/>
+                    </video>
+                </contentlayer>
+                <image
+                    jcr:lastModified="{Date}2020-08-13T10:23:17.082Z"
+                    jcr:lastModifiedBy="shresinh"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/image"
+                    alt="Building a Customer Education Program with Adobe Captivate Prime"
+                    fileReference="/content/dam/acom/en/products/captivate-prime/Prime2020/Thumbnails_Customer_Education_Program.png"/>
+            </inlinevideo_d84b>
+            <break_15971380520391
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_ea13"/>
+            <inlinevideo_ca55
+                jcr:created="{Date}2020-08-13T10:21:35.870Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2021-05-07T09:46:46.785Z"
+                jcr:lastModifiedBy="21n42737"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/inlinevideo">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <text
+                        jcr:primaryType="nt:unstructured"
+                        text="&lt;p style=&quot;text-align: center;&quot;>Learning – a key pillar of Digital Transformation, post COVID-19&lt;/p>&#xa;"/>
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                        adobeTvNewAutoPlay="true"
+                        adobeTvNewUrl="37867"
+                        size="640x360"
+                        type="adobetvnew">
+                        <social jcr:primaryType="nt:unstructured"/>
+                        <meta
+                            jcr:primaryType="nt:unstructured"
+                            type="website">
+                            <image
+                                jcr:lastModified="{Date}2021-05-07T09:46:46.785Z"
+                                jcr:lastModifiedBy="21n42737"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="beagle/components/image"
+                                alt="&amp;nbsp;"/>
+                        </meta>
+                        <tracking jcr:primaryType="nt:unstructured"/>
+                    </video>
+                </contentlayer>
+                <image
+                    jcr:lastModified="{Date}2021-05-07T09:46:46.785Z"
+                    jcr:lastModifiedBy="21n42737"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/image"
+                    alt="Learning – a key pillar of Digital Transformation, post COVID-19"
+                    fileReference="/content/dam/acom/en/products/captivate-prime/Prime2020/Thumbnails_Learning-A_key_pillar.png"/>
+            </inlinevideo_ca55>
+            <break_15971380520402
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_ea13"/>
+            <inlinevideo_e01e
+                jcr:created="{Date}2020-08-13T10:21:38.490Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2020-08-13T10:24:44.469Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/inlinevideo">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <text
+                        jcr:primaryType="nt:unstructured"
+                        text="&lt;p style=&quot;text-align: center;&quot;>Training as a Customer Acquisition Strategy&lt;/p>&#xa;"/>
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                        adobeTvNewAutoPlay="true"
+                        adobeTvNewUrl="37869"
+                        size="640x360"
+                        type="adobetvnew">
+                        <social jcr:primaryType="nt:unstructured"/>
+                        <meta
+                            jcr:primaryType="nt:unstructured"
+                            type="website">
+                            <image
+                                jcr:lastModified="{Date}2020-08-13T10:24:44.469Z"
+                                jcr:lastModifiedBy="shresinh"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="beagle/components/image"
+                                alt="&amp;nbsp;"/>
+                        </meta>
+                        <tracking jcr:primaryType="nt:unstructured"/>
+                    </video>
+                </contentlayer>
+                <image
+                    jcr:lastModified="{Date}2020-08-13T10:24:44.469Z"
+                    jcr:lastModifiedBy="shresinh"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/image"
+                    alt="Training as a Customer Acquisition Strategy"
+                    fileReference="/content/dam/acom/en/products/captivate-prime/Prime2020/Thumbnails_Customer_Acquisition_Strategy.png"/>
+            </inlinevideo_e01e>
+            <end_15971380274390
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_ea13"/>
+            <end_15971380029650
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5418"/>
+            <column_af0e
+                jcr:created="{Date}2020-08-11T09:28:33.917Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2021-05-07T07:58:50.208Z"
+                jcr:lastModifiedBy="21n42737"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor="background-color:#260D40;color:#FFFFFF"
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2021-05-07T07:58:50.208Z"
+                        jcr:lastModifiedBy="21n42737"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_af0e>
+            <text_aae7
+                jcr:created="{Date}2020-08-11T09:28:56.023Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2020-08-13T09:47:15.027Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Interested in attending a&amp;nbsp;LIVE&amp;nbsp;demo of Adobe Captivate Prime LMS?&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;https://meetus.adobeevents.com/daily-demos/?sdid=aewprime2020&quot; target=&quot;_blank&quot;>&lt;strong>Register now&amp;gt;&lt;/strong>&lt;/a>&lt;/div>&#xa;"/>
+            <end_15971381139240
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_af0e"/>
+            <column_715d
+                jcr:created="{Date}2020-08-11T16:02:17.160Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2020-08-11T16:04:09.007Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-08-11T16:04:09.007Z"
+                        jcr:lastModifiedBy="shresinh"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_715d>
+            <text_6f4a
+                jcr:created="{Date}2020-08-11T15:46:16.110Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2020-08-11T16:03:48.920Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe in the United States and/or other countries.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;strong>&lt;span class=&quot;text-light&quot;>All other trademarks are the property of their respective owners.&amp;nbsp;&lt;br>&#xa; © 2020 Adobe. All rights reserved.&lt;/span>&lt;/strong>&lt;/div>&#xa;"/>
+            <end_15971617371670
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_715d"/>
+        </contentbody>
+        <tophero
+            jcr:lastModified="{Date}2020-08-11T14:47:56.743Z"
+            jcr:lastModifiedBy="shresinh"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            avoid="hero2-avoid-0"
+            height="hero2-size-3"
+            hideCredits="true"
+            hideLink="true">
+            <image
+                jcr:lastModified="{Date}2020-08-11T14:47:56.743Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Adobe eLearning World 2020 - Recordings"
+                fileReference="/content/dam/acom/en/products/captivate-prime/Prime2020/website_marquee_AEW.jpg"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+            <article
+                jcr:lastModified="{Date}2020-08-13T09:46:06.867Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hero/article"
+                articleAlignment="hero2-align-1"
+                title="&lt;p>&lt;strong>Adobe eLearning World 2020&lt;/strong>&lt;br>&#xa;OnDemand Sessions&lt;/p>&#xa;">
+                <titleImage
+                    jcr:lastModified="{Date}2020-08-13T09:46:06.867Z"
+                    jcr:lastModifiedBy="shresinh"
+                    jcr:primaryType="nt:unstructured"/>
+                <link
+                    jcr:primaryType="nt:unstructured"
+                    modalMode="VIDEO"
+                    size="426x240"
+                    type="free">
+                    <image
+                        jcr:lastModified="{Date}2020-08-13T09:46:06.867Z"
+                        jcr:lastModifiedBy="shresinh"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </link>
+            </article>
+        </tophero>
+    </jcr:content>
+</jcr:root>

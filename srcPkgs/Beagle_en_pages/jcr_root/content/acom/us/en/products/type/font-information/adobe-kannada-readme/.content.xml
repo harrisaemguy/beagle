@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-09-07T10:57:32.982-07:00"
+        cq:lastModifiedBy="wmyersta"
+        cq:template="/apps/beagle/templates/freelinkpage"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Adobe Kannada Readme"
+        sling:resourceType="beagle/components/freelinkpage"
+        bodyClass="whiteBackground"
+        languageDirection="ltr">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <text_3_05d2ab74-b08a-464d-8ebe-7f65c32a8af1
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;&quot;>This document contains product information, updates, and troubleshooting tips.&lt;/p>&#xa;"/>
+            <text_11b3b60e-c357-4064-bbe6-5e3105dd65bc
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;strong>History&lt;/strong>&lt;/p>&#xa;&lt;p>The Adobe Kannada typeface was designed by Erin McLaughlin, with Brahmic script expert Fiona Ross consulting on the design. This type family was designed to harmonize with Adobe’s other Brahmic fonts, both in terms of apparent size and style, to ensure that this suite of typeface families can be typeset together as a system. The primary intended usage — for printed outputs, particularly continuous text settings — guided the design direction.&lt;/p>&#xa;&lt;p>The letter construction is based on traditional Kannada text typeface designs, including the influential Basel Mission Press Kannada typeface, which set a strong precedent for weight, form, and proportions for succeeding type designs for Kannada. Adobe Kannada features a contrast distribution somewhat lower than the norm so as to maintain strong, legible forms at small sizes. Careful attention to shaping and details allow these typefaces to be used in a range of type sizes from small text to heading and display sizes.&lt;/p>&#xa;&lt;p>The Adobe Kannada fonts comply with the Unicode standard for character encoding and leverage OpenType layout to produce correct script shaping. A full set of Kannada ligatures is included in the fonts to provide the most natural shaping of Kannada text. The designer has provided careful kerning of all vowel signs and modifiers. The fonts include proportional Kannada numerals.&lt;/p>&#xa;&lt;p>Adobe ಕನ್ನಡ ಟೈಪ್‌ಫೇಸ್ ಅನ್ನು ವಿನ್ಯಾಸದ ಕುರಿತಾಗಿ ಬ್ರಾಹ್ಮಿ ಲಿಪಿ ತಜ್ಞರಾದ ಫಿಯೋನಾ ರಾಸ್ ಅವರೊಂದಿಗೆ ಸಮಾಲೋಚನೆಯಲ್ಲಿ ಎರಿನ್ ಮ್ಯಾಕ್‌ಲಾಫ್ಲಿನ್ ಅವರು ವಿನ್ಯಾಸಗೊಳಿಸಿದ್ದಾರೆ. ಈ ಪ್ರಕಾರದ ಕುಟುಂಬವನ್ನು ಕಣ್ಣಿಗೆ ಗೋಚರವಾಗುವ ಗಾತ್ರ ಮತ್ತು ಶೈಲಿ ಎರಡರಲ್ಲೂ Adobe ನ ಇತರ ಬ್ರಾಹ್ಮಿ ಫಾಂಟ್‌ಗಳೊಂದಿಗೆ ಸಮನ್ವಯಗೊಳಿಸುವುದಕ್ಕಾಗಿ, ಈ ಟೈಪ್‌ಫೇಸ್ ಕುಟುಂಬಗಳ ಪ್ರಕಾರವನ್ನು ಒಟ್ಟಾರೆಯಾಗಿ ಸಿಸ್ಟಂ ಆಗಿ ಟೈಪ್‌ಸೆಟ್ ಮಾಡಬಹುದು ಎಂಬುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ. ನಿರ್ದಿಷ್ಟವಾಗಿ ನಿರಂತರವಾದ ಪಠ್ಯ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಒಳಗೊಂಡು ಮುದ್ರಣದ ಔಟ್‌ಪುಟ್‌ಗಳಿಗಾಗಿ ಪ್ರಾಥಮಿಕ ಉದ್ದೇಶಿತ ಬಳಕೆಯು ವಿನ್ಯಾಸದ ನಿರ್ದೇಶನಕ್ಕೆ ಮುನ್ನುಡಿ ಬರೆದಿದೆ.&lt;/p>&#xa;&lt;p>ಅಕ್ಷರದ ನಿರ್ಮಾಣವು ಸಾಂಪ್ರದಾಯಿಕ ಕನ್ನಡ ಪಠ್ಯದ ಇಂಟರ್ಫೇಸ್ ವಿನ್ಯಾಸಗಳ ಮೇಲೆ ಆಧಾರಿತವಾಗಿದ್ದು, ಇದು ಪ್ರಭಾವಶಾಲಿ ಬೇಸೆಲ್ ಮಿಶನ್ ಕನ್ನಡ ಟೈಪ್‌ಫೇಸ್ ಅನ್ನು ಒಳಗೊಂಡಿದ್ದು, ಇದು ಕನ್ನಡಕ್ಕಾಗಿ ಟೈಪ್ ವಿನ್ಯಾಸಗಳಲ್ಲಿ ಸಫಲವಾಗುವುದಕ್ಕಾಗಿ ತೂಕ, ರೂಪ ಮತ್ತು ಪ್ರಮಾಣಗಳಿಗಾಗಿ ಬಲವಾದ ಪೂರ್ವನಿದರ್ಶನಗಳನ್ನು ನಿರ್ಮಿಸುತ್ತದೆ. Adobe ಕನ್ನಡವು ಎಲ್ಲಾ ಚಿಕ್ಕ ಗಾತ್ರಗಳಲ್ಲಿ ಬಲಶಾಲಿ, ಸ್ಪಷ್ಟವಾದ ರೂಪುಗಳನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಲಾಗುವಂತೆ ನಿಯಮಕ್ಕಿಂತ ಬಹುಪಾಲು ಚಿಕ್ಕದಾದ ಕಾಂಟ್ರಾಸ್ಟ್ ವಿತರಣೆಯನ್ನು ಒಳಗೊಂಡಿದೆ. ಆಕಾರಗೊಳಿಸುವಿಕೆಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಎಚ್ಚರಿಕೆಯ ಗಮನ ನೀಡುವಿಕೆ ಮತ್ತು ವಿವರಗಳು ಈ ಟೈಪ್‌ಫೇಸ್‌ಗಳನ್ನು ಚಿಕ್ಕ ಪಠ್ಯದಿಂದ ಹಿಡಿದು ಶೀರ್ಷಿಕೆ ಮತ್ತು ಪ್ರದರ್ಶನ ಗಾತ್ರದ ತನಕ ಟೈಪ್ ಗಾತ್ರಗಳ ವ್ಯಾಪ್ತಿಯಲ್ಲಿ ಬಳಸಲು ಅವಕಾಶ ನೀಡುತ್ತದೆ.&lt;/p>&#xa;&lt;p>Adobe ಕನ್ನಡ ಫಾಂಟ್‌ಗಳು ಅಕ್ಷರ ಎನ್‌ಕೋಡಿಂಗ್‌ಗೆ ಯೂನಿಕೋಡ್ ಪ್ರಮಾಣಿತವನ್ನು ಅನುಸರಿಸುತ್ತದೆ ಮತ್ತು ಸರಿಯಾದ ಲಿಪಿಯ ಆಕಾರವನ್ನು ರೂಪಿಸಲು OpenType ವಿನ್ಯಾಸದ ಪ್ರಯೋಜನ ಪಡೆದುಕೊಳ್ಳುತ್ತದೆ. ಕನ್ನಡ ಪಠ್ಯದ ಹೆಚ್ಚು ನೈಸರ್ಗಿಕ ಆಕಾರವನ್ನು ಒದಗಿಸುವುದಕ್ಕಾಗಿ ಕನ್ನಡ ಸಂಯುಕ್ತಾಕ್ಷರಗಳ ಸಂಪೂರ್ಣ ಗುಂಪನ್ನು ಸೇರಿಸಿಕೊಳ್ಳಲಾಗಿದೆ. ವಿನ್ಯಾಸಗಾರರು ಎಲ್ಲಾ ಸ್ವರಗಳು ಮತ್ತು ವಿಶೇಷಣಗಳ ಅಚ್ಚುಮೊಳೆಯ ಭಾಗವನ್ನು ಒದಗಿಸಿದ್ದಾರೆ. ಫಾಂಟ್‌ಗಳು ಪ್ರಮಾಣಾನುಗುಣವಾದ ಕನ್ನಡ ಸಂಖ್ಯೆಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.&lt;/p>&#xa;&lt;p>&lt;strong>Menu Names And Style Linking&lt;/strong>&lt;/p>&#xa;&lt;p>In many Windows&lt;sup>®&lt;/sup>&amp;nbsp;applications, instead of every font appearing on the menu, fonts are grouped into style-linked sets, and only the name of the base style font for a set is shown in the menu. The italic and the bold weight fonts of the set (if any) are not shown in the font menu, but can still be accessed by selecting the base style font, and then using the italic and bold style buttons. In this family, such programs will show only the following base style font name in the menu:&lt;/p>&#xa;&lt;p>Adobe Kannada&lt;br>&#xa;&lt;/p>&#xa;&lt;p>To access the bold style, use the bold style button.&lt;/p>&#xa;&lt;p>On the Mac OS operating system, although each font appears as a separate entry on the font menu, users may also select fonts by means of style links. Selecting a base style font and then using the style links (as described above for Windows applications) enhances cross-platform document compatibility with many applications, such as Microsoft Word and Adobe PageMaker&amp;nbsp;software, although it is unnecessary with more sophisticated Adobe applications such as recent versions of Illustrator, Photoshop&amp;nbsp;or InDesign&amp;nbsp;software.&lt;/p>&#xa;&lt;p>One should not, however, select a base font which has no style-linked variant, and then use the bold or italic styling button. Doing so will either have no effect, or result in programmatic bolding or slanting of the base font, which will usually produce inferior screen and print results.&lt;/p>&#xa;"/>
+            <text_0_84bc24a4-919c-443a-8a8f-5cd945954f9c
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>For all fonts of family Adobe Kannada: version 1.055 created on Mon Apr 06 16:41:31 2015.&lt;/p>&#xa;&lt;p>version 1.055 created 2015/04/06&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>First release.&lt;/li>&#xa;&lt;/ul>&#xa;"/>
+            <text_1_10f53402-c0d3-4cd5-bfda-2749f42305b6
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>Some glyphs in the font cannot be accessed unless you are using an OpenType compatible application.&lt;/p>&#xa;"/>
+            <text_2_72127d2a-b7f0-4c9f-a691-bb21a8262100
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>If you require technical assistance, please email us at &lt;a href=&quot;mailto:type-questions@adobe.com&quot;>type-questions@adobe.com&lt;/a>. Font specific resources can also be found on the&amp;nbsp;&lt;a href=&quot;http://forums.adobe.com/community/typography_fonts&quot;>Adobe Type user-to-user forums&lt;/a>.&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"/>
+        </contentbody>
+    </jcr:content>
+</jcr:root>

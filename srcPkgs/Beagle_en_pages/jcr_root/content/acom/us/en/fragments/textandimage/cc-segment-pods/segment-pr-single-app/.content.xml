@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2018-09-17T16:26:35.579Z"
+        cq:lastModifiedBy="derjones"
+        cq:lastReplicated="{Date}2018-09-17T16:26:42.949Z"
+        cq:lastReplicatedBy="derjones"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fragmentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Premiere Single App"
+        jcr:uuid="0fb4da42-c5f6-4c94-8a6c-40a015c17cce"
+        sling:resourceType="beagle/components/fragmentpage"
+        hideInNav="{Boolean}true"
+        stagelastReplicated="16-May-2019 05:01"
+        stagelastReplicatedBy="golee"
+        stageLastReplicationAction="ActivatedtoStage">
+        <textandimage
+            jcr:lastModified="{Date}2018-09-17T16:26:35.575Z"
+            jcr:lastModifiedBy="derjones"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/textandimage"
+            align="right"
+            basicLayout="2;grid-cols-6;grid-cols-6;"
+            grid0="12"
+            grid1="0"
+            layout="2;grid-cols-12 grid-offset-1      ;grid-cols-0 grid-offset--1      ;"
+            layoutType="advanceLayout"
+            modalsize="426x240"
+            offset0="1"
+            offset1="-1"
+            section="v"
+            target="_self"
+            text="&lt;div class=&quot;text-0-block&quot; style=&quot;text-align: center;&quot;>&lt;i class=&quot;adobe-icon-color-segment-icon-pr-app-grey&quot;>&lt;/i>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;strong>Adobe Premiere Pro&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>Includes our new app, Premiere Rush, plus 100GB of cloud storage, Adobe Fonts, and Adobe Portfolio.&lt;br>&#xa;US$20.99/mo.&lt;br>&#xa;&lt;a href=&quot;/content/acom/us/en/products/premiere.html&quot;>Learn more ›&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;"
+            textIsRich="true">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    type="free"/>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2018-09-17T16:26:35.575Z"
+                jcr:lastModifiedBy="derjones"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="null"
+                imageRotate="0"/>
+        </textandimage>
+    </jcr:content>
+</jcr:root>

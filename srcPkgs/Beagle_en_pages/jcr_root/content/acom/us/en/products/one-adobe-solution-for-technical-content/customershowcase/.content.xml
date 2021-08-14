@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/etc/designs/showcase"
+        cq:lastModified="{Date}2019-06-18T10:27:13.068Z"
+        cq:lastModifiedBy="21n57074"
+        cq:lastReplicated="{Date}2020-11-06T04:09:53.011Z"
+        cq:lastReplicatedBy="21n83853"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/showcaselandingpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Customer Showcase"
+        jcr:uuid="c0abd0f7-9389-4b39-8fa1-b509fc0ece61"
+        sling:resourceType="beagle/components/showcaselandingpage"
+        browserTitle="One Adobe Solution For Technical Content - Customer showcase"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        landingType="showcase"
+        metaDescription="Hear it from across industries - how Adobe's technical communication solutions have helped enterprises create and deliver content faster, at a much lower TCO"
+        tagsKeywords="adobe technical communication, adobe success stories, adobe customer showcase, adobe technical communication success stories"
+        useH1Tags="pageTitle">
+        <cardlanding
+            jcr:lastModified="{Date}2019-06-18T10:27:13.060Z"
+            jcr:lastModifiedBy="21n57074"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/cardlanding"
+            clearText="Clear filters"
+            featuredTitle="Featured stories"
+            filterLogic="or"
+            hideText="Close"
+            noResponseMsg="No results matched your search options. Please search by product name, industry or use case and try again."
+            page="Page"
+            pageNext="Next"
+            pagePrev="Prev"
+            searchPlaceHolder="Search case studies by products, industries or use cases "
+            serverErrorMsg="We’re sorry, but a system error occurred. Please try again."
+            showText="Filters"
+            sortByDate="Date"
+            sortByName="Name"
+            tagCategoriesBottom="[filters:tcs-in]"
+            tagCategoriesTop="[filters:tcs-cs]">
+            <filterConfigItems
+                jcr:primaryType="nt:unstructured"
+                sort_mdv="[0,1,2]">
+                <_x0030_
+                    jcr:primaryType="nt:unstructured"
+                    categoryTitleOverride="Products"
+                    filterOptionsSrc="/content/cq:tags/filters/tcs-cs"/>
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    categoryTitleOverride="Industries"
+                    filterOptionsSrc="/content/cq:tags/filters/tcs-in"/>
+                <_x0032_
+                    jcr:primaryType="nt:unstructured"
+                    categoryTitleOverride="Use Cases"
+                    filterOptionsSrc="/content/cq:tags/filters/tcs-uc"/>
+            </filterConfigItems>
+        </cardlanding>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+    <schneider-electric-case-study/>
+    <ibm-case-study/>
+    <all-nippon-airways-case-study/>
+    <yamaha-case-study/>
+    <roche-diagnostics-case-study/>
+    <alstom-case-study/>
+    <larcier-group-case-study/>
+    <iar-systems-case-study/>
+    <yamagata-case-study/>
+    <hacon-case-study/>
+    <major-medical-device-case-study/>
+    <europe-airpost-case-study/>
+    <iconlogic-case-study/>
+    <marcia-riefer-johnston-case-study/>
+    <idbs-case-study/>
+    <fdm-software-case-study/>
+    <tss-software-corp-case-study/>
+    <jcdecaux-case-study/>
+    <afnor-case-study/>
+    <rockley-group-case-study/>
+    <novell-case-study/>
+    <algonquin-college-case-study/>
+    <tanner-corporate-services-case-study/>
+    <altera-case-study/>
+    <hyland-case-study/>
+    <misys-case-study/>
+    <airlinecert-case-study/>
+    <readsoft-case-study/>
+    <foodshield-case-study/>
+    <optionmonster-case-study/>
+    <divx-inc-case-study/>
+    <otto-bihler-case-study/>
+    <harris-case-study/>
+    <mitel-case-study/>
+    <actifio-case-study/>
+    <distech-controls-case-study/>
+    <logopak-zindel-case-study/>
+    <nivus-case-study/>
+    <ciena-case-study/>
+    <palo-alto-case-study/>
+    <homag-case-study/>
+    <adobe_xml_case_study/>
+    <briggs-stratton-case-study/>
+    <empowered-case-study/>
+    <mitel_case_study/>
+    <comviva_case_study/>
+</jcr:root>

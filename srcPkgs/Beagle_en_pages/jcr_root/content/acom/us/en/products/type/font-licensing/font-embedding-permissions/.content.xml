@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-09-01T05:23:41.976Z"
+        cq:lastModifiedBy="rbedi"
+        cq:lastReplicated="{Date}2016-09-01T05:23:52.294Z"
+        cq:lastReplicatedBy="rbedi"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Font Embedding Permissions"
+        jcr:uuid="a7ffb761-8c40-4032-9e52-bf3cb57f275f"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Font embedding permissions | Adobe Type"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="light"
+        hideInSectionNav="true"
+        languageDirection="ltr"
+        metaDescription="Information about permissions for all fonts in the Adobe Type."
+        pageTitle="Font Embedding Permissions"
+        seodescription=""
+        tagsKeywords="font embedding">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_126b
+                jcr:lastModified="{Date}2016-08-02T23:27:27.910-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-02T23:27:27.910-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_126b>
+            <text_c7c8
+                jcr:created="{Date}2016-08-03T09:36:08.162-07:00"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-08-03T09:36:24.080-07:00"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>All fonts in the Adobe Type Library can be embedded in Adobe Portable Document Format (PDF) files, as well as other types of electronic documents. Many can also be modified for internal use. To view a list of the specific permissions for all fonts in the Adobe Type Library refer to the &lt;a href=&quot;http://www.adobe.com/products/type/font-licensing/additional-license-rights.html&quot;>Additional License Rights&lt;/a> page.&lt;/span>&lt;/div>&#xa;&lt;h3>&amp;nbsp;&lt;/h3>&#xa;"
+                textIsRich="true"/>
+            <text_f3efaf77-e911-491f-88b6-b229d4198e0e
+                jcr:lastModified="{Date}2016-08-03T22:51:02.156-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&lt;span class=&quot;text-light&quot;>Digital Publishing Suite / Font Embedding&lt;/span>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Licensed users of the Adobe Digital Publishing Suite enjoy extended embedding rights for a select portion of the Adobe Type Library. If you have directly licensed from Adobe any of the 800+ Adobe fonts listed on&amp;nbsp;the &lt;a href=&quot;http://www.adobe.com/products/type/font-licensing/additional-license-rights.html&quot;>Additional License Rights&lt;/a> page that are identified as &amp;quot;available for licensed DPS users&amp;quot;, then you may embed copies of the font software into your DPS content without any additional license extensions or per-use costs. These extended embedding rights are limited to distribution of such embedded fonts solely as part of your content distributed in Adobe's proprietary file format for DPS (&amp;quot;.folio file&amp;quot;) that is made available to end users for viewing purposes only as part of the Customer Viewer.&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <anchor_56a7
+                jcr:created="{Date}2016-08-02T23:52:00.952-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-02T23:52:18.058-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/anchor"
+                anchorName="font-embedding"/>
+            <text_4e02
+                jcr:created="{Date}2016-08-02T23:48:47.650-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-02T23:51:51.693-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&lt;span class=&quot;text-light&quot;>Font Embedding&lt;/span>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>OpenType® fonts contain information in the actual font file that reinforces what is specified in the Adobe end user license agreement (EULA) and governs how these fonts may be embedded in electronic documents. According to the OpenType specification, four possible permission settings can be included in an OpenType font (from most restrictive to least restrictive).&lt;/span>&lt;/div>&#xa;"/>
+            <anchor_a9db
+                jcr:created="{Date}2016-08-02T23:53:32.223-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-02T23:53:46.401-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/anchor"
+                anchorName="no-embedding"/>
+            <text_67f3
+                jcr:created="{Date}2016-08-02T23:49:00.806-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-02T23:55:08.796-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&lt;span class=&quot;text-light&quot;>No Embedding&lt;/span>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>This permission signals that the font or any portion of the font may not be embedded in any electronic document.While there are no fonts in the Adobe Type Library with this permission, some third-party font foundries may set their fonts to “no embedding” or prohibit embedding through their end user license agreement.&lt;/span>&lt;/div>&#xa;"/>
+            <anchor_30c9
+                jcr:created="{Date}2016-08-02T23:56:43.842-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-02T23:57:05.363-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/anchor"
+                anchorName="preview-print"/>
+            <text_e456
+                jcr:created="{Date}2016-08-02T23:49:05.998-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-02T23:56:37.416-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&lt;span class=&quot;text-light&quot;>Preview &amp;amp; Print&lt;/span>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>A font with an embedding permission of Preview &amp;amp; Print allows the font, either fully or as a subset, to be embedded in an electronic document solely for the purpose of viewing that document on screen and/or printing that document. While a font with a Preview &amp;amp; Print embedding permission (either through data in the font file or the font’s license agreement) may be embedded in an electronic document, the embedded font may not be used to further edit the document it is contained in or to edit or create other documents. Most fonts in the Adobe Type Library are set for Preview &amp;amp; Print embedding.&lt;/span>&lt;/div>&#xa;"/>
+            <anchor_89eb
+                jcr:created="{Date}2016-08-02T23:58:17.115-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-02T23:58:31.262-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/anchor"
+                anchorName="editable"/>
+            <text_9b2f
+                jcr:created="{Date}2016-08-02T23:57:14.743-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-02T23:58:04.618-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&lt;span class=&quot;text-light&quot;>Editable&lt;/span>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Fonts with an editable embedding permission can be embedded in electronic documents, and the embedded font can then be used by the recipient of the electronic document to view, print and further edit or modify the text and structure of the document in which it is embedded. These changes or edits can then be saved in the original document. Several fonts in the Adobe Type Library, including all&amp;nbsp;Adobe Originals typefaces, other Adobe-owned typefaces and certain third-party font foundry typefaces, allow for editable embedding.&lt;/span>&lt;/div>&#xa;"/>
+            <anchor_5bf2
+                jcr:created="{Date}2016-08-02T23:59:44.143-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-02T23:59:58.375-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/anchor"
+                anchorName="installable"/>
+            <text_2307
+                jcr:created="{Date}2016-08-02T23:57:20.317-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-03T00:01:57.942-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&lt;span class=&quot;text-light&quot;>Installable&lt;/span>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Fonts with an installable embedding permission may be embedded in electronic documents for viewing, printing and editing, with the added capability that they may be also be permanently installed on the computer that receives the electronic document containing the embedded font. This allows the font to be used to create and author new documents. It is intended that the recipient of a font set to installable embedding obtains all of the same rights as the person who originally licensed the font.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Please note that different font creators or third-party foundries may grant different embedding permissions, either in the font or through their end user license agreement, even though Adobe Acrobat may be technically able to embed either the entire font or a subset of that font. To determine whether a given font can legally be embedded in a PDF document or other file, you should contact the licensor from whom you obtained your license rights to use the font software. Click here for information on&amp;nbsp;how to determine third-party font licensors.&lt;/span>&lt;/div>&#xa;"/>
+            <anchor_8e95
+                jcr:created="{Date}2016-08-03T00:04:10.442-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-03T00:04:31.959-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/anchor"
+                anchorName="font-modification"/>
+            <text_3217
+                jcr:created="{Date}2016-08-03T00:02:46.549-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-03T00:03:18.497-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&lt;span class=&quot;text-light&quot;>Font Modification&lt;/span>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Many, but not all, Adobe fonts in the Adobe Type Library can be modified with some restrictions.&amp;nbsp;To view a list of the specific permissions for all fonts in the Adobe Type Library refer to the&amp;nbsp;Additional License Rights&amp;nbsp;page. If the font software you wish to modify is identified as &amp;quot;licensed for modification&amp;quot; you may also modify the font software, provided that such modified software is used only for your own customary internal business or personal use and will not be distributed or transferred for any purpose, except in accordance with the End User License Agreement that came with the font software.&lt;/span>&lt;/div>&#xa;"/>
+            <anchor_b186
+                jcr:created="{Date}2016-08-03T00:04:15.271-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-03T00:04:45.098-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/anchor"
+                anchorName="open-source"/>
+            <text_769a
+                jcr:created="{Date}2016-08-03T00:00:20.722-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-03T00:00:51.023-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&lt;span class=&quot;text-light&quot;>Open Source&lt;/span>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Many Open-Source licenses, like the SIL Open Font License, grant very liberal rights for the use, study, modification and redistribution of fonts. For example, the SIL Open Font License (SIL OFL) provides the licensed fonts, including any derivative works, may be bundled, embedded, redistributed and/or sold with any software provided no reserved font names are used to name derivative versions without explicit written permission from the font copyright holder.&amp;nbsp; While not sold, fonts and derivatives may be distributed by itself for free as long as released under the same SIL OFL license terms (the requirement for fonts to remain under the SIL OFL license do not apply to any document created using the fonts or their derivatives). Please be sure to carefully read the license terms for any open-source fonts you use.&amp;nbsp; All open source fonts from Adobe are listed on the&amp;nbsp;Additional License Rights&amp;nbsp;page.&lt;/span>&lt;/div>&#xa;"/>
+            <end_14544550461840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_126b"/>
+            <column_faa5
+                jcr:created="{Date}2016-08-03T01:53:35.980-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-03T05:37:33.496-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-03T05:37:33.496-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_faa5>
+            <horizontalrule_70c
+                jcr:created="{Date}2016-08-03T05:37:53.157-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-03T05:37:53.157-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_bef7
+                jcr:created="{Date}2016-08-03T01:54:30.867-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-03T01:54:58.695-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-03T01:54:58.695-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_bef7>
+            <text_10c3
+                jcr:created="{Date}2016-08-03T01:55:25.348-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-03T01:55:25.348-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Learning&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers.html&quot;>Adobe Type Designers&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-team.html&quot;>Adobe Type Team&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-specimens.html&quot;>Type specimens&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-references-tips.html&quot;>Type reference materials&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-originals.html&quot;>Adobe Originals&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/opentype.html&quot;>OpenType&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14702144987150
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_bef7"/>
+            <text_960f
+                jcr:created="{Date}2016-08-03T01:55:27.945-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-03T01:55:27.945-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Resources&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blog.typekit.com/&quot;>Type &amp;amp; Typekit blog&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blogs.adobe.com/CCJKType/&quot;>CJK Type blog (Asian fonts)&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype.html&quot;>Developer information&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype/afdko.html&quot;>Font Development Kit&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/install-instructions.html&quot;>Font installation instructions&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14702144987161
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_bef7"/>
+            <text_668b
+                jcr:created="{Date}2016-09-01T05:23:33.910Z"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-09-01T05:23:33.910Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Help&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing Center&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/creative-cloud-fonts.html&quot;>CC Bundled Fonts&amp;nbsp;FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://typekit.com/help&quot;>Web Font FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/products/fontfolio/faq.html&quot;>Font Folio FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://forums.adobe.com/community/typography_fonts&quot;>Adobe Type user forums&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14702144708780
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_bef7"/>
+            <end_14702144159880
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_faa5"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2016-08-23T00:09:45.112-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2016-08-23T00:09:45.112-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+    </jcr:content>
+</jcr:root>

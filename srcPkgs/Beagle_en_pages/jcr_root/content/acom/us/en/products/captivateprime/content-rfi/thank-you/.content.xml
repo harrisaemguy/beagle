@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-02-05T06:19:21.933Z"
+        cq:lastModifiedBy="nedas"
+        cq:lastReplicated="{Date}2019-02-07T08:36:52.978Z"
+        cq:lastReplicatedBy="nedas"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="THANK YOU"
+        jcr:uuid="d49157d9-5e49-4f03-9ed2-7a459bd86eaf"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        applauncherTheme="light"
+        billingFrequency="ANNUAL"
+        browserTitle="Adobe | Thank You"
+        channel="adobe.com"
+        commitment="YEAR"
+        distType="dist5"
+        enableCCRedirect="NA"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        hideInSectionNav="true"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        marketSegmentRewrite="COM"
+        metaDescription="Thank you for your interest in Adobe. Your request has been submitted to an Adobe representative who will contact you shortly."
+        modalSize="426x240"
+        modelCode="INDIVIDUAL"
+        pageTitle="Adobe | Thank You"
+        pricePoint="REGULAR"
+        stagelastReplicated="15-Dec-2020 07:21"
+        stagelastReplicatedBy="bgupta"
+        stageLastReplicationAction="ActivatedtoStage"
+        topPadding="Default (Top Padding - 7 rem)"
+        useH1Tags="pageTitle">
+        <promobar jcr:primaryType="nt:unstructured">
+            <promo
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/promo">
+                <free
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"/>
+                <paid
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"/>
+            </promo>
+        </promobar>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2019-02-04T18:37:51.736Z"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2019-02-04T18:37:51.736Z"
+                    jcr:lastModifiedBy="ankshukl"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_2765
+                jcr:created="{Date}2019-02-04T18:38:07.735Z"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2019-02-04T18:40:38.245Z"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="6"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2019-02-04T18:40:38.245Z"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_2765>
+            <text_c6ea
+                jcr:created="{Date}2019-02-04T18:38:32.589Z"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2019-02-05T06:19:21.929Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Thank you for your interest in Adobe Creative Cloud Training Courses.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Your request has been submitted. An Adobe representative will contact you shortly.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>Interested in other content courses?&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Kindly browse our &lt;a href=&quot;/content/acom/us/en/products/captivateprime/content-catalog.html?sdid=X-CC-RFI&quot; target=&quot;_blank&quot;>Content Catalog&lt;/a> page.&lt;/span>&lt;/div>&#xa;"/>
+            <end_15493054877400
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_2765"/>
+        </contentbody>
+    </jcr:content>
+</jcr:root>

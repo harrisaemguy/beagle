@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content/>
+    <teams-promo-bak/>
+    <teams_original/>
+    <enterprise/>
+    <teams/>
+    <teams1/>
+    <enterprise-plan/>
+    <test-space-text/>
+    <switch/>
+    <enterprise2/>
+    <enterprise3/>
+    <teams-test/>
+    <compare-plans/>
+</jcr:root>

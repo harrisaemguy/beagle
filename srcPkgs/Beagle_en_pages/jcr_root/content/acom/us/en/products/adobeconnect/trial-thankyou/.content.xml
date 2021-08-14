@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <rep:policy/>
+    <jcr:content
+        cq:lastModified="{Date}2020-07-27T11:40:58.636Z"
+        cq:lastModifiedBy="nedas"
+        cq:lastReplicated="{Date}2020-09-01T08:35:41.187Z"
+        cq:lastReplicatedBy="bgupta"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Adobe Connect: you’re all set"
+        jcr:uuid="2c755b41-a160-480e-9714-9fb87d986f0f"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        applauncherTheme="light"
+        bodyClass="whiteBackground"
+        browserTitle="Adobe Connect"
+        disableFloatingNav="true"
+        disableGeoRouting="true"
+        distType="dist5"
+        enableCCRedirect="NA"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideInBreadcrumb="true"
+        hideInSectionNav="true"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        marketSegmentRewrite="COM"
+        marqueeStyle="newMarquee"
+        metaDescription=" "
+        modalSize="426x240"
+        navTitle="Adobe Connect"
+        noIndex="true"
+        product="adobe--icon-only-"
+        stagelastReplicated="31-Aug-2020 13:31"
+        stagelastReplicatedBy="nedas"
+        stageLastReplicationAction="ActivatedtoStage"
+        useH1Tags="pageTitle">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2020-07-27T10:50:11.941Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2020-07-27T10:50:11.941Z"
+                    jcr:lastModifiedBy="nedas"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_a25f
+                jcr:created="{Date}2015-08-31T20:55:01.344Z"
+                jcr:createdBy="golee"
+                jcr:lastModified="{Date}2020-07-25T14:06:38.605Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="9"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-07-25T14:06:38.605Z"
+                        jcr:lastModifiedBy="nedas"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_a25f>
+            <text_5501
+                jcr:created="{Date}2015-08-31T20:52:56.786Z"
+                jcr:createdBy="golee"
+                jcr:lastModified="{Date}2020-07-27T11:34:37.998Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&lt;strong>You're all set.&lt;/strong>&lt;/h3>&#xa;&lt;h6>&amp;nbsp;&lt;/h6>&#xa;&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Here's what to do next&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_ea50
+                jcr:created="{Date}2015-08-31T21:00:12.335Z"
+                jcr:createdBy="golee"
+                jcr:lastModified="{Date}2020-07-27T11:36:25.866Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Check your email inbox for your account login information (don't forget to check your spam folder)&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <horizontalrule_eecd
+                jcr:created="{Date}2015-08-31T21:00:27.472Z"
+                jcr:createdBy="golee"
+                jcr:lastModified="{Date}2015-08-31T21:00:27.472Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_30fa
+                jcr:created="{Date}2015-08-31T21:00:34.099Z"
+                jcr:createdBy="golee"
+                jcr:lastModified="{Date}2020-07-27T11:40:58.631Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>For tutorials, active forums and more&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;a target=&quot;_blank&quot; href=&quot;http://www.connectusers.com/learning_center/getting_started/&quot;>Visit the Adobe Connect&lt;/a>&amp;nbsp;&lt;a href=&quot;http://www.connectusers.com/learning_center/getting_started/&quot; target=&quot;_blank&quot;>User's Community&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <end_14410545013530
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_a25f"/>
+            <column_2cb6
+                jcr:created="{Date}2020-03-27T15:11:29.955Z"
+                jcr:createdBy="21n33435"
+                jcr:lastModified="{Date}2020-07-25T14:04:46.174Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor="background-color:#131031;color:#FFFFFF"
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="1"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t1x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-07-25T14:04:46.174Z"
+                        jcr:lastModifiedBy="nedas"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_2cb6>
+            <text_8336
+                jcr:created="{Date}2020-03-27T15:16:41.007Z"
+                jcr:createdBy="21n33435"
+                jcr:lastModified="{Date}2020-03-27T16:42:04.682Z"
+                jcr:lastModifiedBy="21n33435"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Adobe Connect for Covid19 –&lt;a href=&quot;https://www.adobe.com/products/adobeconnect/covid19-helpcenter.html&quot; target=&quot;_blank&quot;>&amp;nbsp;Help Center&lt;/a>&lt;/strong>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_15853218899600
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_2cb6"/>
+            <column_eb06
+                jcr:created="{Date}2020-03-27T15:17:24.119Z"
+                jcr:createdBy="21n33435"
+                jcr:lastModified="{Date}2020-07-25T14:07:04.424Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="7"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v7x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-07-25T14:07:04.424Z"
+                        jcr:lastModifiedBy="nedas"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_eb06>
+            <text_f880
+                jcr:created="{Date}2020-02-27T06:34:54.475Z"
+                jcr:createdBy="nedas"
+                jcr:lastModified="{Date}2020-07-26T16:52:17.350Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Looking for an LMS?&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Deliver modern learning experiences with Adobe Captivate Prime&lt;/span>&lt;/div>&#xa;"/>
+            <standalonecta_4318
+                jcr:created="{Date}2020-02-27T06:36:05.043Z"
+                jcr:createdBy="nedas"
+                jcr:lastModified="{Date}2020-05-17T15:06:49.700Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/standalonecta"
+                ctabuttonalign="text-center"
+                ctabuttoncolor="merchpod-cta-button"
+                ctaType="{Boolean}true"
+                link="https://captivateprime.adobe.com/loginpost?workflowId=1&amp;s_qp_request_origin=prime&amp;sdid=BWBX33DH&amp;mv=other"
+                linkText="Create your free 30-day trial access today"
+                target="_self"/>
+            <end_15853222441250
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_eb06"/>
+            <image_e895
+                jcr:created="{Date}2020-07-25T14:00:59.262Z"
+                jcr:createdBy="nedas"
+                jcr:lastModified="{Date}2020-07-26T16:21:30.501Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Trial Thank you Footer"
+                fileReference="/content/dam/acom/en/products/adobeconnect/2020launch/connect_green_pattern_footer.jpg"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-07-25T14:01:40.875Z"
+                    jcr:lastModifiedBy="nedas"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_e895>
+        </contentbody>
+        <tophero
+            jcr:lastModified="{Date}2020-07-25T14:00:25.612Z"
+            jcr:lastModifiedBy="nedas"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            height="hero2-size-5">
+            <image
+                jcr:lastModified="{Date}2020-07-25T14:00:25.612Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Trial-thankyou"
+                fileReference="/content/dam/acom/en/products/adobeconnect/2020launch/connect_green_pattern.jpg"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </tophero>
+    </jcr:content>
+</jcr:root>

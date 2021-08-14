@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-09-01T07:21:31.093Z"
+        cq:lastModifiedBy="dvirmani"
+        cq:lastReplicated="{Date}2016-09-01T07:26:33.506Z"
+        cq:lastReplicatedBy="dvirmani"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Tim Holloway"
+        jcr:uuid="cf3b7c6a-7a00-476d-acda-9192ed37f97f"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Tim Holloway | Font type designer on Adobe"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="light"
+        languageDirection="ltr"
+        marqueeStyle="newMarquee"
+        metaDescription="Showcase typeface fonts designed by Tim Holloway at Adobe. Check out profile and see designer's font collection."
+        pageTitle="Tim Holloway"
+        seodescription="Meet Tim Holloway, designer who created many of Adobe Font types. ">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_126b
+                jcr:lastModified="{Date}2016-07-28T00:07:28.716-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                layout="1;grid-cols-10 grid-offset-3;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-07-28T00:07:28.716-07:00"
+                        jcr:lastModifiedBy="ashahab"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_126b>
+            <text_0_d25582d8-3059-4233-8ebe-30f01ca5029a
+                jcr:lastModified="{Date}2016-08-16T02:30:44.457-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h2>&amp;nbsp;&lt;/h2>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>After graduating in 1974, Tim Holloway trained in type drawing with the Linotype group and joined Walter Tracy at the London-based company, which was busy supplying the Middle East newspaper market. There he became intrigued by the 'simplified Arabic' issue and the emerging possibilities for adapting calligraphic styles to computer typesetting, in particular the diagonal-joining Arabic ruqah and Urdu nastaliq styles. Tim ventured into freelance work, assisting Matthew Carter with Greek fonts and drawing up logos and corporate alphabets for various design groups. In Lausanne he met the Lebanese typefounder Georges Dib under whose guidance he extended Dib's traditional naskh type for BobstGraphic and attempted a simplified version. Following a collaboration with Fiona Ross on Bengali he was invited to contribute to the development of Linotype's Urdu nastaliq fonts and system. The design of 'Sheeraz' (1986-7) was followed by the more complex 'Qalmi' (1994), involving expert help from a Pakistani calligrapher and an Indian software engineeer. Continuing study of historical calligraphic material resulted in a traditional naskh, 'Karim' (Postscript 1993; OpenType 2005) and the experimental design 'Markazi' (ATypI award 2001). An associate designer of Tiro Typeworks, he has collaborated with John Hudson and Fiona Ross on a number of projects including 'Adobe Arabic' (TDC award 2006), 'Adobe Thai' and recently, for Dalton Maag, 'Vodafone Hindi' (TDC award 2008).&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <column_6dd2
+                jcr:created="{Date}2016-07-28T00:11:36.991-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-07-28T00:12:17.722-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10;"
+                bgColor=" "
+                layout="1;grid-cols-10;"
+                layoutMode="structured"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-07-28T00:12:17.722-07:00"
+                        jcr:lastModifiedBy="ashahab"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_6dd2>
+            <text_451b
+                jcr:created="{Date}2016-07-28T00:12:26.343-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-19T03:45:45.827-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>Font families available from Adobe&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <image_0_996d2888-11c2-4178-b0d2-de1a014370f7
+                jcr:lastModified="{Date}2016-08-19T03:46:03.146-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Adobe Arabic"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/adobe-arabic.png"
+                link="http://www.adobe.com/products/type/fonts-by-adobe.html"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-08-19T03:46:03.146-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_0_996d2888-11c2-4178-b0d2-de1a014370f7>
+            <image_1_5cffaa37-9879-453e-bcbf-59a021cbb411
+                jcr:lastModified="{Date}2016-08-19T03:46:35.077-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Adobe Devanagari"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/adobe-devanagari.png"
+                link="http://www.adobe.com/products/type/fonts-by-adobe.html"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-08-19T03:46:35.077-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_1_5cffaa37-9879-453e-bcbf-59a021cbb411>
+            <end_14696898969980
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_6dd2"/>
+            <end_14544550461840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_126b"/>
+            <column_4bcd
+                jcr:created="{Date}2016-07-28T00:14:43.915-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-03T05:20:12.000-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                section="v"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-03T05:20:12.000-07:00"
+                        jcr:lastModifiedBy="ashahab"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_4bcd>
+            <horizontalrule_266c
+                jcr:created="{Date}2016-07-28T00:14:34.898-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-07-28T00:14:34.898-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_533c
+                jcr:created="{Date}2016-07-28T00:15:32.929-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-07-28T00:15:52.551-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-07-28T00:15:52.551-07:00"
+                        jcr:lastModifiedBy="ashahab"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_533c>
+            <text_81f9
+                jcr:created="{Date}2016-07-28T00:18:02.738-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-07-28T00:18:02.738-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Learning&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers.html&quot;>Adobe Type Designers&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-team.html&quot;>Adobe Type Team&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-specimens.html&quot;>Type specimens&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-references-tips.html&quot;>Type reference materials&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-originals.html&quot;>Adobe Originals&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/opentype.html&quot;>OpenType&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14696901525630
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_533c"/>
+            <text_8a32
+                jcr:created="{Date}2016-07-28T00:18:20.348-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-07-28T00:18:20.348-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Resources&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blog.typekit.com/&quot;>Type &amp;amp; Typekit blog&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blogs.adobe.com/CCJKType/&quot;>CJK Type blog (Asian fonts)&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype.html&quot;>Developer information&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype/afdko.html&quot;>Font Development Kit&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/install-instructions.html&quot;>Font installation instructions&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14696901525641
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_533c"/>
+            <text_f837
+                jcr:created="{Date}2016-07-28T00:19:03.582-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-09-01T07:21:31.082Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Help&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing Center&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/creative-cloud-fonts.html&quot;>CC Bundled Fonts&amp;nbsp;FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://typekit.com/help&quot;>Web Font FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/products/fontfolio/faq.html&quot;>Font Folio FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://forums.adobe.com/community/typography_fonts&quot;>Adobe Type user forums&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <end_14696901329380
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_533c"/>
+            <end_14696900839230
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_4bcd"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2016-08-22T23:14:53.079-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2016-08-22T23:14:53.079-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+    </jcr:content>
+</jcr:root>

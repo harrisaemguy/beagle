@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-09-01T07:14:07.119Z"
+        cq:lastModifiedBy="dvirmani"
+        cq:lastReplicated="{Date}2016-09-01T07:28:36.517Z"
+        cq:lastReplicatedBy="dvirmani"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Min Wang"
+        jcr:uuid="7862640f-7f09-4f08-9732-39440aac4ff9"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Min Wang | Font type designer on Adobe"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="light"
+        languageDirection="ltr"
+        marqueeStyle="newMarquee"
+        metaDescription="Showcase typeface fonts designed by Min Wang at Adobe. Check out profile and see designer's font collection."
+        pageTitle="Min Wang"
+        seodescription="Meet Min Wang, designer who created many of Adobe Font types. ">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_126b
+                jcr:lastModified="{Date}2016-07-27T05:23:57.880-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                layout="1;grid-cols-10 grid-offset-3;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-07-27T05:23:57.880-07:00"
+                        jcr:lastModifiedBy="ashahab"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_126b>
+            <image_3e271ec4-3879-4cc2-ac77-a67c9325aaf3
+                jcr:lastModified="{Date}2016-07-27T05:24:37.471-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="min"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/min-wang.jpg"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-07-27T05:24:37.471-07:00"
+                    jcr:lastModifiedBy="ashahab"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_3e271ec4-3879-4cc2-ac77-a67c9325aaf3>
+            <text_0_7601db48-09a5-49fe-953f-eb447b518c52
+                jcr:lastModified="{Date}2016-08-16T01:44:54.972-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h2 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h2>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Min Wang is Chair Professor at School of Design, Hong Kong Polytechnic University, one of the top design schools in the world. Professor Min Wang has been the Dean of School of Design at China Central Academy of Fine Arts (CAFA). The Academy is the most prestigious and influential art school in China. Min Wang has been appointed by the Ministry of Education as Chang Jiang Scholars Chair Professor in 2007 and he is member of AGI (Alliance Graphique Internationale) and President of AGI China Chapter.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Min Wang was the Design Director for Beijing 2008 Olympic Games Committee from 2006 to 2008, responsible for the design of the Look of the Games.&amp;nbsp; He has been also the Director of Art Research Center for Olympic Games (ARCOG) at CAFA since 2004. Under his leadership, the Center had created the medal, the pictogram, the color system, the image and identity guidelines, etc. for the 2008 Beijing Olympic Games.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Min was elected and served as the Vice President (07-09) of ICOGRADA (the International Council of Graphic Design Associations, the world body for professional communication design).&amp;nbsp; He was the key person for organizing the ICOGRADA World Design Congress 2009 in Beijing.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Min has been the Design Director at Square Two Design. Min joined Square Two in 1998 after serving 8 years as Design Manager, Senior Art Director, Graphic Designer at Adobe Systems. Min Wang received MFA from Yale University School of Art in 1988 and he had been a visiting fellow in Germany at Akademe der Bildenden Kunste, Munich and Hochschule der Kunste, Berlin. In 1989, he began lecturing in graphic design at Yale University School of Art, teaching graduate students until 1997. Min’s work has been exhibited internationally and in the collection of Museum für Kunst und Gewerbe in Hamburg; Museum für Gestaltung Zürich, etc.&lt;/span>&lt;/div>&#xa;"/>
+            <column_66be
+                jcr:created="{Date}2016-07-27T05:26:33.889-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-07-27T05:27:05.094-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="1-s"
+                layout="1;grid-span-0;"
+                layoutMode="structured"
+                multiplier="2"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-07-27T05:27:05.094-07:00"
+                        jcr:lastModifiedBy="ashahab"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_66be>
+            <text_7590
+                jcr:created="{Date}2016-07-27T05:27:41.985-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-19T03:32:22.861-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>Font family available from Adobe&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <image_0_10591670-0c4a-4ccb-aa2a-a6ccc6c3c617
+                jcr:lastModified="{Date}2016-08-19T03:32:42.736-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Mythos"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/mythos.png"
+                link="http://www.adobe.com/products/type/fonts-by-adobe.html"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-08-19T03:32:42.736-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_0_10591670-0c4a-4ccb-aa2a-a6ccc6c3c617>
+            <end_14696223938960
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_66be"/>
+            <end_14544550461840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_126b"/>
+            <column_d94b
+                jcr:created="{Date}2016-07-28T02:27:25.702-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-03T04:58:38.000-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-03T04:58:38.000-07:00"
+                        jcr:lastModifiedBy="ashahab"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_d94b>
+            <horizontalrule_410c
+                jcr:created="{Date}2016-07-28T02:27:18.197-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-07-28T02:27:18.197-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_a4fa
+                jcr:created="{Date}2016-07-28T02:27:56.167-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-07-28T02:28:20.289-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-07-28T02:28:20.289-07:00"
+                        jcr:lastModifiedBy="ashahab"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_a4fa>
+            <text_9f47
+                jcr:created="{Date}2016-07-28T02:29:03.073-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-07-28T02:29:03.073-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Learning&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers.html&quot;>Adobe Type Designers&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-team.html&quot;>Adobe Type Team&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-specimens.html&quot;>Type specimens&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-references-tips.html&quot;>Type reference materials&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-originals.html&quot;>Adobe Originals&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/opentype.html&quot;>OpenType&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14696981003050
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_a4fa"/>
+            <text_7ba4
+                jcr:created="{Date}2016-07-28T02:29:26.956-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-07-28T02:29:26.956-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Resources&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blog.typekit.com/&quot;>Type &amp;amp; Typekit blog&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blogs.adobe.com/CCJKType/&quot;>CJK Type blog (Asian fonts)&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype.html&quot;>Developer information&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype/afdko.html&quot;>Font Development Kit&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/install-instructions.html&quot;>Font installation instructions&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14696981003061
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_a4fa"/>
+            <text_1d3c
+                jcr:created="{Date}2016-07-28T02:30:59.790-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-09-01T07:14:07.108Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Help&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing Center&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/creative-cloud-fonts.html&quot;>CC Bundled Fonts&amp;nbsp;FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://typekit.com/help&quot;>Web Font FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/products/fontfolio/faq.html&quot;>Font Folio FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://forums.adobe.com/community/typography_fonts&quot;>Adobe Type user forums&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14696980761760
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_a4fa"/>
+            <end_14696980457100
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_d94b"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2016-08-22T04:18:42.228-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2016-08-22T04:18:42.228-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+    </jcr:content>
+</jcr:root>

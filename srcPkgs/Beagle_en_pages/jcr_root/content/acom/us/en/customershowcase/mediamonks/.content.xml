@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-10-11T11:19:21.534Z"
+        cq:lastModifiedBy="handoo"
+        cq:lastReplicated="{Date}2019-10-16T21:30:44.209Z"
+        cq:lastReplicatedBy="karchie"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:csProduct/cc/cce]"
+        cq:template="/apps/beagle/templates/customershowcasedetailpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="MediaMonks"
+        jcr:uuid="474774be-a7b9-4dc0-97c3-7c230fa4f023"
+        sling:resourceType="beagle/components/customershowcasedetailpage"
+        removeFromHtmlSitemap="true"
+        removeFromXmlSitemap="true">
+        <customershowcasecard
+            jcr:lastModified="{Date}2018-05-16T22:23:33.792Z"
+            jcr:lastModifiedBy="lsloane"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/customershowcasecard"
+            cardType="standard"
+            companyName="MediaMonks"
+            creationDate="{Date}2018-04-16T10:16:00.000-07:00"
+            includeCTAVideo1="true"
+            link1Target="_self"
+            link1Text="Watch the video"
+            link2Target="_self"
+            orderDate="{Date}2018-04-16T12:45:00.000-07:00">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                    size="854x480"
+                    type="youtube"
+                    youTubeAutoPlay="true"
+                    youTubeUrl="Gn8tcQzdY3E">
+                    <social jcr:primaryType="nt:unstructured"/>
+                    <meta
+                        jcr:primaryType="nt:unstructured"
+                        type="website">
+                        <image
+                            jcr:lastModified="{Date}2018-05-16T22:23:33.792Z"
+                            jcr:lastModifiedBy="lsloane"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </meta>
+                    <tracking jcr:primaryType="nt:unstructured"/>
+                </video>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2018-05-16T22:23:33.792Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="MediaMonks"
+                fileReference="/content/dam/acom/en/customer-showcase/images/mediamonks-660x348.png"
+                xcord="{Long}43"
+                ycord="{Long}36"/>
+            <ctavideolink1
+                jcr:lastModified="{Date}2018-04-16T17:23:45.322Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                size="854x480"
+                type="youtube"
+                youTubeAutoPlay="true"
+                youTubeUrl="Gn8tcQzdY3E">
+                <social jcr:primaryType="nt:unstructured"/>
+                <meta
+                    jcr:primaryType="nt:unstructured"
+                    type="website">
+                    <image
+                        jcr:lastModified="{Date}2018-04-16T17:23:45.322Z"
+                        jcr:lastModifiedBy="lsloane"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </meta>
+                <tracking jcr:primaryType="nt:unstructured"/>
+            </ctavideolink1>
+        </customershowcasecard>
+    </jcr:content>
+</jcr:root>

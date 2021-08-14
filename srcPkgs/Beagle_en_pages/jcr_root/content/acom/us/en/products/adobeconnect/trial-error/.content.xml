@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-10-27T11:56:13.074Z"
+        cq:lastModifiedBy="21n52271"
+        cq:lastReplicated="{Date}2020-10-27T11:56:31.393Z"
+        cq:lastReplicatedBy="21n52271"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Adobe Connect: Unable to process request."
+        jcr:uuid="4663255c-7e6a-4df4-87af-98007ecbe292"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        applauncherTheme="light"
+        bodyClass="whiteBackground"
+        browserTitle="Adobe Connect"
+        disableFloatingNav="true"
+        disableGeoRouting="true"
+        distType="dist5"
+        enableCCRedirect="NA"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideInBreadcrumb="true"
+        hideInSectionNav="true"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        marketSegmentRewrite="COM"
+        marqueeStyle="newMarquee"
+        metaDescription=" "
+        modalSize="426x240"
+        navTitle="Adobe Connect"
+        noIndex="true"
+        product="adobe--icon-only-"
+        stagelastReplicated="27-Oct-2020 11:56"
+        stagelastReplicatedBy="21n52271"
+        stageLastReplicationAction="ActivatedtoStage"
+        useH1Tags="pageTitle">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2020-07-27T10:51:05.791Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2020-07-27T10:51:05.791Z"
+                    jcr:lastModifiedBy="nedas"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_7b7c
+                jcr:created="{Date}2015-08-31T20:56:10.222Z"
+                jcr:createdBy="golee"
+                jcr:lastModified="{Date}2015-08-31T20:56:10.222Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"/>
+            <end_15956854970260
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_7b7c"/>
+            <column_a25f
+                jcr:created="{Date}2015-08-31T20:55:01.344Z"
+                jcr:createdBy="golee"
+                jcr:lastModified="{Date}2020-07-25T13:58:17.018Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="9"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-07-25T13:58:17.018Z"
+                        jcr:lastModifiedBy="nedas"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_a25f>
+            <text_5501
+                jcr:created="{Date}2015-08-31T20:52:56.786Z"
+                jcr:createdBy="golee"
+                jcr:lastModified="{Date}2020-10-27T11:56:13.070Z"
+                jcr:lastModifiedBy="21n52271"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Unable to process request&lt;/span>&lt;/h3>&#xa;&lt;h2 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h2>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Your request for an Adobe Connect account could not be processed.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Please wait and retry after sometime.&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;For further assistance, please contact &lt;a href=&quot;https://helpx.adobe.com/adobe-connect/connect-support.html&quot;>Adobe Connect Support&lt;/a>.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;em>Note: include the URL (web address) that you were submitting your Adobe Connect account request from in all correspondences.&lt;/em>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14410545013530
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_a25f"/>
+            <image_12a6
+                jcr:created="{Date}2020-07-25T13:55:17.302Z"
+                jcr:createdBy="nedas"
+                jcr:lastModified="{Date}2020-07-26T16:22:29.941Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="footer_trail_error"
+                fileReference="/content/dam/acom/en/products/adobeconnect/2020launch/connect_green_pattern_footer.jpg"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-07-25T13:55:50.255Z"
+                    jcr:lastModifiedBy="nedas"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_12a6>
+        </contentbody>
+        <tophero
+            jcr:lastModified="{Date}2020-07-25T13:54:46.826Z"
+            jcr:lastModifiedBy="nedas"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            height="hero2-size-5">
+            <image
+                jcr:lastModified="{Date}2020-07-25T13:54:46.826Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="trial_error_marquee"
+                fileReference="/content/dam/acom/en/products/adobeconnect/2020launch/connect_green_pattern.jpg"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </tophero>
+    </jcr:content>
+    <rep:policy/>
+</jcr:root>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-09-15T23:11:15.255Z"
+        cq:lastModifiedBy="isola"
+        cq:lastReplicated="{Date}2016-09-15T23:45:27.629Z"
+        cq:lastReplicatedBy="hmilks"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Inactive accounts"
+        jcr:uuid="fbc77fa8-bd6b-457b-9154-3f416af8de22"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Important information about your Adobe account."
+        disableFloatingNav="true"
+        distType="dist5"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideMerchandisingBar="inherit"
+        hidePromoComponent="inherit"
+        hideSectionNav="true"
+        isSectionNavParent="true"
+        marketSegmentRewrite="none"
+        metaDescription="Inactive accounts"
+        modalSize="426x240"
+        navTitle="Cookies"
+        pageTitle="Important information about your Adobe account."
+        stagelastReplicated="15-Sep-2016 23:45"
+        stagelastReplicatedBy="hmilks"
+        stageLastReplicationAction="ActivatedtoStage">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2016-09-07T20:59:02.953Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2016-09-07T20:59:02.953Z"
+                    jcr:lastModifiedBy="dwilbank"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_a4d7
+                jcr:created="{Date}2016-03-03T00:30:41.461Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2016-03-03T00:30:55.849Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="4"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-03-03T00:30:55.849Z"
+                        jcr:lastModifiedBy="dwilbank"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_a4d7>
+            <text_2094
+                jcr:created="{Date}2016-03-03T00:31:00.508Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2016-09-15T23:11:15.246Z"
+                jcr:lastModifiedBy="isola"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>It’s been over a year since you last signed in to your Adobe account using your Adobe ID. In keeping with our policies, we've sent you an email to let you know your Adobe ID will soon expire. Please refer to the email for your specific expiration date. To keep your Adobe ID active, you need to either sign in to your account or sign up for a free product trial below using the Adobe ID listed in the email.   If you received more than one email from us, that means you have more than one&amp;nbsp;Adobe ID and need to take action to keep all of them.    If you take no action by your expiration date, your Adobe ID will expire. You'll no longer have access to content you may have stored on our servers, and your account will be closed.&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_2217
+                jcr:created="{Date}2016-09-06T21:25:04.211Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2016-09-14T13:45:41.632Z"
+                jcr:lastModifiedBy="hmilks"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;To keep your Adobe ID active, please do one of the following:&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_feb1
+                jcr:created="{Date}2016-09-06T21:25:52.417Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2016-09-13T17:18:15.919Z"
+                jcr:lastModifiedBy="hmilks"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>1.&lt;/strong> Sign up for a free trial:&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <column_f2db
+                jcr:created="{Date}2016-09-06T21:25:19.418Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2016-09-15T22:17:22.108Z"
+                jcr:lastModifiedBy="isola"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of2;grid-span-1of2;"
+                bgColor=" "
+                layout="2;grid-span-1of2;grid-span-1of2;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-15T22:17:22.108Z"
+                        jcr:lastModifiedBy="isola"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_f2db>
+            <image_ccba
+                jcr:created="{Date}2016-09-06T21:25:57.232Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2016-09-15T23:08:52.687Z"
+                jcr:lastModifiedBy="isola"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Acrobat Pro Download trial"
+                fileReference="/content/dam/acom/en/aboutadobe/images/Acrobat-trial-2.jpg"
+                link="https://ims-na1.adobelogin.com/ims/authorize?client_id=AcrobatProTrial1&amp;redirect_uri=https://acrobat.adobe.com/us/en/free-trial-download-thanks.html">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-09-15T23:08:52.687Z"
+                    jcr:lastModifiedBy="isola"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_ccba>
+            <break_14731971405200
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_f2db"/>
+            <image_b7b3
+                jcr:created="{Date}2016-09-06T21:31:47.497Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2016-09-15T23:09:12.982Z"
+                jcr:lastModifiedBy="isola"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Photoshop Download trial"
+                fileReference="/content/dam/acom/en/aboutadobe/images/Photoshop-trial-2.jpg"
+                link="https://creative.adobe.com/products/download/photoshop">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-09-15T23:09:12.982Z"
+                    jcr:lastModifiedBy="isola"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_b7b3>
+            <end_14731971194220
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_f2db"/>
+            <text_1060
+                jcr:created="{Date}2016-09-12T21:04:02.664Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2016-09-13T17:24:40.975Z"
+                jcr:lastModifiedBy="hmilks"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>OR&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>2.&lt;/strong> Sign in to your Adobe account:&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;object data-extension-version=&quot;0.4.0.129&quot; data-install-updates-user-configuration=&quot;true&quot; style=&quot;display: none;&quot;>&amp;nbsp;&lt;/object>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <column_a89e
+                jcr:created="{Date}2016-09-06T21:29:39.531Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2016-09-15T22:56:52.775Z"
+                jcr:lastModifiedBy="isola"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of2;grid-span-1of2;"
+                bgColor=" "
+                layout="2;grid-span-1of2;grid-span-1of2;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-15T22:56:52.775Z"
+                        jcr:lastModifiedBy="isola"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_a89e>
+            <image_273
+                jcr:created="{Date}2016-09-06T21:29:57.089Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2016-09-15T23:09:28.939Z"
+                jcr:lastModifiedBy="isola"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Adobe Account Sign in"
+                fileReference="/content/dam/acom/en/aboutadobe/images/Button-legacy-2.jpg"
+                link="https://accounts.adobe.com">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-09-15T23:09:28.939Z"
+                    jcr:lastModifiedBy="isola"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_273>
+            <break_14731973795360
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_a89e"/>
+            <end_14731973795371
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_a89e"/>
+            <end_14569650414700
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_a4d7"/>
+        </contentbody>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2018-09-19T14:31:56.218Z"
+        cq:lastModifiedBy="vko"
+        cq:lastReplicated="{Date}2018-10-15T13:23:14.432Z"
+        cq:lastReplicatedBy="vko"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:product-catalog/pf/desktop,filters:product-catalog/cd/web-ux,filters:product-catalog/cd/design]"
+        cq:template="/apps/beagle/templates/productcardpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:Title="Typekit"
+        jcr:title="Adobe Fonts"
+        jcr:uuid="48423de4-9c42-4d7b-8934-6bce44ce1274"
+        sling:resourceType="beagle/components/productcardpage"
+        alignment="left"
+        applauncherTheme="light"
+        browserTitle="Adobe Fonts"
+        cardDescription="Thousands of fonts at your fingertips."
+        cardIcon="adobe-icon-color-adobe-fonts"
+        cardIconLinkURL="https://typekit.com/"
+        cardIcontarget="_self"
+        cardTitle="Adobe Fonts"
+        creationDate="{Date}2018-05-21T15:01:00.000-07:00"
+        distType="dist5"
+        freeTrialUrlLoggedInModalScrolling="no"
+        freeTrialUrlLoggedInModalSize="426x240"
+        freeTrialUrlLoggedInTarget="_self"
+        freeTrialUrlModalScrolling="no"
+        freeTrialUrlModalSize="426x240"
+        freeTrialUrlTarget="_self"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        groupSectionNavItems="no"
+        hideInSectionNav="true"
+        hideMerchandisingBar="inherit"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="inherit"
+        iconLinkURL="/content/acom/us/en/creativecloud"
+        marketSegmentRewrite="COM"
+        metaDescription="Adobe Fonts"
+        modalSize="426x240"
+        noIndex="true"
+        orderDate="{Date}2017-05-01T17:00:00.000-07:00"
+        pageTitle="Adobe Fonts"
+        removeFromHtmlSitemap="true"
+        removeFromSitemap="true"
+        removeFromXmlSitemap="true"
+        tryLinkModalScrolling="no"
+        tryLinkModalSize="426x240"
+        tryLinkProductPlanModalScrolling="no"
+        tryLinkProductPlanModalSize="426x240"
+        tryLinkProductPlanTarget="_self"
+        tryLinkTarget="_self"
+        useH1Tags="pageTitle">
+        <sectionMore
+            jcr:primaryType="nt:unstructured"
+            linkModalScrolling="no"
+            linkModalSize="426x240"
+            linkTarget="_self"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2018-09-19T14:31:56.206Z"
+                jcr:lastModifiedBy="vko"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2018-09-19T14:31:56.206Z"
+                    jcr:lastModifiedBy="vko"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <links
+            jcr:primaryType="nt:unstructured"
+            sort_mdv="0">
+            <_x0030_
+                jcr:primaryType="nt:unstructured"
+                cardLinktarget="_self"
+                cardLinkText="Browse fonts"
+                cardLinkType="buttonlink"
+                cardLinkURL="https://typekit.com/fonts?promoid=2K4PCHY6&amp;mv=other"/>
+        </links>
+    </jcr:content>
+</jcr:root>

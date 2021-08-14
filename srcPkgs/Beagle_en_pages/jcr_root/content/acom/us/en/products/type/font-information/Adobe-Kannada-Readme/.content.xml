@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-08-23T00:27:39.898-07:00"
+        cq:lastModifiedBy="dvirmani"
+        cq:lastReplicated="{Date}2016-08-23T00:31:51.247-07:00"
+        cq:lastReplicatedBy="dvirmani"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Adobe Kannada Readme"
+        jcr:uuid="749cce37-22df-43e7-a66b-24a48de1095e"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Kannada Font information | Adobe Type"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideMerchandisingBar="inherit"
+        hidePromoComponent="inherit"
+        marketSegmentRewrite="none"
+        metaDescription="Information about Adobe Kannada font , updates, troubleshooting tips, release notes known &amp; issues."
+        modalSize="426x240"
+        navTitle="Adobe Kannada Readme"
+        pageTitle="Adobe Kannada Readme"
+        tagsKeywords="kannada font, kannada fonts, kannada font online">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2016-08-23T00:27:39.816-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2016-08-23T00:27:39.816-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_5dbd
+                jcr:created="{Date}2016-08-05T02:35:10.783-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-05T02:35:43.906-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-05T02:35:43.906-07:00"
+                        jcr:lastModifiedBy="ashahab"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_5dbd>
+            <text_1c11
+                jcr:created="{Date}2016-08-07T23:30:15.750-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-07T23:30:44.349-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>This document contains product information, updates, and troubleshooting tips.&lt;/span>&lt;/div>&#xa;"/>
+            <text_d893
+                jcr:created="{Date}2016-08-05T02:36:14.746-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-07T23:31:04.513-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&amp;nbsp;&lt;/h3>&#xa;&lt;h3>Family information&lt;/h3>&#xa;&lt;h3>&amp;nbsp;&lt;/h3>&#xa;"/>
+            <text_1e8b
+                jcr:created="{Date}2016-08-05T02:37:25.306-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-05T02:42:13.491-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>&lt;span class=&quot;text-light&quot;>History&lt;/span>&lt;/h4>&#xa;&lt;h4>&amp;nbsp;&lt;/h4>&#xa;"/>
+            <text_39be
+                jcr:created="{Date}2016-08-05T02:41:28.647-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-08T01:22:21.203-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>The Adobe Kannada typeface was designed by Erin McLaughlin, with Brahmic script expert Fiona Ross consulting on the design. This type family was designed to harmonize with Adobe’s other Brahmic fonts, both in terms of apparent size and style, to ensure that this suite of typeface families can be typeset together as a system. The primary intended usage — for printed outputs, particularly continuous text settings — guided the design direction.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>The letter construction is based on traditional Kannada text typeface designs, including the influential Basel Mission Press Kannada typeface, which set a strong precedent for weight, form, and proportions for succeeding type designs for Kannada. Adobe Kannada features a contrast distribution somewhat lower than the norm so as to maintain strong, legible forms at small sizes. Careful attention to shaping and details allow these typefaces to be used in a range of type sizes from small text to heading and display sizes.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>The Adobe Kannada fonts comply with the Unicode standard for character encoding and leverage OpenType layout to produce correct script shaping. A full set of Kannada ligatures is included in the fonts to provide the most natural shaping of Kannada text. The designer has provided careful kerning of all vowel signs and modifiers. The fonts include proportional Kannada numerals.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe ಕನ್ನಡ ಟೈಪ್‌ಫೇಸ್ ಅನ್ನು ವಿನ್ಯಾಸದ ಕುರಿತಾಗಿ ಬ್ರಾಹ್ಮಿ ಲಿಪಿ ತಜ್ಞರಾದ ಫಿಯೋನಾ ರಾಸ್ ಅವರೊಂದಿಗೆ ಸಮಾಲೋಚನೆಯಲ್ಲಿ ಎರಿನ್ ಮ್ಯಾಕ್‌ಲಾಫ್ಲಿನ್ ಅವರು ವಿನ್ಯಾಸಗೊಳಿಸಿದ್ದಾರೆ. ಈ ಪ್ರಕಾರದ ಕುಟುಂಬವನ್ನು ಕಣ್ಣಿಗೆ ಗೋಚರವಾಗುವ ಗಾತ್ರ ಮತ್ತು ಶೈಲಿ ಎರಡರಲ್ಲೂ Adobe ನ ಇತರ ಬ್ರಾಹ್ಮಿ ಫಾಂಟ್‌ಗಳೊಂದಿಗೆ ಸಮನ್ವಯಗೊಳಿಸುವುದಕ್ಕಾಗಿ, ಈ ಟೈಪ್‌ಫೇಸ್ ಕುಟುಂಬಗಳ ಪ್ರಕಾರವನ್ನು ಒಟ್ಟಾರೆಯಾಗಿ ಸಿಸ್ಟಂ ಆಗಿ ಟೈಪ್‌ಸೆಟ್ ಮಾಡಬಹುದು ಎಂಬುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ. ನಿರ್ದಿಷ್ಟವಾಗಿ ನಿರಂತರವಾದ ಪಠ್ಯ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಒಳಗೊಂಡು ಮುದ್ರಣದ ಔಟ್‌ಪುಟ್‌ಗಳಿಗಾಗಿ ಪ್ರಾಥಮಿಕ ಉದ್ದೇಶಿತ ಬಳಕೆಯು ವಿನ್ಯಾಸದ ನಿರ್ದೇಶನಕ್ಕೆ ಮುನ್ನುಡಿ ಬರೆದಿದೆ.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>ಅಕ್ಷರದ ನಿರ್ಮಾಣವು ಸಾಂಪ್ರದಾಯಿಕ ಕನ್ನಡ ಪಠ್ಯದ ಇಂಟರ್ಫೇಸ್ ವಿನ್ಯಾಸಗಳ ಮೇಲೆ ಆಧಾರಿತವಾಗಿದ್ದು, ಇದು ಪ್ರಭಾವಶಾಲಿ ಬೇಸೆಲ್ ಮಿಶನ್ ಕನ್ನಡ ಟೈಪ್‌ಫೇಸ್ ಅನ್ನು ಒಳಗೊಂಡಿದ್ದು, ಇದು ಕನ್ನಡಕ್ಕಾಗಿ ಟೈಪ್ ವಿನ್ಯಾಸಗಳಲ್ಲಿ ಸಫಲವಾಗುವುದಕ್ಕಾಗಿ ತೂಕ, ರೂಪ ಮತ್ತು ಪ್ರಮಾಣಗಳಿಗಾಗಿ ಬಲವಾದ ಪೂರ್ವನಿದರ್ಶನಗಳನ್ನು ನಿರ್ಮಿಸುತ್ತದೆ. Adobe ಕನ್ನಡವು ಎಲ್ಲಾ ಚಿಕ್ಕ ಗಾತ್ರಗಳಲ್ಲಿ ಬಲಶಾಲಿ, ಸ್ಪಷ್ಟವಾದ ರೂಪುಗಳನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಲಾಗುವಂತೆ ನಿಯಮಕ್ಕಿಂತ ಬಹುಪಾಲು ಚಿಕ್ಕದಾದ ಕಾಂಟ್ರಾಸ್ಟ್ ವಿತರಣೆಯನ್ನು ಒಳಗೊಂಡಿದೆ. ಆಕಾರಗೊಳಿಸುವಿಕೆಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಎಚ್ಚರಿಕೆಯ ಗಮನ ನೀಡುವಿಕೆ ಮತ್ತು ವಿವರಗಳು ಈ ಟೈಪ್‌ಫೇಸ್‌ಗಳನ್ನು ಚಿಕ್ಕ ಪಠ್ಯದಿಂದ ಹಿಡಿದು ಶೀರ್ಷಿಕೆ ಮತ್ತು ಪ್ರದರ್ಶನ ಗಾತ್ರದ ತನಕ ಟೈಪ್ ಗಾತ್ರಗಳ ವ್ಯಾಪ್ತಿಯಲ್ಲಿ ಬಳಸಲು ಅವಕಾಶ ನೀಡುತ್ತದೆ.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe ಕನ್ನಡ ಫಾಂಟ್‌ಗಳು ಅಕ್ಷರ ಎನ್‌ಕೋಡಿಂಗ್‌ಗೆ ಯೂನಿಕೋಡ್ ಪ್ರಮಾಣಿತವನ್ನು ಅನುಸರಿಸುತ್ತದೆ ಮತ್ತು ಸರಿಯಾದ ಲಿಪಿಯ ಆಕಾರವನ್ನು ರೂಪಿಸಲು OpenType ವಿನ್ಯಾಸದ ಪ್ರಯೋಜನ ಪಡೆದುಕೊಳ್ಳುತ್ತದೆ. ಕನ್ನಡ ಪಠ್ಯದ ಹೆಚ್ಚು ನೈಸರ್ಗಿಕ ಆಕಾರವನ್ನು ಒದಗಿಸುವುದಕ್ಕಾಗಿ ಕನ್ನಡ ಸಂಯುಕ್ತಾಕ್ಷರಗಳ ಸಂಪೂರ್ಣ ಗುಂಪನ್ನು ಸೇರಿಸಿಕೊಳ್ಳಲಾಗಿದೆ. ವಿನ್ಯಾಸಗಾರರು ಎಲ್ಲಾ ಸ್ವರಗಳು ಮತ್ತು ವಿಶೇಷಣಗಳ ಅಚ್ಚುಮೊಳೆಯ ಭಾಗವನ್ನು ಒದಗಿಸಿದ್ದಾರೆ. ಫಾಂಟ್‌ಗಳು ಪ್ರಮಾಣಾನುಗುಣವಾದ ಕನ್ನಡ ಸಂಖ್ಯೆಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_3cb2
+                jcr:created="{Date}2016-08-05T02:49:16.171-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-07T23:39:06.063-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>&amp;nbsp;&lt;/h4>&#xa;&lt;h4>&lt;span class=&quot;text-light&quot;>Menu Names And Style Linking&lt;/span>&lt;/h4>&#xa;&lt;h4>&amp;nbsp;&lt;/h4>&#xa;"/>
+            <text_7fb
+                jcr:created="{Date}2016-08-05T02:51:04.873-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-08T01:58:21.491-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>In many Windows®&amp;nbsp;applications, instead of every font appearing on the menu, fonts are grouped into style-linked sets, and only the name of the base style font for a set is shown in the menu. The italic and the bold weight fonts of the set (if any) are not shown in the font menu, but can still be accessed by selecting the base style font, and then using the italic and bold style buttons. In this family, such programs will show only the following base style font name in the menu:&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Kannada&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>To access the bold style, use the bold style button.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>On the Mac OS operating system, although each font appears as a separate entry on the font menu, users may also select fonts by means of style links. Selecting a base style font and then using the style links (as described above for Windows applications) enhances cross-platform document compatibility with many applications, such as Microsoft Word and Adobe PageMaker&amp;nbsp;software, although it is unnecessary with more sophisticated Adobe applications such as recent versions of Illustrator, Photoshop&amp;nbsp;or InDesign&amp;nbsp;software.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>One should not, however, select a base font which has no style-linked variant, and then use the bold or italic styling button. Doing so will either have no effect, or result in programmatic bolding or slanting of the base font, which will usually produce inferior screen and print results.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_5a9f
+                jcr:created="{Date}2016-08-05T03:12:30.616-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-08T01:15:09.642-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>On the Mac OS operating system, although each font appears as a separate entry on the font menu, users may also select fonts by means of style links. Selecting a base style font and then using the style links (as described above for Windows applications) enhances cross-platform document compatibility with many applications, such as Microsoft Word, although it is unnecessary with more sophisticated Adobe applications such as recent versions of Illustrator, Photoshop&amp;nbsp;or InDesign&amp;nbsp;software.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>One should not, however, select a base font which has no style-linked variant, and then use the bold or italic styling button. Doing so will either have no effect, or result in programmatic bolding or slanting of the base font, which will usually produce inferior screen and print results.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_b040
+                jcr:created="{Date}2016-08-05T03:13:45.812-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-05T03:15:00.987-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>&lt;span class=&quot;text-light&quot;>Release Notes&lt;/span>&lt;/h4>&#xa;&lt;h4>&amp;nbsp;&lt;/h4>&#xa;"/>
+            <text_9f9f
+                jcr:created="{Date}2016-08-05T03:14:25.763-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-09T03:02:44.394-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>For all fonts of family Adobe Kannada: version 1.055 created on Mon Apr 06 16:41:31 2015.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_23eb
+                jcr:created="{Date}2016-08-09T02:52:44.022-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-09T02:53:14.621-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>version 1.055 created 2015/04/06&lt;/span>&lt;/div>&#xa;"/>
+            <text_2bc6
+                jcr:created="{Date}2016-08-09T02:52:39.525-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-10T00:39:47.389-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● First release.&lt;/span>&lt;/div>&#xa;"/>
+            <text_5e76
+                jcr:created="{Date}2016-08-05T03:53:20.304-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-07T23:43:37.118-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>&amp;nbsp;&lt;/h4>&#xa;&lt;h4>&lt;span class=&quot;text-light&quot;>Known Issues&lt;/span>&lt;/h4>&#xa;&lt;h4>&amp;nbsp;&lt;/h4>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Some glyphs in the font cannot be accessed unless you are using an OpenType compatible application.&lt;/span>&lt;/div>&#xa;"/>
+            <text_9d8d
+                jcr:created="{Date}2016-08-07T23:43:45.208-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-08T01:17:02.197-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;h4>&lt;span class=&quot;text-light&quot;>Customer Support&lt;/span>&lt;/h4>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>If you require technical assistance, please email us at&amp;nbsp;&lt;a href=&quot;mailto:type-questions@adobe.com&quot;>type-questions@adobe.com&lt;/a>. Font specific resources can also be found on the&amp;nbsp;&lt;a href=&quot;http://forums.adobe.com/community/typography_fonts&quot;>Adobe Type user-to-user forums&lt;/a>.&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;h4 style=&quot;margin-top: 0.115477em; margin-bottom: 0.115477em; font-variant: normal; font-family: tahoma, arial, helvetica, sans-serif;&quot;>&lt;span class=&quot;text-light&quot;>Customer Support&lt;/span>&lt;/h4>&#xa;&lt;h4 style=&quot;margin-top: 0.115477em; margin-bottom: 0.115477em; font-variant: normal; font-family: tahoma, arial, helvetica, sans-serif;&quot;>&amp;nbsp;&lt;/h4>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-top: 0.14799em; margin-bottom: 0.14799em; font-style: normal; font-variant: normal; font-weight: 500; font-family: tahoma, arial, helvetica, sans-serif;&quot;>&lt;span class=&quot;text-light&quot;>If you require technical assistance, please email us at&amp;nbsp;&lt;a href=&quot;mailto:type-questions@adobe.com&quot;>type-questions@adobe.com&lt;/a>. Font specific resources can also be found on the&amp;nbsp;&lt;a href=&quot;http://forums.adobe.com/community/typography_fonts&quot;>Adobe Type user-to-user forums&lt;/a>.&lt;/span>&lt;/div>&#xa;&lt;div>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14703897107880
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5dbd"/>
+        </contentbody>
+    </jcr:content>
+</jcr:root>

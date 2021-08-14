@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-01-17T01:01:40.025Z"
+        cq:lastModifiedBy="peharris"
+        cq:lastReplicated="{Date}2019-01-17T01:01:42.811Z"
+        cq:lastReplicatedBy="peharris"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Sales Inquiries"
+        jcr:uuid="99503043-42e0-4561-9a0a-04200f70d3ae"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        applauncherTheme="light"
+        bodyClass="whiteBackground"
+        browserTitle="Marketo BDR | Sales Inquiries"
+        disableGeoRouting="true"
+        distType="dist5"
+        enableCCRedirect="NA"
+        faasFormPage="true"
+        freeTrialUrlLoggedInModalScrolling="no"
+        freeTrialUrlLoggedInModalSize="426x240"
+        freeTrialUrlLoggedInTarget="_self"
+        freeTrialUrlModalScrolling="no"
+        freeTrialUrlModalSize="426x240"
+        freeTrialUrlTarget="_self"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        groupSectionNavItems="no"
+        hideInSectionNav="true"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        isMCPage="true"
+        marketSegmentRewrite="COM"
+        metaDescription="Sales Inquiries"
+        modalSize="426x240"
+        navTitle="Sales Inquiries"
+        noFollow="true"
+        noIndex="true"
+        pageTitle="Adobe Experience Cloud"
+        product="experience-cloud"
+        removeFromHtmlSitemap="true"
+        removeFromXmlSitemap="true"
+        stagelastReplicated="25-Feb-2016 20:24"
+        stagelastReplicatedBy="rikio"
+        stageLastReplicationAction="ActivatedtoStage"
+        tryLinkModalScrolling="no"
+        tryLinkModalSize="426x240"
+        tryLinkProductPlanModalScrolling="no"
+        tryLinkProductPlanModalSize="426x240"
+        tryLinkProductPlanTarget="_self"
+        tryLinkTarget="_self"
+        useH1Tags="pageTitle">
+        <sectionMore
+            jcr:primaryType="nt:unstructured"
+            linkModalScrolling="no"
+            linkModalSize="426x240"
+            linkTarget="_self"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2018-12-18T17:13:43.650Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2018-12-18T17:13:43.650Z"
+                    jcr:lastModifiedBy="peharris"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_5cb8
+                jcr:created="{Date}2016-02-10T00:16:07.323Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2016-02-10T16:56:30.140Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="6"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-02-10T16:56:30.140Z"
+                        jcr:lastModifiedBy="peharris"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_5cb8>
+            <text_6c11
+                jcr:created="{Date}2016-05-17T15:38:57.413Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2019-01-17T01:01:40.021Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Lead Pass Form for Marketo Rep to Adobe BDR Rep&lt;br>&#xa;&lt;/span>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Please fill out this form to pass any leads that should be sent over to an Adobe BDR Rep to work in the Adobe Corporate SFDC instance.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14550633673320
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5cb8"/>
+            <column_dbfa
+                jcr:created="{Date}2016-02-10T00:19:38.369Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2018-12-17T18:57:04.151Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                columnCount="1"
+                grid0="8"
+                layout="1;grid-cols-8 grid-offset-4      ;"
+                multiplier="6"
+                offset0="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2018-12-17T18:57:04.151Z"
+                        jcr:lastModifiedBy="peharris"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_dbfa>
+            <faasform_7911
+                jcr:created="{Date}2016-02-10T00:20:42.894Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2018-12-17T18:49:58.923Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/faasform"
+                destinationURL="/content/acom/us/en/products/request-consultation/marketo-thank-you"
+                formLocale="en_us"
+                formSubType="2851"
+                formTemplate="15"
+                formType="2846"
+                intCampaignId="7011O000002PIHRQA4"
+                modalID="false"
+                modalSize="426x240"
+                modalText="false"
+                modalTitle="false"
+                onsiteCampaignId="7011O000002PIHWQA4"/>
+            <end_14550635884700
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_dbfa"/>
+        </contentbody>
+        <tophero
+            jcr:lastModified="{Date}2018-06-08T18:12:57.584Z"
+            jcr:lastModifiedBy="peharris"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            fixedHeight="true"
+            height="hero2-size-auto"
+            hideArticle="true"
+            hideCredits="true"
+            hideLink="true">
+            <image
+                jcr:lastModified="{Date}2018-06-08T18:12:57.584Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Sales Inquiries"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </tophero>
+    </jcr:content>
+</jcr:root>

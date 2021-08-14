@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-09-01T05:40:12.332Z"
+        cq:lastModifiedBy="rbedi"
+        cq:lastReplicated="{Date}2016-09-01T05:40:15.387Z"
+        cq:lastReplicatedBy="rbedi"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Additional License Rights"
+        jcr:uuid="975306c4-68e3-4279-8d40-573b981ed5dd"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="License rights &amp; font permissions | Adobe Type"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="light"
+        hideInSectionNav="true"
+        languageDirection="ltr"
+        metaDescription="Information about Adobe Type fonts license right and permissions, open source fonts."
+        pageTitle="Additional License Rights"
+        seodescription=""
+        tagsKeywords="open source fonts, open source font">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_126b
+                jcr:lastModified="{Date}2016-08-05T00:24:51.463-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-05T00:24:51.463-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_126b>
+            <column_83f5
+                jcr:created="{Date}2016-08-05T01:57:56.159-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-05T01:58:47.162-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of2;grid-span-1of2;"
+                bgColor=" "
+                layout="2;grid-span-1of2;grid-span-1of2;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-05T01:58:47.162-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_83f5>
+            <text_ee04
+                jcr:created="{Date}2016-08-05T02:01:23.060-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-08T04:21:44.352-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;#permissions&quot;>Understanding Font Permissions&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;#permission-table&quot;>Font Permissions Table&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14703875271760
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_83f5"/>
+            <text_3c0f
+                jcr:created="{Date}2016-08-05T02:05:08.844-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-08T04:22:04.883-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;#open-source-fonts&quot;>&lt;span class=&quot;text-light&quot;>Open-Source Fonts&lt;/span>&lt;/a>&lt;/div>&#xa;"/>
+            <end_14703874761700
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_83f5"/>
+            <horizontalrule_1c4a
+                jcr:created="{Date}2016-08-08T04:06:15.245-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-08T04:06:15.245-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_57be
+                jcr:created="{Date}2016-08-08T04:04:10.915-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-08T04:04:30.177-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12;"
+                bgColor=" "
+                layout="1;grid-cols-12;"
+                layoutMode="structured"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-08T04:04:30.177-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_57be>
+            <text_1_71bfbe56-32f7-4177-a9ce-435a7a130bf8
+                jcr:lastModified="{Date}2016-08-08T04:02:27.522-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>For many years, Adobe's font End User License Agreement (EULA) permitted customers to modify any font licensed from the Adobe Type Library (ATL). However, many fonts in the ATL are sublicensed to us by other companies and we have recently had to stop offering modification rights for some fonts. If you purchased fonts from Adobe prior to August 08, 2011, then you still have the modification rights granted by the EULA that came with your font. However, there is a new EULA for fonts purchased after that date. Please refer to the table below to determine the modification rights permitted for any ATL font.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <horizontalrule_9c0d
+                jcr:created="{Date}2016-08-08T04:06:31.999-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-08T04:06:31.999-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <anchor_5616
+                jcr:created="{Date}2016-08-05T02:00:34.355-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-05T02:00:46.156-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/anchor"
+                anchorName="#permissions"/>
+            <text_2_70a01d3d-ec2c-48cb-8112-71e21e334886
+                jcr:lastModified="{Date}2016-08-05T04:14:39.561-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&lt;span class=&quot;text-light&quot;>Understanding Font Permissions&lt;/span>&lt;/h3>&#xa;&lt;h3>&amp;nbsp;&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>To see an explanation of Font Embedding Permissions view Adobe’s Font &lt;a href=&quot;/content/acom/us/en/products/type/font-licensing/font-embedding-permissions.html&quot;>Embedding Permission page&lt;/a>.&lt;/span>&lt;/div>&#xa;"/>
+            <anchor_6f6f
+                jcr:created="{Date}2016-08-05T02:03:57.913-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-05T02:04:14.269-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/anchor"
+                anchorName="#permission-table"/>
+            <end_14706542509330
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_57be"/>
+            <column_453b
+                jcr:created="{Date}2016-08-05T00:27:13.760-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-05T00:28:07.890-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-3of4;grid-span-1of4;"
+                bgColor=" "
+                layout="2;grid-span-3of4;grid-span-1of4;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-05T00:28:07.890-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_453b>
+            <text_16cc
+                jcr:created="{Date}2016-08-05T00:28:21.318-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-08T03:23:54.828-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>Font Permissions Table&lt;/h3>&#xa;"/>
+            <break_14703820879010
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_453b"/>
+            <text_a77e
+                jcr:created="{Date}2016-08-05T00:28:28.084-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-08T04:20:27.280-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: right;&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;#top&quot;>To the top&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14703820337670
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_453b"/>
+            <text_3_5999c5da-3d39-4b4c-9bf9-be7002e95fb3
+                jcr:lastModified="{Date}2016-08-08T03:31:28.012-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Key:&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>1 : Licensed for print and preview embedding&lt;br>&#xa; 2 : Licensed for editable embedding&lt;br>&#xa; 3 : Licensed for modification&lt;br>&#xa; 4 : Licensed for users who directly license DPS&lt;br>&#xa; 5 : Licensed open-source fonts&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <table_8788
+                jcr:created="{Date}2016-08-05T01:35:14.156-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-09T22:41:06.647-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/table"
+                tableDataHTML="&lt;table width=&quot;100%&quot; class=&quot;stripe-grey-white-reverse creative data-table-row-em&quot;>&#xa;&lt;tbody>&lt;tr>&lt;td>A&lt;/td>&#xa;&lt;td>G&lt;/td>&#xa;&lt;td>O&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Acumin Pro 1 2 3 4&lt;/td>&#xa;&lt;td>Galahad 1 2 3&lt;/td>&#xa;&lt;td>Ocean Sans 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Aachen 1&lt;/td>&#xa;&lt;td>ITC Galliard 1&lt;/td>&#xa;&lt;td>OCR-A 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Adobe Arabic 1 2 3 4&lt;/td>&#xa;&lt;td>Game Pi 1&lt;/td>&#xa;&lt;td>OCR-B 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Adobe Devanagari 1 2 3 4&lt;/td>&#xa;&lt;td>ITC Garamond 1&lt;/td>&#xa;&lt;td>Octavian 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Adobe Fangsong 1 2 3 4&lt;/td>&#xa;&lt;td>Garamond 3 1&lt;/td>&#xa;&lt;td>ITC Officina Sans 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Adobe FanHeiti 1 2 3 4&lt;/td>&#xa;&lt;td>Adobe Garamond 1 2 3 4&lt;/td>&#xa;&lt;td>ITC Officina Serif 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Adobe Gothic 1 2 3 4&lt;/td>&#xa;&lt;td>ITC Garamond Handtooled 1&lt;/td>&#xa;&lt;td>Old Claude 1 3&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Adobe Gujarati 1 2 3 4&lt;/td>&#xa;&lt;td>Garamond Premier 1 2 3 4&lt;/td>&#xa;&lt;td>Old Style 7 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Adobe Gurmukhi 1 2 3 4&lt;/td>&#xa;&lt;td>Simoncini Garamond 1 2&lt;/td>&#xa;&lt;td>Monotype Old Style 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Adobe Hebrew 1 2 3 4&lt;/td>&#xa;&lt;td>Stempel Garamond 1&lt;/td>&#xa;&lt;td>Olympian 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Adobe Heiti 1 2 3 4&lt;/td>&#xa;&lt;td>Garth Graphic 1&lt;/td>&#xa;&lt;td>Omnia 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Adobe Kaiti 1 2 3 4&lt;/td>&#xa;&lt;td>Gazette 1&lt;/td>&#xa;&lt;td>Ondine 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Adobe Ming 1 2 3 4&lt;/td>&#xa;&lt;td>Giddyup 1 2 3 4&lt;/td>&#xa;&lt;td>Onyx 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Adobe Myungjo 1 2 3 4&lt;/td>&#xa;&lt;td>Gill Floriated Capitals 1&lt;/td>&#xa;&lt;td>Optima 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Adobe Naskh 1 2 3 4&lt;/td>&#xa;&lt;td>Gill Sans 1&lt;/td>&#xa;&lt;td>Orator 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Adobe Song 1 2 3 4&lt;/td>&#xa;&lt;td>ITC Giovanni 1&lt;/td>&#xa;&lt;td>Orgánica GMM 1 3&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Adobe Tamil 1 2 3 4&lt;/td>&#xa;&lt;td>Glypha 1&lt;/td>&#xa;&lt;td>Origami 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Adobe Text 1 2 3 4&lt;/td>&#xa;&lt;td>Gothic 13 1&lt;/td>&#xa;&lt;td>Ouch! 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Adobe Thai 1 2 3 4&lt;/td>&#xa;&lt;td>Goudy 1&lt;/td>&#xa;&lt;td>Oxford 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Albertus 1&lt;/td>&#xa;&lt;td>Monotype Goudy Modern 1&lt;/td>&#xa;&lt;td>ITC Ozwald 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Aldus 1&lt;/td>&#xa;&lt;td>ITC Goudy Sans 1&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Alexa 1 2 3 4&lt;/td>&#xa;&lt;td>Goudy Text 1&lt;/td>&#xa;&lt;td>P&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>ITC American Typewriter 1&lt;/td>&#xa;&lt;td>Granjon 1&lt;/td>&#xa;&lt;td>Palace Script 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Americana 1&lt;/td>&#xa;&lt;td>Graphite 1 4&lt;/td>&#xa;&lt;td>Palatino 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Amigo 1&lt;/td>&#xa;&lt;td>MVB Greymantle 1 3&lt;/td>&#xa;&lt;td>Parisian 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Andreas 1 2 3&lt;/td>&#xa;&lt;td>Monotype Grotesque 1&lt;/td>&#xa;&lt;td>Park Avenue 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>ITC Anna 1&lt;/td>&#xa;&lt;td>Guardi 1&lt;/td>&#xa;&lt;td>Peignot 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Antique Olive 1&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>Pelican 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Apollo 1&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>Penumbra Flare 1 2 3&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Arcadia 1&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>Penumbra Half Serif 1 2 3&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Arcana 1 3&lt;/td>&#xa;&lt;td>H&lt;/td>&#xa;&lt;td>Penumbra Sans 1 2 3&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Ariadne 1&lt;/td>&#xa;&lt;td>Hadriano 1&lt;/td>&#xa;&lt;td>Penumbra Serif 1 2 3&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Arno 1 2 3 4&lt;/td>&#xa;&lt;td>Hardwood 1 3&lt;/td>&#xa;&lt;td>Pepita 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Arnold Böcklin 1&lt;/td>&#xa;&lt;td>Heisei Kaku Gothic 1 2 3 4&lt;/td>&#xa;&lt;td>Pepperwood 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Ashley Script 1&lt;/td>&#xa;&lt;td>Heisei Maru Gothic 1 2 3 4&lt;/td>&#xa;&lt;td>Perpetua 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Astrology Pi 1&lt;/td>&#xa;&lt;td>Heisei Mincho 1 2 3 4&lt;/td>&#xa;&lt;td>Phoreus Cherokee1 2&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Audio Pi 1&lt;/td>&#xa;&lt;td>Helvetica 1&lt;/td>&#xa;&lt;td>Photina 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Auriol 1&lt;/td>&#xa;&lt;td>Helvetica Inserat 1&lt;/td>&#xa;&lt;td>Plantin 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>ITC Avant Garde Gothic 1&lt;/td>&#xa;&lt;td>Helvetica Neue 1&lt;/td>&#xa;&lt;td>Poetica 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Avenir 1&lt;/td>&#xa;&lt;td>Helvetica Rounded 1&lt;/td>&#xa;&lt;td>Pompeia 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>&lt;/td>&#xa;&lt;td>Herculanum 1&lt;/td>&#xa;&lt;td>Pompeijana 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>B&lt;/td>&#xa;&lt;td>ITC Highlander 1&lt;/td>&#xa;&lt;td>Ponderosa 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Baker Signet 1&lt;/td>&#xa;&lt;td>Hiroshige 1 3&lt;/td>&#xa;&lt;td>Poplar 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Balzano 1 2 3 4&lt;/td>&#xa;&lt;td>Hobo 1 2 3 4&lt;/td>&#xa;&lt;td>Postino 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Banco 1&lt;/td>&#xa;&lt;td>Holiday Pi 1&lt;/td>&#xa;&lt;td>Present 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Banshee 1 2 3 4&lt;/td>&#xa;&lt;td>Horley Old Style 1&lt;/td>&#xa;&lt;td>Prestige Elite 1 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Baskerville Cyrillic 1&lt;/td>&#xa;&lt;td>HY GungSo 1&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Bauer Bodoni 1 2&lt;/td>&#xa;&lt;td>HY Kak Headline 1&lt;/td>&#xa;&lt;td>Q&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>ITC Bauhaus 1&lt;/td>&#xa;&lt;td>HY Rounded Gothic 1&lt;/td>&#xa;&lt;td>Quake 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>ITC Beesknees 1&lt;/td>&#xa;&lt;td>Hypatia Sans 1 2 3 4&lt;/td>&#xa;&lt;td>ITC Quorum 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Bell Centennial 1 2 3 4&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Bell Gothic 1&lt;/td>&#xa;&lt;td>I&lt;/td>&#xa;&lt;td>R&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Bell 1&lt;/td>&#xa;&lt;td>Immi 505 1 2 3 4&lt;/td>&#xa;&lt;td>Rad 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Belwe 1&lt;/td>&#xa;&lt;td>Impact 1&lt;/td>&#xa;&lt;td>Raleigh 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Bembo 1&lt;/td>&#xa;&lt;td>Impressum 1 2&lt;/td>&#xa;&lt;td>Raphael 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>ITC Benguiat 1&lt;/td>&#xa;&lt;td>Industria 1&lt;/td>&#xa;&lt;td>Reliq 1 2 3&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>ITC Benguiat Gothic 1&lt;/td>&#xa;&lt;td>Inflex 1&lt;/td>&#xa;&lt;td>Reporter 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>ITC Berkeley Oldstyle 1&lt;/td>&#xa;&lt;td>Insignia 1&lt;/td>&#xa;&lt;td>Revue 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Berling 1&lt;/td>&#xa;&lt;td>Ironwood 1 2 3 4&lt;/td>&#xa;&lt;td>Rockwell 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Bermuda 1 3&lt;/td>&#xa;&lt;td>Isabella 1&lt;/td>&#xa;&lt;td>Romic 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Bernhard 1&lt;/td>&#xa;&lt;td>ITC Isadora 1&lt;/td>&#xa;&lt;td>Rosewood 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Bernhard Modern 1&lt;/td>&#xa;&lt;td>Italia 1&lt;/td>&#xa;&lt;td>Rotation 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Bickham Script 1 2 3 4&lt;/td>&#xa;&lt;td>Monotype Italian Old Style 1&lt;/td>&#xa;&lt;td>Rotis Sans Serif 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Biffo 1&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>Rotis Semi Sans 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Birch 1 2 3 4&lt;/td>&#xa;&lt;td>J&lt;/td>&#xa;&lt;td>Rotis Semi Serif 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Blackoak 1 2 3 4&lt;/td>&#xa;&lt;td>Janson Text 1&lt;/td>&#xa;&lt;td>Rotis Serif 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Blue Island 1 2 3&lt;/td>&#xa;&lt;td>Adobe Jenson 1 2 3 4&lt;/td>&#xa;&lt;td>Ruling Script 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Bodoni 1&lt;/td>&#xa;&lt;td>Jimbo 1 2 3&lt;/td>&#xa;&lt;td>Runic 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>ITC Bookman 1&lt;/td>&#xa;&lt;td>Joanna 1&lt;/td>&#xa;&lt;td>Russell Oblique 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Border Pi 1&lt;/td>&#xa;&lt;td>Juniper 1 2 3 4&lt;/td>&#xa;&lt;td>Russell Square 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>MVB Bossa Nova 1 3&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>Rusticana 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Briem Akademi 1 3&lt;/td>&#xa;&lt;td>K&lt;/td>&#xa;&lt;td>Ruzicka Freehand 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Briem Script 1 3&lt;/td>&#xa;&lt;td>Kabel 1&lt;/td>&#xa;&lt;td>Ryo Display PlusN 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Brioso 1 2 3 4&lt;/td>&#xa;&lt;td>ITC Kabel 1&lt;/td>&#xa;&lt;td>Ryo Gothic PlusN 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Bruno 1 3&lt;/td>&#xa;&lt;td>Kaufmann 1&lt;/td>&#xa;&lt;td>Ryo Text PlusN 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Brush Script 1 2 3 4&lt;/td>&#xa;&lt;td>Kazuraki SP2N 1 2 3 4&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Bulmer 1&lt;/td>&#xa;&lt;td>Kepler 1 2 3 4&lt;/td>&#xa;&lt;td>S&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Bundesbahn Pi 1&lt;/td>&#xa;&lt;td>Khaki 1&lt;/td>&#xa;&lt;td>Sabon 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>&lt;/td>&#xa;&lt;td>Kigali 1 3&lt;/td>&#xa;&lt;td>San Marco 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>C&lt;/td>&#xa;&lt;td>Kinesis 1 2 3&lt;/td>&#xa;&lt;td>Sanvito 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>PMN Caecilia 1&lt;/td>&#xa;&lt;td>Kino 1&lt;/td>&#xa;&lt;td>Sassafras 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Caflisch Script 1 2 3 4&lt;/td>&#xa;&lt;td>Klang 1&lt;/td>&#xa;&lt;td>Sava 1 2 3&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Calcite 1 2 3&lt;/td>&#xa;&lt;td>Koch Antiqua 1&lt;/td>&#xa;&lt;td>Stempel Schneidler 1 2&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Caliban 1 2 3 4&lt;/td>&#xa;&lt;td>Kolo 1 3&lt;/td>&#xa;&lt;td>Monotype Scotch Roman 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Calvert 1&lt;/td>&#xa;&lt;td>Kompakt 1&lt;/td>&#xa;&lt;td>Monotype Script 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Candida 1 2&lt;/td>&#xa;&lt;td>ITC Korinna 1&lt;/td>&#xa;&lt;td>ITC Serif Gothic 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Cantoria 1&lt;/td>&#xa;&lt;td>Kozuka Gothic 1 2 3 4&lt;/td>&#xa;&lt;td>Serifa 1 2&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Caravan Borders 1&lt;/td>&#xa;&lt;td>Kozuka Mincho 1 2 3 4&lt;/td>&#xa;&lt;td>Serlio 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Carolina 1&lt;/td>&#xa;&lt;td>Künstler Script 1&lt;/td>&#xa;&lt;td>Serpentine 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Carta 1 2 3&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>Shannon 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Cascade Script 1&lt;/td>&#xa;&lt;td>L&lt;/td>&#xa;&lt;td>Shelley 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Adobe Caslon 1 2 3 4&lt;/td>&#xa;&lt;td>Latin 1&lt;/td>&#xa;&lt;td>Sho 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>ITC Caslon 224 1&lt;/td>&#xa;&lt;td>Leander Script 1 2 3 4&lt;/td>&#xa;&lt;td>Shuriken Boy 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Caslon 3 1&lt;/td>&#xa;&lt;td>ITC Leawood 1&lt;/td>&#xa;&lt;td>Silentium 1 2 3&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Caslon 540 1&lt;/td>&#xa;&lt;td>ITC Legacy Sans 1&lt;/td>&#xa;&lt;td>ITC Slimbach 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Caslon Open Face 1&lt;/td>&#xa;&lt;td>ITC Legacy Serif 1&lt;/td>&#xa;&lt;td>Smaragd 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Castellar 1&lt;/td>&#xa;&lt;td>Legault 1 3&lt;/td>&#xa;&lt;td>SMGothic 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Caxton 1&lt;/td>&#xa;&lt;td>Letter Gothic 1 2 3 4&lt;/td>&#xa;&lt;td>SMMyungjo 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>MVB Celestia Antiqua 1 3&lt;/td>&#xa;&lt;td>Life 1&lt;/td>&#xa;&lt;td>Snell Roundhand 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Centaur 1&lt;/td>&#xa;&lt;td>LinoLetter 1&lt;/td>&#xa;&lt;td>Sonata 1 2 3&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Linotype Centennial 1&lt;/td>&#xa;&lt;td>Linoscript 1&lt;/td>&#xa;&lt;td>Source Code 1 2 3 4 5&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>ITC Century 1&lt;/td>&#xa;&lt;td>Linotext 1&lt;/td>&#xa;&lt;td>Source Han Sans 1 2 3 4 5&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Century Expanded 1&lt;/td>&#xa;&lt;td>Lithos 1 2 3 4&lt;/td>&#xa;&lt;td>Source Sans 1 2 3 4 5&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>ITC Century Handtooled 1&lt;/td>&#xa;&lt;td>LogoArl 1&lt;/td>&#xa;&lt;td>Source Serif 1 2 3 4 5&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Century Old Style 1 2 3 4&lt;/td>&#xa;&lt;td>LogoCut 1&lt;/td>&#xa;&lt;td>ITC Souvenir 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>ITC Cerigo 1&lt;/td>&#xa;&lt;td>LogoLine 1&lt;/td>&#xa;&lt;td>Spartan 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Chaparral 1 2 3 4&lt;/td>&#xa;&lt;td>ITC Lubalin Graph 1&lt;/td>&#xa;&lt;td>Spectrum 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Charlemagne 1 2 3 4&lt;/td>&#xa;&lt;td>Lucida 1&lt;/td>&#xa;&lt;td>Spring 1 3&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Charme 1 2&lt;/td>&#xa;&lt;td>Lucida Math 1&lt;/td>&#xa;&lt;td>Spumoni 1 3&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>ITC Cheltenham 1&lt;/td>&#xa;&lt;td>Lucida Sans Typewriter 1&lt;/td>&#xa;&lt;td>Stencil 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>ITC Cheltenham Handtooled 1&lt;/td>&#xa;&lt;td>Lucida Typewriter 1&lt;/td>&#xa;&lt;td>ITC Stone Informal 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Cheq 1 2 3&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>ITC Stone Sans 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Clairvaux 1&lt;/td>&#xa;&lt;td>M&lt;/td>&#xa;&lt;td>ITC Stone Serif 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Clarendon 1&lt;/td>&#xa;&lt;td>ITC Machine 1&lt;/td>&#xa;&lt;td>Strayhorn 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>ITC Clearface 1&lt;/td>&#xa;&lt;td>Madrone 1 2 3 4&lt;/td>&#xa;&lt;td>Strumpf 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Clearface Gothic 1&lt;/td>&#xa;&lt;td>MVB Magnesium 1 3&lt;/td>&#xa;&lt;td>Studz 1 2 3&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Cloister 1&lt;/td>&#xa;&lt;td>MVB Magnolia 1 3&lt;/td>&#xa;&lt;td>Symbol 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Club Type 1 3&lt;/td>&#xa;&lt;td>Manito 1 3&lt;/td>&#xa;&lt;td>ITC Symbol 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Cochin 1&lt;/td>&#xa;&lt;td>Marigold 1&lt;/td>&#xa;&lt;td>Syntax 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Conga Brava 1 2 3&lt;/td>&#xa;&lt;td>Mathematical Pi 1&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Conga Brava Stencil 1 2 3&lt;/td>&#xa;&lt;td>Matura 1&lt;/td>&#xa;&lt;td>T&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Cooper Black 1 2 3 4&lt;/td>&#xa;&lt;td>Maximus 1&lt;/td>&#xa;&lt;td>Tekton 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Copal 1 2 3 4&lt;/td>&#xa;&lt;td>Medici Script 1&lt;/td>&#xa;&lt;td>Tempo 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Copperplate Gothic 1&lt;/td>&#xa;&lt;td>Melior 1&lt;/td>&#xa;&lt;td>ITC Tiepolo 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Coriander 1 2 3 4&lt;/td>&#xa;&lt;td>Memphis 1&lt;/td>&#xa;&lt;td>ITC Tiffany1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Corona 1&lt;/td>&#xa;&lt;td>ITC Mendoza Roman 1&lt;/td>&#xa;&lt;td>Times 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Coronet 1&lt;/td>&#xa;&lt;td>Mercurius 1&lt;/td>&#xa;&lt;td>Times Europa 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Cottonwood 1 2 3 4&lt;/td>&#xa;&lt;td>Meridien 1&lt;/td>&#xa;&lt;td>Times New Roman 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Courier 1 2 3 4&lt;/td>&#xa;&lt;td>Mesquite 1 2 3 4&lt;/td>&#xa;&lt;td>Times Ten 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Critter 1 2 3&lt;/td>&#xa;&lt;td>Mezz 1 2 3&lt;/td>&#xa;&lt;td>Toolbox 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Cronos 1 2 3 4&lt;/td>&#xa;&lt;td>MICR 1 4&lt;/td>&#xa;&lt;td>Trade Gothic 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>ITC Cushing 1&lt;/td>&#xa;&lt;td>Minion 1 2 3 4&lt;/td>&#xa;&lt;td>Trajan 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Cutout 1 2 3 4&lt;/td>&#xa;&lt;td>Minister 1&lt;/td>&#xa;&lt;td>Trajan Sans 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>&lt;/td>&#xa;&lt;td>Mistral 1&lt;/td>&#xa;&lt;td>Trump Mediäval 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>D&lt;/td>&#xa;&lt;td>Mojo 1 2 3&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Dante 1&lt;/td>&#xa;&lt;td>ITC Mona Lisa 1&lt;/td>&#xa;&lt;td>U&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Decoration Pi 1&lt;/td>&#xa;&lt;td>Monoline Script 1&lt;/td>&#xa;&lt;td>Umbra 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Delphin 1&lt;/td>&#xa;&lt;td>Monotype Modern 1&lt;/td>&#xa;&lt;td>Univers 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Linotype Didot 1&lt;/td>&#xa;&lt;td>Montara 1 2 3&lt;/td>&#xa;&lt;td>Universal 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>DIN Schriften 1&lt;/td>&#xa;&lt;td>Moonglow 1 2 3&lt;/td>&#xa;&lt;td>University 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Diotima 1&lt;/td>&#xa;&lt;td>ITC Motter Corpus 1&lt;/td>&#xa;&lt;td>ITC Usherwood 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Diskus 1&lt;/td>&#xa;&lt;td>Myriad 1 2 3 4&lt;/td>&#xa;&lt;td>Utopia 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Dom Casual 1&lt;/td>&#xa;&lt;td>Myriad Arabic 1 2 3 4&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Dorchester Script 1&lt;/td>&#xa;&lt;td>Myriad Hebrew 1 2 3 4&lt;/td>&#xa;&lt;td>V&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Doric 1&lt;/td>&#xa;&lt;td>Myriad Hebrew Cursive 1 2 3 4&lt;/td>&#xa;&lt;td>VAG Rounded 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Duc de Berry 1&lt;/td>&#xa;&lt;td>Mythos 1 2 3 4&lt;/td>&#xa;&lt;td>Vectora 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>ITC Veljovic 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>E&lt;/td>&#xa;&lt;td>N&lt;/td>&#xa;&lt;td>Versailles 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Eccentric 1&lt;/td>&#xa;&lt;td>National Codes Pi 1&lt;/td>&#xa;&lt;td>Verve 1 3&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Egyptienne F 1&lt;/td>&#xa;&lt;td>Neue Hammer Unziale 1&lt;/td>&#xa;&lt;td>Visigoth 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Ehrhardt 1&lt;/td>&#xa;&lt;td>Neuland 1&lt;/td>&#xa;&lt;td>Viva 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Electra 1&lt;/td>&#xa;&lt;td>Neuzeit S 1&lt;/td>&#xa;&lt;td>Voluta Script 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Ellington 1&lt;/td>&#xa;&lt;td>New Aster 1&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Else NPL 1&lt;/td>&#xa;&lt;td>ITC New Baskerville 1&lt;/td>&#xa;&lt;td>W&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>MVB Emmascript 1 3&lt;/td>&#xa;&lt;td>New Berolina 1&lt;/td>&#xa;&lt;td>Warning Pi 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Engravers 1&lt;/td>&#xa;&lt;td>New Caledonia 1&lt;/td>&#xa;&lt;td>Warnock 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>ITC Eras 1&lt;/td>&#xa;&lt;td>New Century Schoolbook 1&lt;/td>&#xa;&lt;td>Waters Titling 1 2 3&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>ITC Esprit 1&lt;/td>&#xa;&lt;td>News Gothic 1 2 3 4&lt;/td>&#xa;&lt;td>ITC Weidemann 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>European Pi 1&lt;/td>&#xa;&lt;td>Notre Dame 1&lt;/td>&#xa;&lt;td>Weiss 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Eurostile 1&lt;/td>&#xa;&lt;td>ITC Novarese 1&lt;/td>&#xa;&lt;td>Wendy 1 2 3&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Ex Ponto 1 2 3&lt;/td>&#xa;&lt;td>Nueva 1 2 3 4&lt;/td>&#xa;&lt;td>Wiesbaden Swing 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Excelsior 1&lt;/td>&#xa;&lt;td>Nuptial Script 1&lt;/td>&#xa;&lt;td>Wilhelm Klingspor Gotisch 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>&lt;/td>&#xa;&lt;td>Nyx 1 2 3&lt;/td>&#xa;&lt;td>Wilke 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>F&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>Willow 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Fairfield 1&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>Wittenberger Fraktur 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Falstaff 1&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>Adobe Wood Type 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>ITC Fenice 1&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>ITC Zapf Chancery 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Fette Fraktur 1&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>ITC Zapf Dingbats 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Flood 1 2 3 4&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>Zebrawood 1 2 3 4&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>ITC Flora 1&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>Zipty Do 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Florens 1 3&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Flyer 1&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Folio 1 2&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Forte 1&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Fournier 1&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Franklin Gothic 1&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>ITC Franklin Gothic 1&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Freestyle Script 1&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Friz Quadrata 1&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Frutiger 1&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Fusaka 1 2 3 4&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Futura 1 2&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;/tbody>&lt;/table>"/>
+            <anchor_438d
+                jcr:created="{Date}2016-08-05T02:05:30.991-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-05T02:05:44.601-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/anchor"
+                anchorName="open-source-fonts"/>
+            <column_9ed8
+                jcr:created="{Date}2016-08-05T01:25:14.550-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-05T01:25:48.066-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-3of4;grid-span-1of4;"
+                bgColor=" "
+                layout="2;grid-span-3of4;grid-span-1of4;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-05T01:25:48.066-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_9ed8>
+            <text_7712
+                jcr:created="{Date}2016-08-05T01:26:14.297-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-08T03:16:42.652-07:00"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>Open-Source Fonts&lt;/h3>&#xa;"/>
+            <break_14703855480790
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_9ed8"/>
+            <text_6a2c
+                jcr:created="{Date}2016-08-05T01:27:00.991-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-08T04:18:53.215-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: right;&quot;>&lt;a href=&quot;#top&quot;>&lt;span class=&quot;text-light&quot;>To the top&lt;/span>&lt;/a>&lt;/div>&#xa;"/>
+            <end_14703855145630
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_9ed8"/>
+            <column_ba82
+                jcr:created="{Date}2016-08-08T03:24:44.629-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-08T03:25:33.335-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12;"
+                bgColor=" "
+                layout="1;grid-cols-12;"
+                layoutMode="structured"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-08T03:25:33.335-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_ba82>
+            <text_0_f45cc8cb-ca83-4c83-b40c-786073d59024
+                jcr:lastModified="{Date}2016-08-08T04:23:15.152-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Some fonts distributed by Adobe are open-source fonts with license terms that provide you virtually unrestricted usage rights and greater creative freedom.&lt;/span>&lt;/div>&#xa;"/>
+            <end_14706518846460
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_ba82"/>
+            <end_14544550461840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_126b"/>
+            <column_dca6
+                jcr:lastModified="{Date}2016-08-05T01:24:59.291-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-05T01:24:21.137-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_dca6>
+            <column_680f
+                jcr:created="{Date}2016-08-05T02:12:18.423-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-05T02:14:28.023-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-05T02:14:28.023-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_680f>
+            <horizontalrule_63d7
+                jcr:created="{Date}2016-08-05T02:17:08.728-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-05T02:17:08.728-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_bd93
+                jcr:created="{Date}2016-08-05T02:14:40.347-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-05T02:15:05.616-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-05T02:15:05.616-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_bd93>
+            <text_a593
+                jcr:created="{Date}2016-08-05T02:16:33.359-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-05T02:16:33.359-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Learning&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers.html&quot;>Adobe Type Designers&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-team.html&quot;>Adobe Type Team&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-specimens.html&quot;>Type specimens&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-references-tips.html&quot;>Type reference materials&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-originals.html&quot;>Adobe Originals&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/opentype.html&quot;>OpenType&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14703885056340
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_bd93"/>
+            <text_e9ca
+                jcr:created="{Date}2016-08-05T02:16:35.913-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-05T02:16:35.913-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Resources&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blog.typekit.com/&quot;>Type &amp;amp; Typekit blog&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blogs.adobe.com/CCJKType/&quot;>CJK Type blog (Asian fonts)&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype.html&quot;>Developer information&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype/afdko.html&quot;>Font Development Kit&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/install-instructions.html&quot;>Font installation instructions&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14703885056351
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_bd93"/>
+            <text_e24b
+                jcr:created="{Date}2016-09-01T05:40:02.613Z"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-09-01T05:40:02.613Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Help&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing Center&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/creative-cloud-fonts.html&quot;>CC Bundled Fonts&amp;nbsp;FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://typekit.com/help&quot;>Web Font FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/products/fontfolio/faq.html&quot;>Font Folio FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://forums.adobe.com/community/typography_fonts&quot;>Adobe Type user forums&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14703884803610
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_bd93"/>
+            <end_14703883384360
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_680f"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2016-08-23T00:14:03.190-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2016-08-23T00:14:03.190-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2021-02-26T10:30:05.788Z"
+        cq:lastModifiedBy="21n83853"
+        cq:lastReplicated="{Date}2021-07-02T11:00:20.361Z"
+        cq:lastReplicatedBy="21n52271"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:tcs-in,filters:tcs-cs/tcs]"
+        cq:template="/apps/beagle/templates/customershowcasedetailpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Findings from Adobe Technical Communication Survey 2020"
+        jcr:uuid="175f8e48-2f21-4ef7-91c3-f6b4424f6678"
+        sling:resourceType="beagle/components/customershowcasedetailpage">
+        <customershowcasecard
+            jcr:lastModified="{Date}2021-02-26T10:30:05.774Z"
+            jcr:lastModifiedBy="21n83853"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/customershowcasecard"
+            cardType="featured"
+            companyName="Findings from Adobe Technical Communication Survey 2020"
+            creationDate="{Date}2020-04-22T08:44:00.000+05:30"
+            link1="https://www.adobe.com/products/technicalcommunicationsuite/whitepaper-technical-communication-survey-findings-2020.html"
+            link1Target="_blank"
+            link1Text="Read more"
+            link2Target="_self"
+            orderDate="{Date}2020-03-31T16:35:00.000+05:30">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                    size="426x240"
+                    type="free">
+                    <social jcr:primaryType="nt:unstructured"/>
+                    <meta
+                        jcr:primaryType="nt:unstructured"
+                        type="website">
+                        <image
+                            jcr:lastModified="{Date}2021-02-26T10:30:05.774Z"
+                            jcr:lastModifiedBy="21n83853"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </meta>
+                    <tracking jcr:primaryType="nt:unstructured"/>
+                </video>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2021-02-26T10:30:05.774Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Findings from Adobe Technical Communication Survey 2020"
+                fileReference="/content/dam/acom/en/products/robohelp/robohelp_new/Images/Adobe_2020_Survey_Findings_666x421.png"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </customershowcasecard>
+    </jcr:content>
+</jcr:root>

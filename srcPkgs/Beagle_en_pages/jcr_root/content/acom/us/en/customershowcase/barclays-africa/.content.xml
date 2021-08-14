@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-12-23T07:20:54.949Z"
+        cq:lastModifiedBy="handoo"
+        cq:lastReplicated="{Date}2019-04-05T23:15:29.659Z"
+        cq:lastReplicatedBy="tvaldez"
+        cq:lastReplicationAction="Deactivate"
+        cq:tags="[filters:csIndustry/financialServices,filters:csProduct/mc,filters:csProduct/mc/experienceManager,filters:csProduct/mc/analytics]"
+        cq:template="/apps/beagle/templates/customershowcasedetailpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Barclays Africa"
+        jcr:uuid="28e877c5-48e0-4729-8e4f-c2dc6d2db1b9"
+        sling:resourceType="beagle/components/customershowcasedetailpage"
+        removeFromHtmlSitemap="true"
+        removeFromXmlSitemap="true">
+        <customershowcasecard
+            cq:lastReplicated="{Date}2017-03-10T19:26:00.160Z"
+            cq:lastReplicatedBy="tmina"
+            cq:lastReplicationAction="Activate"
+            jcr:lastModified="{Date}2017-02-09T21:06:31.369Z"
+            jcr:lastModifiedBy="lsloane"
+            jcr:mixinTypes="[cq:ReplicationStatus]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/customershowcasecard"
+            cardType="featured"
+            companyName="Barclays"
+            creationDate="{Date}2017-01-26T10:54:00.000-08:00"
+            includeCTAVideo1="true"
+            link1Target="_self"
+            link1Text="Watch the video"
+            link2Target="_self"
+            orderDate="{Date}2017-01-16T10:55:00.000-08:00">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                    modalMode="SOCIAL_SHARE"
+                    size="854x480"
+                    type="youtube"
+                    youTubeAutoPlay="true"
+                    youTubeUrl="aQ2HpjBZI-M">
+                    <social
+                        jcr:primaryType="nt:unstructured"
+                        adobeCopyTitle="Copy to Clipboard"
+                        facebookTitle="Find out how Barclays Africa are standing out against the competition: https://adobe.ly/2ksgWxE"
+                        googleplusTitle="Find out how Barclays Africa are standing out against the competition: https://adobe.ly/2ksgWxE"
+                        introText="Share this video:"
+                        linkedinTitle="Find out how Barclays Africa are standing out against the competition: https://adobe.ly/2j48OHI"
+                        twitterTitle="Find out how @BarclaysAfrica are standing out against the competition: https://adobe.ly/2jTVGUy"/>
+                    <meta
+                        jcr:primaryType="nt:unstructured"
+                        description="Barclays: Making Banking Cool"
+                        title="Barclays Africa">
+                        <image
+                            jcr:lastModified="{Date}2017-02-09T21:06:31.369Z"
+                            jcr:lastModifiedBy="lsloane"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </meta>
+                    <tracking jcr:primaryType="nt:unstructured"/>
+                </video>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2017-02-09T21:06:31.369Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Barclays Africa"
+                fileReference="/content/dam/acom/en/customer-showcase/images/barclays-africa-660x348.png"
+                xcord="{Long}75"
+                ycord="{Long}13"/>
+            <ctavideolink1
+                jcr:lastModified="{Date}2017-01-26T19:05:14.713Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                modalMode="SOCIAL_SHARE"
+                size="854x480"
+                type="youtube"
+                youTubeAutoPlay="true"
+                youTubeUrl="aQ2HpjBZI-M">
+                <social jcr:primaryType="nt:unstructured"/>
+                <meta jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-01-26T19:05:14.713Z"
+                        jcr:lastModifiedBy="lsloane"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </meta>
+                <tracking jcr:primaryType="nt:unstructured"/>
+            </ctavideolink1>
+        </customershowcasecard>
+    </jcr:content>
+</jcr:root>

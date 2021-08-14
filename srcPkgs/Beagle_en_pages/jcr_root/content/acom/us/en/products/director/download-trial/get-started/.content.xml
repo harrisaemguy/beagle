@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-11-19T10:25:19.370Z"
+        cq:lastModifiedBy="reference-adjustment-service"
+        cq:lastReplicated="{Date}2021-07-26T07:04:21.559Z"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicationAction="Deactivate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:lockable,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:uuid="220cd5f0-2140-46c8-886b-609cb2eb36b4"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="center"
+        bodyClass="whiteBackground"
+        browserTitle="Installation instructions | Adobe Director 12"
+        disableOverviewLink="true"
+        groupSectionNavItems="no"
+        headingStyle="h1"
+        hideInSectionNav="true"
+        hideMerchandisingBar="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        marketSegmentRewrite="none"
+        metaDescription="Follow these instructions to install your trial of Adobe Director 12."
+        modalSize="426x240">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="35">
+            <image
+                jcr:lastModified="{Date}2015-09-24T17:46:50.680Z"
+                jcr:lastModifiedBy="ribhat"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column
+                jcr:created="{Date}2015-07-29T16:59:31.902-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2015-07-29T17:00:15.204-07:00"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                grid0="8"
+                layout="1;grid-cols-10 grid-offset-3;"
+                offset0="4"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-07-29T17:00:15.204-07:00"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column>
+            <text_97254443
+                jcr:created="{Date}2015-07-29T17:04:22.229-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2015-09-24T17:47:57.510Z"
+                jcr:lastModifiedBy="ribhat"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div style=&quot;text-align: center;&quot; class=&quot;text-2-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &lt;i class=&quot;adobe-icon-color-di&quot;>&lt;/i> Adobe Director 12 : Get started&lt;/span>&lt;/div>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h3>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-4-block&quot;>&lt;span class=&quot;text-light&quot;>Please follow these instructions to install your trial product.&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <column_1943157328
+                jcr:created="{Date}2015-07-29T17:00:26.078-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2015-07-29T17:05:15.844-07:00"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                multiplier="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-07-29T17:05:15.844-07:00"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_1943157328>
+            <image
+                jcr:created="{Date}2015-07-29T17:00:58.619-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2015-09-24T17:45:11.470Z"
+                jcr:lastModifiedBy="ribhat"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt=" Save the Akamai DLM Installer"
+                fileReference="/content/dam/acom/en/trial-platform/images/Director/FM_1.png">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+            </image>
+            <text
+                jcr:created="{Date}2015-07-29T17:01:16.085-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2015-09-09T03:46:34.435-07:00"
+                jcr:lastModifiedBy="ribhat"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;strong>1. Save the Akamai DLM Installer&lt;/strong>&lt;br>&#xa;Click on the &amp;quot;Save File&amp;quot; which is binary file to Install the Akamai Download Manger.&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14382144394120
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_1943157328"/>
+            <image_1858381482
+                jcr:created="{Date}2015-07-29T17:03:37.231-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2015-09-24T17:45:15.351Z"
+                jcr:lastModifiedBy="ribhat"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Open &amp; Install the Akamai DLM"
+                fileReference="/content/dam/acom/en/trial-platform/images/Director/FM_2.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+            </image_1858381482>
+            <text_1095817264
+                jcr:created="{Date}2015-07-29T17:01:40.483-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2015-09-18T10:31:52.247Z"
+                jcr:lastModifiedBy="ribhat"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;strong>2. Install the Akami DLM Installer&lt;/strong>&lt;br>&#xa;Double-click on the saved binary file and follow the instructions to Install Akmai DLM in your system.&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14382144394131
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_1943157328"/>
+            <image_1701186344
+                jcr:created="{Date}2015-07-29T17:03:42.451-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2015-09-24T17:45:20.963Z"
+                jcr:lastModifiedBy="ribhat"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Install Director"
+                fileReference="/content/dam/acom/en/trial-platform/images/Director/Directordl.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+            </image_1701186344>
+            <text_1569121480
+                jcr:created="{Date}2015-07-29T17:02:32.785-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2015-09-18T10:30:39.027Z"
+                jcr:lastModifiedBy="ribhat"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;strong>3. Install Adobe Director 12&lt;/strong>&lt;br>&#xa;Download the 30-day free Trial of&amp;nbsp;Adobe Director 12.&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14382144260910
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1943157328"/>
+            <horizontalrule
+                jcr:created="{Date}2015-08-07T18:30:49.178-07:00"
+                jcr:createdBy="isola"
+                jcr:lastModified="{Date}2015-08-07T18:30:49.178-07:00"
+                jcr:lastModifiedBy="isola"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_1714716485
+                jcr:created="{Date}2015-07-29T17:05:47.401-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2015-09-16T15:35:15.109Z"
+                jcr:lastModifiedBy="ribhat"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div style=&quot;text-align: center;&quot; class=&quot;text-5-block&quot;>&lt;strong>&lt;a target=&quot;_self&quot; href=&quot;/content/acom/us/en/products/director/download-trial/keep-learning.html&quot;>Get started with Adobe Director 12 ››&lt;/a>&lt;/strong>&lt;/div>&#xa;&lt;h6 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h6>&#xa;&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Need help?&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>If you experience issues, &lt;a href=&quot;https://www.adobe.com/downloads.html&quot; target=&quot;_self&quot; data-installer-link=&quot;true&quot;>try restarting the download&lt;/a>.&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>Adobe Director 12: &lt;a target=&quot;_blank&quot; href=&quot;http://www.adobe.com/products/director/tech-specs.html&quot;>System requirements&lt;/a>&amp;nbsp; &amp;nbsp;&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>Adobe Director 12 :&amp;nbsp; &lt;a target=&quot;_blank&quot; href=&quot;http://www.adobe.com/products/director/buying-guide.html&quot;>Buying guide &amp;amp; eligibility chart&lt;/a>&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>Adobe Director 12 : &lt;a target=&quot;_blank&quot; href=&quot;http://www.adobe.com/products/director/reviews.html&quot;>Industry reviews &amp;amp; Awards&lt;/a>&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>Adobe Director 12 : &lt;a href=&quot;http://www.adobe.com/products/director/tech-specs.html&quot; target=&quot;_blank&quot;>Help / FAQ&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <hiddenfield_7368
+                jcr:created="{Date}2015-09-03T01:53:33.844-07:00"
+                jcr:createdBy="shk"
+                jcr:lastModified="{Date}2015-09-24T17:49:02.751Z"
+                jcr:lastModifiedBy="ribhat"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/trials/components/hiddenfield"
+                name="ptThankyouPage"
+                value="director"/>
+            <end_14382143719110
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column"/>
+        </contentbody>
+        <promobar jcr:primaryType="nt:unstructured">
+            <promo
+                jcr:lastModified="{Date}2015-07-22T16:53:38.251Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/promo"
+                ctaButtonOverride="https://creative.adobe.com/plans?promoid=KSPCN"
+                ctaButtonText="Choose a plan"
+                enablePriceDisplay="true"
+                icon="promo-icon adobe-icon-creativecloud"
+                marketSegmentRewrite="COM"
+                priceType="SUB_NEW"
+                product="creative_cloud"
+                productIntroText="Get the entire collection of creative apps and more for"
+                purchasePhoneCss="promo-phone">
+                <productInfo jcr:primaryType="nt:unstructured"/>
+                <free
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="https://creative.adobe.com/plans?promoid=KSPCN"
+                    ctaButtonText="Choose a plan"
+                    productIntroText="Get the entire collection of creative apps and more for"/>
+                <paid
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="http://max.adobe.com/?promoid=KTJLS"
+                    ctaButtonText="Learn more"
+                    productIntroText="Join us at Adobe MAX. The Creativity Conference. Oct. 3–7 in Los Angeles."/>
+            </promo>
+        </promobar>
+        <contentlayer
+            jcr:lastModified="{Date}2014-11-25T22:30:20.382Z"
+            jcr:lastModifiedBy="wmyersta"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/contentlayer"
+            horizontalAlign="1"
+            opacity="{Long}0"
+            rgb="FFFFFF"
+            textcolor="text-alt-color"
+            verticalAlign="2"
+            width="{Long}55">
+            <title jcr:primaryType="nt:unstructured"/>
+            <text
+                jcr:primaryType="nt:unstructured"
+                text="&lt;div class=&quot;text-0-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Make something great.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>Introducing all-new versions of your favorite desktop apps.&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2015-09-24T17:46:50.680Z"
+                    jcr:lastModifiedBy="ribhat"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <topofbodymbox
+            jcr:lastModified="{Date}2014-12-16T03:54:16.687Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="TopOfBody"/>
+        <bottomofbodymbox
+            jcr:lastModified="{Date}2014-12-16T03:54:30.562Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="BottomOfBody"/>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+    </jcr:content>
+</jcr:root>

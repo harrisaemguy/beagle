@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2015-06-09T16:42:59.432-07:00"
+        cq:lastModifiedBy="jperlas"
+        cq:lastReplicated="{Date}2016-06-24T22:14:12.053Z"
+        cq:lastReplicatedBy="golee"
+        cq:lastReplicationAction="Deactivate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:lockable,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="What's New"
+        jcr:uuid="2a94a57a-302f-4598-bc32-ff8f82cbe456"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        browserTitle="Flash Professional CC new features | Buy Adobe Flash Professional CC"
+        freeTrial="Free Trial"
+        freeTrialLoggedIn="Download"
+        freeTrialUrl="https://creative.adobe.com/products/download/flash"
+        freeTrialUrlLoggedIn="https://creative.adobe.com/products/download/flash"
+        groupSectionNavItems="no"
+        headingStyle="h1"
+        hideInNav="true"
+        hideMerchandisingBar="inherit"
+        hidePromoComponent="hide"
+        marketSegmentRewrite="none"
+        metaDescription="Get access to the latest features of Adobe Flash Professional CC. The Bone tool is back, along with an improved animator workspace and more. Only in Creative Cloud."
+        product="flash_professional">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <image
+            jcr:lastModified="{Date}2014-09-04T19:27:20.239-07:00"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <calendar_57fd
+                jcr:created="{Date}2014-08-21T11:57:26.161-07:00"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2014-09-03T19:36:04.436-07:00"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/calendar"
+                text="&lt;div class=&quot;text-4-block&quot;>&lt;a href=&quot;/content/acom/us/en/products/flash/versions.html&quot; target=&quot;_self&quot;>Compare older versions&amp;nbsp;›&lt;/a>&lt;/div>&#xa;">
+                <featuregroup_b667
+                    jcr:created="{Date}2015-04-15T20:39:42.916Z"
+                    jcr:createdBy="ehickey"
+                    jcr:lastModified="{Date}2015-05-14T21:39:50.456-07:00"
+                    jcr:lastModifiedBy="gewittig"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/calendar/featuregroup"
+                    date="{Date}2015-06-15T00:00:00.000-07:00"
+                    title="Flash Professional CC (2015)">
+                    <feature_e028
+                        jcr:created="{Date}2014-09-15T17:17:23.325Z"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2015-04-28T22:24:38.888Z"
+                        jcr:lastModifiedBy="juliemai"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Bring your characters to life with advanced kinematics. Link objects together and manipulate them in real time to create natural, dynamic movement. The Bone tool — back by popular demand. &lt;br>&#xa; &lt;/span>&lt;/p>&#xa;"
+                        title="Lifelike animation with the Bone tool"/>
+                    <feature_ad95
+                        jcr:created="{Date}2014-09-15T17:18:05.825Z"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2015-04-15T20:52:13.308Z"
+                        jcr:lastModifiedBy="ehickey"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Minimize the number of files in your project. Export the bitmaps in your HTML5 Canvas document as a single sprite sheet. Make the most of your animations in online ads and meet Interactive Advertising Bureau (IAB) guidelines.&lt;br>&#xa;&lt;/span>&lt;/p>&#xa;"
+                        title="Sprite-sheet export"/>
+                    <feature_5a38
+                        jcr:created="{Date}2014-09-15T17:20:00.487Z"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2015-05-01T23:38:47.300Z"
+                        jcr:lastModifiedBy="golee"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Import H.264 videos directly onto the Timeline to use as a guide layer.&lt;br>&#xa; &lt;/span>&lt;/p>&#xa;"
+                        title="Video import on Timeline"/>
+                    <feature_c227
+                        jcr:created="{Date}2014-09-15T17:20:23.995Z"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2015-04-26T18:54:23.702Z"
+                        jcr:lastModifiedBy="ehickey"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Split audio files directly on the Timeline to coordinate blank frames as you animate.&lt;br>&#xa; &lt;/span>&lt;/p>&#xa;"
+                        title="Audio splitting"/>
+                    <feature_72e6
+                        jcr:created="{Date}2014-09-15T17:20:56.651Z"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2015-04-15T20:54:46.346Z"
+                        jcr:lastModifiedBy="ehickey"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Zoom in or out. Your brush can now scale to match the stage size. No overgrown or microscopic brushes.&lt;br>&#xa;&lt;/span>&lt;/p>&#xa;"
+                        title="Brush at any scale"/>
+                    <feature_fd9f
+                        jcr:created="{Date}2014-09-15T17:21:28.543Z"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2015-04-15T20:55:41.495Z"
+                        jcr:lastModifiedBy="ehickey"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Saving large files is faster than ever. No more waiting. Save your file and get right back to it.&lt;br>&#xa;&lt;/span>&lt;/p>&#xa;"
+                        textIsRich="true"
+                        title="Save at lightning speed"/>
+                    <feature_9184
+                        jcr:created="{Date}2015-04-15T20:56:07.433Z"
+                        jcr:createdBy="ehickey"
+                        jcr:lastModified="{Date}2015-04-15T20:57:06.309Z"
+                        jcr:lastModifiedBy="ehickey"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Publish HTML5 projects without the waste. No unused library items, keyframes, or assets. Drastically optimize your finished projects.&lt;br>&#xa;&lt;/span>&lt;/p>&#xa;"
+                        title="HTML5 optimization "/>
+                    <feature_10aa
+                        jcr:created="{Date}2015-04-15T20:57:20.750Z"
+                        jcr:createdBy="ehickey"
+                        jcr:lastModified="{Date}2015-04-26T18:54:59.556Z"
+                        jcr:lastModifiedBy="ehickey"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Take full advantage of advanced 64-bit processing in iOS to create rich interactive apps.&lt;br>&#xa; &lt;/span>&lt;/p>&#xa;"
+                        title="iOS 64-bit support"/>
+                </featuregroup_b667>
+                <featuregroup_8319
+                    jcr:created="{Date}2014-09-15T17:16:54.781Z"
+                    jcr:createdBy="gewittig"
+                    jcr:lastModified="{Date}2014-09-15T17:17:15.263Z"
+                    jcr:lastModifiedBy="gewittig"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/calendar/featuregroup"
+                    date="{Date}2014-10-06T00:00:00.000Z"
+                    title="Flash Professional CC (2014.1)">
+                    <feature_e028
+                        jcr:created="{Date}2014-09-15T17:17:23.325Z"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2014-09-15T17:17:59.238Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Publish fully interactive animations — with scripting and audio — to the WebGL format. They can run in modern browsers without Flash Player and take advantage of GPU-accelerated hardware.&amp;nbsp;&lt;/span>&lt;/p>&#xa;"
+                        title="Expanded WebGL support"/>
+                    <feature_ad95
+                        jcr:created="{Date}2014-09-15T17:18:05.825Z"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2014-09-15T17:18:27.928Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Create your own brushes to get the ideal shape, angle, and flatness. Save them to use again, and access them across multiple computers thanks to Sync Settings in Creative Cloud.&lt;/span>&lt;/p>&#xa;"
+                        title="Custom brushes"/>
+                    <feature_5a38
+                        jcr:created="{Date}2014-09-15T17:20:00.487Z"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2014-09-15T17:20:18.425Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Back by popular demand: the ability to import SWFs into your projects as assets.&lt;/span>&lt;/p>&#xa;"
+                        title="SWF import"/>
+                    <feature_c227
+                        jcr:created="{Date}2014-09-15T17:20:23.995Z"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2014-09-16T18:49:03.409Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Control the scale transformation of an animated object to better customize its motion, and transform its color along the path of a motion guide.&lt;/span>&lt;/p>&#xa;"
+                        title="Animation guides"/>
+                    <feature_72e6
+                        jcr:created="{Date}2014-09-15T17:20:56.651Z"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2014-09-15T17:21:22.716Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Thanks to a new SDK, developers can extend Flash Professional to add support for more formats.&lt;/span>&lt;/p>&#xa;"
+                        title="Custom platform support"/>
+                    <feature_fd9f
+                        jcr:created="{Date}2014-09-15T17:21:28.543Z"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2015-06-09T16:42:25.157-07:00"
+                        jcr:lastModifiedBy="jperlas"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Also includes: Usability enhancements; the ability to publish Adobe AIR apps with a shared runtime; and the ability to publish apps for Intel x86–based Android devices.&lt;br>&#xa; &lt;a target=&quot;_self&quot; href=&quot;https://helpx.adobe.com/flash/using/whats-new-2014.html&quot;>See full release notes ›&lt;/a>&lt;/span>&lt;/p>&#xa;"
+                        textIsRich="true"
+                        title="And so much more"/>
+                </featuregroup_8319>
+                <featuregroup_241
+                    jcr:created="{Date}2014-08-21T12:26:56.364-07:00"
+                    jcr:createdBy="gewittig"
+                    jcr:lastModified="{Date}2014-08-21T12:27:11.381-07:00"
+                    jcr:lastModifiedBy="gewittig"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/calendar/featuregroup"
+                    date="{Date}2014-06-18T00:00:00.000-07:00"
+                    title="Flash Professional CC (2014)">
+                    <feature_cc0e
+                        jcr:created="{Date}2014-08-21T12:27:39.627-07:00"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2014-09-03T16:41:04.727-07:00"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Export any frame in your Flash project as an SVG file that can be scaled up and used in posters and other promotional materials.&lt;br>&#xa;&lt;a href=&quot;https://helpx.adobe.com/flash/how-to/flashpro-export-svg.html?set=flash--whats-new--2014-06&quot; target=&quot;_self&quot;>See it in action ›&lt;/a>&lt;/span>&lt;/p>&#xa;"
+                        title="SVG export"/>
+                    <feature_1b27
+                        jcr:created="{Date}2014-08-21T12:27:43.938-07:00"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2014-09-03T16:41:16.078-07:00"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Draw strokes with widths that can be adjusted at any point. Create and save profiles for any stroke, or use variable-width presets.&lt;br>&#xa;&lt;a href=&quot;https://helpx.adobe.com/flash/how-to/flashpro-draw-animate-variable-width-strokes.html?set=flash--whats-new--2014-06&quot; target=&quot;_self&quot;>See it in action ›&lt;/a>&lt;/span>&lt;/p>&#xa;"
+                        title="Variable-width strokes"/>
+                    <feature_4b5d
+                        jcr:created="{Date}2014-08-21T12:27:47.839-07:00"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2014-09-03T16:41:27.270-07:00"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Add a shape tween to a variable-width stroke to create an animation as the stroke changes.&lt;br>&#xa;&lt;a href=&quot;https://helpx.adobe.com/flash/how-to/flashpro-draw-animate-variable-width-strokes.html?set=flash--whats-new--2014-06&quot; target=&quot;_self&quot;>See it in action ›&lt;/a>&lt;/span>&lt;/p>&#xa;"
+                        title="Tweening for variable-width strokes"/>
+                    <feature_e9c
+                        jcr:created="{Date}2014-08-21T12:27:51.578-07:00"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2014-09-16T14:07:24.041Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Back by popular demand, the updated Motion Editor gives you precise control over motion tween properties like color effects and transformations.&lt;br>&#xa; &lt;a href=&quot;https://helpx.adobe.com/flash/how-to/create-animations-motion-editor.html?set=flash--whats-new--2014-06&quot; target=&quot;_self&quot;>See it in action ›&lt;/a>&lt;/span>&lt;/p>&#xa;"
+                        title="New Motion Editor"/>
+                    <feature_7732
+                        jcr:created="{Date}2014-08-21T12:27:55.309-07:00"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2014-09-03T16:41:51.099-07:00"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Publish animations to the WebGL format so they can run in modern browsers without needing Flash Player — and they can take advantage of GPU hardware acceleration.&lt;br>&#xa;&lt;a href=&quot;https://helpx.adobe.com/flash/how-to/flashpro-export-webgl.html?set=flash--whats-new--2014-06&quot; target=&quot;_self&quot;>See it in action ›&lt;/a>&lt;/span>&lt;/p>&#xa;"
+                        title="WebGL for animation"/>
+                    <feature_5efa
+                        jcr:created="{Date}2014-08-21T12:27:59.182-07:00"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2014-08-21T12:33:06.718-07:00"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>It’s back. Object-level undo lets you undo an action on one object without having to undo actions on other objects you changed more recently.&lt;/span>&lt;/p>&#xa;"
+                        title="Object-level undo"/>
+                    <feature_75b9
+                        jcr:created="{Date}2014-08-21T12:28:03.740-07:00"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2014-09-30T23:44:31.930Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Publish videos as Flash projector (.exe) files so they’re viewable even on systems that don’t have Flash Player installed.&lt;br>&#xa; &lt;a href=&quot;http://helpx.adobe.com/flash/using/exporting-projector-files.html&quot; target=&quot;_self&quot;>See it in action ›&lt;/a>&lt;/span>&lt;/p>&#xa;"
+                        title="Projector support"/>
+                    <feature_ac04
+                        jcr:created="{Date}2014-08-21T12:28:08.740-07:00"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2014-08-21T12:33:59.183-07:00"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Flash Professional now supports HTML5-based panels, so developers can extend the app’s capabilities with new features and content.&lt;/span>&lt;/p>&#xa;"
+                        title="HTML5 extension support"/>
+                    <feature_b866
+                        jcr:created="{Date}2014-09-04T19:50:49.917-07:00"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2015-06-09T16:42:59.407-07:00"
+                        jcr:lastModifiedBy="jperlas"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Also included: Adobe Kuler panel, creating HTML5 extensions; and more.&lt;br>&#xa; &lt;/span>&lt;a style=&quot;font-style: normal;&quot; target=&quot;_self&quot; href=&quot;https://helpx.adobe.com/flash/using/whats-new-2014.html&quot;>&lt;span class=&quot;text-light&quot;>See full release notes ›&lt;/span>&lt;/a>&lt;/p>&#xa;"
+                        title="And so much more"/>
+                </featuregroup_241>
+                <featuregroup_1a02
+                    jcr:created="{Date}2014-08-21T12:26:01.330-07:00"
+                    jcr:createdBy="gewittig"
+                    jcr:lastModified="{Date}2014-08-21T12:26:27.134-07:00"
+                    jcr:lastModifiedBy="gewittig"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/calendar/featuregroup"
+                    date="{Date}2013-12-03T00:00:00.000-08:00"
+                    title="Flash Professional CC (13.1)">
+                    <feature_ab26
+                        jcr:created="{Date}2014-08-21T12:34:58.669-07:00"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2014-09-03T16:42:19.416-07:00"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Build interactive content in a familiar authoring environment that is now customized for the HTML5 Canvas platform. Add frame scripts using native support for JavaScript, including code hinting, code coloring, and more.&lt;br>&#xa;&lt;a href=&quot;https://helpx.adobe.com/flash/how-to/creating-publishing-html5-canvas-document.html?set=flash--whats-new--2013-12&quot; target=&quot;_self&quot;>See it in action ›&lt;/a>&lt;/span>&lt;/p>&#xa;"
+                        title="HTML5 Canvas support"/>
+                    <feature_d8e1
+                        jcr:created="{Date}2014-09-04T19:52:03.196-07:00"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2014-10-03T03:20:20.097Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Also included: Usability enhancements to the Swatches panel; auto-formatting of code within the Actions panel; code hinting for JavaScript snippets and JS APIs; code snippets panel; and more.&lt;br>&#xa; &lt;/span>&lt;a href=&quot;https://helpx.adobe.com/flash/using/whats-new-flash-professional-cc.html&quot; target=&quot;_self&quot; style=&quot;font-style: normal;&quot;>&lt;span class=&quot;text-light&quot;>See full release notes ›&lt;/span>&lt;/a>&lt;/p>&#xa;"
+                        title="And so much more"/>
+                </featuregroup_1a02>
+                <featuregroup_723b
+                    jcr:created="{Date}2014-08-21T12:25:20.664-07:00"
+                    jcr:createdBy="gewittig"
+                    jcr:lastModified="{Date}2014-08-21T12:25:56.495-07:00"
+                    jcr:lastModifiedBy="gewittig"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/calendar/featuregroup"
+                    date="{Date}2013-06-17T00:00:00.000-07:00"
+                    title="Flash Professional CC (13)">
+                    <feature_9222
+                        jcr:created="{Date}2014-08-21T12:36:57.580-07:00"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2014-08-21T12:38:03.472-07:00"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Reach virtually any screen with enhanced HTML5 support using the updated Toolkit for CreateJS, which includes new functionality for buttons, hit areas, and motion curves.&lt;/span>&lt;/p>&#xa;"
+                        title="Improved HTML publishing"/>
+                    <feature_9531
+                        jcr:created="{Date}2014-08-21T12:37:02.024-07:00"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2014-09-16T18:53:03.829Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Reengineered from the ground up, 64-bit Flash Professional CC is more modular and delivers unprecedented speed and stability. Easily manage multiple large files, publish more quickly, and experience a more responsive timeline.&lt;/span>&lt;/p>&#xa;"
+                        title="64-bit architecture"/>
+                    <feature_ca4e
+                        jcr:created="{Date}2014-08-21T12:37:06.570-07:00"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2014-08-21T12:38:50.552-07:00"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>See full previews instantly — with fill and stroke color — as you draw, using any of the shape tools in Flash Professional. Your designs will take shape faster than ever before.&lt;/span>&lt;/p>&#xa;"
+                        title="Real-time drawing"/>
+                    <feature_663b
+                        jcr:created="{Date}2014-08-21T12:37:10.957-07:00"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2014-09-16T18:54:06.307Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Work the way you like on any of your computers — Mac or PC. Synchronize your workspace settings to Creative Cloud — including preferences and presets — so they go where you go.&lt;br>&#xa; &lt;a href=&quot;https://helpx.adobe.com/creative-cloud/how-to/creative-cloud-sync-settings.html?set=flash--whats-new--2013-06&quot; target=&quot;_self&quot;>See it in action ›&lt;/a>&lt;/span>&lt;/p>&#xa;"
+                        title="Sync Settings"/>
+                    <feature_6b60
+                        jcr:created="{Date}2014-08-21T12:37:15.210-07:00"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2014-09-03T16:42:41.510-07:00"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Focus clearly on your content with a streamlined user interface. Dialog boxes and panels are more intuitive and easier to navigate. Choose between a light or dark user interface.&lt;br>&#xa;&lt;a href=&quot;https://helpx.adobe.com/flash/using/whats-new.html#The%20redesigned%20Flash%20Professional%20User%20Interface&quot; target=&quot;_self&quot;>See it in action ›&lt;/a>&lt;/span>&lt;/p>&#xa;"
+                        title="Simplified user interface"/>
+                    <feature_aa5e
+                        jcr:created="{Date}2014-08-21T12:37:20.207-07:00"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2014-09-16T18:54:38.491Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Manage properties across multiple selected layers in the Timeline panel. Easily swap symbols or bitmap images on the stage. Select multiple objects on a layer and distribute them to keyframes with a single click.&lt;br>&#xa; &lt;a href=&quot;https://helpx.adobe.com/flash/how-to/timeline-in-flash.html?set=flash--whats-new--2013-06&quot; target=&quot;_self&quot;>See it in action ›&lt;/a>&lt;/span>&lt;/p>&#xa;"
+                        title="Timeline time-savers"/>
+                    <feature_7dd0
+                        jcr:created="{Date}2014-08-21T12:37:24.992-07:00"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2014-08-21T12:42:11.857-07:00"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Easily manage large backgrounds or content that's positioned offstage with an unlimited pasteboard/work area.&lt;/span>&lt;/p>&#xa;"
+                        title="Unlimited pasteboard size"/>
+                    <feature_2915
+                        jcr:created="{Date}2014-08-21T12:37:30.455-07:00"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2014-08-21T12:42:38.012-07:00"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Write code more efficiently using the new code editor, built with the open source Scintilla library. Search across multiple files using a new Find and Replace panel to update code fast.&lt;/span>&lt;/p>&#xa;"
+                        title="Powerful code editor"/>
+                    <feature_a9c1
+                        jcr:created="{Date}2014-08-21T12:37:35.255-07:00"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2014-08-21T12:43:05.107-07:00"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Test and debug your content in fewer steps by connecting multiple iOS and Android mobile devices directly to your computer via USB.&lt;/span>&lt;/p>&#xa;"
+                        title="Testing and debugging via USB"/>
+                    <feature_e5b3
+                        jcr:created="{Date}2014-08-21T12:37:40.263-07:00"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2014-08-21T12:43:29.104-07:00"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Design layouts, dialog boxes, game assets, or game levels using a new set of JavaScript APIs. Assign properties to these elements as you create them in Flash Professional.&lt;/span>&lt;/p>&#xa;"
+                        title="Custom metadata APIs"/>
+                    <feature_3c4b
+                        jcr:created="{Date}2014-09-04T19:53:31.376-07:00"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2014-10-03T03:20:32.676Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Also included: Enhancements for AIR application development workflows; error messages for JS APIs; and more.&lt;br>&#xa; &lt;/span>&lt;a href=&quot;https://helpx.adobe.com/flash/using/whats-new-flash-professional-cc.html&quot; target=&quot;_self&quot; style=&quot;font-style: normal;&quot;>&lt;span class=&quot;text-light&quot;>See full release notes ›&lt;/span>&lt;/a>&lt;/p>&#xa;"
+                        title="And so much more"/>
+                </featuregroup_723b>
+                <intro
+                    jcr:lastModified="{Date}2015-05-25T23:13:54.232-07:00"
+                    jcr:lastModifiedBy="jperlas"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/text"
+                    text="&lt;h2 style=&quot;text-align: center;&quot;>We’ve been busy.&lt;/h2>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>With Flash Professional CC, you always have access to new features as soon as they’re released.&amp;nbsp;On an older version?&amp;nbsp;&lt;a href=&quot;/content/acom/us/en/products/flash/versions.html&quot; target=&quot;_self&quot;>Compare features&amp;nbsp;›&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            </calendar_57fd>
+        </contentbody>
+        <topofbodymbox
+            jcr:lastModified="{Date}2014-10-13T16:47:38.262Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="TopOfBody"/>
+        <bottomofbodymbox
+            jcr:lastModified="{Date}2014-10-13T16:50:07.977Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="BottomOfBody"/>
+        <imagelayer jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2015-05-25T22:10:29.228-07:00"
+                jcr:lastModifiedBy="jperlas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2015-05-25T22:10:29.228-07:00"
+                    jcr:lastModifiedBy="jperlas"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+    </jcr:content>
+</jcr:root>

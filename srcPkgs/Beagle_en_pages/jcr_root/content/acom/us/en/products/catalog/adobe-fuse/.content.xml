@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2017-06-21T23:17:30.858Z"
+        cq:lastModifiedBy="golee"
+        cq:lastReplicated="{Date}2017-06-13T17:15:17.880Z"
+        cq:lastReplicatedBy="golee"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:product-catalog/cd/design]"
+        cq:template="/apps/beagle/templates/productcardpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:Title="Comp"
+        jcr:title="Fuse (Beta)"
+        jcr:uuid="f8d8b981-9360-49c4-813e-e12ec778477b"
+        sling:resourceType="beagle/components/productcardpage"
+        alignment="left"
+        browserTitle="Fuse (Beta)"
+        cardDescription="Create custom 3D characters for Photoshop projects."
+        cardIcon="adobe-icon-fs"
+        cardIconLinkURL="/content/acom/us/en/products/fuse"
+        cardIcontarget="_self"
+        cardTitle="Fuse (Beta)"
+        creationDate="{Date}2017-06-12T14:12:00.000-07:00"
+        distType="dist5"
+        freeTrialUrlLoggedInModalScrolling="no"
+        freeTrialUrlLoggedInModalSize="426x240"
+        freeTrialUrlLoggedInTarget="_self"
+        freeTrialUrlModalScrolling="no"
+        freeTrialUrlModalSize="426x240"
+        freeTrialUrlTarget="_self"
+        globalnavProfileTheme="default"
+        groupSectionNavItems="no"
+        hideInSectionNav="true"
+        hideMerchandisingBar="inherit"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="inherit"
+        iconLinkURL="/content/acom/us/en/products/comp"
+        marketSegmentRewrite="COM"
+        metaDescription="Fuse (Beta)"
+        modalSize="426x240"
+        noIndex="true"
+        orderDate="{Date}2017-05-01T17:00:00.000-07:00"
+        pageTitle="Fuse (Beta)"
+        removeFromHtmlSitemap="true"
+        removeFromSitemap="true"
+        removeFromXmlSitemap="true"
+        stagelastReplicated="12-Jun-2017 21:16"
+        stagelastReplicatedBy="golee"
+        stageLastReplicationAction="ActivatedtoStage"
+        tryLinkModalScrolling="no"
+        tryLinkModalSize="426x240"
+        tryLinkProductPlanModalScrolling="no"
+        tryLinkProductPlanModalSize="426x240"
+        tryLinkProductPlanTarget="_self"
+        tryLinkTarget="_self"
+        useH1Tags="pageTitle">
+        <sectionMore
+            jcr:primaryType="nt:unstructured"
+            linkModalScrolling="no"
+            linkModalSize="426x240"
+            linkTarget="_self"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2017-06-13T17:15:14.757Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2017-06-13T17:15:14.757Z"
+                    jcr:lastModifiedBy="golee"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <links
+            jcr:primaryType="nt:unstructured"
+            sort_mdv="[0,1]">
+            <_x0030_
+                jcr:primaryType="nt:unstructured"
+                cardLinktarget="_self"
+                cardLinkText="Learn more"
+                cardLinkType="buttonlink"
+                cardLinkURL="/content/acom/us/en/products/fuse"/>
+            <_x0031_
+                jcr:primaryType="nt:unstructured"
+                cardLinktarget="_self"
+                cardLinkText="Download trial"
+                cardLinkType="textlink"
+                cardLinkURL="https://creative.adobe.com/products/download/fuse?promoid=9J8K4JSN&amp;mv=other"/>
+        </links>
+    </jcr:content>
+</jcr:root>

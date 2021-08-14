@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-10-11T11:18:25.527Z"
+        cq:lastModifiedBy="handoo"
+        cq:lastReplicated="{Date}2019-10-16T21:26:23.094Z"
+        cq:lastReplicatedBy="karchie"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:csProduct/cc/afterEffects,filters:csProduct/cc/premierePro,filters:csIndustry/mediaEntertainment,filters:csProduct/cc]"
+        cq:template="/apps/beagle/templates/customershowcasedetailpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="David Lowery"
+        jcr:uuid="db534509-524b-4cb7-b022-0c8c502f9981"
+        sling:resourceType="beagle/components/customershowcasedetailpage"
+        noIndex="true"
+        removeFromHtmlSitemap="true"
+        removeFromSitemap="true"
+        removeFromXmlSitemap="true">
+        <customershowcasecard
+            jcr:lastModified="{Date}2017-02-13T20:38:21.634Z"
+            jcr:lastModifiedBy="lsloane"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/customershowcasecard"
+            cardType="standard"
+            companyName="David Lowery"
+            creationDate="{Date}2017-02-06T14:51:00.000-08:00"
+            detailPageLink="/content/acom/us/en/index"
+            includeCTAVideo1="true"
+            link1Target="_self"
+            link1Text="Watch the video"
+            link2Target="_blank"
+            orderDate="{Date}2017-01-25T09:48:00.000-08:00">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                    freeFormUrl="https://youtu.be/XLOG8nRUsDg?list=PLD8AMy73ZVxVIEGCyxh9bNoIDpLNyfMO"
+                    modalMode="VIDEO"
+                    size="854x480"
+                    type="youtube"
+                    youTubeAutoPlay="true"
+                    youTubeUrl="XLOG8nRUsDg">
+                    <social jcr:primaryType="nt:unstructured"/>
+                    <meta jcr:primaryType="nt:unstructured">
+                        <image
+                            jcr:lastModified="{Date}2017-02-13T20:38:21.634Z"
+                            jcr:lastModifiedBy="lsloane"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </meta>
+                    <tracking jcr:primaryType="nt:unstructured"/>
+                </video>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2017-02-13T20:38:21.634Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="David Lowery"
+                fileReference="/content/dam/acom/en/customer-showcase/images/david-lowery-660x348.png"
+                xcord="{Long}76"
+                ycord="{Long}37"/>
+            <ctavideolink1
+                jcr:lastModified="{Date}2017-02-13T20:38:44.471Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                freeFormUrl="https://youtu.be/XLOG8nRUsDg?list=PLD8AMy73ZVxVIEGCyxh9bNoIDpLNyfMO"
+                modalMode="VIDEO"
+                size="854x480"
+                type="youtube"
+                youTubeAutoPlay="true"
+                youTubeUrl="XLOG8nRUsDg">
+                <social jcr:primaryType="nt:unstructured"/>
+                <meta jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-02-13T20:38:44.471Z"
+                        jcr:lastModifiedBy="lsloane"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </meta>
+                <tracking jcr:primaryType="nt:unstructured"/>
+            </ctavideolink1>
+        </customershowcasecard>
+    </jcr:content>
+</jcr:root>

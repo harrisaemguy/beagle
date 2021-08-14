@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-10-11T11:20:28.545Z"
+        cq:lastModifiedBy="handoo"
+        cq:lastReplicated="{Date}2019-10-16T21:23:49.864Z"
+        cq:lastReplicatedBy="karchie"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:csProduct/mc,filters:csProduct/mc/campaign,filters:csIndustry/travelHospitality]"
+        cq:template="/apps/beagle/templates/customershowcasedetailpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Travelocity"
+        jcr:uuid="a9868b96-bcc3-45db-ad00-2f760933d757"
+        sling:resourceType="beagle/components/customershowcasedetailpage"
+        noIndex="true"
+        removeFromHtmlSitemap="true"
+        removeFromSitemap="true"
+        removeFromXmlSitemap="true">
+        <customershowcasecard
+            cq:lastReplicated="{Date}2017-03-10T19:26:47.637Z"
+            cq:lastReplicatedBy="tmina"
+            cq:lastReplicationAction="Activate"
+            jcr:lastModified="{Date}2019-10-11T09:49:21.920Z"
+            jcr:lastModifiedBy="akumawat"
+            jcr:mixinTypes="[cq:ReplicationStatus]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/customershowcasecard"
+            cardType="featured"
+            companyName="Travelocity"
+            creationDate="{Date}2018-03-29T21:33:00.000+05:30"
+            includeCTAVideo2="true"
+            link1="https://www.adobe.com/customer-success-stories/travelocity-case-study.html"
+            link1Target="_blank"
+            link1Text="Read the story"
+            link2Target="_self"
+            link2Text="Watch the video"
+            orderDate="{Date}2016-12-16T23:30:00.000+05:30">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                    size="854x480"
+                    type="youtube"
+                    youTubeAutoPlay="true"
+                    youTubeUrl="1fMXG2Q3IrA">
+                    <social jcr:primaryType="nt:unstructured"/>
+                    <meta jcr:primaryType="nt:unstructured">
+                        <image
+                            jcr:lastModified="{Date}2019-10-11T09:49:21.920Z"
+                            jcr:lastModifiedBy="akumawat"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </meta>
+                    <tracking jcr:primaryType="nt:unstructured"/>
+                </video>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2019-10-11T09:49:21.920Z"
+                jcr:lastModifiedBy="akumawat"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Travelocity"
+                fileReference="/content/dam/acom/en/customer-showcase/images/travelocity-660x348.png"
+                xcord="{Long}73"
+                ycord="{Long}84"/>
+            <ctavideolink2
+                jcr:lastModified="{Date}2016-12-16T22:32:17.516Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                size="854x480"
+                type="youtube"
+                youTubeAutoPlay="true"
+                youTubeUrl="1fMXG2Q3IrA">
+                <social jcr:primaryType="nt:unstructured"/>
+                <meta jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-12-16T22:32:17.516Z"
+                        jcr:lastModifiedBy="lsloane"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </meta>
+                <tracking jcr:primaryType="nt:unstructured"/>
+            </ctavideolink2>
+        </customershowcasecard>
+    </jcr:content>
+</jcr:root>

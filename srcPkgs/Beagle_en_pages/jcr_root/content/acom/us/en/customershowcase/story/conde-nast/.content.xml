@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-12-23T07:21:00.599Z"
+        cq:lastModifiedBy="handoo"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Conde Nast"
+        jcr:uuid="532fdfb0-3a90-46f5-ac76-5b97c0b4a120"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        billingFrequency="ANNUAL"
+        bodyClass="whiteBackground"
+        browserTitle="Adobe | Customer Showcase"
+        channel="adobe.com"
+        commitment="YEAR"
+        distType="dist5"
+        enableBreadcrumb="true"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        gnavTheme="dark"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        isMCPage="true"
+        marketSegmentRewrite="COM"
+        metaDescription="Adobe | Customer Showcase"
+        modalSize="426x240"
+        modelCode="INDIVIDUAL"
+        navTitle=" "
+        overrideBreadcrumbPath="/content/acom/us/en/customershowcase"
+        pageTitle="Adobe Customer Showcase"
+        pricePoint="REGULAR"
+        removeFromHtmlSitemap="true"
+        removeFromXmlSitemap="true"
+        stagelastReplicated="30-Nov-2017 20:47"
+        stagelastReplicatedBy="wmyersta"
+        stageLastReplicationAction="ActivatedtoStage"
+        topPadding="small-top-padding"
+        useH1Tags="pageTitle">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_951442349
+                jcr:created="{Date}2017-11-03T23:47:22.323Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-09T23:51:35.143Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                columnCount="1"
+                grid0="4"
+                layout="1;grid-cols-4 grid-offset-6      ;"
+                multiplier="3"
+                offset0="6"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-09T23:51:35.143Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_951442349>
+            <image_d6ac
+                jcr:created="{Date}2017-02-23T17:11:53.887Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-16T19:47:59.121Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Conde Nast"
+                fileReference="/content/dam/acom/en/customer-showcase/logo/conde-nast-logo_600x138.png">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-10-16T19:47:59.121Z"
+                    jcr:lastModifiedBy="sale"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d6ac>
+            <end_15097528423370
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_951442349"/>
+            <column_403323371
+                jcr:created="{Date}2017-11-03T23:41:11.531Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:47:53.589Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-03T23:47:53.589Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_403323371>
+            <horizontalrule_1747206081
+                jcr:created="{Date}2017-11-03T23:44:09.184Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:44:09.184Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_15097528030730
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_403323371"/>
+            <column_e8e7
+                jcr:created="{Date}2017-04-04T20:12:05.215Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:48:09.441Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                grid0="7"
+                grid1="4"
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="3"
+                offset0="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-03T23:48:09.441Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_e8e7>
+            <text_d97c
+                jcr:created="{Date}2017-02-23T16:59:17.420Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-13T23:38:16.715Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>Challenges&lt;/strong>&lt;/div>&#xa;&lt;ul class=&quot;text-5-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Understanding audiences to improve editorial and advertising content&lt;/span>&lt;br>&#xa;&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Identifying and building high-value audiences&lt;/span>&lt;br>&#xa;&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Aligning advertising and editorial goals to boost revenue&lt;/span>&lt;br>&#xa;&lt;/li>&#xa;&lt;/ul>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;strong>Key products used&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Analytics, Adobe Media Optimizer, Adobe Target, Adobe Experience Manager, and Adobe Social solutions within Adobe Marketing Cloud&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14913367252261
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_e8e7"/>
+            <column_42770692
+                jcr:created="{Date}2017-11-03T23:45:33.893Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:46:43.056Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                grid0="7"
+                grid1="4"
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="9"
+                offset0="3"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-03T23:46:43.056Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_42770692>
+            <horizontalrule
+                jcr:created="{Date}2017-11-03T23:44:00.392Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:44:00.392Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_15097527339070
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_42770692"/>
+            <column_2de6
+                jcr:created="{Date}2017-02-23T16:57:01.644Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T16:57:18.746Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                section="v"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-02-23T16:57:18.746Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_2de6>
+            <text_86ac
+                jcr:created="{Date}2017-02-23T17:14:47.284Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-16T20:14:04.859Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&lt;span class=&quot;text-light&quot;>&lt;strong>Condé Nast, fashioning quality brands.&amp;nbsp;&lt;/strong>&lt;/span>&lt;br>&#xa;&lt;/h3>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Leading magazine publisher uses Adobe Marketing Cloud to reach its core audiences and boost revenue for the company and advertisers through optimized content and experiences.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <image_d5b3
+                jcr:created="{Date}2017-02-23T17:16:05.354Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-16T20:12:50.924Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Conde Nast articles"
+                fileReference="/content/dam/acom/en/customer-showcase/images/conde-nast-articles.png">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-10-16T20:12:50.924Z"
+                    jcr:lastModifiedBy="sale"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d5b3>
+            <text_983818343
+                jcr:created="{Date}2017-11-03T23:48:58.346Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:50:29.663Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <horizontalrule_1353714344
+                jcr:created="{Date}2017-11-03T23:49:30.808Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:49:30.808Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_60af
+                jcr:created="{Date}2017-03-10T17:20:44.498Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:48:34.372Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-4-block&quot;>&lt;strong>RESULTS&lt;/strong>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <column_d5e4
+                jcr:created="{Date}2017-03-10T17:19:59.708Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-17T21:33:58.273Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of8;grid-span-7of8;"
+                layout="2;grid-span-1of8;grid-span-7of8;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:33:58.273Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_d5e4>
+            <image_82e1
+                jcr:created="{Date}2017-03-10T17:20:15.347Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-17T23:49:23.431Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Traffic Boost"
+                fileReference="/content/dam/acom/en/customer-showcase/icons/conde-nast-icon1-64x45.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-10-17T23:49:23.431Z"
+                    jcr:lastModifiedBy="sale"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_82e1>
+            <break_14891663997230
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_d5e4"/>
+            <text_7a74
+                jcr:created="{Date}2017-03-10T17:20:07.663Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-16T20:24:25.206Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>TRAFFIC BOOST&lt;/strong>&lt;/div>&#xa;"/>
+            <text
+                jcr:created="{Date}2017-10-16T20:24:33.526Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-10-16T20:25:04.224Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Optimized social media posting schedule to boost traffic at least 40%&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14891663997231
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_d5e4"/>
+            <column_45e0
+                jcr:created="{Date}2017-03-10T17:19:56.589Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-17T21:34:30.046Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of8;grid-span-7of8;"
+                layout="2;grid-span-1of8;grid-span-7of8;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:34:30.046Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_45e0>
+            <image_9fed
+                jcr:created="{Date}2017-03-10T17:20:11.711Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-17T23:43:10.378Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Broader Reach"
+                fileReference="/content/dam/acom/en/customer-showcase/icons/conde-nast-icon2-64x64.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-10-17T23:43:10.378Z"
+                    jcr:lastModifiedBy="sale"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_9fed>
+            <break_14891663966050
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_45e0"/>
+            <text_c974
+                jcr:created="{Date}2017-03-10T17:20:05.024Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-17T20:20:39.461Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>BROADER REACH&lt;/strong>&lt;/div>&#xa;"/>
+            <text_1733137092
+                jcr:created="{Date}2017-10-16T20:25:25.131Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-10-17T20:21:02.809Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Increased subscriptions with targeted cross-promotions&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14891663966061
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_45e0"/>
+            <column_c8c6
+                jcr:created="{Date}2017-03-10T17:18:21.395Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-17T21:34:56.611Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of8;grid-span-7of8;"
+                layout="2;grid-span-1of8;grid-span-7of8;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:34:56.611Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_c8c6>
+            <image_d8a9
+                jcr:created="{Date}2017-03-10T17:18:52.678Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-17T23:39:15.197Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Seamless Integration"
+                fileReference="/content/dam/acom/en/customer-showcase/icons/conde-nast-icon3-64x64.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-10-17T23:39:15.197Z"
+                    jcr:lastModifiedBy="sale"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d8a9>
+            <break_14891663014120
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_c8c6"/>
+            <text_efc3
+                jcr:created="{Date}2017-03-10T17:18:57.337Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-17T20:21:38.239Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>SEAMLESS INTEGRATION&lt;/strong>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <text_1940731405
+                jcr:created="{Date}2017-10-17T20:21:44.671Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-10-17T20:22:03.954Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Integrated offline audience profiles with online behavioral data to target advertisements&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14891663014131
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_c8c6"/>
+            <column_30ec
+                jcr:created="{Date}2017-02-23T17:16:55.642Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-17T21:35:17.355Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of8;grid-span-7of8;"
+                layout="2;grid-span-1of8;grid-span-7of8;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:35:17.355Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_30ec>
+            <image_d8d6
+                jcr:created="{Date}2017-02-23T17:17:50.805Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-17T20:25:39.153Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Forward Looking"
+                fileReference="/content/dam/acom/en/customer-showcase/icons/conde-nast-icon4-64x64.png">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-10-17T20:25:39.153Z"
+                    jcr:lastModifiedBy="sale"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d8d6>
+            <break_14878702296900
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_30ec"/>
+            <text_3139
+                jcr:created="{Date}2017-02-23T17:18:01.486Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-17T20:24:25.423Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>FORWARD LOOKING&lt;/strong>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <text_846314396
+                jcr:created="{Date}2017-10-17T20:24:44.711Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-10-17T20:25:12.672Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Used predictive analytics to forecast revenue and develop budgets&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14878702156510
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_30ec"/>
+            <text_893038935
+                jcr:created="{Date}2017-11-03T23:51:15.852Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:51:15.852Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <horizontalrule_1635904791
+                jcr:created="{Date}2017-11-03T23:51:16.024Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:51:16.024Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_4293
+                jcr:created="{Date}2017-02-23T17:19:06.983Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:56:44.417Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;strong>World-class experiences&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Condé Nast is home to more than a dozen of the world&amp;#39;s top magazines, including &lt;em>GQ&lt;/em>, The &lt;em>New Yorker&lt;/em>, &lt;em>Vanity Fair&lt;/em>, and &lt;em>Vogue&lt;/em>. Best known for its long history publishing sophisticated content, the company has positioned itself as a digital leader by using Adobe solutions to produce engaging websites and digital magazines to extend the world-class experience of its print publications. In turn, the company has built new revenue streams through digital subscriptions and advertisements.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Condé Nast brands have always attracted affluent and influential audiences and this continues to be true in the digital space. Condé Nast focuses on high-value core audiences who visit its websites regularly, purchase subscriptions, or are interested in one of their advertiser’s products. By analyzing offline and online data, the data and marketing analytics team built profiles to identify high-value audiences and work with product, editorial, and marketing teams for each brand to align goals and nurture loyal audiences.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Condé Nast uses Adobe Analytics, Adobe Media Optimizer, Adobe Target, Adobe Experience Manager, and Adobe Social solutions within Adobe Marketing Cloud to identify core audiences across channels and optimize interactions with them. &amp;quot;Adobe Marketing Cloud enables us to segment our audience and develop meaningful messaging for each market,&amp;quot; says Chris Reynolds, vice president of data and marketing analytics at Condé Nast. &amp;quot;Through detailed profiles, we&amp;#39;re optimizing both our editorial and advertising messages to grow our audiences in the digital age.&amp;quot;&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <pullquote
+                jcr:created="{Date}2017-10-17T20:32:15.365Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-10-17T20:33:45.588Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/pullquote"
+                author="Chris Reynolds"
+                fontstyle="italic"
+                quote="Adobe Marketing Cloud enables us to segment our audience and develop meaningful messaging for each market. &#xa;Through detailed profiles, we’re optimizing both our editorial and advertising messages to grow our audiences in the digital age."
+                title="vice president of data and  marketing analytics, Condé Nast"/>
+            <end_14878690216470
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_2de6"/>
+            <column
+                jcr:created="{Date}2017-10-17T20:36:07.860Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-10-17T21:14:33.995Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="4"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:14:33.995Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column>
+            <text_606073231
+                jcr:created="{Date}2017-10-17T20:36:32.876Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-03T23:57:11.307Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;strong>Integrating offline and online customer data&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>For over a decade, Condé Nast has surveyed members of its preferred subscriber network to gain detailed insight into opinions not covered in general surveys, including specific interests and preferences for luxury products. Using the audience management capability of Adobe Media Optimizer, Condé Nast combined survey responses from 450,000 respondents, its database of 65 million subscribers, and the online consumption patterns of users to create a new advertising product called Condé Nast Catalyst, Audience by Design. This product was built from analysis of reader profiles and online user interactions to create 10 core profiles based on specific product interests and influence.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>These are unique segments Condé Nast brought to its advertisers in order to differentiate itself from other publishers. The alignment of digital, offline, and survey data through analytics and audience management is a critical aspect to Condé Nast’s success. &amp;quot;Advertisers love having greater access to audiences through insight-based profiles,&amp;quot; says Reynolds. &amp;quot;These audiences are high-quality engaged consumers, enabling advertisers to increase basket sizes and attract more repeat customers.&amp;quot;&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_15082725678780
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column"/>
+            <column_107594481
+                jcr:created="{Date}2017-10-17T20:40:52.905Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-10-17T21:14:43.806Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="4"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:14:43.806Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_107594481>
+            <text_1462718452
+                jcr:created="{Date}2017-10-17T20:41:05.854Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-03T23:57:20.663Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;strong>Optimizing interactions across channels&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Visibility into which digital channels—including social, search, mobile, and email—attract the core audience is key to helping Condé Nast prioritize its creative and the company’s investment in digital marketing. For instance, the data workbench capabilities in Adobe Analytics enabled big data analysis of all customer interactions and helped determine that email newsletters consistently deliver some of the most high-value audiences.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Analysts determined that the newsletter audience also clustered around different content areas compared to average site visitors. Newsletter subscribers to the fashion magazine Glamour, for example, are highly interested in core fashion articles over celebrity articles that often attract wider audiences.&amp;nbsp;&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_1938914944
+                jcr:created="{Date}2017-10-17T20:44:15.526Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-03T23:57:28.232Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;quot;Using the insights from the data workbench capabilities in Adobe Analytics, we justified the design of a daily newsletter that included more core fashion articles,&amp;quot; says Daniel Stubbs, digital analytics director at Condé Nast. &amp;quot;The change dramatically increased traffic from high-value audiences, creating more opportunities to engage them with marketing and paid ads.&amp;quot;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Social brings deep insights to social media channels. Each brand posts daily on Facebook to boost traffic throughout the day, but the content, schedule, and overall strategies varied across brands. &amp;quot;Using Adobe Social, we tested various posting schedules to optimize the Facebook EdgeRank algorithm and improve visibility,&amp;quot; says Stubbs. &amp;quot;So far, we have optimized four brands and all have seen social traffic increase by at least 40%.&amp;quot;&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <pullquote_1861982903
+                jcr:created="{Date}2017-10-17T20:42:46.525Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-10-17T20:42:46.525Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/pullquote"
+                author="Daniel Stubb"
+                fontstyle="italic"
+                quote="Using Adobe Social, we tested various posting schedules to optimize the Facebook EdgeRank &#xa;algorithm and improve visibility. So far, we have optimized four brands and all have seen traffic &#xa;increase by at least 40%."
+                title="digital analytics director, Condé Nast"/>
+            <end_15082728529200
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_107594481"/>
+            <column_602895060
+                jcr:created="{Date}2017-10-17T20:47:32.989Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-10-17T21:14:54.851Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="4"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:14:54.851Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_602895060>
+            <text_49029951
+                jcr:created="{Date}2017-10-17T20:48:04.267Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-03T23:57:36.261Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;strong>Boosting returns on advertisements&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Whether dealing with paid advertisements or internal ads promoting magazine subscriptions, Adobe Marketing Cloud helps analysts gain insights into customer needs and optimize marketing campaigns. Using the insight from Adobe Analytics and unifying the data sources with the audience management capabilities of Adobe Media Optimizer, Condé Nast can also act as a consultant to advertisers and suggest optimizations.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Using Adobe Target, Condé Nast is also enhancing its own advertisements to increase subscriptions and boost revenue. For example, analysts determined that new readers respond better to advertisements that emphasize the interesting content of a magazine brand, while repeat visitors react better to sales and special offers.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>When purchasing a subscription, readers are also provided an impulse offer—a second subscription at a reduced price. Using Adobe Target, analysts tested various combinations of offers. For people subscribing to &lt;em>Wired&lt;/em>, an offer for &lt;em>GQ&lt;/em> performed 11% higher than any other magazine, which translated to an extra 300 subscriptions per year. &amp;quot;Even with detailed profiles, it can be difficult to predict how changes will perform,&amp;quot; says Stubbs. &amp;quot;We can take a measured approach, testing subtle nuances with Adobe Target to achieve the best results.&amp;quot;&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_15082732530040
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_602895060"/>
+            <column_1396326381
+                jcr:created="{Date}2017-10-17T20:53:47.251Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-10-17T21:15:22.187Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="4"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:15:22.187Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_1396326381>
+            <text_1402160278
+                jcr:created="{Date}2017-10-17T21:04:40.611Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-04T00:03:36.366Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>Planning for the future&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Condé Nast sees mobile as a key outlet in the future of its publications. In the past year, mobile traffic has grown 80%, and it now accounts for 33% of total traffic. The ability to quantify the growth has enabled analysts to justify recommendations for responsive design and increased investment in mobile-optimized sites.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>By analyzing mobile traffic, analysts also noticed that mobile users have very different behavioral patterns compared to desktop users. Mobile users tend to arrive from social sites or long-tail search keywords, following much more stream-of-consciousness browsing patterns. As a result, mobile visitors tend to view one article and leave the site. Analysts are currently running tests to improve stickiness on mobile sites, as well as inform editorial decisions.&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>For the next year, analysts are using predictive analytics through Adobe Analytics to forecast trends. By calculating the expected traffic across devices for the next year, analysts can predict impressions per page and set budgets and goals based on projected revenues.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>By using Adobe Marketing Cloud, Condé Nast has a proven digital marketing platform to continue growing its core audience and engaging new readers. &amp;quot;Rather than focusing just on real-time measurements, Adobe Marketing Cloud automates tasks to deliver great efficiency for our analysts,&amp;quot; says Reynolds. &amp;quot;This shift in resources to focus on strategic planning allows us to provide solutions that maintain focus on core business goals across the organization.&amp;quot;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_77a9
+                jcr:created="{Date}2017-02-23T17:29:21.117Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:02:19.149Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>Condé Nast&lt;/strong>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Established in 1909&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Reach: More than 164 million subscribers&lt;/span>&amp;nbsp;&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>New York, New York&lt;/span>&amp;nbsp;&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.condenast.com&quot; target=&quot;_blank&quot;>Visit website ›&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <end_15082736272770
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1396326381"/>
+            <column_583802035
+                jcr:created="{Date}2017-11-04T00:01:09.453Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:01:24.099Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-04T00:01:24.099Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_583802035>
+            <horizontalrule_634136392
+                jcr:created="{Date}2017-11-04T00:01:30.682Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:01:30.682Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_15097536694730
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_583802035"/>
+            <column_7807
+                jcr:created="{Date}2017-02-23T17:21:19.125Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T18:30:55.827Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="2"
+                grid0="7"
+                grid1="3"
+                layout="2;grid-cols-7 grid-offset-3;grid-cols-3;"
+                multiplier="4"
+                offset0="3"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-02-23T18:30:55.827Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_7807>
+            <column_6904
+                jcr:created="{Date}2017-02-23T17:22:13.973Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:01:58.784Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-7;"
+                bgColor=" "
+                layout="1;grid-cols-7;"
+                layoutMode="structured"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-04T00:01:58.784Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_6904>
+            <text_39d8
+                jcr:created="{Date}2017-02-23T17:27:45.232Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T17:27:57.027Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Solution at-a-glance&amp;nbsp;&lt;/span>&lt;/h3>&#xa;"/>
+            <end_14878705339800
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_6904"/>
+            <column_49d
+                jcr:created="{Date}2017-02-23T17:23:00.112Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:56:14.353Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of2;grid-span-1of2;"
+                layout="2;grid-span-1of2;grid-span-1of2;"
+                layoutMode="spatial"
+                multiplier="5"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-03T23:56:14.353Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_49d>
+            <text_1f25
+                jcr:created="{Date}2017-02-23T17:24:49.844Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-17T22:21:22.419Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Adobe Marketing Cloud&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Adobe Analytics&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Marketing Reporting and Analytics&lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Ad hoc analytics&lt;/span>&lt;br>&#xa;&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Data workbench&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p style=&quot;font-size: 12px;&quot;>&lt;strong>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/strong>&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Adobe Media Optimizer&lt;/strong>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Audience management&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;font-size: 12px;&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Adobe Target&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>AB Testing&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <text_1253679780
+                jcr:created="{Date}2017-10-17T22:04:57.574Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-10-17T22:21:10.959Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Adobe Experience Manager&lt;/strong>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <text_618902352
+                jcr:created="{Date}2017-10-17T22:20:07.509Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-10-17T22:21:16.674Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Adobe Social solutions&lt;strong>&lt;/strong>&lt;/strong>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14878706021930
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_49d"/>
+            <text_b571
+                jcr:created="{Date}2017-02-23T17:26:44.047Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-17T22:07:04.827Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Adobe Creative Cloud&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Creative Cloud for enterprise&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Photoshop CC&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Bridge CC&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Creative Cloud libraries&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Other services&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Consultings&lt;/span>&lt;/div>&#xa;"/>
+            <end_14878705801220
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_49d"/>
+            <break_14878705074930
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_7807"/>
+            <end_14878704791310
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_7807"/>
+            <column_523c
+                jcr:created="{Date}2017-02-23T18:29:52.860Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:05:51.150Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="4"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-04T00:05:51.150Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_523c>
+            <horizontalrule_1162472091
+                jcr:created="{Date}2017-11-04T00:02:41.125Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:02:41.125Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_14878745928780
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_523c"/>
+            <column_1826107193
+                jcr:created="{Date}2017-11-04T00:04:51.784Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:05:31.407Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="2"
+                grid0="7"
+                grid1="3"
+                layout="2;grid-cols-7 grid-offset-3      ;grid-cols-3      ;"
+                multiplier="9"
+                offset0="3"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-04T00:05:31.407Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_1826107193>
+            <text_2fad
+                jcr:created="{Date}2017-02-23T17:32:56.391Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-17T21:44:24.672Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h5>&amp;nbsp;&lt;/h5>&#xa;&lt;h5>&lt;a href=&quot;/content/dam/acom/en/customer-success/pdfs/conde-nast-adobe-marketing-cloud-case-study.pdf&quot; target=&quot;_blank&quot;>&lt;span class=&quot;text-light&quot;>Download a PDF of this story ›&lt;/span>&lt;/a>&lt;/h5>&#xa;"/>
+            <break_15097538917980
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_1826107193"/>
+            <end_15097538917991
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1826107193"/>
+            <column_1705662858
+                jcr:created="{Date}2017-11-04T00:03:08.624Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:03:08.624Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-03-01T22:56:33.059Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_1705662858>
+            <end_15097537886380
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1705662858"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2017-11-30T20:45:22.681Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2017-11-30T20:45:22.681Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <tophero
+            jcr:lastModified="{Date}2017-02-23T18:39:56.965Z"
+            jcr:lastModifiedBy="wmyersta"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            color="hero2-theme-2"
+            effect="hero2-fx-frame-3"
+            height="hero2-size-4"
+            hideArticle="true"
+            hideCredits="true"
+            hideLink="true">
+            <image
+                jcr:lastModified="{Date}2017-02-23T18:39:56.965Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Customer showcase detail marquee"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </tophero>
+        <merchandisingbar jcr:primaryType="nt:unstructured">
+            <contactpod
+                jcr:lastModified="{Date}2017-02-23T18:38:23.969Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/contactpod"
+                backgroundColor="background-color:#131031"
+                ctaButtonOverride="http://apps.enterprise.adobe.com/go/70114000002JNwKAAW"
+                ctaButtonText="Contact us"
+                description="Find out how Adobe can help you and your business."
+                purchasePhoneNumberCall="+118777227088"
+                purchasePhoneNumberDisp="877-722-7088"
+                title="Want to know more?">
+                <contactlist
+                    jcr:primaryType="nt:unstructured"
+                    sort_mdv="[0,1,2,3]">
+                    <_x0030_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-twitter"
+                        socialLink="#"
+                        socialTitle="Follow us on Twitter"/>
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-facebook"
+                        socialLink="#"
+                        socialTitle="Like us on Facebook"/>
+                    <_x0032_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-googleplus"
+                        socialLink="#"
+                        socialTitle="Follow us on Google+"/>
+                    <_x0033_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-linkedin"
+                        socialLink="#"
+                        socialTitle="Follow us on LinkedIn"/>
+                </contactlist>
+            </contactpod>
+        </merchandisingbar>
+    </jcr:content>
+</jcr:root>

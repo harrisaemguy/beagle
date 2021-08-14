@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2017-04-04T00:02:02.589Z"
+        cq:lastModifiedBy="wmyersta"
+        cq:lastReplicated="{Date}2017-04-04T00:02:11.183Z"
+        cq:lastReplicatedBy="wmyersta"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Ryoko Nishizuka"
+        jcr:uuid="f51f5338-b3c1-4337-ac92-bae71df813dc"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Ryoko Nishizuka | Font type designer on Adobe"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="light"
+        languageDirection="ltr"
+        marqueeStyle="newMarquee"
+        metaDescription="Showcase typeface fonts designed by Ryoko Nishizuka at Adobe. Check out profile and see designer's font collection."
+        pageTitle="Ryoko Nishizuka"
+        seodescription=""
+        stagelastReplicated="29-Mar-2017 18:23"
+        stagelastReplicatedBy="wmyersta"
+        stageLastReplicationAction="ActivatedtoStage">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_126b
+                jcr:lastModified="{Date}2016-07-27T23:25:02.115-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                layout="1;grid-cols-10 grid-offset-3;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-07-27T23:25:02.115-07:00"
+                        jcr:lastModifiedBy="ashahab"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_126b>
+            <image_22aff8bd-39d8-4691-8894-a93b4a120ee4
+                jcr:lastModified="{Date}2016-07-27T23:25:28.981-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="ryoko"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/ryoko-nishizuka.jpg"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-07-27T23:25:28.981-07:00"
+                    jcr:lastModifiedBy="ashahab"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_22aff8bd-39d8-4691-8894-a93b4a120ee4>
+            <text_0_4d87531b-1b93-4a06-8dbb-98724ff98788
+                jcr:lastModified="{Date}2017-03-29T18:23:02.591Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h2 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h2>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Ryoko Nishizuka, who designed the Ryo typeface families and Kazuraki, graduated from Musashino Art University in 1995, and began working at Morisawa &amp;amp; Company, a leading type foundry and manufacturer of digital typesetting systems in Japan. Next, she decided to work as graphic designer at a design studio. But her main interest was always in typeface design. In 1997, Ryoko joined Adobe. She has been involved in the development of the Kozuka Mincho and Gothic typefaces designed by Masahiko Kozuka.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>In 1999, Ryoko received an honorable mention for her typeface &amp;quot;Branch Letter&amp;quot; at the Morisawa Awards International Typeface Design Competition. In 2002, her calligraphic typeface &amp;quot;Teika&amp;quot; won the Silver Prize at the same Morisawa competition, which was later expanded and refined to become Kazuraki, which is being heralded as the first fully-proportional OpenType Japanese font. In 2003, Ryoko created the Ryo Text and Ryo Display &amp;quot;kana&amp;quot; typeface families, followed by the Ryo Gothic family in 2004. The Ryo Text and Display families are composed of nine OpenType Japanese &amp;quot;kana&amp;quot; subset fonts covering eight different weights. The Ryo Gothic family consists of seven weights. The brightness emitted from the Ryo families is based on her original interpretation of traditional styles of &amp;quot;kana&amp;quot; calligraphy and type design. Kazuraki then consumed much of Ryoko's design effort, and was subsequently released for the first time in 2009. The special glyph set for Kazuraki including proportional glyphs and ligatures was expanded, and the font was updated in 2010.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>In 2014, Ryoko directed the design work for Source Han Sans, Adobe's first Pan-CJK typeface family composed of seven weights. Each Source Han Sans font includes more than 65,000 glyphs to support the scripts used by Simplified Chinese, Traditional Chinese, Japanese, and Korean. Source Han Sans' moderately modern style makes text clearer and more readable on smaller devices such as tablets and smart phones.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Source Han Serif, the serif-style counterpart to Source Han Sans, was released in 2017. Like Source Han Sans, it is also optimized for screen display, but has a completely different personality that works well for more literary texts, and for graceful, stylish headings. It also works beautifully in print.&lt;/span>&lt;/div>&#xa;"/>
+            <text_75bc
+                jcr:created="{Date}2016-07-27T23:27:11.491-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-19T03:39:24.522-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>Font families available from Adobe&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <column_bd8f
+                jcr:created="{Date}2016-07-27T23:26:29.040-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-08T00:24:40.947-07:00"
+                jcr:lastModifiedBy="maraun"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-08T00:24:40.947-07:00"
+                        jcr:lastModifiedBy="maraun"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_bd8f>
+            <image_0_f47c86fc-b5d6-4ee7-a62a-df160cc2ee80
+                jcr:lastModified="{Date}2016-08-19T03:40:02.011-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Kazuraki"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/kazuraki.png"
+                link="http://www.adobe.com/products/type/fonts-by-adobe.html"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-08-19T03:40:02.011-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_0_f47c86fc-b5d6-4ee7-a62a-df160cc2ee80>
+            <break_14706410809660
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_bd8f"/>
+            <image_1_43b90733-3d5a-47f3-9d98-317f56d7b1a3
+                jcr:lastModified="{Date}2016-08-19T03:40:29.654-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Ryo Display"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/ryo-display.png"
+                link="http://www.adobe.com/products/type/fonts-by-adobe.html"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-08-19T03:40:29.654-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_1_43b90733-3d5a-47f3-9d98-317f56d7b1a3>
+            <image_2_4baf1dc4-f6c7-4afa-979d-f0d8a3d550f2
+                jcr:lastModified="{Date}2016-08-19T03:40:55.667-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Ryo Gothic"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/ryo-gothic.png"
+                link="http://www.adobe.com/products/type/fonts-by-adobe.html"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-08-19T03:40:55.667-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_2_4baf1dc4-f6c7-4afa-979d-f0d8a3d550f2>
+            <image_6_56be5611-e577-42dc-9b49-13fabc8b8e93
+                jcr:lastModified="{Date}2016-08-19T03:41:22.231-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Ryo Text"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/ryo-text.png"
+                link="http://www.adobe.com/products/type/fonts-by-adobe.html"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-08-19T03:41:22.231-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_6_56be5611-e577-42dc-9b49-13fabc8b8e93>
+            <break_14706410809661
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_bd8f"/>
+            <image_3_fde816a9-3f5f-4c86-bbc1-59126e429014
+                jcr:lastModified="{Date}2016-08-19T03:41:56.154-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Source Han Sans"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/source-han-sans-typedesigner-card.png"
+                link="http://www.adobe.com/products/type/fonts-by-adobe.html"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-08-19T03:41:56.154-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_3_fde816a9-3f5f-4c86-bbc1-59126e429014>
+            <image_cec3
+                jcr:created="{Date}2017-04-04T00:01:29.920Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-04T00:02:02.580Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Source Han Serif"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/source-han-serif-typedesigner-card.png"
+                link="http://www.adobe.com/products/type/fonts-by-adobe.html"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-04-04T00:02:02.580Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_cec3>
+            <end_14696871890470
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_bd8f"/>
+            <end_14544550461840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_126b"/>
+            <column_18e6
+                jcr:created="{Date}2016-07-27T23:31:14.862-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-03T05:15:46.311-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                section="v"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-03T05:15:46.311-07:00"
+                        jcr:lastModifiedBy="ashahab"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_18e6>
+            <horizontalrule_1a39
+                jcr:created="{Date}2016-07-27T23:31:02.471-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-07-27T23:31:02.471-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_5682
+                jcr:created="{Date}2016-07-27T23:31:41.641-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-07-27T23:31:59.391-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-07-27T23:31:59.391-07:00"
+                        jcr:lastModifiedBy="ashahab"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_5682>
+            <text_91b9
+                jcr:created="{Date}2016-07-27T23:32:44.849-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-07-27T23:32:44.849-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Learning&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers.html&quot;>Adobe Type Designers&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-team.html&quot;>Adobe Type Team&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-specimens.html&quot;>Type specimens&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-references-tips.html&quot;>Type reference materials&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-originals.html&quot;>Adobe Originals&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/opentype.html&quot;>OpenType&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14696875194090
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_5682"/>
+            <text_d09
+                jcr:created="{Date}2016-07-27T23:33:07.664-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-07-27T23:33:07.664-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Resources&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blog.typekit.com/&quot;>Type &amp;amp; Typekit blog&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blogs.adobe.com/CCJKType/&quot;>CJK Type blog (Asian fonts)&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype.html&quot;>Developer information&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype/afdko.html&quot;>Font Development Kit&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/install-instructions.html&quot;>Font installation instructions&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14696875194111
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_5682"/>
+            <text_2792
+                jcr:created="{Date}2016-07-27T23:33:28.827-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-09-01T07:19:27.379Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Help&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing Center&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/creative-cloud-fonts.html&quot;>CC Bundled Fonts&amp;nbsp;FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://typekit.com/help&quot;>Web Font FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/products/fontfolio/faq.html&quot;>Font Folio FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://forums.adobe.com/community/typography_fonts&quot;>Adobe Type user forums&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <end_14696875016530
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5682"/>
+            <end_14696874748720
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_18e6"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2016-08-22T22:53:39.466-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2016-08-22T22:53:39.466-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+    </jcr:content>
+</jcr:root>

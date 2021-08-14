@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2017-10-13T17:38:18.586Z"
+        cq:lastModifiedBy="vko"
+        cq:lastReplicated="{Date}2020-01-29T18:03:35.692Z"
+        cq:lastReplicatedBy="peharris"
+        cq:lastReplicationAction="Deactivate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:language="en"
+        jcr:mixinTypes="[mix:lockable,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Audience targeting and activation"
+        jcr:uuid="4c024004-dfa1-4480-a100-4f437e620a63"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="MarketingCloudSubPage"
+        browserTitle="Audience targeting and activation | Adobe Audience Manager"
+        ctaButtonText="Get started"
+        distType="dist5"
+        enableBreadcrumb="true"
+        enablePageTitle="true"
+        faasFormPage="true"
+        freeTrial="Sign in"
+        freeTrialUrl="http://marketing.adobe.com"
+        globalnavProfileTheme="default"
+        gnavTheme="dark"
+        groupSectionNavItems="no"
+        groupSectionNavTitle="Capabilities"
+        hideInSectionNav="true"
+        hideMerchandisingBar="inherit"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        isMCPage="true"
+        livePersonSiteId="89901003"
+        lpUnit="lead-us"
+        marketSegmentRewrite="COM"
+        marqueeStyle="newMarquee"
+        metaDescription="With Adobe Audience Manager, you can quickly target, convert, and grow audience segments based on customers’ behavior patterns."
+        navTitle="Audience targeting and activation"
+        noLoggedInChange="true"
+        overrideBreadcrumbPath="/content/acom/us/en/data-analytics-cloud"
+        pageTitle="Adobe Audience Manager"
+        phoneNumber="+18777227088"
+        phoneNumberText="877-722-7088"
+        product="audiencemanager"
+        stagelastReplicated="07-Dec-2016 19:40"
+        stagelastReplicatedBy="peharris"
+        stageLastReplicationAction="ActivatedtoStage"
+        tagsKeywords="audience targeting, customer conversion, customer targeting, customer activation, audience activation"
+        tryLink="http://apps.enterprise.adobe.com/go/70114000002JNwKAAW"
+        useH1Tags="heroTitle">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="10">
+            <image
+                jcr:lastModified="{Date}2017-10-13T17:30:18.106Z"
+                jcr:lastModifiedBy="vko"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2017-10-13T17:30:18.106Z"
+                    jcr:lastModifiedBy="vko"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <promobar jcr:primaryType="nt:unstructured">
+            <promo
+                jcr:lastModified="{Date}2015-02-27T23:31:39.876Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/promo"
+                ctaButtonText="Request a demo"
+                icon="promo-icon adobe-icon-marketing-cloud"
+                marketSegmentRewrite="COM"
+                priceType="SUB_NEW"
+                product="campaign"
+                productIntroText="See how Adobe Campaign can help your business."
+                purchasePhoneCss="promo-phone"
+                purchasePhoneNumberCall="+18777227088"
+                purchasePhoneNumberDisp="877.722.7088"
+                purchasePhoneText="call">
+                <free
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonText="Request a demo"
+                    productIntroText="See how Adobe Campaign can help your business."/>
+                <paid
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="http://apps.enterprise.adobe.com/go/70114000002JNwKAAW"
+                    ctaButtonText="Request a demo"
+                    productIntroText="See how Adobe Campaign can help your business."/>
+            </promo>
+        </promobar>
+        <mmarquee
+            jcr:lastModified="{Date}2015-05-27T14:38:28.716Z"
+            jcr:lastModifiedBy="peharris"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mmarquee"
+            text="&lt;div class=&quot;text-3-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-3-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-3-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-3-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-3-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-3-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;h1 style=&quot;text-align: center;&quot;>&lt;strong>Build audience profiles that you can use anywhere.&lt;/strong>&lt;br>&#xa;&lt;/h1>&#xa;">
+            <contentlayer jcr:primaryType="nt:unstructured"/>
+            <listing jcr:primaryType="nt:unstructured"/>
+        </mmarquee>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_7fa
+                jcr:created="{Date}2015-02-02T22:49:18.518Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2016-05-26T20:29:37.970Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="1"
+                grid0="8"
+                grid1="4"
+                grid2="4"
+                layout="1;grid-cols-8 grid-offset-4;"
+                layoutMode="spatial"
+                multiplier="9"
+                offset0="4"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-05-26T20:29:37.970Z"
+                        jcr:lastModifiedBy="peharris"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </imagelayer>
+            </column_7fa>
+            <text_f06d
+                jcr:created="{Date}2015-10-20T17:18:53.794Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2016-12-02T00:31:16.636Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Grow your audiences. And your reach.&lt;/span>&lt;br>&#xa;&lt;/h3>&#xa;"/>
+            <text_ca45
+                jcr:created="{Date}2015-10-20T17:20:01.011Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2016-12-21T17:05:35.746Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Personalization does more than deliver great customer experiences. It can actually drive revenue. With Audience Manager, you can find and connect with the audiences that bring the most value to your brand. Create, combine, and test new customer profiles. Target specific segments on any platform — across channels, site-side, and off-site — so you can get the right message to the right customers. Every time.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14256642819122
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_7fa"/>
+            <column_1cb7
+                jcr:created="{Date}2016-12-01T23:33:28.567Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-01T23:34:06.806Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="9"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-12-01T23:34:06.806Z"
+                        jcr:lastModifiedBy="atrevino"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_1cb7>
+            <column_5d6d
+                jcr:created="{Date}2016-12-01T19:31:28.033Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-01T23:43:28.544Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                section="v"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-12-01T23:43:28.544Z"
+                        jcr:lastModifiedBy="atrevino"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_5d6d>
+            <text_ff54
+                jcr:created="{Date}2015-09-17T21:22:54.660Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2016-12-01T23:52:31.750Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&lt;img src=&quot;/content/dam/acom/en/experience-cloud/use-cases/data-driven-marketing/audience-segmentation/audience-activation/54658.en.amc.audience-manager.activation.icon.user-behavior.130x100.gif&quot; style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: 500;&quot;>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <text_be12
+                jcr:created="{Date}2015-10-20T18:10:44.751Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2016-12-02T00:32:38.144Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Discover and convert new users that have the same behavior as your most loyal customers.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14806353771480
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_5d6d"/>
+            <text_4d95
+                jcr:created="{Date}2016-12-01T21:09:21.796Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-01T23:52:38.422Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&lt;img src=&quot;/content/dam/acom/en/experience-cloud/use-cases/data-driven-marketing/audience-segmentation/audience-activation/54658.en.amc.audience-manager.activation.icon.integrate.130x100.gif&quot; style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: 500;&quot;>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <text_62e4
+                jcr:created="{Date}2016-12-01T21:09:21.895Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2017-04-13T17:56:52.007Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Integrate with all your Experience Cloud solutions.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14806353771491
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_5d6d"/>
+            <text_a57b
+                jcr:created="{Date}2016-12-01T21:09:24.333Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-01T23:52:48.623Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&lt;img src=&quot;/content/dam/acom/en/experience-cloud/use-cases/data-driven-marketing/audience-segmentation/audience-activation/54658.en.amc.audience-manager.activation.icon.activate.130x100.gif&quot; style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: 500;&quot;>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <text_83ea
+                jcr:created="{Date}2016-12-01T21:09:24.421Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-02T00:32:00.308Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Activate audiences across your preferred ecosystem.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14806353771503
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5d6d"/>
+            <column_d4f8
+                jcr:created="{Date}2016-12-01T23:40:00.705Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-01T23:43:35.240Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                multiplier="9"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-12-01T23:43:35.240Z"
+                        jcr:lastModifiedBy="atrevino"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_d4f8>
+            <text_c72
+                jcr:created="{Date}2016-12-01T23:40:07.007Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-01T23:53:00.150Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&lt;img src=&quot;/content/dam/acom/en/experience-cloud/use-cases/data-driven-marketing/audience-segmentation/audience-activation/54658.en.amc.audience-manager.activation.icon.insight.130x100.gif&quot; style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: 500;&quot;>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <text_da27
+                jcr:created="{Date}2016-12-01T23:40:07.102Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-02T00:32:57.899Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Gain insight on match rates and audience reach across all your channels.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14806356008040
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_d4f8"/>
+            <text_989
+                jcr:created="{Date}2016-12-01T23:40:09.662Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-01T23:53:06.541Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&lt;img src=&quot;/content/dam/acom/en/experience-cloud/use-cases/data-driven-marketing/audience-segmentation/audience-activation/54658.en.amc.audience-manager.activation.icon.test.130x100.gif&quot; style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: 500;&quot;>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <text_3226
+                jcr:created="{Date}2016-12-01T23:40:09.752Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-02T00:33:15.145Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Test which partners and platforms best reach and convert your customers.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14806356008051
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_d4f8"/>
+            <text_4c7a
+                jcr:created="{Date}2016-12-01T23:40:11.428Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-01T23:53:15.910Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&lt;img src=&quot;/content/dam/acom/en/experience-cloud/use-cases/data-driven-marketing/audience-segmentation/audience-activation/54658.en.amc.audience-manager.activation.icon.Comply.gif&quot; style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: 500;&quot;>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <text_d0b8
+                jcr:created="{Date}2016-12-01T23:40:11.521Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-02T00:33:36.327Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Comply with global privacy policies, corporate governance, and partnership agreements.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14806356008063
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_d4f8"/>
+            <end_14806352085970
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1cb7"/>
+            <column_95cb
+                jcr:created="{Date}2016-12-01T21:01:58.662Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-01T21:12:34.056Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor="background-color:#FFFFFF;color:#000000"
+                grid0="8"
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="9"
+                offset0="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-12-01T21:12:34.056Z"
+                        jcr:lastModifiedBy="atrevino"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}56"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_95cb>
+            <horizontalrule_4339
+                jcr:created="{Date}2016-12-01T21:01:58.543Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-01T21:01:58.543Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_14806261186960
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_95cb"/>
+            <column_7303
+                jcr:created="{Date}2016-12-01T21:01:59.344Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-01T21:01:59.344Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnCount="2"
+                grid0="6"
+                grid1="6"
+                layout="2;grid-cols-6 grid-offset-2;grid-cols-6;"
+                layoutMode="spatial"
+                multiplier="9"
+                offset0="2"
+                offset1="0"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-02-25T22:53:59.955Z"
+                        jcr:lastModifiedBy="peharris"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </imagelayer>
+            </column_7303>
+            <text_929d
+                jcr:created="{Date}2016-12-01T21:01:59.784Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-01T23:53:33.320Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&lt;img src=&quot;/content/dam/acom/en/experience-cloud/use-cases/data-driven-marketing/audience-segmentation/audience-activation/54658.en.amc.audience-manager.activation.feature.further-reach.459x293.jpg&quot; style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: 500;&quot;>&lt;/p>&#xa;"/>
+            <break_14806261193810
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_7303"/>
+            <text_4c5b
+                jcr:created="{Date}2016-12-01T21:02:00.082Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-02T00:34:39.249Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-3-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;h3>&lt;span class=&quot;text-light&quot;>Further reach. In shorter time.&lt;/span>&lt;br>&#xa;&lt;/h3>&#xa;"
+                textIsRich="true"/>
+            <text_e478
+                jcr:created="{Date}2016-12-01T21:02:00.381Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-02T00:34:52.697Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Find new audiences with similar interests and behaviors as your best customers. With native algorithmic models and adjustable frequency and recency settings, you can quickly target, convert, and grow audience segments based on behavior patterns.&lt;/span>&lt;/div>&#xa;"/>
+            <end_14806261193811
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_7303"/>
+            <column_5584
+                jcr:created="{Date}2016-12-01T21:13:44.440Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-01T21:13:44.440Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnCount="2"
+                grid0="6"
+                grid1="6"
+                layout="2;grid-cols-6 grid-offset-2;grid-cols-6;"
+                layoutMode="spatial"
+                multiplier="9"
+                offset0="2"
+                offset1="0"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-02-25T22:53:59.955Z"
+                        jcr:lastModifiedBy="peharris"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </imagelayer>
+            </column_5584>
+            <text_60d8
+                jcr:created="{Date}2016-12-01T21:13:45.086Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-02T00:35:15.651Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-3-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;h3>&lt;span class=&quot;text-light&quot;>First-rate access to all your third-party data.&lt;/span>&lt;br>&#xa;&lt;/h3>&#xa;"
+                textIsRich="true"/>
+            <text_d0e7
+                jcr:created="{Date}2016-12-01T21:13:45.360Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-02T00:35:28.319Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>With server-to server integrations, you can collect and manage all your third-party data. Test which partners can best reach your target customers. And compare match rates and audience reach across all your destinations.&lt;/span>&lt;/div>&#xa;"/>
+            <break_14806268244640
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_5584"/>
+            <text_7d4b
+                jcr:created="{Date}2016-12-01T21:13:44.835Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-01T23:53:45.220Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&lt;img src=&quot;/content/dam/acom/en/experience-cloud/use-cases/data-driven-marketing/audience-segmentation/audience-activation/54658.en.amc.audience-manager.activation.feature.first-rate.459x293.jpg&quot; style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: 500;&quot;>&lt;/p>&#xa;"/>
+            <end_14806268244641
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5584"/>
+            <column_818f
+                jcr:created="{Date}2016-12-01T21:15:14.990Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-01T21:15:14.990Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnCount="2"
+                grid0="6"
+                grid1="6"
+                layout="2;grid-cols-6 grid-offset-2;grid-cols-6;"
+                layoutMode="spatial"
+                multiplier="9"
+                offset0="2"
+                offset1="0"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-02-25T22:53:59.955Z"
+                        jcr:lastModifiedBy="peharris"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </imagelayer>
+            </column_818f>
+            <text_23f3
+                jcr:created="{Date}2016-12-01T21:02:01.300Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-01T23:53:53.932Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&lt;img src=&quot;/content/dam/acom/en/experience-cloud/use-cases/data-driven-marketing/audience-segmentation/audience-activation/54658.en.amc.audience-manager.activation.feature.toolbox.459x293.jpg&quot; style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: 500;&quot;>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <break_14806269150140
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_818f"/>
+            <text_bdf2
+                jcr:created="{Date}2016-12-01T21:02:01.656Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-02T00:35:56.374Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-3-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;h3>&lt;span class=&quot;text-light&quot;>Work with the world’s best toolbox.&lt;/span>&lt;br>&#xa;&lt;/h3>&#xa;"
+                textIsRich="true"/>
+            <text_ff77
+                jcr:created="{Date}2016-12-01T21:02:01.970Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2017-04-13T17:57:10.960Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>With Experience Cloud integration, you can flow audience segments directly into any solution, including Adobe Target, Analytics, and Experience Manager.&amp;nbsp;And make building consistent experiences across your marketing platform easier than ever.&lt;/span>&lt;/div>&#xa;"/>
+            <end_14806269150141
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_818f"/>
+            <column_9994
+                jcr:created="{Date}2016-12-01T21:16:31.704Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-01T21:16:31.704Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnCount="2"
+                grid0="6"
+                grid1="6"
+                layout="2;grid-cols-6 grid-offset-2;grid-cols-6;"
+                layoutMode="spatial"
+                multiplier="9"
+                offset0="2"
+                offset1="0"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-02-25T22:53:59.955Z"
+                        jcr:lastModifiedBy="peharris"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </imagelayer>
+            </column_9994>
+            <text_aef8
+                jcr:created="{Date}2016-12-01T21:16:32.431Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-02T00:36:34.528Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-3-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;h3>&lt;span class=&quot;text-light&quot;>Compliance is a priority. We’ve got you covered.&lt;/span>&lt;br>&#xa;&lt;/h3>&#xa;"
+                textIsRich="true"/>
+            <text_1f7c
+                jcr:created="{Date}2016-12-01T21:16:32.768Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-02T00:36:48.632Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Audience Manager complies with global privacy policies, corporate governance, and partnership agreements. So you can deliver personalized experiences across desktop, display, search, social, and video — knowing your brand and data partners are protected from contractual and privacy violations.&lt;/span>&lt;/div>&#xa;"/>
+            <break_14806269917300
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_9994"/>
+            <text_2387
+                jcr:created="{Date}2016-12-01T21:16:32.180Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2017-08-18T18:39:37.353Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&lt;img src=&quot;/content/dam/acom/en/experience-cloud/use-cases/data-driven-marketing/audience-segmentation/customer-data-management/54658.en.amc.audience-manager.activation.feature.compliance.459x293.jpg&quot;>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <end_14806269917301
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_9994"/>
+            <column_ccb6
+                jcr:created="{Date}2016-12-01T21:05:34.903Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2017-06-07T01:15:52.563Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor="background-color:#444444;color:#FFFFFF"
+                columnCount="1"
+                grid0="10"
+                layout="1;grid-cols-10 grid-offset-3      ;"
+                multiplier="9"
+                offset0="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-06-07T01:15:52.563Z"
+                        jcr:lastModifiedBy="atrevino"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        fileReference="/content/dam/acom/en/solutions/audience-manager/images/54658.en.exp.banner.forrester-dmp-dmp-wave-offer.1440x400.jpg"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_ccb6>
+            <text_15ed
+                jcr:created="{Date}2017-06-07T01:11:48.819Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2017-06-07T01:11:48.819Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&lt;strong>Customer experiences matter. Which means your DMP matters.&lt;/strong>&lt;br>&#xa;&lt;/h3>&#xa;"
+                textIsRich="true"/>
+            <text_520c
+                jcr:created="{Date}2017-06-07T01:11:48.955Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2017-06-07T01:11:48.955Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>See why we are a Leader in&amp;nbsp;&lt;em>The Forrester Wave™: Data Management Platforms, Q2 2017&lt;/em>.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <standalonecta_b335
+                jcr:created="{Date}2017-06-07T01:11:49.074Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2017-06-07T16:45:36.548Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/standalonecta"
+                ctabuttoncolor="merchpod-cta-button"
+                ctaType="{Boolean}true"
+                link="#forrester"
+                linkText="Learn more"
+                target="_parent"/>
+            <end_14806263349420
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_ccb6"/>
+            <column_1df
+                jcr:created="{Date}2016-08-30T20:00:55.304Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-01T21:12:16.930Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="1"
+                grid0="10"
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="9"
+                offset0="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-12-01T21:12:16.930Z"
+                        jcr:lastModifiedBy="atrevino"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_1df>
+            <text_150b
+                jcr:created="{Date}2016-08-30T20:36:06.974Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-01T21:22:31.198Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Do more with your marketing.&lt;/span>&lt;/h3>&#xa;"/>
+            <end_14725872553430
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1df"/>
+            <column_a7c3
+                jcr:created="{Date}2016-08-30T21:15:10.312Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-08-30T21:20:20.827Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="3"
+                grid0="4"
+                grid1="4"
+                grid2="4"
+                layout="3;grid-cols-4 grid-offset-2;grid-cols-4;grid-cols-4;"
+                multiplier="9"
+                offset0="2"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-30T21:20:20.827Z"
+                        jcr:lastModifiedBy="atrevino"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_a7c3>
+            <image_f3
+                jcr:created="{Date}2016-08-30T22:37:51.749Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-01T21:24:36.027Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Define your audience."
+                fileReference="/content/dam/acom/en/marketing-cloud/use-cases/images/54658.en.uc.feature.audience-definition.440x230.png"
+                link="/content/acom/us/en/experience-cloud/use-cases/audience-definition"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-12-01T21:24:36.027Z"
+                    jcr:lastModifiedBy="atrevino"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_f3>
+            <text_c558
+                jcr:created="{Date}2016-08-30T22:37:51.859Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-01T21:24:49.321Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/experience-cloud/use-cases/audience-definition.html&quot;>Define your audience ›&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14725920208630
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_a7c3"/>
+            <image_6a8
+                jcr:created="{Date}2016-08-30T22:43:13.543Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-01T21:25:03.283Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Grow audiences with customer intelligence."
+                fileReference="/content/dam/acom/en/marketing-cloud/use-cases/images/54658.en.uc.feature.audience-intelligence.440x230.png"
+                link="/content/acom/us/en/experience-cloud/use-cases/audience-intelligence"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-12-01T21:25:03.283Z"
+                    jcr:lastModifiedBy="atrevino"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_6a8>
+            <text_6aff
+                jcr:created="{Date}2016-08-30T22:43:13.652Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-01T21:25:17.373Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/experience-cloud/use-cases/audience-intelligence.html&quot;>Grow audiences with customer intelligence ›&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14725920208641
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_a7c3"/>
+            <image_675a
+                jcr:created="{Date}2016-12-01T21:24:19.942Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-01T21:25:29.101Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Efficiently reach your target audience. "
+                fileReference="/content/dam/acom/en/marketing-cloud/use-cases/images/54658.en.uc.feature.audience-reach.440x230.png"
+                link="/content/acom/us/en/experience-cloud/use-cases/audience-reach"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-12-01T21:25:29.101Z"
+                    jcr:lastModifiedBy="atrevino"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_675a>
+            <text_9fe
+                jcr:created="{Date}2016-12-01T21:24:20.048Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-12-01T21:25:45.954Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/experience-cloud/use-cases/audience-reach.html&quot;>Efficiently reach your target audience ›&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14725917186600
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_a7c3"/>
+            <faasform_ec34
+                jcr:created="{Date}2016-08-05T00:37:22.935Z"
+                jcr:createdBy="vko"
+                jcr:lastModified="{Date}2017-04-10T22:29:19.437Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/faasform"
+                destinationURL="/content/acom/us/en/products/request-consultation/thankyou"
+                formLocale="en_us"
+                formSubType="2851"
+                formTemplate="40"
+                formType="2846"
+                intCampaignId="70114000002XYvIAAW"
+                modalID="amc-rfi"
+                modalSize="1000x940"
+                modalTitle="See what Adobe Analytics Cloud can do for you."
+                onsiteCampaignId="70114000002XYdTAAW"
+                openInModal="true"/>
+        </contentbody>
+        <sectionNavItems
+            jcr:primaryType="nt:unstructured"
+            sort_mdv="0"/>
+        <doubleclick
+            jcr:lastModified="{Date}2015-03-20T16:47:36.841Z"
+            jcr:lastModifiedBy="peharris"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/doubleclick"
+            comSnippetSource="https://1295336.fls.doubleclick.net/activityi;src=1295336;type=digit786;cat=digit0"/>
+        <bottomofbodymbox
+            jcr:lastModified="{Date}2015-03-09T21:19:39.648Z"
+            jcr:lastModifiedBy="peharris"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="BottomOfBody"/>
+        <topofbodymbox
+            jcr:lastModified="{Date}2015-03-09T21:19:51.792Z"
+            jcr:lastModifiedBy="peharris"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="TopOfBody"/>
+        <tophero
+            jcr:lastModified="{Date}2017-09-14T20:48:14.732Z"
+            jcr:lastModifiedBy="golee"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            avoid="hero2-avoid-1"
+            color="hero2-theme-1"
+            height="hero2-size-4"
+            hideCredits="true"
+            hideLink="true">
+            <image
+                jcr:lastModified="{Date}2017-09-14T20:48:14.732Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Find your most treasured customers. No digging required."
+                fileReference="/content/dam/acom/en/experience-cloud/use-cases/data-driven-marketing/audience-segmentation/audience-activation/54658.en.amc.audience-manager.activation.marquee.1440x330.jpg"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+            <article
+                jcr:lastModified="{Date}2017-10-13T17:38:18.567Z"
+                jcr:lastModifiedBy="vko"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hero/article"
+                articleAlignment="hero2-align-2"
+                h1Header="&lt;p>Audience targeting and activation&lt;/p>&#xa;"
+                title="&lt;p>&lt;strong>Find your most treasured customers. No digging required.&lt;/strong>&lt;br>&#xa;&lt;/p>&#xa;"
+                width="hero2-basis-1">
+                <link
+                    jcr:primaryType="nt:unstructured"
+                    modalMode="VIDEO"
+                    size="426x240"
+                    type="free">
+                    <image
+                        jcr:lastModified="{Date}2017-10-13T17:38:18.567Z"
+                        jcr:lastModifiedBy="vko"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </link>
+                <titleImage
+                    jcr:lastModified="{Date}2017-10-13T17:38:18.567Z"
+                    jcr:lastModifiedBy="vko"
+                    jcr:primaryType="nt:unstructured"/>
+            </article>
+            <link
+                jcr:lastModified="{Date}2015-07-31T15:38:37.925Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hero/link"
+                freeFormUrl="https://video.tv.adobe.com/v/2248/?autoplay=true"
+                modalMode="VIDEO"
+                size="1280x720"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2015-07-31T15:38:37.925Z"
+                    jcr:lastModifiedBy="peharris"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/image"
+                    alt="&amp;nbsp;"
+                    xcord="{Long}50"
+                    ycord="{Long}50"/>
+            </link>
+        </tophero>
+        <sources jcr:primaryType="nt:unstructured"/>
+        <modalcontent
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <standalonemodal_3ea4
+                jcr:created="{Date}2017-06-07T01:13:57.025Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2017-06-07T01:13:57.025Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/standalonemodal"
+                modalId="forrester"
+                modalLink="/content/acom/us/en/modal-offers/forrester-dmp-wave-q2-2017"
+                modalMode="VIDEO"
+                modalScrolling="{Boolean}true"
+                modalSpinner="{Boolean}true"
+                modalType="link"
+                size="1000x940"
+                type="free">
+                <social jcr:primaryType="nt:unstructured"/>
+                <meta jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-06-02T21:32:47.061Z"
+                        jcr:lastModifiedBy="atrevino"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </meta>
+                <tracking jcr:primaryType="nt:unstructured"/>
+            </standalonemodal_3ea4>
+        </modalcontent>
+    </jcr:content>
+</jcr:root>

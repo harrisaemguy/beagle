@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-10-11T11:20:29.188Z"
+        cq:lastModifiedBy="handoo"
+        cq:lastReplicated="{Date}2019-10-16T21:28:39.228Z"
+        cq:lastReplicatedBy="karchie"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:csIndustry/travelHospitality,filters:csProduct/ac,filters:csProduct/mc/target,filters:csProduct/mc,filters:csProduct/ec,filters:csProduct/mc/analytics]"
+        cq:template="/apps/beagle/templates/customershowcasedetailpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="TUI"
+        jcr:uuid="69cf2d02-b895-4423-af8b-390dd5b3f73b"
+        sling:resourceType="beagle/components/customershowcasedetailpage"
+        removeFromHtmlSitemap="true"
+        removeFromXmlSitemap="true">
+        <customershowcasecard
+            jcr:lastModified="{Date}2017-05-23T18:07:14.045Z"
+            jcr:lastModifiedBy="lsloane"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/customershowcasecard"
+            cardType="featured"
+            companyName="TUI Group"
+            creationDate="{Date}2017-05-23T10:50:00.000-07:00"
+            includeCTAVideo1="true"
+            link1Target="_self"
+            link1Text="Watch the video"
+            link2Target="_self"
+            orderDate="{Date}2017-05-23T10:51:32.000-07:00">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                    modalMode="VIDEO"
+                    size="854x480"
+                    type="youtube"
+                    youTubeAutoPlay="true"
+                    youTubeUrl="qmd6hbU3DKU">
+                    <social jcr:primaryType="nt:unstructured"/>
+                    <meta jcr:primaryType="nt:unstructured">
+                        <image
+                            jcr:lastModified="{Date}2017-05-23T18:07:14.045Z"
+                            jcr:lastModifiedBy="lsloane"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </meta>
+                    <tracking jcr:primaryType="nt:unstructured"/>
+                </video>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2017-05-23T18:07:14.045Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="TUI Group"
+                fileReference="/content/dam/acom/en/customer-showcase/images/tui-660x348.png"
+                xcord="{Long}58"
+                ycord="{Long}50"/>
+            <ctavideolink1
+                jcr:lastModified="{Date}2017-05-23T18:07:40.883Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                modalMode="VIDEO"
+                size="854x480"
+                type="youtube"
+                youTubeAutoPlay="true"
+                youTubeUrl="qmd6hbU3DKU">
+                <social jcr:primaryType="nt:unstructured"/>
+                <meta jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-05-23T18:07:40.883Z"
+                        jcr:lastModifiedBy="lsloane"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </meta>
+                <tracking jcr:primaryType="nt:unstructured"/>
+            </ctavideolink1>
+        </customershowcasecard>
+    </jcr:content>
+</jcr:root>

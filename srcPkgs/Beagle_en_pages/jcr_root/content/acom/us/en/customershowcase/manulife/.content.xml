@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-10-11T11:19:14.713Z"
+        cq:lastModifiedBy="handoo"
+        cq:lastReplicated="{Date}2019-10-16T21:30:10.745Z"
+        cq:lastReplicatedBy="karchie"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:csIndustry/financialServices,filters:csProduct/ec,filters:csProduct/mc,filters:csProduct/mc/experienceManager,filters:csProduct/mc/analytics,filters:csProduct/ac]"
+        cq:template="/apps/beagle/templates/customershowcasedetailpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Manulife"
+        jcr:uuid="1a982e9f-7b2b-4052-a99a-48641ae0ddf8"
+        sling:resourceType="beagle/components/customershowcasedetailpage"
+        removeFromHtmlSitemap="true"
+        removeFromXmlSitemap="true">
+        <customershowcasecard
+            jcr:lastModified="{Date}2019-09-04T06:44:59.958Z"
+            jcr:lastModifiedBy="akumawat"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/customershowcasecard"
+            cardType="featured"
+            companyName="Manulife"
+            creationDate="{Date}2018-03-29T21:33:00.000+05:30"
+            link1="https://www.adobe.com/customer-success-stories/manulife-case-study.html"
+            link1Target="_self"
+            link1Text="Read the story"
+            link2Target="_self"
+            orderDate="{Date}2017-11-21T06:57:00.000+05:30">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                    size="426x240"
+                    type="free">
+                    <social jcr:primaryType="nt:unstructured"/>
+                    <meta
+                        jcr:primaryType="nt:unstructured"
+                        type="website">
+                        <image
+                            jcr:lastModified="{Date}2019-09-04T06:44:59.958Z"
+                            jcr:lastModifiedBy="akumawat"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </meta>
+                    <tracking jcr:primaryType="nt:unstructured"/>
+                </video>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2019-09-04T06:44:59.958Z"
+                jcr:lastModifiedBy="akumawat"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Manulife"
+                fileReference="/content/dam/acom/en/customer-showcase/images/manulife-660x348.png"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </customershowcasecard>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,2411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-02-11T06:02:50.165Z"
+        cq:lastModifiedBy="dmichael"
+        cq:lastReplicated="{Date}2020-02-11T06:06:00.883Z"
+        cq:lastReplicatedBy="dmichael"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Sample eBook Library"
+        jcr:uuid="6f59ea40-cb14-4c81-8c2c-2333166fce71"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Sample eBook Library"
+        distType="dist5"
+        enablePageTitle="true"
+        freeTrialUrlLoggedInModalScrolling="no"
+        freeTrialUrlLoggedInModalSize="426x240"
+        freeTrialUrlLoggedInTarget="_self"
+        freeTrialUrlModalScrolling="no"
+        freeTrialUrlModalSize="426x240"
+        freeTrialUrlTarget="_self"
+        globalnavProfileTheme="default"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideMerchandisingBar="inherit"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="inherit"
+        languageDirection="ltr"
+        marketSegmentRewrite="COM"
+        marqueeStyle="newMarquee"
+        metaDescription="Sample eBook Library"
+        modalSize="426x240"
+        navTitle="Sample eBook Library"
+        pageTitle="Sample eBook Library"
+        seodescription=""
+        stagelastReplicated="05-Sep-2017 15:45"
+        stagelastReplicatedBy="sale"
+        stageLastReplicationAction="ActivatedtoStage"
+        tryLinkModalScrolling="no"
+        tryLinkModalSize="426x240"
+        tryLinkProductPlanModalScrolling="no"
+        tryLinkProductPlanModalSize="426x240"
+        tryLinkProductPlanTarget="_self"
+        tryLinkTarget="_self"
+        useH1Tags="pageTitle">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_126b
+                jcr:lastModified="{Date}2017-09-05T13:11:38.523Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="9"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-05T13:11:38.523Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_126b>
+            <text_b82e
+                jcr:created="{Date}2017-08-30T20:27:38.620Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2020-02-11T06:02:50.133Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: left;&quot;>&lt;span class=&quot;text-light&quot;>Enjoy free sample eBooks including entire books and preview chapters from leading publishers.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: left;&quot;>&lt;span class=&quot;text-light&quot;>Please install Adobe Digital Editions 4.5.11 first before downloading these eBooks.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14544550461840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_126b"/>
+            <horizontalrule_e591
+                jcr:created="{Date}2017-09-01T23:50:46.621Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-01T23:50:46.621Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_450
+                jcr:created="{Date}2017-09-02T00:54:01.079Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:22:12.825Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                bgColor=" "
+                grid0="2"
+                grid1="2"
+                layout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                layoutMode="spatial"
+                offset0="1"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-05T12:22:12.825Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </imagelayer>
+            </column_450>
+            <text_c158
+                jcr:created="{Date}2017-09-05T12:24:04.224Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:10:58.578Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://contentserver.adobe.com/store/books/GeographyofBliss_oneChapter.epub&quot;>&lt;span class=&quot;text-light&quot;>The Geography of Bliss:&lt;/span>&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://contentserver.adobe.com/store/books/GeographyofBliss_oneChapter.epub&quot;>&lt;span class=&quot;text-light&quot;>One Grump&amp;#39;s Search for the Happiest Places in the World (Chapter 1)&lt;/span>&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>Twelve&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>EPUB eBook – English&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>196 Kb&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/store/books/GeographyofBliss_oneChapter.epub&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_15043137140290
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_450"/>
+            <image_d113
+                jcr:created="{Date}2017-09-02T00:57:41.701Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:11:23.517Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="Geography of Bliss"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/GeographyofBliss_oneChapter_epub.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/store/books/GeographyofBliss_oneChapter.epub"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:11:23.517Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d113>
+            <break_15046141328360
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_450"/>
+            <text_8bc6
+                jcr:created="{Date}2017-09-02T01:01:01.597Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:58:38.689Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://contentserver.adobe.com/store/books/aliceDynamic.epub&quot;>&lt;span class=&quot;text-light&quot;>Alice&amp;#39;s Adventures in Wonderland&lt;/span>&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>D. Appleton and Co&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>EPUB eBook – English&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>1.0 Mb&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/store/books/aliceDynamic.epub&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_15046141328361
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_450"/>
+            <image_9758
+                jcr:created="{Date}2017-09-02T01:01:10.226Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:14:44.055Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="Alice's Adventures in Wonderland"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/aliceDynamic_epub.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/store/books/aliceDynamic.epub"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:14:44.055Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_9758>
+            <end_15043136410890
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_450"/>
+            <column_2bcb
+                jcr:created="{Date}2017-09-05T12:30:31.373Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:30:31.373Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="t"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-01T23:57:17.562Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_2bcb>
+            <horizontalrule_9a44
+                jcr:created="{Date}2017-09-05T12:30:40.115Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:30:40.115Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_15046146313790
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_2bcb"/>
+            <column_47df
+                jcr:created="{Date}2017-09-05T12:30:51.781Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:30:51.781Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                bgColor=" "
+                grid0="2"
+                grid1="2"
+                layout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                layoutMode="spatial"
+                offset0="1"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-05T12:22:12.825Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </imagelayer>
+            </column_47df>
+            <text_a1b0
+                jcr:created="{Date}2017-09-05T12:30:59.295Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:15:57.259Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A723caf6a-0e27-44be-8733-904cede39cd2&quot;>&lt;span class=&quot;text-light&quot;>The Adventures of Sherlock Holmes&lt;/span>&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>Gutenberg Foundation&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>EPUB eBook – English&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>1.0 Mb&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A723caf6a-0e27-44be-8733-904cede39cd2&quot;>&lt;span class=&quot;text-light&quot;>Download eBook&lt;/span>&lt;/a>&lt;/div>&#xa;"/>
+            <break_15046146517900
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_47df"/>
+            <image_debe
+                jcr:created="{Date}2017-09-05T12:31:33.272Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:16:37.472Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="The Adventures of Sherlock Holmes"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/The_Adventures_of_Sherlock_Holmes_epub.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;ordersource=operator&amp;resid=urn%3Auuid%3A723caf6a-0e27-44be-8733-904cede39cd2"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:16:37.472Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_debe>
+            <break_15046146517901
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_47df"/>
+            <text_99a2
+                jcr:created="{Date}2017-09-05T12:33:35.799Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:18:06.916Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3Ad976a1af-582e-4fad-adb4-f08c878fc550&quot;>&lt;span class=&quot;text-light&quot;>Trail of Crumbs: Hunger, Love, and the Search for Home (Chapter 1)&lt;/span>&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>Grand Central Publishing&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>EPUB eBook – English&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>396 Kb&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3Ad976a1af-582e-4fad-adb4-f08c878fc550&quot;>&lt;span class=&quot;text-light&quot;>Download eBook&lt;/span>&lt;/a>&lt;/div>&#xa;"/>
+            <break_15046146517902
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_47df"/>
+            <image_6645
+                jcr:created="{Date}2017-09-05T12:32:24.795Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:19:05.280Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="Trail of Crumbs: Hunger, Love, and the Search for Home (Chapter 1)"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/Trail_of_Crumbs_Hunger_Love_and_the_Search_for_Home_epub.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;ordersource=operator&amp;resid=urn%3Auuid%3Ad976a1af-582e-4fad-adb4-f08c878fc550"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:19:05.280Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_6645>
+            <end_15046146517913
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_47df"/>
+            <column_f7ac
+                jcr:created="{Date}2017-09-05T12:44:14.881Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:44:14.881Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="t"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-01T23:57:17.562Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_f7ac>
+            <horizontalrule_6a33
+                jcr:created="{Date}2017-09-05T12:44:26.886Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:44:26.886Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_15046154548900
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_f7ac"/>
+            <column_bf07
+                jcr:created="{Date}2017-09-05T12:44:45.142Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:44:45.142Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                bgColor=" "
+                grid0="2"
+                grid1="2"
+                layout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                layoutMode="spatial"
+                offset0="1"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-05T12:22:12.825Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </imagelayer>
+            </column_bf07>
+            <text_cc5d
+                jcr:created="{Date}2017-09-05T12:44:55.066Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:20:42.418Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A115ab68e-be42-42bb-99a9-d15168879e30&quot;>The Goodbye Summer&lt;/a>&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>HarperCollins&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>PDF eBook - English&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>1.06 Mb&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A115ab68e-be42-42bb-99a9-d15168879e30&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_15046154851510
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_bf07"/>
+            <image_a222
+                jcr:created="{Date}2017-09-05T12:45:01.989Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:21:16.176Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="The Goodbye Summer"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/The_Goodbye_Summer_pdf.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;ordersource=operator&amp;resid=urn%3Auuid%3A115ab68e-be42-42bb-99a9-d15168879e30"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:21:16.176Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_a222>
+            <break_15046154851521
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_bf07"/>
+            <text_8bc9
+                jcr:created="{Date}2017-09-05T12:45:17.220Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:21:57.039Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3Ac0385b71-bcd6-44dd-9a69-ec8a931d25e2&quot;>Death and the Senator&lt;/a>&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>RosettaBooks&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>EPUB eBook - English&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>1.0 Mb&amp;nbsp;&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3Ac0385b71-bcd6-44dd-9a69-ec8a931d25e2&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_15046154851522
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_bf07"/>
+            <image_5a86
+                jcr:created="{Date}2017-09-05T12:45:05.724Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:22:19.106Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="Death and the Senator"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/Death_and_the_Senator_epub.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;ordersource=operator&amp;resid=urn%3Auuid%3Ac0385b71-bcd6-44dd-9a69-ec8a931d25e2"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:22:19.106Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_5a86>
+            <end_15046154851523
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_bf07"/>
+            <column_af0d
+                jcr:created="{Date}2017-09-05T12:45:58.321Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:45:58.321Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="t"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-01T23:57:17.562Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_af0d>
+            <horizontalrule_e3b7
+                jcr:created="{Date}2017-09-05T12:46:11.555Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:46:11.555Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_15046155583330
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_af0d"/>
+            <column_e4bf
+                jcr:created="{Date}2017-09-05T12:46:39.167Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:46:39.167Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                bgColor=" "
+                grid0="2"
+                grid1="2"
+                layout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                layoutMode="spatial"
+                offset0="1"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-05T12:22:12.825Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </imagelayer>
+            </column_e4bf>
+            <text_449c
+                jcr:created="{Date}2017-09-05T12:46:52.930Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:26:39.394Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3Acf432b4c-cd6e-4cf5-a3a5-95656d628f27&quot;>The Father Thing&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>RosettaBooks&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>EPUB eBook – English&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>1.0 Mb&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3Acf432b4c-cd6e-4cf5-a3a5-95656d628f27&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_15046155991790
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_e4bf"/>
+            <image_43cd
+                jcr:created="{Date}2017-09-05T12:47:02.571Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:26:59.280Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="The Father Thing"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/The_Father_Thing_epub.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;ordersource=operator&amp;resid=urn%3Auuid%3Acf432b4c-cd6e-4cf5-a3a5-95656d628f27"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:26:59.280Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_43cd>
+            <break_15046155991801
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_e4bf"/>
+            <text_acc8
+                jcr:created="{Date}2017-09-05T12:46:56.525Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:27:32.626Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A00bde5cc-7cdb-4799-af67-15a8c21c9dcf&quot;>Thirteen Moons&lt;/a>&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>Random House&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>EPUB eBook - English&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>1.0 Mb&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A00bde5cc-7cdb-4799-af67-15a8c21c9dcf&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_15046155991802
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_e4bf"/>
+            <image_de6d
+                jcr:created="{Date}2017-09-05T12:47:06.324Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:27:55.834Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="Thirteen Moons"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/Thirteen_Moons_epub.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;ordersource=operator&amp;resid=urn%3Auuid%3A00bde5cc-7cdb-4799-af67-15a8c21c9dcf"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:27:55.834Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_de6d>
+            <end_15046155991803
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_e4bf"/>
+            <column_fb3b
+                jcr:created="{Date}2017-09-05T12:47:21.176Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:47:21.176Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="t"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-01T23:57:17.562Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_fb3b>
+            <horizontalrule_c5c7
+                jcr:created="{Date}2017-09-05T12:47:33.745Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:47:33.745Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_15046156411950
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_fb3b"/>
+            <column_2418
+                jcr:created="{Date}2017-09-05T12:48:08.225Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:48:08.225Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                bgColor=" "
+                grid0="2"
+                grid1="2"
+                layout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                layoutMode="spatial"
+                offset0="1"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-05T12:22:12.825Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </imagelayer>
+            </column_2418>
+            <text_9754
+                jcr:created="{Date}2017-09-05T12:48:19.093Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:28:29.241Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A9cfb32c9-0976-4825-8a41-4512ab7c8c86&quot;>God Is A Salesman: Learn from the Master (Chapter 1)&lt;/a>&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>Center Street&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>EPUB eBook - English&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>100 Kb&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A9cfb32c9-0976-4825-8a41-4512ab7c8c86&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_15046156882400
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_2418"/>
+            <image_54
+                jcr:created="{Date}2017-09-05T12:48:29.283Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:28:47.338Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="God Is A Salesman: Learn from the Master (Chapter 1)"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/God_Is_A_Salesman_Learn_From_The_Master_epub.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;ordersource=operator&amp;resid=urn%3Auuid%3A9cfb32c9-0976-4825-8a41-4512ab7c8c86"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:28:47.338Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_54>
+            <break_15046156882401
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_2418"/>
+            <text_c294
+                jcr:created="{Date}2017-09-05T12:48:22.924Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:29:22.505Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A91797970-de30-4775-a139-7eb160a6688b&quot;>Daisy Miller&lt;/a>&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>Public Domain&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>PDF eBook - English&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>802 Kb&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A91797970-de30-4775-a139-7eb160a6688b&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_15046156882402
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_2418"/>
+            <image_af18
+                jcr:created="{Date}2017-09-05T12:48:34.791Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:29:41.337Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="Daisy Miller"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/Daisy_Miller_pdf.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;ordersource=operator&amp;resid=urn%3Auuid%3A91797970-de30-4775-a139-7eb160a6688b"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:29:41.337Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_af18>
+            <end_15046156882413
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_2418"/>
+            <column_494f
+                jcr:created="{Date}2017-09-05T12:49:25.175Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:49:25.175Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="t"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-01T23:57:17.562Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_494f>
+            <horizontalrule_bf9e
+                jcr:created="{Date}2017-09-05T12:49:36.302Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:49:36.302Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_15046157651900
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_494f"/>
+            <column_2237
+                jcr:created="{Date}2017-09-05T12:50:01.300Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:50:01.300Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                bgColor=" "
+                grid0="2"
+                grid1="2"
+                layout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                layoutMode="spatial"
+                offset0="1"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-05T12:22:12.825Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </imagelayer>
+            </column_2237>
+            <text_6e42
+                jcr:created="{Date}2017-09-05T12:50:14.714Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:30:21.039Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A98cdb717-fa80-407c-a076-b520eb149de8&quot;>Dracula&lt;/a>&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>Public Domain&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>PDF eBook - English&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>1.18 Mb&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A98cdb717-fa80-407c-a076-b520eb149de8&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_15046158013200
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_2237"/>
+            <image_b30b
+                jcr:created="{Date}2017-09-05T12:50:22.173Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:30:46.150Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="Dracula"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/Dracula_pdf.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;ordersource=operator&amp;resid=urn%3Auuid%3A98cdb717-fa80-407c-a076-b520eb149de8"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:30:46.150Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_b30b>
+            <break_15046158013211
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_2237"/>
+            <text_c2c
+                jcr:created="{Date}2017-09-05T12:50:17.423Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:31:28.500Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-7-block&quot;>&lt;div class=&quot;text-6-block&quot; style=&quot;margin-top: 0.14799em; margin-bottom: 0.14799em; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; font-family: tahoma, arial, helvetica, sans-serif;&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3Ac8cfc0c4-9805-4f1e-9c24-aee61753da6b&quot;>&lt;span class=&quot;text-light&quot;>My Antonia&lt;/span>&lt;/a>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-top: 0.14799em; margin-bottom: 0.14799em; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; font-family: tahoma, arial, helvetica, sans-serif;&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>Public Domain&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>PDF eBook - English&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>851 Kb&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3Ac8cfc0c4-9805-4f1e-9c24-aee61753da6b&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_15046158013212
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_2237"/>
+            <image_f581
+                jcr:created="{Date}2017-09-05T12:50:26.152Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:31:49.741Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="My Antonia"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/My_Antonia_pdf.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;ordersource=operator&amp;resid=urn%3Auuid%3Ac8cfc0c4-9805-4f1e-9c24-aee61753da6b"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:31:49.741Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_f581>
+            <end_15046158013223
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_2237"/>
+            <column_aed6
+                jcr:created="{Date}2017-09-05T12:50:43.884Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:50:43.884Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="t"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-01T23:57:17.562Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_aed6>
+            <horizontalrule_4e7d
+                jcr:created="{Date}2017-09-05T12:50:59.262Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:50:59.262Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_15046158439020
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_aed6"/>
+            <column_e393
+                jcr:created="{Date}2017-09-05T12:51:26.450Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:51:26.450Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                bgColor=" "
+                grid0="2"
+                grid1="2"
+                layout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                layoutMode="spatial"
+                offset0="1"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-05T12:22:12.825Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </imagelayer>
+            </column_e393>
+            <text_813d
+                jcr:created="{Date}2017-09-05T12:51:39.948Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:32:56.761Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3Ad6a4181d-1e69-461e-b1a3-480246fa91f0&quot;>Hot (Chapter 1)&lt;/a>&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>Forever&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>EPUB eBook - English&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>200 Kb&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3Ad6a4181d-1e69-461e-b1a3-480246fa91f0&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_15046158864680
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_e393"/>
+            <image_aeb0
+                jcr:created="{Date}2017-09-05T12:51:47.387Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:33:16.899Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="Hot (Chapter 1)"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/Hot_epub.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;ordersource=operator&amp;resid=urn%3Auuid%3Ad6a4181d-1e69-461e-b1a3-480246fa91f0"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:33:16.899Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_aeb0>
+            <break_15046158864691
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_e393"/>
+            <text_4608
+                jcr:created="{Date}2017-09-05T12:51:42.243Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:34:04.826Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3Af3d9bc3e-e673-4c03-a091-0e7c8d26014e&quot;>This Side of Paradise&lt;/a>&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>Public Domain&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>PDF eBook - English&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>1.2 Mb&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3Af3d9bc3e-e673-4c03-a091-0e7c8d26014e&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_15046158864692
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_e393"/>
+            <image_4c3d
+                jcr:created="{Date}2017-09-05T12:51:50.928Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:34:39.976Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="This Side of Paradise"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/This_Side_of_Paradise_pdf.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;ordersource=operator&amp;resid=urn%3Auuid%3Af3d9bc3e-e673-4c03-a091-0e7c8d26014e"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:34:39.976Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_4c3d>
+            <end_15046158864693
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_e393"/>
+            <column_8d66
+                jcr:created="{Date}2017-09-05T12:52:09.693Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:52:09.693Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="t"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-01T23:57:17.562Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_8d66>
+            <horizontalrule_52b4
+                jcr:created="{Date}2017-09-05T12:52:23.653Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:52:23.653Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_15046159297150
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_8d66"/>
+            <column_4f9
+                jcr:created="{Date}2017-09-05T12:52:38.771Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:52:38.771Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                bgColor=" "
+                grid0="2"
+                grid1="2"
+                layout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                layoutMode="spatial"
+                offset0="1"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-05T12:22:12.825Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </imagelayer>
+            </column_4f9>
+            <text_5f6c
+                jcr:created="{Date}2017-09-05T12:53:14.901Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:35:27.335Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A85e0bf96-a8aa-4508-8acc-c5d40c3f21c8&quot;>The Princess Diaries&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>HarperCollins&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>PDF eBook - English&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>4242 Kb&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A85e0bf96-a8aa-4508-8acc-c5d40c3f21c8&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_15046159587920
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_4f9"/>
+            <image_7eac
+                jcr:created="{Date}2017-09-05T12:52:58.060Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:35:51.200Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="The Princess Diaries"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/The_Princess_Diaries_pdf.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;ordersource=operator&amp;resid=urn%3Auuid%3A85e0bf96-a8aa-4508-8acc-c5d40c3f21c8"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:35:51.200Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_7eac>
+            <break_15046159587921
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_4f9"/>
+            <text_636e
+                jcr:created="{Date}2017-09-05T12:53:28.975Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:36:34.484Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A941ab558-d4c1-4fc2-b6e1-cf39f2efb9ad&quot;>Voyage autour de ma chambre&lt;/a>&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>FeedBooks&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>EPUB eBook - French&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>192 Kb&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A941ab558-d4c1-4fc2-b6e1-cf39f2efb9ad&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_15046159587932
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_4f9"/>
+            <image_322d
+                jcr:created="{Date}2017-09-05T12:53:02.077Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:37:01.585Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="Voyage autour de ma chambre"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/Voyage_autour_de_ma_chambre_epub.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;ordersource=operator&amp;resid=urn%3Auuid%3A941ab558-d4c1-4fc2-b6e1-cf39f2efb9ad"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:37:01.585Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_322d>
+            <end_15046159587933
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_4f9"/>
+            <column_1c62
+                jcr:created="{Date}2017-09-05T12:54:02.625Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:54:02.625Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="t"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-01T23:57:17.562Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_1c62>
+            <horizontalrule_e096
+                jcr:created="{Date}2017-09-05T12:54:19.187Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:54:19.187Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_15046160426600
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1c62"/>
+            <column_3917
+                jcr:created="{Date}2017-09-05T12:54:31.783Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:54:31.783Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                bgColor=" "
+                grid0="2"
+                grid1="2"
+                layout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                layoutMode="spatial"
+                offset0="1"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-05T12:22:12.825Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </imagelayer>
+            </column_3917>
+            <text_f860
+                jcr:created="{Date}2017-09-05T12:54:43.209Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:38:00.220Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3Ac3e2a856-7235-40b6-9558-720e45d3cb68&quot;>La Chartreuse de Parme&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>FeedBooks&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>EPUB eBook - French&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>520 Kb&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3Ac3e2a856-7235-40b6-9558-720e45d3cb68&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;">
+                <cq:annotations jcr:primaryType="nt:unstructured">
+                    <row_9
+                        jcr:lastModified="{Date}2017-09-05T14:18:56.225Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        text="Row 9 done"
+                        x="{Long}150"
+                        y="{Long}66"/>
+                </cq:annotations>
+            </text_f860>
+            <break_15046160718090
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_3917"/>
+            <image_37d5
+                jcr:created="{Date}2017-09-05T12:55:02.895Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:38:23.462Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="La Chartreuse de Parme"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/La_Chartreuse_de_Parme_epub.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;ordersource=operator&amp;resid=urn%3Auuid%3Ac3e2a856-7235-40b6-9558-720e45d3cb68"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:38:23.462Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_37d5>
+            <break_15046160718091
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_3917"/>
+            <text_b9f5
+                jcr:created="{Date}2017-09-05T12:54:51.968Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:39:14.314Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A03a5b0ac-9676-45c0-8436-10cacef9d20d&quot;>Les Diaboliques&lt;/a>&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>FeedBooks&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>EPUB eBook - French&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>292 Kb&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A03a5b0ac-9676-45c0-8436-10cacef9d20d&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_15046160718102
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_3917"/>
+            <image_9e96
+                jcr:created="{Date}2017-09-05T12:55:13.082Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:39:34.455Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="Les Diaboliques"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/Les_Diaboliques_epub.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;ordersource=operator&amp;resid=urn%3Auuid%3A03a5b0ac-9676-45c0-8436-10cacef9d20d"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:39:34.455Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_9e96>
+            <end_15046160718103
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_3917"/>
+            <column_e8d6
+                jcr:created="{Date}2017-09-05T12:55:24.626Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:55:24.626Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="t"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-01T23:57:17.562Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_e8d6>
+            <horizontalrule_c522
+                jcr:created="{Date}2017-09-05T12:55:40.975Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:55:40.975Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_15046161246540
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_e8d6"/>
+            <column_ebd6
+                jcr:created="{Date}2017-09-05T12:55:53.104Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:55:53.104Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                bgColor=" "
+                grid0="2"
+                grid1="2"
+                layout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                layoutMode="spatial"
+                offset0="1"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-05T12:22:12.825Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </imagelayer>
+            </column_ebd6>
+            <text_1856
+                jcr:created="{Date}2017-09-05T12:56:06.779Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:40:22.559Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A4541d3ee-c40b-49be-850a-41a4172a958f&quot;>20,000 Lieues Sous les Mers&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>FeedBooks&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>PDF eBook - French&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>1.51 Mb&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A4541d3ee-c40b-49be-850a-41a4172a958f&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;">
+                <cq:annotations jcr:primaryType="nt:unstructured">
+                    <row_10
+                        jcr:lastModified="{Date}2017-09-05T14:27:48.911Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        text="Row 10 done"
+                        x="{Long}80"
+                        y="{Long}23"/>
+                </cq:annotations>
+            </text_1856>
+            <break_15046161531280
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_ebd6"/>
+            <image_8e19
+                jcr:created="{Date}2017-09-05T12:56:23.451Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:40:41.967Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="20,000 Lieues Sous les Mers"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/20000_lieues_sous_les_mers_pdf.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;ordersource=operator&amp;resid=urn%3Auuid%3A4541d3ee-c40b-49be-850a-41a4172a958f"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:40:41.967Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_8e19>
+            <break_15046161531281
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_ebd6"/>
+            <text_6faf
+                jcr:created="{Date}2017-09-05T12:56:14.765Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:41:39.312Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3Abb099fd5-0f50-4224-8c19-6f3c081b02a4&quot;>Boule de Suif&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>FeedBooks&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>PDF eBook - French&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>340 Kb&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3Abb099fd5-0f50-4224-8c19-6f3c081b02a4&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_15046161531292
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_ebd6"/>
+            <image_e19c
+                jcr:created="{Date}2017-09-05T12:56:29.469Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:42:26.788Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="Boule de Suif"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/Boule_de_Suif_pdf.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;ordersource=operator&amp;resid=urn%3Auuid%3Abb099fd5-0f50-4224-8c19-6f3c081b02a4"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:42:26.788Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_e19c>
+            <end_15046161531293
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_ebd6"/>
+            <column_a40a
+                jcr:created="{Date}2017-09-05T12:58:38.205Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:58:38.205Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="t"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-01T23:57:17.562Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_a40a>
+            <horizontalrule_6fdf
+                jcr:created="{Date}2017-09-05T12:58:53.731Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:58:53.731Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_15046163182310
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_a40a"/>
+            <column_b052
+                jcr:created="{Date}2017-09-05T12:59:06.925Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:59:06.925Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                bgColor=" "
+                grid0="2"
+                grid1="2"
+                layout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                layoutMode="spatial"
+                offset0="1"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-05T12:22:12.825Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </imagelayer>
+            </column_b052>
+            <text_fb6e
+                jcr:created="{Date}2017-09-05T12:59:20.666Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:43:19.940Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A61dfb84d-cc76-412a-9acd-a30d4f6ecdbc&quot;>Der Prozeá&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>FeedBooks&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>EPUB eBook - German&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>236 Kb&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;a href=&quot;http://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A61dfb84d-cc76-412a-9acd-a30d4f6ecdbc&quot;>&amp;nbsp;&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A61dfb84d-cc76-412a-9acd-a30d4f6ecdbc&quot;>&lt;span class=&quot;text-light&quot;>Download eBook&lt;/span>&lt;/a>&lt;/div>&#xa;">
+                <cq:annotations jcr:primaryType="nt:unstructured">
+                    <row_11
+                        jcr:lastModified="{Date}2017-09-05T14:34:12.022Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        text="Row 11 Done"
+                        x="{Long}136"
+                        y="{Long}-1"/>
+                </cq:annotations>
+            </text_fb6e>
+            <break_15046163469560
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_b052"/>
+            <image_b78
+                jcr:created="{Date}2017-09-05T12:59:30.390Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:43:38.183Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="Der Prozeá"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/Der_Proze_ƒ_epub.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;ordersource=operator&amp;resid=urn%3Auuid%3A61dfb84d-cc76-412a-9acd-a30d4f6ecdbc"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:43:38.183Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_b78>
+            <break_15046163469571
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_b052"/>
+            <text_6602
+                jcr:created="{Date}2017-09-05T12:59:23.942Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:44:28.792Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A818e9fcb-dfbe-4972-b41c-c5fcbf73735c&quot;>Die Leiden des jungen Werther&lt;/a>&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>FeedBooks&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>EPUB eBook - German&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>216 Kb&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A818e9fcb-dfbe-4972-b41c-c5fcbf73735c&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_15046163469572
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_b052"/>
+            <image_f627
+                jcr:created="{Date}2017-09-05T12:59:37.001Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:44:56.079Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="Die Leiden des jungen Werther"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/Die_Leiden_des_jungen_Werther_epub.png.adimg.mw.138 (1).png"
+                link="https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;ordersource=operator&amp;resid=urn%3Auuid%3A818e9fcb-dfbe-4972-b41c-c5fcbf73735c"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:44:56.079Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_f627>
+            <end_15046163469573
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_b052"/>
+            <column_b1f2
+                jcr:created="{Date}2017-09-05T13:01:35.793Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T13:01:35.793Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="t"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-01T23:57:17.562Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_b1f2>
+            <horizontalrule_b86f
+                jcr:created="{Date}2017-09-05T13:01:49.762Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T13:01:49.762Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_15046164958280
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_b1f2"/>
+            <column_54f0
+                jcr:created="{Date}2017-09-05T13:01:59.629Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T13:01:59.629Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                bgColor=" "
+                grid0="2"
+                grid1="2"
+                layout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                layoutMode="spatial"
+                offset0="1"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-05T12:22:12.825Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </imagelayer>
+            </column_54f0>
+            <text_cba4
+                jcr:created="{Date}2017-09-05T13:02:14.792Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:45:51.139Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A62dd32e3-6c1f-4841-a422-c40c2fd7f43f&quot;>Der Schimmelreiter&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>FeedBooks&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>EPUB eBook - German&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>516 Kb&amp;nbsp;&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A62dd32e3-6c1f-4841-a422-c40c2fd7f43f&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;">
+                <cq:annotations jcr:primaryType="nt:unstructured">
+                    <row_12
+                        jcr:lastModified="{Date}2017-09-05T15:24:53.041Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        text="Row 12 done"
+                        x="{Long}163"
+                        y="{Long}4"/>
+                </cq:annotations>
+            </text_cba4>
+            <break_15046165196570
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_54f0"/>
+            <image_c01a
+                jcr:created="{Date}2017-09-05T13:02:27.310Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:46:15.906Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="Der Schimmelreiter"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/Der_Schimmelreiter_pdf.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;ordersource=operator&amp;resid=urn%3Auuid%3A62dd32e3-6c1f-4841-a422-c40c2fd7f43f"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:46:15.906Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_c01a>
+            <break_15046165196571
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_54f0"/>
+            <text_415c
+                jcr:created="{Date}2017-09-05T13:02:18.570Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:47:02.775Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A9a93a7eb-a594-4e39-ae4f-496973a182a0&quot;>Isabella von Aegypten&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>FeedBooks&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>PDF eBook - German&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>528 Kb&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A9a93a7eb-a594-4e39-ae4f-496973a182a0&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_15046165196572
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_54f0"/>
+            <image_eb9c
+                jcr:created="{Date}2017-09-05T13:02:33.914Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:47:22.902Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="Isabella von Aegypten"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/Isabella_von_Aegypten_pdf.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;ordersource=operator&amp;resid=urn%3Auuid%3A9a93a7eb-a594-4e39-ae4f-496973a182a0"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:47:22.902Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_eb9c>
+            <end_15046165196583
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_54f0"/>
+            <column_78ee
+                jcr:created="{Date}2017-09-05T13:03:54.243Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T13:03:54.243Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="t"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-01T23:57:17.562Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_78ee>
+            <horizontalrule_d8f1
+                jcr:created="{Date}2017-09-05T13:04:11.428Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T13:04:11.428Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_15046166342730
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_78ee"/>
+            <column_5111
+                jcr:created="{Date}2017-09-05T13:04:25.701Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T13:04:25.701Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                bgColor=" "
+                grid0="2"
+                grid1="2"
+                layout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                layoutMode="spatial"
+                offset0="1"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-05T12:22:12.825Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </imagelayer>
+            </column_5111>
+            <text_9228
+                jcr:created="{Date}2017-09-05T13:04:41.168Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:48:16.575Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A9d185bc0-6a6c-4598-bdf5-7249552a2545&quot;>20.000 Mijlen onder zee&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>FeedBooks&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>EPUB eBook - Dutch&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>588 Kb&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A9d185bc0-6a6c-4598-bdf5-7249552a2545&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;">
+                <cq:annotations jcr:primaryType="nt:unstructured">
+                    <row_13
+                        jcr:lastModified="{Date}2017-09-05T15:30:42.457Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        text="Row 13 done"
+                        x="{Long}75"
+                        y="{Long}9"/>
+                </cq:annotations>
+            </text_9228>
+            <break_15046166657380
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_5111"/>
+            <image_2073
+                jcr:created="{Date}2017-09-05T13:04:49.390Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:48:39.654Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="20.000 Mijlen onder zee"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/20000_Mijlen_onder_zee_epub.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;ordersource=operator&amp;resid=urn%3Auuid%3A9d185bc0-6a6c-4598-bdf5-7249552a2545"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:48:39.654Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_2073>
+            <break_15046166657391
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_5111"/>
+            <text_e1e8
+                jcr:created="{Date}2017-09-05T13:04:44.536Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:49:31.448Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A7f133948-600c-40f8-9379-e82542fc8757&quot;>Historia de la vida del Buscón&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>Twelve&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>EPUB eBook – English&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;>196 Kb&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A7f133948-600c-40f8-9379-e82542fc8757&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_15046166657392
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_5111"/>
+            <image_1c69
+                jcr:created="{Date}2017-09-05T13:04:54.548Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:49:58.109Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="Historia de la vida del Buscón"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/Historia_de_la_vida_del_Buscón_epub.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;ordersource=operator&amp;resid=urn%3Auuid%3A7f133948-600c-40f8-9379-e82542fc8757"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:49:58.109Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_1c69>
+            <end_15046166657403
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5111"/>
+            <column_3285
+                jcr:created="{Date}2017-09-05T13:05:24.538Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T13:05:24.538Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="t"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-01T23:57:17.562Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_3285>
+            <horizontalrule_cead
+                jcr:created="{Date}2017-09-05T13:05:42.392Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T13:05:42.392Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_15046167245710
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_3285"/>
+            <column_b750
+                jcr:created="{Date}2017-09-05T13:05:57.074Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T13:05:57.074Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                bgColor=" "
+                grid0="2"
+                grid1="2"
+                layout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                layoutMode="spatial"
+                offset0="1"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-05T12:22:12.825Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </imagelayer>
+            </column_b750>
+            <text_3dbf
+                jcr:created="{Date}2017-09-05T13:06:12.496Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:50:51.073Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A39a50f6e-fb34-4c8e-82fd-7b38630604d4&quot;>El ingenioso hidalgo Don Quijote de la Mancha&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>FeedBooks&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>PDF eBook - Spanish&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>2.01 Mb&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A39a50f6e-fb34-4c8e-82fd-7b38630604d4&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;">
+                <cq:annotations jcr:primaryType="nt:unstructured">
+                    <row_14
+                        jcr:lastModified="{Date}2017-09-05T15:36:55.667Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        text="Row 14 done"
+                        x="{Long}65"
+                        y="{Long}34"/>
+                </cq:annotations>
+            </text_3dbf>
+            <break_15046167571090
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_b750"/>
+            <image_e423
+                jcr:created="{Date}2017-09-05T13:06:25.368Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:51:11.572Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="Alice's Adventures in Wonderland"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/El_ingenioso_hidalgo_Don_Quijote_de_la_Mancha_pdf.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;ordersource=operator&amp;resid=urn%3Auuid%3A39a50f6e-fb34-4c8e-82fd-7b38630604d4"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:51:11.572Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_e423>
+            <break_15046167571091
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_b750"/>
+            <text_3d13
+                jcr:created="{Date}2017-09-05T13:06:41.073Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:52:05.771Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/store/books/HuckFinn.pdf&quot;>Huckleberry Finn&lt;/a>&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>Public Doman&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>PDF eBook - English&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>827 Kb&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/store/books/HuckFinn.pdf&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_15046167571102
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_b750"/>
+            <image_afab
+                jcr:created="{Date}2017-09-05T13:06:30.553Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:52:25.778Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="Huckleberry Finn"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/HuckFinn_pdf.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/store/books/HuckFinn.pdf"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:52:25.778Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_afab>
+            <end_15046167571103
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_b750"/>
+            <column_f50b
+                jcr:created="{Date}2017-09-05T13:07:49.345Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T13:07:49.345Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="t"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-01T23:57:17.562Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_f50b>
+            <horizontalrule_1445
+                jcr:created="{Date}2017-09-05T13:08:50.703Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T13:08:50.703Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_15046168693800
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_f50b"/>
+            <column_220b
+                jcr:created="{Date}2017-09-05T13:09:32.813Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T13:09:32.813Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                bgColor=" "
+                grid0="2"
+                grid1="2"
+                layout="4;grid-cols-3 grid-offset-2;grid-cols-3;grid-cols-3;grid-cols-3;"
+                layoutMode="spatial"
+                offset0="1"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-05T12:22:12.825Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </imagelayer>
+            </column_220b>
+            <text_ce8d
+                jcr:created="{Date}2017-09-05T13:09:49.240Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:53:31.557Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A2d3bea66-b956-454b-86a2-c46b4d4ab10b&quot;>Tony Hillerman E-Reader – expires in 30 minutes&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>HarperCollins&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>PDF eBook - English&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>1.25 Mb&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;amp;ordersource=operator&amp;amp;resid=urn%3Auuid%3A2d3bea66-b956-454b-86a2-c46b4d4ab10b&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;">
+                <cq:annotations jcr:primaryType="nt:unstructured">
+                    <row_15
+                        jcr:lastModified="{Date}2017-09-05T15:43:01.282Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        text="Row 15 done"
+                        x="{Long}177"
+                        y="{Long}14"/>
+                </cq:annotations>
+            </text_ce8d>
+            <break_15046169729890
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_220b"/>
+            <image_82d3
+                jcr:created="{Date}2017-09-05T13:10:11.265Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:53:52.333Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="Tony Hillerman E-Reader – expires in 30 minutes"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/Tony_Hillerman_E-Reader_pdf.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/fulfillment/URLLink.acsm?action=free&amp;ordersource=operator&amp;resid=urn%3Auuid%3A2d3bea66-b956-454b-86a2-c46b4d4ab10b"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:53:52.333Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_82d3>
+            <break_15046169729891
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_220b"/>
+            <text_9d99
+                jcr:created="{Date}2017-09-05T13:09:53.344Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:54:46.589Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/store/books/Sway_oneChapter.epub&quot;>Sway&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>Little, Brown and Company&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>EPUB eBook - English&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>324 Kb&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://contentserver.adobe.com/store/books/Sway_oneChapter.epub&quot;>Download eBook&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_15046169729902
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_220b"/>
+            <image_8b37
+                jcr:created="{Date}2017-09-05T13:10:18.290Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-08T16:55:13.781Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="left"
+                alt="Sway"
+                fileReference="/content/dam/acom/en/solutions/ebook/digital-editions/Sway_oneChapter_epub.png.adimg.mw.138.png"
+                link="https://contentserver.adobe.com/store/books/Sway_oneChapter.epub"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-08T16:55:13.781Z"
+                    jcr:lastModifiedBy="dmichael"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_8b37>
+            <end_15046169729903
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_220b"/>
+            <column_f171
+                jcr:created="{Date}2017-09-05T12:41:57.864Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-05T12:42:42.848Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="9"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-05T12:42:42.848Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_f171>
+            <end_15046153178720
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_f171"/>
+        </contentbody>
+        <sectionMore
+            jcr:primaryType="nt:unstructured"
+            linkModalScrolling="no"
+            linkModalSize="426x240"
+            linkTarget="_self"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2017-09-05T12:37:17.926Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2017-09-05T12:37:17.926Z"
+                    jcr:lastModifiedBy="sale"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <card jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2017-09-05T12:37:17.926Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"/>
+        </card>
+        <tophero
+            jcr:lastModified="{Date}2017-09-05T12:38:27.839Z"
+            jcr:lastModifiedBy="sale"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            avoid="hero2-avoid-0"
+            color="hero2-theme-1"
+            height="hero2-size-auto"
+            hideArticle="true"
+            hideCredits="true"
+            hideLink="true">
+            <image
+                jcr:lastModified="{Date}2017-09-05T12:38:27.839Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Optimize your reading experience with the best eBook reader across formats."
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+            <article
+                jcr:lastModified="{Date}2017-09-01T18:11:59.607Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hero/article"
+                articleAlignment="hero2-align-1"
+                title="&lt;p>Optimize your reading experience with the best eBook reader across formats.&lt;/p>&#xa;">
+                <titleImage
+                    jcr:lastModified="{Date}2017-09-01T18:11:59.607Z"
+                    jcr:lastModifiedBy="sale"
+                    jcr:primaryType="nt:unstructured"/>
+                <link
+                    jcr:primaryType="nt:unstructured"
+                    modalMode="VIDEO"
+                    size="426x240"
+                    type="free">
+                    <image
+                        jcr:lastModified="{Date}2017-09-01T18:11:59.607Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </link>
+            </article>
+        </tophero>
+    </jcr:content>
+</jcr:root>

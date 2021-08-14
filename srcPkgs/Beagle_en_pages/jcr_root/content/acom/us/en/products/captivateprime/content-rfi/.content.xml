@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2021-07-02T11:01:36.963Z"
+        cq:lastModifiedBy="nedas"
+        cq:lastReplicated="{Date}2019-02-07T08:37:05.872Z"
+        cq:lastReplicatedBy="nedas"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Creative Cloud Content RFI "
+        jcr:uuid="72754488-90d7-41f5-b908-311c2d0ab8d1"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        applauncherTheme="light"
+        billingFrequency="ANNUAL"
+        browserTitle="Creative Cloud Content RFI "
+        channel="adobe.com"
+        commitment="YEAR"
+        distType="dist5"
+        enableCCRedirect="NA"
+        faasFormPage="true"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        hideInSectionNav="true"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        marketSegmentRewrite="COM"
+        metaDescription="Creative Cloud Content RFI "
+        modalSize="426x240"
+        modelCode="INDIVIDUAL"
+        pageTitle="Creative Cloud Content RFI "
+        pricePoint="REGULAR"
+        removeSectionNav="true"
+        stagelastReplicated="15-Dec-2020 07:24"
+        stagelastReplicatedBy="bgupta"
+        stageLastReplicationAction="ActivatedtoStage"
+        topPadding="Default (Top Padding - 7 rem)"
+        useH1Tags="pageTitle">
+        <promobar jcr:primaryType="nt:unstructured">
+            <promo
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/promo">
+                <free
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"/>
+                <paid
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"/>
+            </promo>
+        </promobar>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2019-02-05T06:02:47.427Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2019-02-05T06:02:47.427Z"
+                    jcr:lastModifiedBy="nedas"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_99bd
+                jcr:created="{Date}2019-02-04T18:28:12.106Z"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2019-02-05T10:11:58.183Z"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                columnCount="1"
+                grid0="8"
+                layout="1;grid-cols-8 grid-offset-4      ;"
+                multiplier="4"
+                offset0="4"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2019-02-05T10:11:58.183Z"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_99bd>
+            <text_a45f
+                jcr:created="{Date}2019-02-05T06:04:39.573Z"
+                jcr:createdBy="nedas"
+                jcr:lastModified="{Date}2019-02-05T06:07:15.304Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h5 style=&quot;text-align: center;&quot;>Interested in Adobe Creative Cloud Training Courses?&lt;/h5>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Please fill in the details below.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <faasform_99f
+                jcr:created="{Date}2019-02-04T18:28:49.012Z"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2021-07-02T11:01:36.956Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/faasform"
+                destinationURL="/content/acom/us/en/products/captivateprime/content-rfi/thank-you"
+                formLocale="en_us"
+                formSubType="2851"
+                formTemplate="69"
+                formType="2846"
+                intCampaignId="7011O0000028IrwQAE"
+                modalSize="426x240"
+                onsiteCampaignId="7011O0000028Is1QAE"
+                sku="3090"/>
+            <text_bb2f
+                jcr:created="{Date}2019-02-05T06:10:31.004Z"
+                jcr:createdBy="nedas"
+                jcr:lastModified="{Date}2019-02-05T06:11:02.874Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>✓ Please note that these courses are in English. Some may have captions available in German, French or Spanish.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>✓ Currently we are supporting licenses for organizations with 100 learners and above.&lt;/span>&lt;/div>&#xa;"/>
+            <end_15493048921090
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_99bd"/>
+        </contentbody>
+        <modalcontent
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <faasform_f69a
+                jcr:created="{Date}2019-02-11T17:10:10.048Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2019-02-11T17:10:10.048Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/faasform"/>
+        </modalcontent>
+    </jcr:content>
+    <thank-you/>
+</jcr:root>

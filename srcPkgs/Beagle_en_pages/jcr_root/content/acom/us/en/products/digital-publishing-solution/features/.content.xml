@@ -1,0 +1,1079 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-01-26T01:43:09.523Z"
+        cq:lastModifiedBy="rikio"
+        cq:lastReplicated="{Date}2016-01-26T01:44:22.895Z"
+        cq:lastReplicatedBy="rikio"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:language="en"
+        jcr:mixinTypes="[mix:lockable,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Features"
+        jcr:uuid="5707195b-6691-4cb1-aee6-142dd1dd93b5"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Adobe Digital Publishing Solution features | Buy Adobe Digital Publishing Solution"
+        ctaButtonText="Request a demo"
+        enableBreadcrumb="true"
+        enablePageTitle="true"
+        groupSectionNavItems="no"
+        hideMerchandisingBar="show"
+        hidePromoComponent="hide"
+        isMCPage="true"
+        livePersonSiteId="89901003"
+        marketSegmentRewrite="none"
+        metaDescription="Learn more about Adobe Digital Publishing Solution capabilities that help improve interactivity, customization, mobile publishing and analysis."
+        modalSize="426x240"
+        navTitle="Features"
+        noLoggedInChange="true"
+        pageTitle="Features"
+        product="digital_publishingsuite"
+        sectionNavTitle="Features"
+        stagelastReplicated="26-Jan-2016 01:44"
+        stagelastReplicatedBy="rikio"
+        stageLastReplicationAction="ActivatedtoStage"
+        tagsKeywords="make apps"
+        thumbMode="{Boolean}false"
+        tryLink="http://apps.enterprise.adobe.com/go/70114000002JNwKAAW">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="55">
+            <image
+                jcr:lastModified="{Date}2015-06-10T20:57:15.596Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer
+            jcr:lastModified="{Date}2015-05-22T17:18:30.700Z"
+            jcr:lastModifiedBy="axi13715"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/contentlayer"
+            horizontalAlign="1"
+            opacity="{Long}0"
+            rgb="FFFFFF"
+            verticalAlign="2"
+            width="{Long}40">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2015-06-10T20:57:15.596Z"
+                    jcr:lastModifiedBy="patters"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+            <title jcr:primaryType="nt:unstructured"/>
+            <text
+                jcr:primaryType="nt:unstructured"
+                text="&lt;h1 style=&quot;text-align: center;&quot;>&lt;strong>It pays to be beautiful.&lt;/strong>&lt;/h1>&#xa;&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Create stunning mobile apps with business impact.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+        </contentlayer>
+        <promobar jcr:primaryType="nt:unstructured">
+            <promo
+                jcr:lastModified="{Date}2015-02-03T21:03:27.637Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/promo"
+                ctaButtonText="Request a demo"
+                icon="promo-icon adobe-icon-marketing-cloud"
+                marketSegmentRewrite="COM"
+                priceType="SUB_NEW"
+                product="web_experience_management"
+                productIntroText="Find out how Adobe Experience Manager can help your business."
+                purchasePhoneCss="promo-phone"
+                purchasePhoneNumberCall="+18777227088"
+                purchasePhoneNumberDisp="877.722.7088"
+                purchasePhoneText="call">
+                <free
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonText="Request a demo"
+                    productIntroText="Find out how Adobe Experience Manager can help your business."/>
+                <paid
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="/content/acom/us/en/marketing-cloud"
+                    ctaButtonText="Request a demo"
+                    productIntroText="Find out how Adobe Experience Manager can help your business."/>
+            </promo>
+        </promobar>
+        <mmarquee
+            jcr:lastModified="{Date}2015-05-22T17:10:19.846Z"
+            jcr:lastModifiedBy="axi13715"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mmarquee"
+            text="&lt;h1 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h1>&#xa;&lt;h1 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h1>&#xa;&lt;h1 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h1>&#xa;&lt;h1 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h1>&#xa;&lt;h1 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h1>&#xa;&lt;h1 style=&quot;text-align: center;&quot;>&lt;strong>It pays to be beautiful.&lt;/strong>&lt;/h1>&#xa;&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>Create stunning mobile apps with business impact.&lt;/div>&#xa;">
+            <contentlayer jcr:primaryType="nt:unstructured"/>
+            <listing jcr:primaryType="nt:unstructured"/>
+        </mmarquee>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_57d5
+                jcr:created="{Date}2015-05-08T20:45:38.254Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2015-05-26T18:07:50.453Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor="background-color:#191e22;color:#FFFFFF"
+                columnCount="1"
+                grid0="8"
+                layout="1;grid-cols-8 grid-offset-4;"
+                multiplier="9"
+                offset0="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-05-26T18:07:50.453Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        fileReference="/content/dam/acom/en/products/publish/images/dps-features-marquee-1440x305.jpg"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_57d5>
+            <column_3e04
+                jcr:created="{Date}2015-05-22T18:51:59.702Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-22T18:52:13.411Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10;"
+                layout="1;grid-cols-10;"
+                layoutMode="structured"
+                multiplier="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-05-22T18:52:13.411Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_3e04>
+            <text_f732
+                jcr:created="{Date}2015-02-02T22:49:27.775Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2015-06-02T20:44:18.878Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&lt;strong>Everything you need for apps. And then some.&lt;/strong>&lt;br>&#xa;&lt;/h3>&#xa;"
+                textIsRich="true"/>
+            <text_d649
+                jcr:created="{Date}2015-05-08T20:46:39.280Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2015-06-02T20:44:33.565Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div style=&quot;text-align: center;&quot; class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Digital Publishing Solution features all you need to create, distribute, monetize and optimize engaging app experiences.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14323207197190
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_3e04"/>
+            <end_14311179382900
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_57d5"/>
+            <column_dd6b
+                jcr:created="{Date}2015-05-22T18:52:36.291Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-29T22:44:04.193Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                layout="1;grid-cols-14 grid-offset-1;"
+                section="t"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-05-29T22:44:04.193Z"
+                        jcr:lastModifiedBy="rikio"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_dd6b>
+            <text_7143
+                jcr:created="{Date}2015-06-26T17:51:09.598Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2015-06-26T17:51:28.330Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;a name=&quot;engagingappexperiences&quot;>&lt;/a>&amp;nbsp;&lt;/p>&#xa;"/>
+            <text_bd76
+                jcr:created="{Date}2015-05-22T18:55:52.746Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-26T17:55:15.525Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-3-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>Ready. Set. Engage.&lt;/h3>&#xa;"/>
+            <text_300c
+                jcr:created="{Date}2015-05-22T18:56:04.398Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-26T18:08:25.720Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Create content-rich experiences audiences enjoy on every device.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14323207563080
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_dd6b"/>
+            <column_a28
+                jcr:created="{Date}2015-05-22T18:56:55.244Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-29T22:42:28.139Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="2"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-05-29T22:42:28.139Z"
+                        jcr:lastModifiedBy="rikio"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_a28>
+            <text_2c9b
+                jcr:created="{Date}2015-05-22T18:59:39.060Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-28T19:30:38.267Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&lt;img src=&quot;/content/dam/acom/en/products/publish/images/dps-features-ready-set-engage-708x457.jpg&quot;>&lt;/p>&#xa;"/>
+            <end_14323210152620
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_a28"/>
+            <column_a45a
+                jcr:created="{Date}2015-05-22T19:00:38.682Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-22T19:01:42.520Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="9"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-05-22T19:01:42.520Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_a45a>
+            <column_8d5e
+                jcr:created="{Date}2015-05-22T19:01:35.111Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-22T19:01:48.843Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-cols-4;grid-cols-4;grid-cols-4;"
+                layout="3;grid-cols-4;grid-cols-4;grid-cols-4;"
+                layoutMode="structured"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-05-22T19:01:48.843Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_8d5e>
+            <text_e608
+                jcr:created="{Date}2015-05-22T19:01:57.797Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-28T19:32:54.558Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Create high-impact content.&lt;/span>&lt;/div>&#xa;"/>
+            <text_74c2
+                jcr:created="{Date}2015-05-22T19:02:24.298Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-10T20:58:24.851Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Set your ideas in motion with engaging slide shows, audio, video, scrolling, 360-degree rotation, pan and zoom, hyperlinks \u0003and HTML5 animation.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14323213088730
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_8d5e"/>
+            <text_76a4
+                jcr:created="{Date}2015-05-22T19:04:29.610Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-28T19:33:00.734Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Take control and customize.&lt;/span>&lt;/div>&#xa;"/>
+            <text_3905
+                jcr:created="{Date}2015-05-22T19:04:33.530Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-02T20:44:48.719Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>You now have finer control of app layouts and can create completely customized and intuitive brand experiences for all your audiences.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14323213088741
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_8d5e"/>
+            <text_fec9
+                jcr:created="{Date}2015-05-22T19:05:06.118Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-28T19:33:11.347Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Be seen and be heard.&lt;/span>&lt;/div>&#xa;"/>
+            <text_c67a
+                jcr:created="{Date}2015-05-22T19:05:09.342Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-28T19:33:16.728Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Connect with audiences through relevant content, push notifications, in-app messages, easy content discovery \u0003and social sharing.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14323213025500
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_8d5e"/>
+            <end_14323212387040
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_a45a"/>
+            <column_b593
+                jcr:created="{Date}2015-06-10T16:57:52.095Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-26T19:28:03.618Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-06-26T19:28:03.618Z"
+                        jcr:lastModifiedBy="peharris"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_b593>
+            <horizontalrule_a0af
+                jcr:created="{Date}2015-06-10T16:58:28.126Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-10T16:58:28.126Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_14339554721390
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_b593"/>
+            <column_30f2
+                jcr:created="{Date}2015-05-22T19:07:24.782Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-26T19:27:47.236Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                layout="1;grid-cols-14 grid-offset-1;"
+                section="t"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-06-26T19:27:47.236Z"
+                        jcr:lastModifiedBy="peharris"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_30f2>
+            <text_5ee
+                jcr:created="{Date}2015-06-26T17:52:03.658Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2015-06-26T18:06:41.025Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;a name=&quot;flexiblepublishing&quot;>&lt;/a>&lt;/p>&#xa;"/>
+            <text_2e9a
+                jcr:created="{Date}2015-06-26T19:26:41.440Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2015-06-26T19:27:24.741Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;a name=&quot;flexiblepublishing&quot;>&lt;/a>&amp;nbsp;&lt;/p>&#xa;"/>
+            <text_6a97
+                jcr:created="{Date}2015-05-22T19:08:09.686Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-26T19:26:30.831Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-3-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>Features so flexible, they stretch limits.&lt;/h3>&#xa;"
+                textIsRich="true"/>
+            <text_2459
+                jcr:created="{Date}2015-05-22T19:08:27.372Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-26T19:25:41.544Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Use familiar tools to achieve extraordinary results.&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14323216448080
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_30f2"/>
+            <column_1191
+                jcr:created="{Date}2015-05-22T19:09:26.854Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-22T19:16:17.560Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-05-22T19:16:17.560Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_1191>
+            <column_3c4e
+                jcr:created="{Date}2015-05-22T19:09:54.214Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-22T19:10:01.363Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-cols-4;grid-cols-4;grid-cols-4;"
+                layout="3;grid-cols-4;grid-cols-4;grid-cols-4;"
+                layoutMode="structured"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-05-22T19:10:01.363Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_3c4e>
+            <text_4258
+                jcr:created="{Date}2015-05-22T19:10:26.918Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-28T19:41:24.418Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h5 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Build it yourself. No coding needed.&lt;/span>&lt;/h5>&#xa;"/>
+            <text_d321
+                jcr:created="{Date}2015-05-22T19:12:47.277Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-26T18:12:23.194Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/p>&#xa;&lt;p style=&quot;text-align: center;&quot;>&lt;img src=&quot;/content/dam/acom/en/products/publish/images/dps-features-flexibility-no-coding-277x198.jpg&quot;>&lt;/p>&#xa;"/>
+            <text_f02f
+                jcr:created="{Date}2015-05-22T19:13:10.868Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-10T21:03:35.459Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Use the tools you know and love in \u0003Adobe Creative Cloud to create a pixel-perfect app experience or HTML files for responsive layouts — all without the help of developers.&lt;/span>&lt;/div>&#xa;"/>
+            <break_14323218013960
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_3c4e"/>
+            <text_e8d4
+                jcr:created="{Date}2015-05-22T19:10:50.368Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-28T19:41:31.229Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h5 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Keep it fresh and relevant.&lt;/span>&lt;/h5>&#xa;"/>
+            <text_5cd5
+                jcr:created="{Date}2015-05-22T19:14:08.112Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-26T18:12:41.335Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/p>&#xa;&lt;p style=&quot;text-align: center;&quot;>&lt;img src=&quot;/content/dam/acom/en/products/publish/images/dps-features-flexibility-fresh-277x198.jpg&quot;>&lt;/p>&#xa;"/>
+            <text_aa08
+                jcr:created="{Date}2015-05-22T19:14:19.382Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-10T17:03:44.349Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Easily manage content from Adobe Experience Manager to deliver new content as often as you like and keep customers coming back for more.&lt;/span>&lt;/div>&#xa;"/>
+            <break_14323218013971
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_3c4e"/>
+            <text_5bc6
+                jcr:created="{Date}2015-05-22T19:11:00.409Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-28T19:41:38.531Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h5 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Work and play well with others.&lt;/span>&lt;/h5>&#xa;"/>
+            <text_58fa
+                jcr:created="{Date}2015-05-22T19:14:50.620Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-26T18:13:00.611Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/p>&#xa;&lt;p style=&quot;text-align: center;&quot;>&lt;img src=&quot;/content/dam/acom/en/products/publish/images/dps-features-flexibility-work-well-277x198.jpg&quot;>&lt;/p>&#xa;"/>
+            <text_c632
+                jcr:created="{Date}2015-05-22T19:15:00.107Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-10T21:13:54.230Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Use HTML design tools or content management systems like Drupal and WordPress \u0003to make your content delivery \u0003seamless and simple.&lt;/span>&lt;/div>&#xa;"/>
+            <end_14323217942450
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_3c4e"/>
+            <end_14323217668830
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1191"/>
+            <column_5d94
+                jcr:created="{Date}2015-06-10T16:58:41.047Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-10T17:02:42.458Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="9"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-06-10T17:02:42.458Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_5d94>
+            <horizontalrule_d9cd
+                jcr:created="{Date}2015-06-10T16:58:56.459Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-10T16:58:56.459Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_14339555210940
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5d94"/>
+            <column_3463
+                jcr:created="{Date}2015-05-22T19:16:24.069Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-29T22:44:40.299Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                layout="1;grid-cols-14 grid-offset-1;"
+                section="t"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-05-29T22:44:40.299Z"
+                        jcr:lastModifiedBy="rikio"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_3463>
+            <text_bf6c
+                jcr:created="{Date}2015-06-26T17:52:48.566Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2015-06-26T17:52:56.858Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;a name=&quot;provenimpact&quot;>&lt;/a>&amp;nbsp;&lt;/p>&#xa;"/>
+            <text_117f
+                jcr:created="{Date}2015-05-22T19:16:41.041Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-26T17:54:54.237Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-3-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>Prove your mobile strategy is on the money.&lt;/h3>&#xa;"
+                textIsRich="true"/>
+            <text_4cfb
+                jcr:created="{Date}2015-05-22T19:17:22.495Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-10T21:07:42.502Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div style=&quot;text-align: center;&quot; class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Know exactly how your app is performing and your audience is engaging, thanks to deep integration with Adobe Marketing Cloud.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14323221841070
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_3463"/>
+            <column_118
+                jcr:created="{Date}2015-05-22T19:18:27.871Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-28T19:39:22.798Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                columnCount="2"
+                grid0="6"
+                grid1="6"
+                layout="2;grid-cols-6 grid-offset-2;grid-cols-6;"
+                multiplier="6"
+                offset0="2"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-05-28T19:39:22.798Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_118>
+            <text_4498
+                jcr:created="{Date}2015-05-28T19:34:40.002Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-28T19:34:59.804Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: right;&quot;>&lt;img src=&quot;/content/dam/acom/en/products/publish/images/dps-features-mobile-strategy-552x401.jpg&quot;>&lt;/p>&#xa;"/>
+            <break_14323224105540
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_118"/>
+            <text_deaa
+                jcr:created="{Date}2015-05-22T19:22:27.370Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-10T21:09:06.013Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>&lt;span class=&quot;text-light&quot;>Easily gain insights.&lt;/span>&lt;/h4>&#xa;"/>
+            <text_7866
+                jcr:created="{Date}2015-05-22T19:23:54.276Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2016-01-26T01:43:09.439Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Learn from readers’ behavior, whether they are \u0003online or offline. Retention analyses, marketing funnel conversion rates and tracking of app traffic are all at your fingertips.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <text_dd16
+                jcr:created="{Date}2015-05-22T19:24:35.133Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-28T19:40:05.910Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>&lt;span class=&quot;text-light&quot;>Look deeper.&lt;/span>&lt;/h4>&#xa;"/>
+            <text_2493
+                jcr:created="{Date}2015-05-22T19:24:45.717Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2016-01-26T01:42:53.142Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Built-in analytics automatically show what’s working \u0003and what’s not, so you can refine content and get insight into ROI.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <text_25fd
+                jcr:created="{Date}2015-05-22T19:25:12.620Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-28T19:40:10.324Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>&lt;span class=&quot;text-light&quot;>Build revenue.&lt;/span>&lt;/h4>&#xa;"/>
+            <text_8ac6
+                jcr:created="{Date}2015-05-22T19:25:22.146Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-10T21:16:38.312Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Offer selling options for every business model, such as allowing for the purchase of products or premium content in your app.&lt;/span>&lt;/div>&#xa;"/>
+            <end_14323223525930
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_118"/>
+            <column_bdd3
+                jcr:created="{Date}2015-06-10T16:59:11.631Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-10T16:59:21.164Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="9"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-06-10T16:59:21.164Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_bdd3>
+            <horizontalrule_c502
+                jcr:created="{Date}2015-06-10T16:59:26.251Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-10T16:59:26.251Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_14339555516880
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_bdd3"/>
+            <column_cf86
+                jcr:created="{Date}2015-05-22T19:27:04.322Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-29T22:45:11.009Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                layout="1;grid-cols-14 grid-offset-1;"
+                section="t"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-05-29T22:45:11.009Z"
+                        jcr:lastModifiedBy="rikio"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_cf86>
+            <text_d1cb
+                jcr:created="{Date}2015-06-26T17:53:32.939Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2015-06-26T17:53:51.118Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;a name=&quot;builtforbusiness&quot;>&lt;/a>&amp;nbsp;&lt;/p>&#xa;"/>
+            <text_3c2f
+                jcr:created="{Date}2015-05-22T19:27:32.504Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-26T17:54:43.864Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-3-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>Beauty, brains and business muscle.&lt;/h3>&#xa;"/>
+            <text_ef49
+                jcr:created="{Date}2015-05-22T19:27:48.892Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-10T21:01:34.441Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div style=&quot;text-align: center;&quot; class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>A built-for-business platform, backed by Adobe.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14323228243620
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_cf86"/>
+            <column_1e5a
+                jcr:created="{Date}2015-05-22T19:28:16.319Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-28T19:39:37.356Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnCount="2"
+                grid0="6"
+                grid1="6"
+                layout="2;grid-cols-6 grid-offset-2;grid-cols-6;"
+                multiplier="6"
+                offset0="2"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-05-28T19:39:37.356Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_1e5a>
+            <text_e880
+                jcr:created="{Date}2015-05-22T19:28:48.308Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-02T20:45:38.268Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>&lt;span class=&quot;text-light&quot;>Take charge.&lt;/span>&lt;br>&#xa;&lt;/h4>&#xa;"/>
+            <text_35c7
+                jcr:created="{Date}2015-05-22T19:28:52.678Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-02T20:45:48.520Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Create and manage apps for internal and external audiences. Publish them privately or publicly. And easily make changes without resubmitting to app stores.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <text_c579
+                jcr:created="{Date}2015-05-22T19:28:57.513Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-28T19:40:20.927Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>&lt;span class=&quot;text-light&quot;>Make it a team effort.&lt;/span>&lt;/h4>&#xa;"/>
+            <text_fec8
+                jcr:created="{Date}2015-05-22T19:29:01.663Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-10T21:17:34.520Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Allow team members and agencies to contribute content. Then easily search and sort, so you can control how and when it’s published.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <text_a6b0
+                jcr:created="{Date}2015-05-22T19:29:06.050Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-02T20:45:56.693Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>&lt;span class=&quot;text-light&quot;>Keep your customers first.&lt;/span>&lt;br>&#xa;&lt;/h4>&#xa;"/>
+            <text_4c25
+                jcr:created="{Date}2015-05-22T19:29:10.688Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-10T21:18:06.192Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Rest easy knowing Digital Publishing Solution integrates seamlessly with authentication systems to target content to audiences.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <break_14323229080580
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_1e5a"/>
+            <text_1592
+                jcr:created="{Date}2015-05-22T19:37:28.665Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-10T17:04:21.941Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;img src=&quot;/content/dam/acom/en/products/publish/images/dps-features-big-business-552x401.jpg&quot;>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"/>
+            <end_14323228963620
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1e5a"/>
+        </contentbody>
+        <sectionNavItems
+            jcr:primaryType="nt:unstructured"
+            sort_mdv="0"/>
+        <bottomofbodymbox
+            jcr:lastModified="{Date}2015-03-09T20:19:23.776Z"
+            jcr:lastModifiedBy="peharris"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="BottomOfBody"/>
+        <topofbodymbox
+            jcr:lastModified="{Date}2015-03-09T20:19:35.463Z"
+            jcr:lastModifiedBy="peharris"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="TopOfBody"/>
+        <doubleclick
+            jcr:lastModified="{Date}2015-03-20T16:42:45.805Z"
+            jcr:lastModifiedBy="peharris"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/doubleclick"
+            comSnippetSource="https://1295336.fls.doubleclick.net/activityi;src=1295336;type=digit786;cat=digit146"/>
+        <merchandisingbar
+            jcr:lastModified="{Date}2015-05-22T17:21:40.813Z"
+            jcr:lastModifiedBy="axi13715"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/merchandisingbar"
+            hidePhoneSection="true"
+            purchasePhoneCss="merchpod-phone-item-label"
+            purchasePhoneText="Purchase by Phone">
+            <contactpod
+                jcr:lastModified="{Date}2015-07-28T20:49:10.298Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/contactpod"
+                backgroundColor="background-color:#131031"
+                ctaButtonOverride="http://apps.enterprise.adobe.com/go/701a0000002IhGxAAK?promoid=KKUGC"
+                ctaButtonText="Contact us"
+                description="Find out how DPS can help you achieve your business goals."
+                purchasePhoneNumberDisp="800-945-9131"
+                title="Want to know more?">
+                <contactlist
+                    jcr:primaryType="nt:unstructured"
+                    sort_mdv="[1,2,3]">
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-twitter"
+                        socialLink="https://twitter.com/AdobeDigitalPub"
+                        socialTitle="Follow us on Twitter"/>
+                    <_x0032_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-facebook"
+                        socialLink="https://www.facebook.com/adobedigitalpub"
+                        socialTitle="Like us on Facebook"/>
+                    <_x0033_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-linkedin"
+                        socialLink="https://www.linkedin.com/company/adobe-digital-publishing-solution"
+                        socialTitle="Follow us on LinkedIn"/>
+                </contactlist>
+            </contactpod>
+            <merchandising
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys">
+                <start
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/parsys/column"
+                    layout="2;grid-span-1of2;grid-span-1of2"/>
+                <break_14323153008470
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/parsys/column"
+                    columnType="break"
+                    correspondingStart="start"/>
+                <end_14323153008471
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/parsys/column"
+                    columnType="end"
+                    correspondingStart="start"/>
+            </merchandising>
+        </merchandisingbar>
+        <sources jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

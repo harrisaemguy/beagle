@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-10-11T11:20:02.159Z"
+        cq:lastModifiedBy="handoo"
+        cq:lastReplicated="{Date}2019-10-16T21:30:10.745Z"
+        cq:lastReplicatedBy="karchie"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:csIndustry/highTech,filters:csProduct/ec,filters:csProduct/mc,filters:csProduct/mc/experienceManager,filters:csProduct/mc/target,filters:csProduct/ac,filters:csProduct/mc/analytics]"
+        cq:template="/apps/beagle/templates/customershowcasedetailpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Silicon Labs"
+        jcr:uuid="b39611b7-c3ec-4de1-9401-e4c5e269013f"
+        sling:resourceType="beagle/components/customershowcasedetailpage"
+        removeFromHtmlSitemap="true"
+        removeFromXmlSitemap="true">
+        <customershowcasecard
+            jcr:lastModified="{Date}2019-08-20T11:20:41.695Z"
+            jcr:lastModifiedBy="akumawat"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/customershowcasecard"
+            cardType="standard"
+            companyName="Silicon Labs"
+            creationDate="{Date}2018-03-29T21:33:00.000+05:30"
+            includeCTAVideo2="true"
+            link1="https://www.adobe.com/customer-success-stories/silicon-labs-case-study.html"
+            link1Target="_blank"
+            link1Text="Read the story"
+            link2Target="_self"
+            link2Text="Watch the video"
+            orderDate="{Date}2018-07-02T00:59:00.000+05:30">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                    adobeTvNewAutoPlay="true"
+                    adobeTvNewUrl="28024"
+                    size="854x480"
+                    type="adobetvnew">
+                    <social jcr:primaryType="nt:unstructured"/>
+                    <meta
+                        jcr:primaryType="nt:unstructured"
+                        type="website">
+                        <image
+                            jcr:lastModified="{Date}2019-08-20T11:20:41.695Z"
+                            jcr:lastModifiedBy="akumawat"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </meta>
+                    <tracking jcr:primaryType="nt:unstructured"/>
+                </video>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2019-08-20T11:20:41.695Z"
+                jcr:lastModifiedBy="akumawat"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Silicon Labs"
+                fileReference="/content/dam/acom/en/customer-showcase/images/silicon-labs-660x348.png"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+            <ctavideolink2
+                jcr:lastModified="{Date}2019-07-11T22:27:39.145Z"
+                jcr:lastModifiedBy="tvaldez"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                adobeTvNewAutoPlay="true"
+                adobeTvNewUrl="28024"
+                size="854x480"
+                type="adobetvnew">
+                <social jcr:primaryType="nt:unstructured"/>
+                <meta
+                    jcr:primaryType="nt:unstructured"
+                    type="website">
+                    <image
+                        jcr:lastModified="{Date}2019-07-11T22:27:39.145Z"
+                        jcr:lastModifiedBy="tvaldez"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </meta>
+                <tracking jcr:primaryType="nt:unstructured"/>
+            </ctavideolink2>
+        </customershowcasecard>
+    </jcr:content>
+</jcr:root>

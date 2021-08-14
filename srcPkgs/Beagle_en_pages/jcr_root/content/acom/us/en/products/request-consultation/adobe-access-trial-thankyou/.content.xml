@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-06-24T22:10:21.538Z"
+        cq:lastModifiedBy="golee"
+        cq:lastReplicated="{Date}2016-06-24T22:10:24.192Z"
+        cq:lastReplicatedBy="golee"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Thank you"
+        jcr:uuid="7e04a911-84c7-49a5-ac9e-678b119aad7a"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Adobe | Thank You"
+        distType="dist5"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideMerchandisingBar="hide"
+        hidePromoComponent="hide"
+        marketSegmentRewrite="none"
+        metaDescription="Thank you for your interest in Adobe. Your request has been submitted to an Adobe representative who will contact you shortly."
+        modalSize="426x240"
+        noIndex="true"
+        stagelastReplicated="23-Feb-2016 16:27"
+        stagelastReplicatedBy="rikio"
+        stageLastReplicationAction="ActivatedtoStage">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2016-06-24T22:10:21.521Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2016-06-24T22:10:21.521Z"
+                    jcr:lastModifiedBy="golee"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_8920
+                jcr:created="{Date}2016-02-10T00:26:28.641Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2016-02-22T23:20:28.818Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-02-22T23:20:28.818Z"
+                        jcr:lastModifiedBy="rikio"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_8920>
+            <text_1629
+                jcr:created="{Date}2016-02-10T00:27:06.233Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2016-02-10T18:00:58.678Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Thank you for submitting your trial request. Please take a moment to read the below details on what to expect next.&lt;br>&#xa;&lt;br>&#xa;&lt;a href=&quot;/content/dam/acom/en/products/adobe-access/pdfs/adobe-access-trial-nextsteps.pdf&quot; target=&quot;_blank&quot;>Adobe Access Trial Next Steps ›&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>View best practices guides from analysts and Adobe to learn more about how to improve your digital marketing.&lt;br>&#xa;&lt;br>&#xa;&lt;a href=&quot;/support/documentation/en/adobeaccess&quot; target=&quot;_self&quot;>View Access Server Guides ›&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <end_14550639886510
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_8920"/>
+        </contentbody>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <jcr:content/>
+    <meetings/>
+    <webinars/>
+    <learning/>
+    <apps/>
+    <buying-guide/>
+    <strategic-partners/>
+    <trial/>
+    <trial-check/>
+    <trial-thankyou/>
+    <trial-error/>
+    <trial-unavailable/>
+    <contact/>
+    <contact-thankyou/>
+    <enterprise/>
+    <partner-listing/>
+    <partner-listing-emea/>
+    <partner-listing-asiapac/>
+    <customer-showcase/>
+    <features/>
+    <mobile-access/>
+    <Verticals/>
+    <get-freeconnect/>
+    <solutions/>
+    <home/>
+    <adobe-connect-10/>
+    <adobe-connect-10-5/>
+    <ent-trial/>
+    <meetings1/>
+    <rapid-response/>
+    <business-continuity/>
+    <online-classrooms/>
+    <covid19-helpcenter/>
+    <trust/>
+    <security/>
+    <rep:policy/>
+</jcr:root>

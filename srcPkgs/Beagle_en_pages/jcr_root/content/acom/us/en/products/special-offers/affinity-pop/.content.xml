@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-12-18T17:39:26.470Z"
+        cq:lastModifiedBy="lsogard"
+        cq:lastReplicated="{Date}2019-12-18T17:40:57.712Z"
+        cq:lastReplicatedBy="lsogard"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:lockable,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Special offers"
+        jcr:uuid="899162f7-04aa-4b7c-9d9f-7c96ce713b37"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        browserTitle="Official Adobe coupons, promos, special offers and discounts"
+        disableGeoRouting="true"
+        distType="dist5"
+        enableBreadcrumb="true"
+        enableCCRedirect="false"
+        freeTrialUrlLoggedInModalScrolling="no"
+        freeTrialUrlLoggedInModalSize="426x240"
+        freeTrialUrlLoggedInTarget="_self"
+        freeTrialUrlModalScrolling="no"
+        freeTrialUrlModalSize="426x240"
+        freeTrialUrlTarget="_self"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="show"
+        hidePromoComponent="hide"
+        isPPBUPage="true"
+        livePersonHide="hide"
+        livePersonLanguage="english"
+        livePersonUnit="creative-us"
+        marketSegmentRewrite="COM"
+        marqueeStyle="newMarquee"
+        metaDescription="Browse the official list of Adobe coupon codes, promos, special offers and discounts on software. Shop and save on a variety of Adobe products."
+        modalSize="426x240"
+        noFollow="true"
+        noIndex="true"
+        overrideBreadcrumbPath="/content/acom/us/en/index"
+        product="creative_cloud"
+        stagelastReplicated="17-Dec-2019 18:12"
+        stagelastReplicatedBy="lsogard"
+        stageLastReplicationAction="ActivatedtoStage"
+        tryLinkModalScrolling="no"
+        tryLinkModalSize="426x240"
+        tryLinkProductPlanModalScrolling="no"
+        tryLinkProductPlanModalSize="426x240"
+        tryLinkProductPlanTarget="_self"
+        tryLinkTarget="_self"
+        useH1Tags="pageTitle">
+        <sectionMore
+            jcr:primaryType="nt:unstructured"
+            linkModalScrolling="no"
+            linkModalSize="426x240"
+            linkTarget="_self"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2018-08-07T16:07:44.302Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2018-08-07T16:07:44.302Z"
+                    jcr:lastModifiedBy="golee"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <tophero
+            jcr:lastModified="{Date}2018-08-07T16:04:53.464Z"
+            jcr:lastModifiedBy="golee"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            avoid="hero2-avoid-1"
+            color="hero2-theme-1"
+            effect="hero2-fx-frame-2"
+            height="hero2-size-3"
+            hideCredits="true"
+            hideLink="true">
+            <image
+                jcr:lastModified="{Date}2018-08-07T16:04:53.464Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Save 20% on Creative Cloud."
+                fileReference="/content/dam/acom/en/special-offers/affinity/243514.en.partner-portal.marquee-b.1440x392.jpg"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+            <article
+                jcr:lastModified="{Date}2017-06-15T17:28:13.242Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hero/article"
+                articleAlignment="hero2-align-2"
+                text="&lt;p>Sign into your Creative Cloud account to get great deals on photo gear, online learning, books, and more.&lt;br>&#xa;&lt;/p>&#xa;"
+                title="&lt;p>&lt;strong>Special offers from Adobe partners&lt;/strong>&lt;br>&#xa;&lt;/p>&#xa;"
+                width="hero2-basis-1">
+                <titleImage
+                    jcr:lastModified="{Date}2017-06-15T17:28:13.242Z"
+                    jcr:lastModifiedBy="golee"
+                    jcr:primaryType="nt:unstructured"/>
+                <link
+                    jcr:primaryType="nt:unstructured"
+                    modalMode="VIDEO"
+                    size="426x240"
+                    type="free">
+                    <image
+                        jcr:lastModified="{Date}2017-06-15T17:28:13.242Z"
+                        jcr:lastModifiedBy="golee"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </link>
+                <links
+                    jcr:primaryType="nt:unstructured"
+                    sort_mdv="0">
+                    <_x0030_
+                        jcr:primaryType="nt:unstructured"
+                        link="https://ims-na1.adobelogin.com/ims/authorize/v1?response_type=token&amp;client_id=adobedotcom2&amp;scope=creative_cloud%2CAdobeID%2Copenid%2Cgnav%2Cread_organizations%2Cadditional_info.projectedProductContext%2Csao.ACOM_CLOUD_STORAGE%2Csao.stock%2Csao.cce_private%2Cadditional_info.roles&amp;locale=en_US&amp;redirect_uri=https%3A%2F%2Fwww.adobe.com%2Fproducts%2Fspecial-offers%2Faffinity-pop.html%3Ftrackingid"
+                        target="_self"
+                        text="Sign in"
+                        type="cta">
+                        <video
+                            jcr:primaryType="nt:unstructured"
+                            modalMode="VIDEO"
+                            size="426x240"
+                            type="free"/>
+                    </_x0030_>
+                </links>
+            </article>
+        </tophero>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <specialoffers_ecb0
+                jcr:created="{Date}2016-03-02T23:25:24.422-08:00"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2019-09-24T17:55:05.908Z"
+                jcr:lastModifiedBy="lsogard"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/specialoffers"
+                containerbackgroundcolor="background-color-light-grey"
+                hidePhoneSection="true"
+                purchasePhoneCss="merchpod-phone-item-label"
+                purchasePhoneNumberCall="+18005850774"
+                purchasePhoneNumberDisp="800-585-0774"
+                purchasePhoneText="Or call us at"
+                text="&lt;div class=&quot;text-6-block&quot;>By clicking on an Adobe partner offer, you will be directed to the partner’s website. All offers will be solely between you and the partner and subject to the terms and conditions provided by the partner.&lt;/div>&#xa;">
+                <merchandising_6709
+                    jcr:created="{Date}2019-09-24T18:15:06.995Z"
+                    jcr:createdBy="vko"
+                    jcr:lastModified="{Date}2019-12-18T17:32:27.386Z"
+                    jcr:lastModifiedBy="lsogard"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/merchandising"
+                    backgroundImg="image-top image-on"
+                    billingFrequency="ANNUAL"
+                    channel="adobe.com"
+                    commitment="YEAR"
+                    ctaButtonOverride="https://www.photography.com/ADOBEPS"
+                    ctaButtonPosition="above"
+                    ctaButtonText="Get the deal"
+                    ctaLinkTarget="_blank"
+                    displayOrderLoggedinFree="2"
+                    displayOrderLoggedinPaid="1"
+                    displayOrderLoggedout="2"
+                    hidePriceDisplay="true"
+                    marketSegmentRewrite="COM"
+                    merchbackgroundcolor="background-color-white"
+                    merchborder="border-off"
+                    merchradius="radius-off"
+                    merchshadow="shadow-on"
+                    modelCode="INDIVIDUAL"
+                    podDisplayLoggedinPaid="true"
+                    prefixTitleTextCOM="&lt;h4 style=&quot;text-align: center;&quot;>&lt;strong>Photography.com&lt;/strong>&lt;/h4>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&lt;strong>FREE Custom Phone Stand!&lt;/strong>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Custom Acrylic Photo Phone Stand - $26.95 value. See site for details.&lt;/span>&lt;/div>&#xa;"
+                    pricePoint="REGULAR"
+                    priceType="YEAR"
+                    product="creative_cloud"
+                    productTitleSuffix="&lt;p style=&quot;text-align: center;&quot;>&lt;strong>Ends 3/31/2020&lt;/strong>&lt;/p>&#xa;"
+                    showCTAButton="true">
+                    <productInfo jcr:primaryType="nt:unstructured"/>
+                    <imagelayer jcr:primaryType="nt:unstructured">
+                        <image
+                            jcr:lastModified="{Date}2019-12-18T17:32:27.386Z"
+                            jcr:lastModifiedBy="lsogard"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"
+                            fileReference="/content/dam/acom/en/special-offers/affinity/photography-dot-com-stand.png"/>
+                    </imagelayer>
+                </merchandising_6709>
+                <merchandising_6112
+                    jcr:created="{Date}2017-05-08T17:49:12.972Z"
+                    jcr:createdBy="golee"
+                    jcr:lastModified="{Date}2019-12-18T17:32:46.308Z"
+                    jcr:lastModifiedBy="lsogard"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/merchandising"
+                    backgroundImg="image-top image-on"
+                    ctaButtonOverride="https://learning.shawacademy.com/one-free-month?utm_source=adobe&amp;utm_medium=partners&amp;utm_campaign=adobe"
+                    ctaButtonPosition="above"
+                    ctaButtonText="Get the deal"
+                    ctaLinkTarget="_blank"
+                    displayOrderLoggedinFree="2"
+                    displayOrderLoggedinPaid="2"
+                    displayOrderLoggedout="2"
+                    hidePriceDisplay="true"
+                    marketSegmentRewrite="COM"
+                    merchbackgroundcolor="background-color-white"
+                    merchborder="border-off"
+                    merchradius="radius-off"
+                    merchshadow="shadow-on"
+                    podDisplayLoggedinPaid="true"
+                    prefixTitleTextCOM="&lt;h4 style=&quot;text-align: center;&quot;>&lt;strong>SHAW ACADEMY&lt;/strong>&lt;/h4>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&lt;strong>Master new skills today&lt;/strong>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Learn Photography, Lightroom, Photoshop for free&lt;/span>&lt;/div>&#xa;"
+                    priceType="YEAR"
+                    product="creative_cloud"
+                    productTitleSuffix="&lt;p style=&quot;text-align: center;&quot;>&lt;strong>Ends 3/31/2020&lt;/strong>&lt;/p>&#xa;"
+                    showCTAButton="true">
+                    <productInfo jcr:primaryType="nt:unstructured"/>
+                    <imagelayer jcr:primaryType="nt:unstructured">
+                        <image
+                            jcr:lastModified="{Date}2019-12-18T17:32:46.308Z"
+                            jcr:lastModifiedBy="lsogard"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"
+                            fileReference="/content/dam/acom/en/special-offers/affinity/shaw-academy-q119750x390.jpg"/>
+                    </imagelayer>
+                </merchandising_6112>
+                <merchandising_be93
+                    jcr:created="{Date}2016-03-02T23:47:25.631-08:00"
+                    jcr:createdBy="gewittig"
+                    jcr:lastModified="{Date}2019-12-18T17:34:47.157Z"
+                    jcr:lastModifiedBy="lsogard"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/merchandising"
+                    backgroundImg="image-top image-on"
+                    ctaButtonOverride="http://www.datacolor.com/pages/photography-design/adobe-pp-us-30/?afftid=70116000001Qjq2"
+                    ctaButtonPosition="above"
+                    ctaButtonText="Get the deal"
+                    ctaLinkTarget="_blank"
+                    displayOrderLoggedinFree="2"
+                    displayOrderLoggedinPaid="3"
+                    displayOrderLoggedout="2"
+                    hidePriceDisplay="true"
+                    marketSegmentRewrite="COM"
+                    merchbackgroundcolor="background-color-white"
+                    merchborder="border-off"
+                    merchradius="radius-off"
+                    merchshadow="shadow-on"
+                    podDisplayLoggedinPaid="true"
+                    prefixTitleTextCOM="&lt;h4 style=&quot;text-align: center;&quot;>&lt;strong>DATACOLOR SPYDER&lt;/strong>&lt;/h4>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&lt;strong>Save 30% on color solutions&lt;/strong>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Ensure accurate color within your workflow&lt;/span>&lt;/div>&#xa;"
+                    priceType="YEAR"
+                    product="creative_cloud"
+                    productTitleSuffix="&lt;p style=&quot;text-align: center;&quot;>&lt;strong>Ends 3/31/2020&lt;/strong>&lt;/p>&#xa;"
+                    showCTAButton="true">
+                    <productInfo jcr:primaryType="nt:unstructured"/>
+                    <imagelayer jcr:primaryType="nt:unstructured">
+                        <image
+                            jcr:lastModified="{Date}2019-12-18T17:34:47.157Z"
+                            jcr:lastModifiedBy="lsogard"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"
+                            fileReference="/content/dam/acom/en/special-offers/affinity/datacolor.jpg"/>
+                    </imagelayer>
+                </merchandising_be93>
+                <merchandising_b39a
+                    jcr:created="{Date}2017-04-26T16:31:53.806Z"
+                    jcr:createdBy="golee"
+                    jcr:lastModified="{Date}2019-12-18T17:35:16.738Z"
+                    jcr:lastModifiedBy="lsogard"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/merchandising"
+                    backgroundImg="image-top image-on"
+                    ctaButtonOverride="https://shop.loupedeck.com/"
+                    ctaButtonPosition="above"
+                    ctaButtonText="Get the deal"
+                    ctaLinkTarget="_blank"
+                    displayOrderLoggedinFree="2"
+                    displayOrderLoggedinPaid="4"
+                    displayOrderLoggedout="2"
+                    hidePriceDisplay="true"
+                    marketSegmentRewrite="COM"
+                    merchbackgroundcolor="background-color-white"
+                    merchborder="border-off"
+                    merchradius="radius-off"
+                    merchshadow="shadow-on"
+                    podDisplayLoggedinPaid="true"
+                    prefixTitleTextCOM="&lt;h4 style=&quot;text-align: center;&quot;>&lt;strong>LOUPEDECK+&lt;/strong>&lt;/h4>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&lt;strong>10% off Loupedeck+&lt;/strong>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Join the evolution of photo and video editing. Use code ADOBE10 at checkout.&lt;/span>&lt;/div>&#xa;"
+                    priceType="YEAR"
+                    product="creative_cloud"
+                    productTitleSuffix="&lt;p style=&quot;text-align: center;&quot;>&lt;strong>Ends 3/31/2020&lt;/strong>&lt;/p>&#xa;"
+                    showCTAButton="true">
+                    <productInfo jcr:primaryType="nt:unstructured"/>
+                    <imagelayer jcr:primaryType="nt:unstructured">
+                        <image
+                            jcr:lastModified="{Date}2019-12-18T17:35:16.738Z"
+                            jcr:lastModifiedBy="lsogard"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"
+                            fileReference="/content/dam/acom/en/special-offers/affinity/lopuedeck-top-down-20181022.jpg"/>
+                    </imagelayer>
+                </merchandising_b39a>
+                <cq:annotations jcr:primaryType="nt:unstructured"/>
+                <merchandising_6a17
+                    jcr:created="{Date}2018-06-22T22:24:35.604Z"
+                    jcr:createdBy="golee"
+                    jcr:lastModified="{Date}2019-12-18T17:35:39.047Z"
+                    jcr:lastModifiedBy="lsogard"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/merchandising"
+                    backgroundImg="image-top image-on"
+                    billingFrequency="ANNUAL"
+                    channel="adobe.com"
+                    commitment="YEAR"
+                    ctaButtonOverride="https://www.photography.com/ADOBE"
+                    ctaButtonPosition="above"
+                    ctaButtonText="Get the deal"
+                    ctaLinkTarget="_blank"
+                    displayOrderLoggedinFree="2"
+                    displayOrderLoggedinPaid="4"
+                    displayOrderLoggedout="2"
+                    hidePriceDisplay="true"
+                    marketSegmentRewrite="COM"
+                    merchbackgroundcolor="background-color-white"
+                    merchborder="border-off"
+                    merchradius="radius-off"
+                    merchshadow="shadow-on"
+                    modelCode="INDIVIDUAL"
+                    podDisplayLoggedinPaid="true"
+                    prefixTitleTextCOM="&lt;h4 style=&quot;text-align: center;&quot;>&lt;strong>Photography.com&lt;/strong>&lt;/h4>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&lt;strong>FREE 8x10 Metal Wall Print&lt;/strong>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Floating Metal Wall Print - $79.95 value. See site for details.&lt;/span>&lt;/div>&#xa;"
+                    pricePoint="REGULAR"
+                    priceType="YEAR"
+                    product="creative_cloud"
+                    productTitleSuffix="&lt;p style=&quot;text-align: center;&quot;>&lt;strong>Ends 3/31/2020&lt;/strong>&lt;/p>&#xa;"
+                    showCTAButton="true">
+                    <productInfo jcr:primaryType="nt:unstructured"/>
+                    <imagelayer jcr:primaryType="nt:unstructured">
+                        <image
+                            jcr:lastModified="{Date}2019-12-18T17:35:39.047Z"
+                            jcr:lastModifiedBy="lsogard"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"
+                            fileReference="/content/dam/acom/en/special-offers/affinity/photgraphy-metal.jpg"/>
+                    </imagelayer>
+                </merchandising_6a17>
+                <merchandising_2ef
+                    jcr:created="{Date}2019-03-11T23:18:44.582Z"
+                    jcr:createdBy="golee"
+                    jcr:lastModified="{Date}2019-12-18T17:35:55.936Z"
+                    jcr:lastModifiedBy="lsogard"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/merchandising"
+                    backgroundImg="image-top image-on"
+                    billingFrequency="ANNUAL"
+                    channel="adobe.com"
+                    commitment="YEAR"
+                    ctaButtonOverride="https://www.creativelive.com/redeem/adobe-offer?token=ADOBEPEOPLEDEAL&amp;promoid=7WQ463YP&amp;mv=other"
+                    ctaButtonPosition="above"
+                    ctaButtonText="Get the deal"
+                    ctaLinkTarget="_blank"
+                    displayOrderLoggedinFree="2"
+                    displayOrderLoggedinPaid="5"
+                    displayOrderLoggedout="2"
+                    hidePriceDisplay="true"
+                    marketSegmentRewrite="COM"
+                    merchbackgroundcolor="background-color-white"
+                    merchborder="border-off"
+                    merchradius="radius-off"
+                    merchshadow="shadow-on"
+                    modelCode="INDIVIDUAL"
+                    podDisplayLoggedinPaid="true"
+                    prefixTitleTextCOM="&lt;h4 style=&quot;text-align: center;&quot;>&lt;strong>CREATIVE LIVE&lt;/strong>&lt;/h4>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&lt;strong>Free Online Tutorial&lt;/strong>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Capture &amp;amp; edit photos of people in Lightroom &amp;amp; Photoshop.&lt;/span>&lt;/div>&#xa;"
+                    pricePoint="REGULAR"
+                    priceType="YEAR"
+                    product="creative_cloud"
+                    productTitleSuffix="&lt;p style=&quot;text-align: center;&quot;>&lt;strong>Ends 3/31/2020&lt;/strong>&lt;/p>&#xa;"
+                    showCTAButton="true">
+                    <productInfo jcr:primaryType="nt:unstructured"/>
+                    <imagelayer jcr:primaryType="nt:unstructured">
+                        <image
+                            jcr:lastModified="{Date}2019-12-18T17:35:55.936Z"
+                            jcr:lastModifiedBy="lsogard"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"
+                            fileReference="/content/dam/acom/en/special-offers/affinity/creativelive-capture-edit-photos-of-people.jpg"/>
+                    </imagelayer>
+                </merchandising_2ef>
+                <merchandising_2655
+                    jcr:created="{Date}2017-03-29T20:23:45.293Z"
+                    jcr:createdBy="env14281"
+                    jcr:lastModified="{Date}2019-12-18T17:36:11.600Z"
+                    jcr:lastModifiedBy="lsogard"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/merchandising"
+                    backgroundImg="image-top image-on"
+                    ctaButtonOverride="https://www.creativelive.com/redeem/adobe-offer?token=ADOBELANDSCAPEDEAL&amp;promoid=7RZ367PQ&amp;mv=other"
+                    ctaButtonPosition="above"
+                    ctaButtonText="Get the deal"
+                    ctaLinkTarget="_blank"
+                    displayOrderLoggedinFree="2"
+                    displayOrderLoggedinPaid="5"
+                    displayOrderLoggedout="2"
+                    hidePriceDisplay="true"
+                    marketSegmentRewrite="COM"
+                    merchbackgroundcolor="background-color-white"
+                    merchborder="border-off"
+                    merchradius="radius-off"
+                    merchshadow="shadow-on"
+                    podDisplayLoggedinPaid="true"
+                    prefixTitleTextCOM="&lt;h4 style=&quot;text-align: center;&quot;>&lt;strong>CREATIVE LIVE&lt;/strong>&lt;/h4>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&lt;strong>Free Online Tutorial&lt;/strong>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Capture &amp;amp; edit landscape photos in Lightroom &amp;amp; Photoshop.&lt;/span>&lt;/div>&#xa;"
+                    priceType="YEAR"
+                    product="creative_cloud"
+                    productTitleSuffix="&lt;p style=&quot;text-align: center;&quot;>&lt;strong>Ends 3/31/2020&lt;/strong>&lt;/p>&#xa;"
+                    showCTAButton="true">
+                    <productInfo jcr:primaryType="nt:unstructured"/>
+                    <imagelayer jcr:primaryType="nt:unstructured">
+                        <image
+                            jcr:lastModified="{Date}2019-12-18T17:36:11.600Z"
+                            jcr:lastModifiedBy="lsogard"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"
+                            fileReference="/content/dam/acom/en/special-offers/affinity/creativelive-capture-edit-landscape-photos.jpg"/>
+                    </imagelayer>
+                </merchandising_2655>
+                <merchandising_e527
+                    jcr:created="{Date}2018-06-22T22:32:32.509Z"
+                    jcr:createdBy="golee"
+                    jcr:lastModified="{Date}2019-12-18T17:36:55.068Z"
+                    jcr:lastModifiedBy="lsogard"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/merchandising"
+                    backgroundImg="image-top image-on"
+                    billingFrequency="ANNUAL"
+                    channel="adobe.com"
+                    commitment="YEAR"
+                    ctaButtonOverride="https://www.moo.com/adobe"
+                    ctaButtonPosition="above"
+                    ctaButtonText="Get the deal"
+                    ctaLinkTarget="_blank"
+                    displayOrderLoggedinPaid="6"
+                    hidePriceDisplay="true"
+                    marketSegmentRewrite="COM"
+                    merchbackgroundcolor="background-color-white"
+                    merchborder="border-off"
+                    merchradius="radius-off"
+                    merchshadow="shadow-on"
+                    modelCode="INDIVIDUAL"
+                    podDisplayLoggedinPaid="true"
+                    prefixTitleTextCOM="&lt;h4 style=&quot;text-align: center;&quot;>&lt;strong>MOO&lt;/strong>&lt;/h4>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&lt;strong>20% off Premium Prints&lt;/strong>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Premium Business Cards, Postcards, Notebooks and more.&lt;/span>&lt;/div>&#xa;"
+                    pricePoint="REGULAR"
+                    priceType="YEAR"
+                    product="creative_cloud"
+                    productTitleSuffix="&lt;p style=&quot;text-align: center;&quot;>&lt;strong>Ends 3/31/2020&lt;/strong>&lt;/p>&#xa;"
+                    showCTAButton="true">
+                    <imagelayer
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/specialoffers">
+                        <image
+                            jcr:lastModified="{Date}2019-12-18T17:36:55.068Z"
+                            jcr:lastModifiedBy="lsogard"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"
+                            fileReference="/content/dam/acom/en/special-offers/affinity/moo.jpg"/>
+                    </imagelayer>
+                    <productInfo jcr:primaryType="nt:unstructured"/>
+                </merchandising_e527>
+                <merchandising_e78c
+                    jcr:created="{Date}2017-09-22T21:56:32.994Z"
+                    jcr:createdBy="vko"
+                    jcr:lastModified="{Date}2019-12-18T17:39:26.446Z"
+                    jcr:lastModifiedBy="lsogard"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/merchandising"
+                    backgroundImg="image-top image-on"
+                    billingFrequency="ANNUAL"
+                    channel="adobe.com"
+                    commitment="YEAR"
+                    ctaButtonOverride="https://www.photoserge.com/p/serge-ramelli-signature-preset-collection?nid=AdobeUS"
+                    ctaButtonPosition="above"
+                    ctaButtonText="Get the deal"
+                    ctaLinkTarget="_blank"
+                    displayOrderLoggedinPaid="7"
+                    hidePriceDisplay="true"
+                    marketSegmentRewrite="COM"
+                    merchbackgroundcolor="background-color-white"
+                    merchborder="border-off"
+                    merchradius="radius-off"
+                    merchshadow="shadow-on"
+                    modelCode="INDIVIDUAL"
+                    podDisplayLoggedinPaid="true"
+                    prefixTitleTextCOM="&lt;h4 style=&quot;text-align: center;&quot;>&lt;strong>Photo Serge&lt;/strong>&lt;/h4>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&lt;strong>93% Off Signature Presets&lt;/strong>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>283 presets to make your images amazing&lt;/span>&lt;/div>&#xa;"
+                    pricePoint="REGULAR"
+                    priceType="YEAR"
+                    product="creative_cloud"
+                    productTitleSuffix="&lt;p style=&quot;text-align: center;&quot;>&lt;strong>Ends 3/31/2020&lt;/strong>&lt;/p>&#xa;"
+                    showCTAButton="true">
+                    <imagelayer
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/specialoffers">
+                        <image
+                            jcr:lastModified="{Date}2019-12-18T17:39:26.446Z"
+                            jcr:lastModifiedBy="lsogard"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"
+                            fileReference="/content/dam/acom/en/special-offers/affinity/photoserge.jpg"/>
+                    </imagelayer>
+                    <productInfo jcr:primaryType="nt:unstructured"/>
+                </merchandising_e78c>
+                <merchandising_5296
+                    jcr:created="{Date}2017-04-26T16:31:55.645Z"
+                    jcr:createdBy="golee"
+                    jcr:lastModified="{Date}2019-12-18T17:37:47.892Z"
+                    jcr:lastModifiedBy="lsogard"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/merchandising"
+                    backgroundImg="image-top image-on"
+                    ctaButtonOverride="http://www.blurb.com/adobe25"
+                    ctaButtonPosition="above"
+                    ctaButtonText="Get the deal"
+                    ctaLinkTarget="_blank"
+                    displayOrderLoggedinFree="2"
+                    displayOrderLoggedinPaid="8"
+                    displayOrderLoggedout="2"
+                    hidePriceDisplay="true"
+                    marketSegmentRewrite="COM"
+                    merchbackgroundcolor="background-color-white"
+                    merchborder="border-off"
+                    merchradius="radius-off"
+                    merchshadow="shadow-on"
+                    podDisplayLoggedinPaid="true"
+                    prefixTitleTextCOM="&lt;h4 style=&quot;text-align: center;&quot;>&lt;strong>BLURB&lt;/strong>&lt;/h4>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&lt;strong>25% off your next book&lt;/strong>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Make your own book or magazine.&lt;/span>&lt;/div>&#xa;"
+                    priceType="YEAR"
+                    product="creative_cloud"
+                    productTitleSuffix="&lt;p style=&quot;text-align: center;&quot;>&lt;strong>Ends 3/31/2020&lt;/strong>&lt;/p>&#xa;"
+                    showCTAButton="true">
+                    <productInfo jcr:primaryType="nt:unstructured"/>
+                    <imagelayer jcr:primaryType="nt:unstructured">
+                        <image
+                            jcr:lastModified="{Date}2019-12-18T17:37:47.892Z"
+                            jcr:lastModifiedBy="lsogard"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"
+                            fileReference="/content/dam/acom/en/special-offers/affinity/blurb-pop-a.com-may-2017-0002.jpg"/>
+                    </imagelayer>
+                </merchandising_5296>
+                <merchandising_f7ba
+                    jcr:created="{Date}2018-07-25T20:54:54.860Z"
+                    jcr:createdBy="golee"
+                    jcr:lastModified="{Date}2019-12-18T17:38:11.112Z"
+                    jcr:lastModifiedBy="lsogard"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/merchandising"
+                    backgroundImg="image-top image-on"
+                    billingFrequency="ANNUAL"
+                    channel="adobe.com"
+                    commitment="YEAR"
+                    ctaButtonOverride="https://www.flickr.com/account/upgrade/pro/adobe-discount?select"
+                    ctaButtonPosition="above"
+                    ctaButtonText="Get the deal"
+                    ctaLinkTarget="_blank"
+                    displayOrderLoggedinFree="2"
+                    displayOrderLoggedinPaid="9"
+                    displayOrderLoggedout="2"
+                    hidePriceDisplay="true"
+                    marketSegmentRewrite="COM"
+                    merchbackgroundcolor="background-color-white"
+                    merchborder="border-off"
+                    merchradius="radius-off"
+                    merchshadow="shadow-on"
+                    modelCode="INDIVIDUAL"
+                    podDisplayLoggedinPaid="true"
+                    prefixTitleTextCOM="&lt;h4 style=&quot;text-align: center;&quot;>&lt;strong>FLICKR&lt;/strong>&lt;/h4>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&lt;strong>Unlimited Storage&lt;/strong>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Get photo stats, ad-free browsing, and more.&lt;/span>&lt;/div>&#xa;"
+                    pricePoint="REGULAR"
+                    priceType="YEAR"
+                    product="creative_cloud"
+                    productTitleSuffix="&lt;p style=&quot;text-align: center;&quot;>&lt;strong>Ends 3/31/2020&lt;/strong>&lt;/p>&#xa;"
+                    showCTAButton="true">
+                    <productInfo jcr:primaryType="nt:unstructured"/>
+                    <imagelayer jcr:primaryType="nt:unstructured">
+                        <image
+                            jcr:lastModified="{Date}2019-12-18T17:38:11.112Z"
+                            jcr:lastModifiedBy="lsogard"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"
+                            fileReference="/content/dam/acom/en/special-offers/affinity/flickr-pop-a.com-may-2017-0009.png"/>
+                    </imagelayer>
+                </merchandising_f7ba>
+                <merchandising_e32e
+                    jcr:created="{Date}2017-04-26T16:31:58.425Z"
+                    jcr:createdBy="golee"
+                    jcr:lastModified="{Date}2019-12-18T17:38:27.671Z"
+                    jcr:lastModifiedBy="lsogard"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/merchandising"
+                    backgroundImg="image-top image-on"
+                    ctaButtonOverride="https://www.mpix.com"
+                    ctaButtonPosition="above"
+                    ctaButtonText="Get the deal"
+                    ctaLinkTarget="_blank"
+                    displayOrderLoggedinFree="2"
+                    displayOrderLoggedinPaid="13"
+                    displayOrderLoggedout="2"
+                    hidePriceDisplay="true"
+                    marketSegmentRewrite="COM"
+                    merchbackgroundcolor="background-color-white"
+                    merchborder="border-off"
+                    merchradius="radius-off"
+                    merchshadow="shadow-on"
+                    podDisplayLoggedinPaid="true"
+                    prefixTitleTextCOM="&lt;h4 style=&quot;text-align: center;&quot;>&lt;strong>MPIX&lt;/strong>&lt;/h4>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&lt;strong>25% Off Your First Order&lt;/strong>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>Prints, cards, books, wall art, gifts &amp;amp; more!&lt;br>&#xa;&lt;/div>&#xa;"
+                    priceType="YEAR"
+                    product="creative_cloud"
+                    productTitleSuffix="&lt;p style=&quot;text-align: center;&quot;>&lt;strong>Ends 3/31/2020&lt;/strong>&lt;/p>&#xa;"
+                    showCTAButton="true">
+                    <productInfo jcr:primaryType="nt:unstructured"/>
+                    <imagelayer jcr:primaryType="nt:unstructured">
+                        <image
+                            jcr:lastModified="{Date}2019-12-18T17:38:27.671Z"
+                            jcr:lastModifiedBy="lsogard"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"
+                            fileReference="/content/dam/acom/en/special-offers/affinity/mpix.jpg"/>
+                    </imagelayer>
+                </merchandising_e32e>
+            </specialoffers_ecb0>
+        </contentbody>
+        <topofbodymbox
+            jcr:lastModified="{Date}2016-06-20T19:40:26.073Z"
+            jcr:lastModifiedBy="golee"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="TopOfBody"/>
+        <bottomofbodymbox
+            jcr:lastModified="{Date}2016-06-20T19:40:40.260Z"
+            jcr:lastModifiedBy="golee"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="BottomOfBody"/>
+        <image
+            jcr:lastModified="{Date}2017-06-13T21:11:07.816Z"
+            jcr:lastModifiedBy="golee"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/image"/>
+        <promobar jcr:primaryType="nt:unstructured">
+            <promo
+                jcr:lastModified="{Date}2017-06-07T23:31:51.677Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/promo"
+                billingFrequency="ANNUAL"
+                channel="adobe.com"
+                commitment="YEAR"
+                ctaButtonOverride="https://adobeid-na1.services.adobe.com/renga-idprovider/pages/login?callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fadobeid%2Fadobedotcom2%2FAdobeID%2Ftoken%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.adobe.com%252Fproducts%252Fspecial-offers%252Faffinity-pop.html%2523from_ims%253Dtrue%2526old_hash%253D%2526api%253Dauthorize&amp;client_id=adobedotcom2&amp;scope=creative_cloud%2CAdobeID%2Copenid%2Cgnav%2Cread_organizations%2Cadditional_info.projectedProductContext%2Csao.ACOM_CLOUD_STORAGE%2Csao.stock%2Csao.cce_private%2Cadditional_info.roles&amp;denied_callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fdenied%2Fadobedotcom2%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.adobe.com%252Fproducts%252Fspecial-offers%252Faffinity-pop.html%2523from_ims%253Dtrue%2526old_hash%253D%2526api%253Dauthorize%26response_type%3Dtoken&amp;display=web_v2&amp;relay=1caba430-d22a-4d94-9665-5bf8eeaf853d&amp;locale=en_US&amp;flow_type=token&amp;idp_flow_type=login"
+                ctaButtonOverrideModalScrolling="no"
+                ctaButtonOverrideModalSize="426x240"
+                ctaButtonOverrideTarget="_self"
+                ctaButtonText="Sign in"
+                icon="none"
+                marketSegmentRewrite="COM"
+                modelCode="INDIVIDUAL"
+                pricePoint="REGULAR"
+                priceType="YEAR"
+                productIntroText="Special offers from Adobe partners: Sign into your Creative Cloud account to get great deals on photo gear, online learning, books, and more."
+                purchasePhoneCss="promo-phone"
+                purchasePhoneText="Purchase by Phone">
+                <productInfo jcr:primaryType="nt:unstructured"/>
+                <free
+                    jcr:lastModified="{Date}2017-06-07T23:32:18.839Z"
+                    jcr:lastModifiedBy="golee"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="https://creative.adobe.com/plans"
+                    ctaButtonOverrideModalScrolling="no"
+                    ctaButtonOverrideModalSize="426x240"
+                    ctaButtonOverrideTarget="_self"
+                    ctaButtonText="Join now"
+                    productIntroText="Special offers from Adobe partners: Join Creative Cloud and get exclusive offers on photo gear, online learning, books, and more. Plans start at just $9.99/mo."/>
+                <paid
+                    jcr:lastModified="{Date}2017-06-08T05:00:35.504Z"
+                    jcr:lastModifiedBy="golee"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="https://stock.adobe.com/"
+                    ctaButtonOverrideModalScrolling="no"
+                    ctaButtonOverrideModalSize="426x240"
+                    ctaButtonOverrideTarget="_self"
+                    ctaButtonText="Start now"
+                    productIntroText="Get 10 free Adobe Stock images."/>
+            </promo>
+        </promobar>
+        <tophero-loggedin-free
+            jcr:lastModified="{Date}2017-06-13T22:45:33.307Z"
+            jcr:lastModifiedBy="golee"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            avoid="hero2-avoid-1"
+            color="hero2-theme-1"
+            effect="hero2-fx-frame-2"
+            height="hero2-size-3"
+            hideCredits="true"
+            hideLink="true">
+            <image
+                jcr:lastModified="{Date}2017-06-13T22:45:33.307Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Special offers"
+                fileReference="/content/dam/acom/en/special-offers/affinity/243514.en.partner-portal.marquee-b.1440x392.jpg"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+            <article
+                jcr:lastModified="{Date}2017-06-13T21:12:36.756Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hero/article"
+                articleAlignment="hero2-align-2"
+                text="&lt;p>Join Creative Cloud and get exclusive offers on photo gear, online learning, books, and more.&lt;/p>&#xa;&lt;p>Plans start at just $9.99/mo.&lt;/p>&#xa;"
+                title="&lt;p>&lt;strong>Special offers from Adobe partners&lt;/strong>&lt;/p>&#xa;"
+                width="hero2-basis-1">
+                <titleImage
+                    jcr:lastModified="{Date}2017-06-13T21:12:36.756Z"
+                    jcr:lastModifiedBy="golee"
+                    jcr:primaryType="nt:unstructured"/>
+                <link
+                    jcr:primaryType="nt:unstructured"
+                    modalMode="VIDEO"
+                    size="426x240"
+                    type="free">
+                    <image
+                        jcr:lastModified="{Date}2017-06-13T21:12:36.756Z"
+                        jcr:lastModifiedBy="golee"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </link>
+                <links
+                    jcr:primaryType="nt:unstructured"
+                    sort_mdv="0">
+                    <_x0030_
+                        jcr:primaryType="nt:unstructured"
+                        link="https://creative.adobe.com/plans"
+                        target="_self"
+                        text="Join now"
+                        type="cta">
+                        <video
+                            jcr:primaryType="nt:unstructured"
+                            modalMode="VIDEO"
+                            size="426x240"
+                            type="free"/>
+                    </_x0030_>
+                </links>
+            </article>
+        </tophero-loggedin-free>
+        <tophero-loggedin-paid
+            jcr:lastModified="{Date}2017-06-13T22:45:48.250Z"
+            jcr:lastModifiedBy="golee"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            avoid="hero2-avoid-1"
+            color="hero2-theme-1"
+            effect="hero2-fx-frame-2"
+            height="hero2-size-3"
+            hideCredits="true"
+            hideLink="true">
+            <image
+                jcr:lastModified="{Date}2017-06-13T22:45:48.250Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Special offers"
+                fileReference="/content/dam/acom/en/special-offers/affinity/243514.en.partner-portal.marquee-b.1440x392.jpg"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+            <article
+                jcr:lastModified="{Date}2017-06-13T21:14:41.476Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hero/article"
+                articleAlignment="hero2-align-2"
+                text="&lt;p>Great deals on creative tools, training and more from Adobe partners.&lt;/p>&#xa;"
+                title="&lt;p>&lt;strong>Get even more for your membership.&lt;/strong>&lt;/p>&#xa;"
+                width="hero2-basis-1">
+                <titleImage
+                    jcr:lastModified="{Date}2017-06-13T21:14:41.476Z"
+                    jcr:lastModifiedBy="golee"
+                    jcr:primaryType="nt:unstructured"/>
+                <link
+                    jcr:primaryType="nt:unstructured"
+                    modalMode="VIDEO"
+                    size="426x240"
+                    type="free">
+                    <image
+                        jcr:lastModified="{Date}2017-06-13T21:14:41.476Z"
+                        jcr:lastModifiedBy="golee"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </link>
+            </article>
+        </tophero-loggedin-paid>
+    </jcr:content>
+</jcr:root>

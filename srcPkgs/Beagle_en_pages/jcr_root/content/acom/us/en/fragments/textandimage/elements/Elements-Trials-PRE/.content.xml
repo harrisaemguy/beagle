@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-08-02T21:43:48.463Z"
+        cq:lastModifiedBy="env10433"
+        cq:lastReplicated="{Date}2018-07-11T17:11:23.754Z"
+        cq:lastReplicatedBy="env14281"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fragmentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Elements Trials - PRE"
+        jcr:uuid="27c873d7-f422-4d5b-9941-6c03777ad8b3"
+        sling:resourceType="beagle/components/fragmentpage">
+        <textandimage
+            jcr:lastModified="{Date}2019-08-02T21:43:48.452Z"
+            jcr:lastModifiedBy="env10433"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/textandimage"
+            align="right"
+            grid0="12"
+            grid1="0"
+            layout="2;grid-cols-12      ;grid-cols-0      ;"
+            layoutType="advanceLayout"
+            modalsize="426x240"
+            multiplier="4"
+            offset0="0"
+            offset1="0"
+            section="b"
+            target="_self"
+            text="&lt;h5 style=&quot;text-align: left;&quot;>&lt;span class=&quot;text-light&quot;>Still deciding?&amp;nbsp;Start with the free trial.&lt;/span>&lt;/h5>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: left;&quot;>&lt;i class=&quot;adobe-icon-color-pre&quot;>&lt;/i>&lt;a href=&quot;/content/acom/us/en/products/elements-family/premiere-elements/download-trial/try.html?promoid=BWBX365N&amp;amp;mv=other&quot;>&amp;nbsp;Download Premiere Elements 2020&lt;/a>&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: left;&quot;>&lt;i class=&quot;adobe-icon-color-pse&quot;>&lt;/i>&amp;nbsp;&lt;a href=&quot;/content/acom/us/en/products/elements-family/photoshop-elements/download-trial/try.html?promoid=C12Y32FM&amp;amp;mv=other&quot;>Download Photoshop Elements 2020&lt;/a>&lt;/div>&#xa;"
+            whitespace="grid-padded-b4x">
+            <image
+                jcr:lastModified="{Date}2019-08-02T21:43:48.452Z"
+                jcr:lastModifiedBy="env10433"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Try out Photoshop Elements and Premiere Elements with a free trial."
+                imageRotate="0"/>
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    type="free"/>
+            </contentlayer>
+        </textandimage>
+    </jcr:content>
+</jcr:root>

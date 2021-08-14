@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-06-27T08:19:17.210Z"
+        cq:lastModifiedBy="21n57074"
+        cq:lastReplicated="{Date}2019-06-27T08:18:01.512Z"
+        cq:lastReplicatedBy="21n57074"
+        cq:lastReplicationAction="Deactivate"
+        cq:tags="[]"
+        cq:template="/apps/beagle/templates/customershowcasedetailpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="foodshield-case-study"
+        jcr:uuid="fa04cf52-9eae-489b-860b-97179a8f9883"
+        sling:resourceType="beagle/components/customershowcasedetailpage">
+        <customershowcasecard
+            jcr:lastModified="{Date}2019-06-27T08:19:17.191Z"
+            jcr:lastModifiedBy="21n57074"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/customershowcasecard"
+            cardType="standard"
+            companyName="FoodShield"
+            creationDate="{Date}2018-03-29T21:24:00.000+05:30"
+            link1="http://wwwimages.adobe.com/www.adobe.com/content/dam/acom/en/customer-success/pdfs/foodshield-case-study.pdf"
+            link1Target="_blank"
+            link1Text="Read more"
+            link2Target="_self"
+            orderDate="{Date}2010-09-01T11:34:00.000+05:30">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                    size="426x240"
+                    type="free">
+                    <social jcr:primaryType="nt:unstructured"/>
+                    <meta
+                        jcr:primaryType="nt:unstructured"
+                        type="website">
+                        <image
+                            jcr:lastModified="{Date}2019-06-27T08:19:17.191Z"
+                            jcr:lastModifiedBy="21n57074"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </meta>
+                    <tracking jcr:primaryType="nt:unstructured"/>
+                </video>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2019-06-27T08:19:17.191Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="FoodShield"
+                fileReference="/content/dam/acom/en/products/one-adobe-solution-for-technical-content/images/foodshield.png"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </customershowcasecard>
+    </jcr:content>
+</jcr:root>

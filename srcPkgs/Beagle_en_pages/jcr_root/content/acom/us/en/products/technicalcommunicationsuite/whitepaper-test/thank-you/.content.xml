@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-10-20T10:30:02.866Z"
+        cq:lastModifiedBy="21n57074"
+        cq:lastReplicated="{Date}2020-10-20T10:37:03.515Z"
+        cq:lastReplicatedBy="21n57074"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:lockable,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="White Paper Thank you"
+        jcr:uuid="38f46487-f848-47b9-b7bb-8521a3d30573"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="center"
+        applauncherTheme="light"
+        bodyClass="whiteBackground"
+        browserTitle="Get Started | Tech-Comm Software"
+        disableOverviewLink="true"
+        distType="dist5"
+        enableCCRedirect="NA"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        headingStyle="h1"
+        hideInSectionNav="true"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        marketSegmentRewrite="COM"
+        metaDescription="Make the most of the Adobe Framemaker with tutorials, help materials and trial software"
+        modalSize="426x240"
+        navTitle="Adobe Technical Communication"
+        noIndex="true"
+        pageTitle="Adobe Technical Communication"
+        stagelastReplicated="01-Sep-2015 00:20"
+        stagelastReplicatedBy="ribhat"
+        stageLastReplicationAction="ActivatedtoStage"
+        useH1Tags="pageTitle">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="35">
+            <image
+                jcr:lastModified="{Date}2020-06-01T14:32:32.248Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column
+                jcr:created="{Date}2015-07-29T16:59:31.902-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2020-05-26T16:10:27.152Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                grid0="8"
+                layout="1;grid-cols-12 grid-offset-2;"
+                offset0="4"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-05-26T16:10:27.152Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column>
+            <text_97254443
+                jcr:created="{Date}2015-07-29T17:04:22.229-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2020-10-20T10:29:22.633Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h2 style=&quot;text-align: center;&quot;>Thank you for your interest in this whitepaper&lt;/h2>&#xa;&lt;h2 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h2>&#xa;"
+                textIsRich="true"/>
+            <standalonecta_adcc
+                jcr:created="{Date}2020-10-20T10:29:15.366Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-10-20T10:30:02.861Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/standalonecta"
+                ctabuttonalign="text-center"
+                ctabuttoncolor="merchpod-cta-button"
+                ctaType="{Boolean}true"
+                link="/content/dam/acom/en/products/framemaker/framemaker_new/PDF/fm_brochure_en.pdf"
+                linkText="Download whitepaper"
+                target="_blank"/>
+            <end_14382143719110
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column"/>
+            <column_c65a
+                jcr:created="{Date}2020-05-26T18:08:03.943Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-26T18:20:27.826Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                grid0="8"
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="6"
+                offset0="4"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-05-26T18:20:27.826Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_c65a>
+            <horizontalrule_897b
+                jcr:created="{Date}2020-05-26T18:19:26.290Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-26T18:19:26.290Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_97f5
+                jcr:created="{Date}2020-05-26T18:11:03.082Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-26T18:11:21.081Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&lt;strong>News. Topics. Trends.&lt;/strong>&lt;/h3>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h3>&#xa;"/>
+            <text_bef6
+                jcr:created="{Date}2017-01-30T09:11:03.407Z"
+                jcr:createdBy="krishnan"
+                jcr:lastModified="{Date}2017-01-30T09:11:03.407Z"
+                jcr:lastModifiedBy="krishnan"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h5 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Join the conversation&lt;/span>&lt;/h5>&#xa;&lt;div class=&quot;text-3-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;https://twitter.com/adobetcs&quot; target=&quot;_blank&quot;>&lt;i class=&quot;icon-twitter&quot;>&lt;/i>&lt;/a>&lt;a href=&quot;https://www.facebook.com/adobetcs&quot; target=&quot;_blank&quot;>&lt;i class=&quot;icon-facebook&quot;>&lt;/i>&lt;/a>&lt;a href=&quot;https://www.linkedin.com/groups/2381149/profile&quot; target=&quot;_blank&quot;>&lt;i class=&quot;icon-linkedin&quot;>&lt;/i>&lt;/a>&lt;a href=&quot;https://www.youtube.com/user/AdobeTCS&quot; target=&quot;_blank&quot;>&lt;i class=&quot;icon-youtube&quot;>&lt;/i>&lt;/a>&lt;a href=&quot;http://blogs.adobe.com/techcomm/&quot; target=&quot;_blank&quot;>&lt;i class=&quot;icon-blog&quot;>&lt;/i>&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_81c7
+                jcr:created="{Date}2020-05-26T18:13:06.684Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-26T18:15:57.714Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;strong>For any queries, write to us at&amp;nbsp;&lt;a href=&quot;mailto:techcomm@adobe.com&quot;>techcomm@adobe.com&lt;/a>&amp;nbsp;or call&amp;nbsp;&lt;a href=&quot;tel:+18666471213&quot;>+1-866-647-1213&lt;/a>&lt;/strong>&lt;/div>&#xa;"/>
+            <end_15905164839530
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_c65a"/>
+        </contentbody>
+        <promobar jcr:primaryType="nt:unstructured">
+            <promo
+                jcr:lastModified="{Date}2015-07-22T16:53:38.251Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/promo"
+                ctaButtonOverride="https://creative.adobe.com/plans?promoid=KSPCN"
+                ctaButtonText="Choose a plan"
+                enablePriceDisplay="true"
+                icon="promo-icon adobe-icon-creativecloud"
+                marketSegmentRewrite="COM"
+                priceType="SUB_NEW"
+                product="creative_cloud"
+                productIntroText="Get the entire collection of creative apps and more for"
+                purchasePhoneCss="promo-phone">
+                <productInfo jcr:primaryType="nt:unstructured"/>
+                <free
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="https://creative.adobe.com/plans?promoid=KSPCN"
+                    ctaButtonText="Choose a plan"
+                    productIntroText="Get the entire collection of creative apps and more for"/>
+                <paid
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="http://max.adobe.com/?promoid=KTJLS"
+                    ctaButtonText="Learn more"
+                    productIntroText="Join us at Adobe MAX. The Creativity Conference. Oct. 3–7 in Los Angeles."/>
+            </promo>
+        </promobar>
+        <contentlayer
+            jcr:lastModified="{Date}2014-11-25T22:30:20.382Z"
+            jcr:lastModifiedBy="wmyersta"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/contentlayer"
+            horizontalAlign="1"
+            opacity="{Long}0"
+            rgb="FFFFFF"
+            textcolor="text-alt-color"
+            verticalAlign="2"
+            width="{Long}55">
+            <title jcr:primaryType="nt:unstructured"/>
+            <text
+                jcr:primaryType="nt:unstructured"
+                text="&lt;div class=&quot;text-0-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Make something great.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>Introducing all-new versions of your favorite desktop apps.&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2020-06-01T14:32:32.248Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <topofbodymbox
+            jcr:lastModified="{Date}2014-12-16T03:54:16.687Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="TopOfBody"/>
+        <bottomofbodymbox
+            jcr:lastModified="{Date}2014-12-16T03:54:30.562Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="BottomOfBody"/>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+    </jcr:content>
+</jcr:root>

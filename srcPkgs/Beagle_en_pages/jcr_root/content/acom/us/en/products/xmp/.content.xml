@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-03-27T16:11:57.651Z"
+        cq:lastModifiedBy="karchie"
+        cq:lastReplicated="{Date}2016-12-15T22:31:11.215Z"
+        cq:lastReplicatedBy="vko"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Extensible Metadata Platform (XMP)"
+        jcr:uuid="5ae2eb51-b12b-4372-a077-d864805868fb"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="File management, metadata integration | Adobe Extensible Metadata Platform (XMP)"
+        disableGeoRouting="true"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideMerchandisingBar="inherit"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="inherit"
+        isSectionNavParent="true"
+        marketSegmentRewrite="none"
+        marqueeStyle="newMarquee"
+        metaDescription="Adobe’s Extensible Metadata Platform (XMP) is a file labeling technology that lets you embed metadata into the files themselves, enabling more efficient job processing. Download now."
+        modalSize="426x240"
+        pageTitle="Extensible Metadata Platform (XMP)"
+        sectionNavTitle="Overview"
+        stagelastReplicated="13-Dec-2016 07:22"
+        stagelastReplicatedBy="rbedi"
+        stageLastReplicationAction="ActivatedtoStage"
+        useH1Tags="content">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2016-12-15T22:35:36.424Z"
+                jcr:lastModifiedBy="vko"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2016-12-15T22:35:36.424Z"
+                    jcr:lastModifiedBy="vko"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_f9db
+                jcr:created="{Date}2016-11-03T08:49:31.022Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-03T08:50:01.535Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-03T08:50:01.535Z"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_f9db>
+            <image_3ad5
+                jcr:created="{Date}2016-11-03T09:35:55.900Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-03T09:37:06.114Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="XMP"
+                fileReference="/content/dam/acom/en/products/xmp/images/xmp-147x83.jpg.adimg.mw.147.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-03T09:37:06.114Z"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_3ad5>
+            <text_f96e
+                jcr:created="{Date}2016-11-03T09:32:38.696Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-03T09:37:39.243Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Metadata is any data that helps describe the content or characteristics of a file. You may already be accustomed to viewing and adding some basic metadata through the File Info or Document Properties box found in many software applications and some operating systems. You may also use an asset or content management system (CMS) that captures some file properties and displays them for you.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>Adobe’s Extensible Metadata Platform (XMP)&lt;span class=&quot;text-light&quot;>&amp;nbsp;is a file labeling technology that lets you embed metadata into files themselves during the content creation process. With an XMP enabled application, your workgroup can capture meaningful information about a project (such as titles and descriptions, searchable keywords, and up-to-date author and copyright information) in a format that is easily understood by your team as well as by software applications, hardware devices, and even file formats. Best of all, as team members modify files and assets, they can edit and update the metadata in real time during the workflow.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>With XMP, desktop applications and back-end publishing systems gain a common method for capturing, sharing, and leveraging this valuable metadata. Adobe has taken the “heavy lifting” out of metadata integration, offering content creators an easy way to embed meaningful information about their projects and providing industry partners with standards-based building blocks to develop optimized workflow solutions.&lt;/span>&lt;/div>&#xa;"/>
+            <text_5282
+                jcr:created="{Date}2016-11-03T09:37:55.383Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-03T09:39:28.816Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>Open standards&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>By providing a standard way of tagging files with metadata across products from Adobe and other vendors, XMP is a powerful solution enabler. As an open source technology, it is freely available to developers, which means that the user community benefits from the innovations contributed by developers worldwide. The XMP SDKs are available in the downloads section. Furthermore, XMP is extensible — it can accommodate existing metadata schemas, so systems don’t need to be rebuilt from scratch. A growing number of third-party applications now support XMP.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Since early 2012, XMP is also an&amp;nbsp;&lt;a href=&quot;http://www.iso.org/iso/home/news_index/news_archive/news.htm?refid=Ref1525&quot; target=&quot;_self&quot;>ISO standard (16684-1)&lt;/a>.&lt;/span>&lt;/div>&#xa;"/>
+            <text_50f2
+                jcr:created="{Date}2016-11-03T09:39:56.383Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-03T09:41:35.901Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>Key benefits&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>● &amp;nbsp;Create smart assets that retain their context when traveling across&amp;nbsp;software, devices, and databases.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>● &amp;nbsp;Provide full extensibility by adding arbitrary metadata to media while visualizing it in Adobe products.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>● &amp;nbsp;Enable powerful search and retrieval of rich media across diverse file formats and database systems.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>● &amp;nbsp;Manage relationships of assets throughout their lifecycle of content creation and consumption.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>● &amp;nbsp;Build on open standards and open source licenses to foster a common exchange across the industry.&lt;/span>&lt;/div>&#xa;"/>
+            <text_998f
+                jcr:created="{Date}2016-11-03T09:41:50.881Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-03T10:11:57.904Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot;>Highlights&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/xmp/standards.html&quot; target=&quot;_self&quot;>Standards groups powered by XMP&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>See the growing list of standards groups that are using XMP as their basis.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/xmp/partners.html&quot; target=&quot;_self&quot;>Partners using XMP&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Find out how companies that partner with Adobe are using XMP in their solutions and products.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.metadataworkinggroup.org/&quot; target=&quot;_blank&quot;>Metadata Working Group&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Learn more about how companies are getting together to build metadata interoperability across operating systems, mobile devices, cameras, and online services.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <text_b0e2
+                jcr:created="{Date}2016-11-03T09:44:19.212Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-03T09:45:48.421Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>XMP SDKs&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe offers two SDKs for XMP, the XMP Toolkit SDK and the XMP Metadata UI SDK.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>The XMP Toolkit SDK allows you to integrate XMP functionality into your product or solution. The XMP Metadata UI SDK lets you modify&amp;nbsp;Adobe Creative Cloud applications to display custom metadata UI to either adapt the existing UI to its own workflow or to be able to interact with custom metadata.&amp;nbsp;&lt;a href=&quot;http://www.adobe.com/devnet/xmp.html&quot; target=&quot;_self&quot;>Learn more or download the SDKs now ›&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14781629710250
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_f9db"/>
+            <column_d938
+                jcr:created="{Date}2016-11-03T09:47:21.864Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-03T09:48:31.391Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="1"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v1x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-03T09:48:31.391Z"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_d938>
+            <horizontalrule_57ea
+                jcr:created="{Date}2016-11-03T09:48:40.289Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-03T09:48:40.289Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_5ff3
+                jcr:created="{Date}2016-11-03T09:48:47.113Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-03T09:49:06.328Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-03T09:49:06.328Z"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_5ff3>
+            <text_f87f
+                jcr:created="{Date}2016-11-03T09:49:20.916Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-23T16:15:29.074Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Resources&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/xmp/white-papers.html&quot; target=&quot;_self&quot;>Whitepapers&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14781665463390
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_5ff3"/>
+            <text_7cc3
+                jcr:created="{Date}2016-11-03T09:49:23.824Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-03T09:51:16.606Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Downloads&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://www.adobe.com/devnet/xmp/&quot; target=&quot;_self&quot;>XMP SDK&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14781665463391
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_5ff3"/>
+            <text_dd60
+                jcr:created="{Date}2016-11-03T09:49:27.419Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-23T16:16:00.426Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Support&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://forums.adobe.com/community/design_development/xmp_sdk&quot; target=&quot;_self&quot;>User forums&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/xmp.html&quot; target=&quot;_self&quot;>Developer resources&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14781665463402
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_5ff3"/>
+            <text_be27
+                jcr:created="{Date}2016-11-03T09:56:50.096Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-03T10:04:22.354Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Page tools&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;i class=&quot;icon-facebook&quot;>&lt;/i>&amp;nbsp;&lt;a href=&quot;http://www.facebook.com/sharer.php&quot;>Share on Facebook&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://twitter.com/&quot; style=&quot;font-style: normal; font-weight: 300;&quot;>&lt;i class=&quot;icon-twitter&quot;>&lt;/i>&lt;/a>&amp;nbsp;&lt;a href=&quot;http://twitter.com/&quot;>Share on Twitter&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;i class=&quot;icon-linkedin&quot;>&lt;/i>&amp;nbsp;&lt;a href=&quot;http://www.linkedin.com/&quot;>Share on&amp;nbsp;LinkedIn&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span class=&quot;text-light&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; line-height: 16px;&quot;>Share on Facebook&lt;/span>&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span class=&quot;text-light&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; line-height: 16px;&quot;>Share on Facebook&lt;/span>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14781665271210
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5ff3"/>
+            <text_ca11
+                jcr:created="{Date}2019-03-27T15:28:30.250Z"
+                jcr:createdBy="karchie"
+                jcr:lastModified="{Date}2019-03-27T16:11:57.647Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"/>
+            <end_14781664418700
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_d938"/>
+        </contentbody>
+    </jcr:content>
+    <partners/>
+    <standards/>
+    <white-papers/>
+</jcr:root>

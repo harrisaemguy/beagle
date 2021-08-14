@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <features/>
+    <jcr:content
+        cq:lastModified="{Date}2017-05-16T03:59:18.410Z"
+        cq:lastModifiedBy="gewittig"
+        cq:lastReplicated="{Date}2017-05-16T03:59:29.232Z"
+        cq:lastReplicatedBy="gewittig"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:description="Download Adobe Illustrator CC graphic design software when you get started with Creative Cloud. Start your free trial today!"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:lockable,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Project Felix"
+        jcr:uuid="aae44fc9-bd44-49aa-b93f-1b818e147fb0"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        browserTitle="Project Felix from Adobe | 2D and 3D compositing design tools"
+        ctaButtonText="Choose a plan"
+        distType="dist5"
+        enableBreadcrumb="true"
+        entitlement="Euclid"
+        freeTrialLoggedIn="Download"
+        freeTrialUrlLoggedIn="https://creative.adobe.com/products/download/project-felix"
+        freeTrialUrlLoggedInModalScrolling="no"
+        freeTrialUrlLoggedInModalSize="426x240"
+        freeTrialUrlLoggedInTarget="_self"
+        freeTrialUrlModalScrolling="no"
+        freeTrialUrlModalSize="426x240"
+        freeTrialUrlTarget="_self"
+        globalnavProfileTheme="default"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        headingStyle="h1"
+        heroLayout="true"
+        hideInNav="true"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="show"
+        iconModeAndroid="icon"
+        isSectionNavParent="true"
+        livePersonHide="show"
+        livePersonLanguage="english"
+        livePersonUnit="creative-us"
+        manualChildren="true"
+        marketSegmentRewrite="COM"
+        marqueeStyle="newMarquee"
+        metaDescription="Project Felix from Adobe is a set of 2D and 3D compositing design tools with an approachable, modern interface for easy compositing of photorealistic graphics."
+        mobileBannerReference="adobe_photoshop_mix"
+        navTitle="Project Felix"
+        notifyLinkModalScrolling="yes"
+        notifyLinkModalSize="1280x720"
+        notifyLinkTarget="_self"
+        overrideBreadcrumbPath="/content/acom/us/en/creativecloud"
+        pageTitle="Project Felix"
+        product="project-felix"
+        sectionNavTitle="Overview"
+        stagelastReplicated="17-Dec-2016 00:44"
+        stagelastReplicatedBy="gewittig"
+        stageLastReplicationAction="ActivatedtoStage"
+        subnavGradient="/etc/beagle/public/globalnav/themes/jcr:content/bgcolor_1932072038"
+        tryLink="https://creative.adobe.com/plans"
+        tryLinkModalScrolling="no"
+        tryLinkModalSize="426x240"
+        tryLinkProductPlanModalScrolling="no"
+        tryLinkProductPlanModalSize="426x240"
+        tryLinkProductPlanTarget="_self"
+        tryLinkTarget="_self"
+        useH1Tags="pageTitle">
+        <sectionMore
+            jcr:lastModified="{Date}2014-08-22T18:42:11.930-07:00"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            link="/content/acom/us/en/creativecloud/catalog/desktop"
+            linkModalScrolling="no"
+            linkModalSize="426x240"
+            linkTarget="_self"
+            linkText="More products"
+            target="_self"/>
+        <image
+            jcr:lastModified="{Date}2014-09-04T19:10:47.938-07:00"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            fileReference="/content/dam/acom/en/products/illustrator/images/marquee-ai-1440x810.jpg"
+            imageRotate="0"/>
+        <promobar
+            jcr:mixinTypes="[cq:ReplicationStatus]"
+            jcr:primaryType="nt:unstructured">
+            <promo
+                jcr:lastModified="{Date}2016-12-05T23:15:24.029Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/promo"
+                backGroundColor="2B9Af3"
+                ctaButtonOverride="https://creative.adobe.com/plans"
+                ctaButtonOverrideModalSize="1280x720"
+                ctaButtonOverrideTarget="_self"
+                ctaButtonText="Choose a plan"
+                icon="promo-icon adobe-icon-creativecloud"
+                marketSegmentRewrite="COM"
+                notifyIntroText="Sign up for an invite to the private beta, coming soon to Mac OS X and Windows 10."
+                priceType="SUB_NEW"
+                product="project-felix"
+                productIntroText="Get Project Felix as part of a paid Creative Cloud membership. Sign in or"
+                productIntroTextEDU="Get Illustrator as part of a Creative Cloud plan for as low as"
+                promoNotifyLink="https://campaign.adobe.com/webApp/adbeProjectFelixNotifications?promoid=7WQ465PQ&amp;mv=other"
+                promoNotifyLinkModalScrolling="yes"
+                promoNotifyLinkModalSize="1280x720"
+                promoNotifyLinkTarget="modal-frame"
+                promoNotifyText="Notify me"
+                purchasePhoneCss="promo-phone">
+                <productInfo jcr:primaryType="nt:unstructured"/>
+                <free
+                    jcr:lastModified="{Date}2016-12-05T23:15:35.006Z"
+                    jcr:lastModifiedBy="golee"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="https://creative.adobe.com/plans"
+                    ctaButtonOverrideModalSize="1280x720"
+                    ctaButtonOverrideTarget="_self"
+                    ctaButtonText="Choose a plan"
+                    productIntroText="Get Project Felix as part of a paid Creative Cloud membership. Sign in or"/>
+                <paid
+                    jcr:lastModified="{Date}2017-02-15T00:05:32.749Z"
+                    jcr:lastModifiedBy="patters"
+                    jcr:mixinTypes="[cq:ReplicationStatus]"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="https://creative.adobe.com/products/download/project-felix"
+                    ctaButtonOverrideModalSize="1280x720"
+                    ctaButtonOverrideTarget="_self"
+                    ctaButtonText="Download"
+                    productIntroText="Now available for macOS and Windows 10. Before downloading, check system requirements."/>
+            </promo>
+        </promobar>
+        <merchandisingbar
+            jcr:lastModified="{Date}2014-08-07T15:45:25.364-07:00"
+            jcr:lastModifiedBy="wmyersta"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/merchandisingbar"
+            purchasePhoneNumber="800-585-0774"
+            purchasePhoneText="Purchase by phone:">
+            <merchandising
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys">
+                <column_3032
+                    jcr:created="{Date}2014-08-07T14:53:59.678-07:00"
+                    jcr:createdBy="wmyersta"
+                    jcr:lastModified="{Date}2014-08-07T14:57:09.772-07:00"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/parsys/column"
+                    basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3"
+                    grid0="9of10"
+                    grid1="1of10"
+                    layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3"
+                    layoutMode="spatial"
+                    section="b">
+                    <imagelayer
+                        jcr:primaryType="nt:unstructured"
+                        bottom="0"
+                        left="0"
+                        right="0"
+                        top="0">
+                        <image
+                            jcr:lastModified="{Date}2014-08-07T14:57:09.772-07:00"
+                            jcr:lastModifiedBy="wmyersta"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="Not relevant..."/>
+                    </imagelayer>
+                </column_3032>
+                <merchandising_d85a
+                    jcr:created="{Date}2014-08-07T14:57:15.147-07:00"
+                    jcr:createdBy="wmyersta"
+                    jcr:lastModified="{Date}2016-06-24T23:48:44.591Z"
+                    jcr:lastModifiedBy="nmahoney"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/merchandising"
+                    backgroundImg="image-off"
+                    containerSize="large"
+                    ctaButtonOverride="https://creative.adobe.com/join/pro?promoid=5F1G8NV4&amp;mv=other"
+                    ctaButtonPosition="above"
+                    ctaButtonText="Buy now"
+                    marketSegmentRewrite="COM"
+                    merchbackgroundcolor="background-color-off"
+                    merchborder="border-on"
+                    merchradius="radius-on"
+                    merchshadow="shadow-off"
+                    prefixTitleTextCOM="&lt;p style=&quot;text-align: center;&quot;>Get all the apps&lt;/p>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>Creative Cloud All Apps&lt;/h3>&#xa;&lt;p style=&quot;text-align: center;&quot;>Includes Photoshop, Illustrator, InDesign, and more.&lt;br>&#xa;&lt;/p>&#xa;"
+                    prefixTitleTextEDU="&lt;p>Get all the apps&lt;/p>&#xa;"
+                    priceType="SUB_NEW"
+                    product="creative_cloud"
+                    productIntroTextCOM="&lt;div class=&quot;text-4-block&quot;>&lt;span class=&quot;text-light&quot;>Creative Cloud All Apps&lt;/span>&lt;/div>&#xa;"
+                    productIntroTextEDU="&lt;p>Creative Cloud All Apps&lt;/p>&#xa;"
+                    showCaret="true"
+                    showCTAButton="true"
+                    suffixTitleTextCOM="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Includes Photoshop, Illustrator, InDesign, and more.&lt;/span>&lt;/div>&#xa;"
+                    suffixTitleTextEDU="&lt;p>Includes Photoshop, Illustrator, InDesign, and more.&lt;/p>&#xa;"
+                    tryLink="https://creative.adobe.com/plans?promoid=6DWQ7NYV&amp;mv=other"
+                    tryText="Add Adobe Stock">
+                    <productInfo jcr:primaryType="nt:unstructured"/>
+                    <imagelayer jcr:primaryType="nt:unstructured">
+                        <image
+                            jcr:lastModified="{Date}2016-06-24T23:48:44.591Z"
+                            jcr:lastModifiedBy="nmahoney"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </imagelayer>
+                </merchandising_d85a>
+                <break_14074484956450
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/parsys/column"
+                    columnType="break"
+                    correspondingStart="column_3032"/>
+                <merchandising_b3ac
+                    jcr:created="{Date}2014-08-07T15:06:03.909-07:00"
+                    jcr:createdBy="wmyersta"
+                    jcr:lastModified="{Date}2016-06-24T23:49:18.838Z"
+                    jcr:lastModifiedBy="nmahoney"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/merchandising"
+                    backgroundImg="image-off"
+                    containerSize="large"
+                    ctaButtonOverride="https://creative.adobe.com/join/photography?promoid=6NCS7FHS&amp;mv=other"
+                    ctaButtonPosition="above"
+                    ctaButtonText="Buy now"
+                    marketSegmentRewrite="COM"
+                    merchbackgroundcolor="background-color-off"
+                    merchborder="border-on"
+                    merchradius="radius-on"
+                    merchshadow="shadow-off"
+                    prefixTitleTextCOM="&lt;p style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/p>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>Creative Cloud&lt;br>&#xa;Photography&lt;/h3>&#xa;&lt;p style=&quot;text-align: center;&quot;>Includes Photoshop, Lightroom, and more.&lt;/p>&#xa;"
+                    prefixTitleTextEDU="&lt;p>Get all the apps&lt;/p>&#xa;"
+                    priceType="SUB_NEW"
+                    product="photoshop_lightroom_bundle"
+                    productIntroTextCOM="&lt;div class=&quot;text-4-block&quot;>&lt;span class=&quot;text-light&quot;>Illustrator CC&lt;/span>&lt;/div>&#xa;"
+                    productIntroTextEDU="&lt;p>Creative Cloud All Apps&lt;/p>&#xa;"
+                    showCaret="true"
+                    showCTAButton="true"
+                    suffixTitleTextCOM="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Vector graphics and illustration&lt;/span>&lt;/div>&#xa;"
+                    suffixTitleTextEDU="&lt;p>Includes Photoshop, Illustrator, InDesign, and more.&lt;/p>&#xa;"
+                    tryLink="https://creative.adobe.com/plans?promoid=695P7SPW&amp;mv=other"
+                    tryText="See all plans">
+                    <productInfo jcr:primaryType="nt:unstructured"/>
+                    <imagelayer jcr:primaryType="nt:unstructured">
+                        <image
+                            jcr:lastModified="{Date}2016-06-24T23:49:18.838Z"
+                            jcr:lastModifiedBy="nmahoney"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </imagelayer>
+                </merchandising_b3ac>
+                <break_14074484956461
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/parsys/column"
+                    columnType="break"
+                    correspondingStart="column_3032"/>
+                <merchandising_a360
+                    jcr:created="{Date}2014-08-07T15:08:06.391-07:00"
+                    jcr:createdBy="wmyersta"
+                    jcr:lastModified="{Date}2016-09-27T22:06:40.079Z"
+                    jcr:lastModifiedBy="jperlas"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/merchandising"
+                    backgroundImg="image-off"
+                    containerSize="small"
+                    ctaButtonOverride="https://creative.adobe.com/plans?plan=edu"
+                    ctaButtonPosition="above"
+                    ctaButtonText="See special pricing"
+                    hidePriceDisplay="true"
+                    marketSegmentRewrite="COM"
+                    merchbackgroundcolor="background-color-off"
+                    merchborder="border-on"
+                    merchradius="radius-on"
+                    merchshadow="shadow-off"
+                    overrideEnable="true"
+                    prefixTitleTextCOM="&lt;h3 style=&quot;text-align: center;&quot;>Back-to-school savings&lt;br>&#xa;&lt;/h3>&#xa;&lt;p style=&quot;text-align: center;&quot;>Students, save 60% on Creative Cloud.&amp;nbsp;&lt;span class=&quot;rtePricing&quot; data-rte-pricing-product=&quot;creative_cloud_edu&quot; data-rte-pricing-marketsegmentrewrite=&quot;EDU&quot; data-rte-pricing-pricetype=&quot;YEAR&quot;>Dynamic_Pricing&lt;/span>/mo.&lt;br>&#xa;&lt;/p>&#xa;"
+                    prefixTitleTextEDU="&lt;p>Get all the apps&lt;/p>&#xa;"
+                    priceType="SUB_NEW"
+                    pricingTextPrefix=" "
+                    pricingTextSuffix=" "
+                    product="creative_cloud_edu"
+                    productIntroTextCOM="&lt;div class=&quot;text-4-block&quot;>&lt;span class=&quot;text-light&quot;>We love students &amp;amp; teachers.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                    productIntroTextEDU="&lt;p>Creative Cloud All Apps&lt;/p>&#xa;"
+                    showCaret="true"
+                    suffixTitleTextCOM="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Save up to 60%.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                    suffixTitleTextEDU="&lt;p>Includes Photoshop, Illustrator, InDesign, and more.&lt;/p>&#xa;"
+                    tryLink="https://creative.adobe.com/plans?plan=edu&amp;promoid=6JMR7K7T&amp;mv=other"
+                    tryText="Buy now">
+                    <productInfo jcr:primaryType="nt:unstructured"/>
+                    <imagelayer jcr:primaryType="nt:unstructured">
+                        <image
+                            jcr:lastModified="{Date}2016-09-27T22:06:40.079Z"
+                            jcr:lastModifiedBy="jperlas"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </imagelayer>
+                </merchandising_a360>
+                <merchandising_c98
+                    jcr:created="{Date}2014-08-07T15:10:08.496-07:00"
+                    jcr:createdBy="wmyersta"
+                    jcr:lastModified="{Date}2016-05-05T04:02:01.944Z"
+                    jcr:lastModifiedBy="karchie"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/merchandising"
+                    backgroundImg="image-off"
+                    containerSize="small"
+                    ctaButtonOverride="/content/acom/us/en/creativecloud/buy/business"
+                    ctaButtonPosition="above"
+                    ctaButtonText="Learn more"
+                    hidePriceDisplay="true"
+                    marketSegmentRewrite="COM"
+                    merchbackgroundcolor="background-color-off"
+                    merchborder="border-on"
+                    merchradius="radius-on"
+                    merchshadow="shadow-off"
+                    overrideEnable="true"
+                    prefixTitleTextCOM="&lt;h3 style=&quot;text-align: center;&quot;>Creative Cloud for business&lt;/h3>&#xa;&lt;p style=&quot;text-align: center;&quot;>Plans for teams of all sizes.&lt;/p>&#xa;"
+                    prefixTitleTextEDU="&lt;p>Get all the apps&lt;/p>&#xa;"
+                    priceType="SUB_NEW"
+                    product="creative_cloud_teams"
+                    productIntroTextCOM="&lt;div class=&quot;text-4-block&quot;>&lt;span class=&quot;text-light&quot;>Let's get down to business.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                    productIntroTextEDU="&lt;p>Creative Cloud All Apps&lt;/p>&#xa;"
+                    showCaret="true"
+                    suffixTitleTextCOM="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Plans for small &amp;amp; medium business.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                    suffixTitleTextEDU="&lt;p>Includes Photoshop, Illustrator, InDesign, and more.&lt;/p>&#xa;"
+                    tryLink="/content/acom/us/en/creativecloud/business/teams.html?promoid=6S3T79RR&amp;mv=other"
+                    tryText="Learn more">
+                    <productInfo jcr:primaryType="nt:unstructured"/>
+                    <imagelayer jcr:primaryType="nt:unstructured">
+                        <image
+                            jcr:lastModified="{Date}2016-05-05T04:02:01.944Z"
+                            jcr:lastModifiedBy="karchie"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </imagelayer>
+                </merchandising_c98>
+                <end_14074484396920
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/parsys/column"
+                    columnType="end"
+                    correspondingStart="column_3032"/>
+            </merchandising>
+        </merchandisingbar>
+        <sectionNavItems
+            jcr:primaryType="nt:unstructured"
+            sort_mdv="[0,1]">
+            <_x0030_
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionLink"
+                link="https://blogs.adobe.com/creativecloud/tag/project-felix/"
+                sectionNavTitle="Blog"
+                target="_blank"/>
+            <_x0031_
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionLink"
+                link="https://helpx.adobe.com/beta/project-felix/faq.html"
+                sectionNavTitle="FAQ"/>
+        </sectionNavItems>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_2753
+                jcr:created="{Date}2016-10-03T04:11:10.135Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2016-10-13T04:24:49.286Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor="background-color:#;color:#444444"
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="6"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-10-13T04:24:49.286Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_2753>
+            <column_bf24
+                jcr:created="{Date}2016-10-13T04:21:39.436Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2016-10-13T04:22:06.020Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12;"
+                bgColor=" "
+                layout="1;grid-cols-12;"
+                layoutMode="structured"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-10-13T04:22:06.020Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_bf24>
+            <end_14763324994570
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_bf24"/>
+            <end_14754678701460
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_2753"/>
+            <column_3d7d
+                jcr:created="{Date}2016-10-03T04:12:20.118Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2016-10-13T04:25:05.424Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-16;"
+                bgColor="background-color:#;color:#444444"
+                layout="1;grid-cols-16;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-10-13T04:25:05.424Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_3d7d>
+            <textandimage2col_912
+                jcr:created="{Date}2016-10-03T04:12:56.782Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2017-02-15T00:08:16.218Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/textandimage2col"
+                altText="3D compositing without 3D experience"
+                description="Composite 3D and 2D assets into photorealistic images without a steep learning curve or complex workflow. Just drag and drop a 3D model, material, and light into your scene. Then choose your background image. Project Felix automatically detects the horizon line and provides gridlines to help you align and place your model. The app can even use your background image to generate the right lighting."
+                horizontallayout="custom-column-collapse-left"
+                insideColCtrl="true"
+                section="b"
+                title="No 3D experience? No problem. "
+                verticallayout="custom-column-collapse-top">
+                <image
+                    jcr:lastModified="{Date}2017-02-15T00:08:16.218Z"
+                    jcr:lastModifiedBy="patters"
+                    jcr:primaryType="nt:unstructured"
+                    fileReference="/content/dam/acom/en/products/project-felix/images/projectfelix-riverflow1-720x620.jpg"/>
+                <par
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/parsys">
+                    <standalonecta_3a5d
+                        jcr:created="{Date}2016-12-17T00:43:27.451Z"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2016-12-17T00:44:12.354Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/standalonecta"
+                        ctabuttonalign="text-center"
+                        ctabuttoncolor="merchpod-cta-button"
+                        ctaType="{Boolean}true"
+                        link="https://helpx.adobe.com/beta/project-felix/how-to/3d-design.html"
+                        linkText="See how it works"
+                        target="_self"/>
+                </par>
+            </textandimage2col_912>
+            <column_58e9
+                jcr:created="{Date}2016-10-03T04:13:15.421Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2016-10-03T04:13:15.421Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                layout="1;grid-cols-14 grid-offset-1;"
+                layoutMode="structured"
+                multiplier="9"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-23T16:01:00.518-07:00"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_58e9>
+            <end_14754679954340
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_58e9"/>
+            <textandimage2col_359
+                jcr:created="{Date}2016-10-03T04:13:40.182Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2017-02-15T00:10:37.154Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/textandimage2col"
+                altText="Free starter library in Adobe Stock"
+                description="Project Felix comes with a free starter library of models, materials, and lights to help you get going the moment you open the app. You can also search and license 3D and 2D assets from Adobe Stock, and then save them to your Adobe Creative Cloud Libraries to work with in Project Felix."
+                fontcolor="true"
+                horizontallayout="custom-column-collapse-right"
+                insideColCtrl="true"
+                section="b"
+                title="Set the scene with Adobe Stock."
+                verticallayout="custom-column-collapse-top">
+                <image
+                    jcr:lastModified="{Date}2017-02-15T00:10:37.154Z"
+                    jcr:lastModifiedBy="patters"
+                    jcr:primaryType="nt:unstructured"
+                    fileReference="/content/dam/acom/en/products/project-felix/images/projectfelix-riverflow2-720x620.jpg"/>
+            </textandimage2col_359>
+            <column_28c3
+                jcr:created="{Date}2016-10-03T04:15:58.129Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2016-10-03T04:15:58.129Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                layout="1;grid-cols-14 grid-offset-1;"
+                layoutMode="structured"
+                multiplier="9"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-23T16:01:00.518-07:00"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_28c3>
+            <end_14754681581430
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_28c3"/>
+            <textandimage2col_fd8
+                jcr:created="{Date}2016-10-03T04:17:06.829Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2016-12-21T23:57:09.831Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/textandimage2col"
+                altText="Project Felix real-time previews"
+                description="With Project Felix, you can preview your design as you go. Experiment and edit your ideas without having to render a final image to see your work. You can also enlarge the preview window to see details up close. When you’re ready, render your design into a high-quality asset you can save and then open in Adobe Photoshop CC to refine further."
+                fontcolor="true"
+                horizontallayout="custom-column-collapse-left"
+                insideColCtrl="true"
+                section="b"
+                title="See it in real time."
+                verticallayout="custom-column-collapse-top">
+                <image
+                    jcr:lastModified="{Date}2016-12-21T23:57:09.831Z"
+                    jcr:lastModifiedBy="patters"
+                    jcr:primaryType="nt:unstructured"
+                    fileReference="/content/dam/acom/en/products/project-felix/images/projectfelix-riverflow3-720x620.jpg"/>
+            </textandimage2col_fd8>
+            <column_e401
+                jcr:created="{Date}2016-10-03T04:18:01.989Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2016-10-03T04:18:01.989Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                layout="1;grid-cols-14 grid-offset-1;"
+                layoutMode="structured"
+                multiplier="9"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-30T11:29:50.053-07:00"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_e401>
+            <end_14754682820030
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_e401"/>
+            <textandimage2col_3ce
+                jcr:created="{Date}2016-10-06T20:05:13.335Z"
+                jcr:createdBy="vko"
+                jcr:lastModified="{Date}2016-12-22T00:46:58.091Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/textandimage2col"
+                altText="Project Felix does the work"
+                description="Play. Explore. Experiment. Project Felix makes it easy. Use selection and camera tools to change angles and perspective. Buttons, sliders, and setting options let you stylize details like the glossiness of the material and the intensity of the light. Project Felix makes automatic adjustments as you go."
+                fontcolor="true"
+                horizontallayout="custom-column-collapse-right"
+                insideColCtrl="true"
+                section="b"
+                title="Let Project Felix do the work."
+                verticallayout="custom-column-collapse-top">
+                <image
+                    jcr:lastModified="{Date}2016-12-22T00:46:58.091Z"
+                    jcr:lastModifiedBy="patters"
+                    jcr:primaryType="nt:unstructured"
+                    fileReference="/content/dam/acom/en/products/project-felix/images/projectfelix-riverflow4-720x620.jpg"/>
+            </textandimage2col_3ce>
+            <column_1611
+                jcr:created="{Date}2016-10-03T04:18:22.905Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2016-10-03T04:18:22.905Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                layout="1;grid-cols-14 grid-offset-1;"
+                layoutMode="structured"
+                multiplier="9"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-30T11:29:50.053-07:00"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_1611>
+            <end_14754683029200
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1611"/>
+            <end_14754679401310
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_3d7d"/>
+            <column_503b
+                jcr:created="{Date}2016-10-03T04:20:54.081Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2016-10-13T19:16:36.447Z"
+                jcr:lastModifiedBy="vko"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-16;"
+                bgColor="background-color:#f5f5f5;color:#444444"
+                layout="1;grid-cols-16;"
+                multiplier="9"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-10-13T19:16:36.447Z"
+                        jcr:lastModifiedBy="vko"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_503b>
+            <column_f2ec
+                jcr:created="{Date}2016-10-07T22:41:33.372Z"
+                jcr:createdBy="vko"
+                jcr:lastModified="{Date}2016-10-12T19:01:24.071Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor="background-color:#f5f5f5;color:#444444"
+                layout="1;grid-cols-10 grid-offset-3;"
+                layoutMode="structured"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-10-12T19:01:24.071Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_f2ec>
+            <text_63c9
+                jcr:created="{Date}2016-10-03T04:21:22.325Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2017-02-15T00:12:59.177Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h1 style=&quot;text-align: center;&quot;>&lt;i class=&quot;adobe-icon-creativecloud-sdk&quot;>&lt;/i>&lt;/h1>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>Work with us to make Project Felix better.&lt;br>&#xa;&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>We’ve created Project Felix specifically for graphic designers. Your input is important to our design process. Let us know how we can make the app even more intuitive so it fits naturally with your existing workflows.&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;strong>Now available for macOS and Windows 10.&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;https://helpx.adobe.com/beta/project-felix/system-requirements.html&quot; target=&quot;_self&quot;>See system requirements ›&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;https://projectfelix.uservoice.com/&quot; target=&quot;_blank&quot;>Join the community forum&amp;nbsp;›&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14758800933990
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_f2ec"/>
+            <end_14754684540980
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_503b"/>
+            <column_7c5d
+                jcr:created="{Date}2016-10-07T05:25:37.469Z"
+                jcr:createdBy="vko"
+                jcr:lastModified="{Date}2016-10-12T19:02:37.030Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor="background-color:#;color:#444444"
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="9"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-10-12T19:02:37.030Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_7c5d>
+            <text_ee10
+                jcr:created="{Date}2016-10-07T05:26:29.162Z"
+                jcr:createdBy="vko"
+                jcr:lastModified="{Date}2016-10-13T19:12:36.226Z"
+                jcr:lastModifiedBy="vko"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>News and insights from the Project Felix team.&lt;/h3>&#xa;"
+                textIsRich="true"/>
+            <end_14758179374990
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_7c5d"/>
+            <column_d096
+                jcr:created="{Date}2016-10-06T21:39:30.072Z"
+                jcr:createdBy="vko"
+                jcr:lastModified="{Date}2016-10-07T05:23:56.332Z"
+                jcr:lastModifiedBy="vko"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="9"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-10-07T05:23:56.332Z"
+                        jcr:lastModifiedBy="vko"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_d096>
+            <blogfeed_4666
+                jcr:created="{Date}2016-10-06T21:40:01.323Z"
+                jcr:createdBy="vko"
+                jcr:lastModified="{Date}2016-10-31T23:38:14.589Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:mixinTypes="[cq:ReplicationStatus]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/blogfeed"
+                blogPath="/etc/beagle/public/json-imports/jcr:content/creativecloud_feed-json-project-felix"
+                blogTheme="default"
+                displaydate="true"
+                hidecategories="true"
+                noOfBlogFeeds="3">
+                <image
+                    jcr:lastModified="{Date}2016-10-31T23:38:14.589Z"
+                    jcr:lastModifiedBy="gewittig"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/image"
+                    alt="Adobe Comp CC"/>
+            </blogfeed_4666>
+            <end_14757899700970
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_d096"/>
+            <column_7cdf
+                jcr:created="{Date}2016-10-03T04:22:32.916Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2016-10-12T18:47:13.912Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor="background-color:#131031;color:#FFFFFF"
+                columnCount="1"
+                grid0="8"
+                layout="1;grid-cols-8 grid-offset-4;"
+                multiplier="9"
+                offset0="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-10-12T18:47:13.912Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_7cdf>
+            <text_3220
+                jcr:created="{Date}2016-10-03T04:23:36.877Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2016-12-22T00:49:21.067Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h1 style=&quot;text-align: center;&quot;>&lt;i class=&quot;adobe-icon-creativecloud&quot;>&lt;/i>&lt;/h1>&#xa;&lt;h1 style=&quot;text-align: center;&quot;>&lt;strong>Make it. Creative Cloud.&lt;/strong>&lt;/h1>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>Project Felix is part of Creative Cloud, which also includes Adobe Photoshop CC, Illustrator CC, and all our other amazing creative apps. It’s everything you need to turn your brightest ideas into your best work and share it with the world.&lt;/div>&#xa;"/>
+            <column_db95
+                jcr:created="{Date}2016-10-12T18:47:31.922Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2016-10-12T18:47:52.935Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-8;"
+                bgColor=" "
+                layout="1;grid-cols-8;"
+                layoutMode="structured"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-10-12T18:47:52.935Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_db95>
+            <standalonecta_8e88
+                jcr:created="{Date}2016-10-03T04:24:48.801Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2016-10-03T04:24:48.801Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/standalonecta"
+                ctabuttonalign="text-center"
+                ctabuttoncolor="merchpod-cta-button"
+                ctaType="{Boolean}true"
+                link="/content/acom/us/en/creativecloud"
+                linkText="Learn more"
+                target="_self"/>
+            <end_14762980519430
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_db95"/>
+            <end_14754685529360
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_7cdf"/>
+        </contentbody>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="55">
+            <image
+                jcr:lastModified="{Date}2017-05-16T03:59:18.388Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}60"
+                ycord="{Long}42"/>
+        </imagelayer>
+        <contentlayer
+            jcr:lastModified="{Date}2015-08-19T02:27:07.477Z"
+            jcr:lastModifiedBy="vko"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/contentlayer"
+            horizontalAlign="{Long}1"
+            opacity="{Long}0"
+            rgb="FFFFFF"
+            verticalAlign="{Long}2"
+            width="{Long}60">
+            <text
+                jcr:created="{Date}2014-08-07T15:18:44.425-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2014-10-15T11:45:28.925-07:00"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>The world's best imaging and design app is at the core of almost every creative project. Create and enhance photographs and other 2D and 3D images, design incredible artwork and even edit video content.&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;/content/acom/us/en/products/project-felix/features.html&quot;>Learn about Photoshop ›&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <title
+                jcr:primaryType="nt:unstructured"
+                title="Create anything you can imagine."/>
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2017-05-16T03:59:18.388Z"
+                    jcr:lastModifiedBy="gewittig"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <topofbodymbox
+            jcr:lastModified="{Date}2014-11-14T22:26:17.121Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="TopOfBody">
+            <cq:annotations jcr:primaryType="nt:unstructured"/>
+        </topofbodymbox>
+        <bottomofbodymbox
+            jcr:lastModified="{Date}2014-11-14T22:26:33.627Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="BottomOfBody"/>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            author="Alberto Seveso ›"
+            icon="adobe-icon-behance"
+            link="https://www.behance.net/indiffident"
+            position="bottom-right"
+            preposition="by"
+            target="_blank"
+            title="Wind"/>
+        <sources jcr:primaryType="nt:unstructured"/>
+        <tophero
+            jcr:lastModified="{Date}2016-12-02T22:16:44.105Z"
+            jcr:lastModifiedBy="golee"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            avoid="hero2-avoid-0"
+            color="hero2-theme-1"
+            height="hero2-size-1"
+            hideCredits="true">
+            <image
+                jcr:lastModified="{Date}2016-12-02T22:16:44.105Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Felix makes it easy to composite 2D and 3D assets"
+                fileReference="/content/dam/acom/en/products/project-felix/images/projectfelix-marquee-1440x660.jpg"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+            <article
+                jcr:lastModified="{Date}2016-12-21T23:53:24.464Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hero/article"
+                articleAlignment="hero2-align-2"
+                text="&lt;p>Create high-quality, photorealistic images. Project Felix makes it easy to composite 2D and 3D assets to build product shots, scene visualizations, and abstract art. And it’s made for graphic designers, not 3D experts. This is an initial beta release — stay tuned for more exciting features coming soon.&lt;br>&#xa;&lt;/p>&#xa;"
+                title="&lt;p>You already think in 3D. Now design in it.&lt;br>&#xa;&lt;/p>&#xa;"
+                width="hero2-basis-1">
+                <links
+                    jcr:primaryType="nt:unstructured"
+                    sort_mdv="[0,1]">
+                    <_x0030_
+                        jcr:primaryType="nt:unstructured"
+                        target="modalRef"
+                        text="Watch the overview video"
+                        type="cta">
+                        <video
+                            jcr:primaryType="nt:unstructured"
+                            modalId="hero-featured-video-play"
+                            modalMode="VIDEO"
+                            size="854x480"
+                            type="free"/>
+                    </_x0030_>
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        link="https://helpx.adobe.com/beta/project-felix/system-requirements.html"
+                        target="_self"
+                        text="See system requirements"
+                        type="cta">
+                        <video
+                            jcr:primaryType="nt:unstructured"
+                            modalMode="VIDEO"
+                            size="426x240"
+                            type="free"/>
+                    </_x0031_>
+                </links>
+                <link
+                    jcr:primaryType="nt:unstructured"
+                    modalMode="VIDEO"
+                    size="426x240"
+                    type="free">
+                    <image
+                        jcr:lastModified="{Date}2016-12-21T23:53:24.464Z"
+                        jcr:lastModifiedBy="patters"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        fileReference="/content/dam/acom/en/products/photoshop/cc2015/images/ps-marquee-1440x660.jpg"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </link>
+                <titleImage
+                    jcr:lastModified="{Date}2016-12-21T23:53:24.464Z"
+                    jcr:lastModifiedBy="patters"
+                    jcr:primaryType="nt:unstructured"/>
+            </article>
+            <credits
+                jcr:lastModified="{Date}2016-09-22T18:41:25.034Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hero/credits"
+                authorName="Rubén Álvarez"
+                creditsAlignment="hero2-align-3"
+                preposition="by"
+                target="_blank"
+                title="Paradise in the future - 25 Years of Photoshop"
+                titleLink="https://www.behance.net/hotamr"
+                titleText="falling... by Amr Elshamy"
+                width="hero2-basis-0"/>
+            <link
+                jcr:lastModified="{Date}2016-11-02T17:26:26.373Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                adobeTvNewAutoPlay="true"
+                adobeTvNewQuality="6"
+                adobeTvNewUrl="16369t1"
+                modalId="hero-featured-video"
+                modalMode="SOCIAL_SHARE"
+                size="854x480"
+                type="adobetvnew">
+                <social
+                    jcr:primaryType="nt:unstructured"
+                    adobeCopyTitle="Copy this link to your Clipboard."
+                    facebookTitle="See Creative Cloud's new tool Project Felix in action. It lets designers create and composite faster with powerful 3D tools."
+                    googleplusTitle="See Creative Cloud's new tool Project Felix in action. It lets designers create and composite faster with powerful 3D tools."
+                    introText="Share this video:"
+                    linkedinTitle="See Creative Cloud's new tool Project Felix in action. It lets designers create and composite faster with powerful 3D tools."
+                    twitterTitle="See @CreativeCloud's new tool #ProjectFelix in action. It lets designers create and composite faster with powerful 3D tools."/>
+                <meta
+                    jcr:primaryType="nt:unstructured"
+                    description="Get a first look at Project Felix, a tool that lets designers work with 2D models and make them 3D - no experience required."
+                    title="First Look at Project Felix">
+                    <image
+                        jcr:lastModified="{Date}2016-11-02T17:26:26.373Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        fileReference="/content/dam/acom/en/products/creativecloud/max2016/images/whats-new/graphic-design/cc-whatsnew-hero-felix-433x272.jpg"/>
+                </meta>
+                <tracking
+                    jcr:primaryType="nt:unstructured"
+                    scid="social67130946"/>
+            </link>
+        </tophero>
+        <modalcontent
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <standalonemodal_53fc
+                jcr:created="{Date}2016-10-03T04:05:25.529Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2016-11-02T15:23:47.786Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/standalonemodal"
+                adobeTvNewAutoPlay="true"
+                adobeTvNewQuality="6"
+                adobeTvNewUrl="16369t1"
+                modalId="hero-featured-video-play"
+                modalMode="SOCIAL_SHARE"
+                modalType="video"
+                size="854x480"
+                type="adobetvnew">
+                <social
+                    jcr:primaryType="nt:unstructured"
+                    adobeCopyTitle="Copy this link to your Clipboard."
+                    facebookTitle="See Creative Cloud's new tool Project Felix in action. It lets designers create and composite faster with powerful 3D tools."
+                    googleplusTitle="See Creative Cloud's new tool Project Felix in action. It lets designers create and composite faster with powerful 3D tools."
+                    introText="Share video:"
+                    linkedinTitle="See Creative Cloud's new tool Project Felix in action. It lets designers create and composite faster with powerful 3D tools."
+                    twitterTitle="See @CreativeCloud's new tool #ProjectFelix in action. It lets designers create and composite faster with powerful 3D tools."/>
+                <meta
+                    jcr:primaryType="nt:unstructured"
+                    description="Get a first look at Project Felix, a tool that lets designers work with 2D models and make them 3D - no experience required."
+                    title="First Look at Project Felix">
+                    <image
+                        jcr:lastModified="{Date}2016-11-02T15:23:47.786Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        fileReference="/content/dam/acom/en/products/creativecloud/max2016/images/whats-new/graphic-design/cc-whatsnew-hero-felix-433x272.jpg"/>
+                </meta>
+                <tracking
+                    jcr:primaryType="nt:unstructured"
+                    scid="social67130946"/>
+            </standalonemodal_53fc>
+        </modalcontent>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-09-01T06:50:26.379Z"
+        cq:lastModifiedBy="dvirmani"
+        cq:lastReplicated="{Date}2016-09-01T07:28:31.582Z"
+        cq:lastReplicatedBy="dvirmani"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Carol Twombly"
+        jcr:uuid="1abe38f7-fbf0-4102-a973-97c4c4b0ffd5"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Carol Twombly | Font type designer on Adobe"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="light"
+        languageDirection="ltr"
+        marqueeStyle="newMarquee"
+        metaDescription="Showcase typeface fonts designed by Carol Twombly at Adobe. Check out profile and see designer's font collection."
+        pageTitle="Carol Twombly"
+        seodescription="">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_126b
+                jcr:lastModified="{Date}2016-07-28T01:31:03.740-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                layout="1;grid-cols-10 grid-offset-3;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-07-28T01:31:03.740-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_126b>
+            <image_78c1
+                jcr:created="{Date}2016-07-28T01:32:26.752-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-07-28T01:32:57.825-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Carol Twombly"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/carol-twombly-alt.jpg"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-07-28T01:32:57.825-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_78c1>
+            <text_a1f4
+                jcr:created="{Date}2016-07-28T01:33:09.403-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-16T00:31:02.574-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h2 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h2>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Designers who enjoy using the graceful characters found in typefaces such as Trajan and Charlemagne should be thankful that Carol Twombly strayed from her initial artistic endeavors. During her childhood in New England, Carol spent much of her time exploring various artistic disciplines. Settling on sculpture, Carol followed her architect brother to Rhode Island School of Design (RISD). Once there, however, she decided that graphic design would be a more practical course of study. About this decision Carol says, &amp;quot;I discovered that communicating through graphics - by placing black shapes on a white page - offered a welcome balance between freedom and structure.&amp;quot; Though graphic design became her career focus, Carol hasn't abandoned her other artistic pursuits, which include basketweaving, drawing, painting, and jewelry making&lt;em>.&lt;/em>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>One of her RISD professors, Chuck Bigelow, and his partner, Kris Holmes, gradually introduced Carol to the world of type design. Working during summer months in their studio, she began to understand the intricate process of designing type. In addition to editing letters numerically (&amp;quot;hands-on&amp;quot; drawing apps weren't around yet)&amp;nbsp;on an early digital type design system, she gained valuable experience by drawing outline letters on vellum, inking them in, and then tacking them to a wall where she would view them through a reducing glass.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>After graduation from RISD and a year spent working in a Boston graphic design studio, Carol accepted an invitation from Bigelow to join a small group of students in a newly formed digital typography program at Stanford University. The program, since discontinued, awarded Carol and her colleagues Masters of Science degrees after two years of study in computer science and typographic design. Carol continued to work for the Bigelow and Holmes studio for the next four years and, during this time, entered her first type design in an international competition sponsored by Morisawa Ltd., a Japanese manufacturer of typesetting equipment. To Twombly's surprise and delight, she won first prize in the Latin text category, and Morisawa subsequently licensed and marketed her design under the name Mirarae™. Soon after, Carol began working for Adobe Systems and in 1988 became a full-time type designer in the Adobe Originals program.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>During her eleven+&amp;nbsp;years with Adobe, Carol has designed a number of very popular text and display typefaces. Designs like Trajan, Charlemagne, Lithos, and Adobe Caslon are inspired by classic letterforms of the past - from early Greek inscriptions, circa 400 B.C., to William Caslon's typefaces of the 1700s. Designs like Viva and Nueva explore new territory while maintaining traditional roots. In 1994, she received the Charles Peignot award from the Association Typographique Internationale for outstanding contributions to type design. She was the first woman and only the second American to receive this prestigious honor.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Since leaving Adobe, Carol has continued to explore other non-computer-based arts including weaving, natural-object sculpture, silk painting, and making gourd shekeres (hand-held African percussion instrument), with which to accompany her fellow conga players. She lives quietly in a small community in the Sierra foothills, practicing Qi Gong and Afrocuban drumming, hiking, volunteering locally.&lt;/span>&lt;/div>&#xa;"/>
+            <colctrl
+                jcr:lastModified="{Date}2016-07-28T23:20:56.213-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10;"
+                bgColor=" "
+                columnCount="1-s"
+                layout="1;grid-span-0;"
+                layoutMode="structured"
+                multiplier="2"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-07-28T23:20:56.213-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </colctrl>
+            <text_c016
+                jcr:created="{Date}2016-07-28T01:35:16.550-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-19T02:44:19.541-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>Font families available from Adobe&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <image_0_f636011f-429e-44ab-8334-e7ec0309ec52
+                jcr:lastModified="{Date}2016-08-19T02:55:53.082-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Adobe Caslon"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/adobe-caslon.png"
+                link="http://www.adobe.com/products/type/fonts-by-adobe.html "
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-08-19T02:55:53.082-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_0_f636011f-429e-44ab-8334-e7ec0309ec52>
+            <image_1_b7ce936b-a19e-4ccc-b75b-d54b33acab20
+                jcr:lastModified="{Date}2016-07-28T01:38:08.044-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Chaparral"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/chaparral.png"
+                link="http://www.adobe.com/products/type/fonts-by-adobe.html "
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-07-28T01:38:08.044-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_1_b7ce936b-a19e-4ccc-b75b-d54b33acab20>
+            <image_2_a44517a8-6335-4f3e-881c-affac2d2eb35
+                jcr:lastModified="{Date}2016-07-28T01:38:42.351-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Charlemagne"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/charlemagne.png"
+                link="http://www.adobe.com/products/type/fonts-by-adobe.html "
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-07-28T01:38:42.351-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_2_a44517a8-6335-4f3e-881c-affac2d2eb35>
+            <image_3_af0b7d78-72c6-49df-bbe0-2a867e5cfea8
+                jcr:lastModified="{Date}2016-07-28T01:39:03.744-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Lithos"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/lithos.png"
+                link="http://www.adobe.com/products/type/fonts-by-adobe.html "
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-07-28T01:39:03.744-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_3_af0b7d78-72c6-49df-bbe0-2a867e5cfea8>
+            <image_4_0509c753-ca1e-4cbd-b65f-97ca4b6f9b7e
+                jcr:lastModified="{Date}2016-07-28T01:40:54.580-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Myriad"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/myriad-alt.png"
+                link="http://www.adobe.com/products/type/fonts-by-adobe.html "
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-07-28T01:40:54.580-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_4_0509c753-ca1e-4cbd-b65f-97ca4b6f9b7e>
+            <image_5_c0339558-4315-4dda-baff-f652e0884f67
+                jcr:lastModified="{Date}2016-07-28T01:41:26.395-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Nueva"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/nueva.png"
+                link="http://www.adobe.com/products/type/fonts-by-adobe.html "
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-07-28T01:41:26.395-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_5_c0339558-4315-4dda-baff-f652e0884f67>
+            <image_6_e6784e13-f5f9-4646-b4cd-032228aacd6c
+                jcr:lastModified="{Date}2016-07-28T01:41:58.521-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Trajan"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/trajan-alt.png"
+                link="http://www.adobe.com/products/type/fonts-by-adobe.html "
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-07-28T01:41:58.521-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_6_e6784e13-f5f9-4646-b4cd-032228aacd6c>
+            <image_7_eaf913d8-a640-4f08-b9a9-dcc11c96a9db
+                jcr:lastModified="{Date}2016-07-28T01:42:22.723-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Trajan Sans"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/trajan-sans-alt.png"
+                link="http://www.adobe.com/products/type/fonts-by-adobe.html "
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-07-28T01:42:22.723-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_7_eaf913d8-a640-4f08-b9a9-dcc11c96a9db>
+            <image_8_b6408f81-3d4a-40e4-9a46-7b18dba97603
+                jcr:lastModified="{Date}2016-07-28T01:42:55.515-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Viva"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/viva.png"
+                link="http://www.adobe.com/products/type/fonts-by-adobe.html "
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-07-28T01:42:55.515-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_8_b6408f81-3d4a-40e4-9a46-7b18dba97603>
+            <col_end13636455512931
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="colctrl"/>
+            <end_14544550461840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_126b"/>
+            <column_8c5d
+                jcr:created="{Date}2016-07-28T01:43:42.472-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-07-28T01:44:25.499-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-07-28T01:44:25.499-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_8c5d>
+            <horizontalrule_4d0b
+                jcr:created="{Date}2016-07-28T01:43:05.601-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-07-28T01:43:05.601-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_fe11
+                jcr:created="{Date}2016-07-28T01:44:41.523-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-07-28T01:45:05.940-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-07-28T01:45:05.940-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_fe11>
+            <text_6f49
+                jcr:created="{Date}2016-07-28T01:45:40.882-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-07-28T01:45:40.882-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Learning&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers.html&quot;>Adobe Type Designers&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-team.html&quot;>Adobe Type Team&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-specimens.html&quot;>Type specimens&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-references-tips.html&quot;>Type reference materials&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-originals.html&quot;>Adobe Originals&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/opentype.html&quot;>OpenType&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14696955060000
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_fe11"/>
+            <text_3d
+                jcr:created="{Date}2016-07-28T01:45:43.158-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-07-28T01:45:43.158-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Resources&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blog.typekit.com/&quot;>Type &amp;amp; Typekit blog&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blogs.adobe.com/CCJKType/&quot;>CJK Type blog (Asian fonts)&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype.html&quot;>Developer information&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype/afdko.html&quot;>Font Development Kit&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/install-instructions.html&quot;>Font installation instructions&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14696955060021
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_fe11"/>
+            <text_2cce
+                jcr:created="{Date}2016-07-28T01:45:45.441-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-09-01T06:50:26.362Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Help&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing Center&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/creative-cloud-fonts.html&quot;>CC Bundled Fonts&amp;nbsp;FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://typekit.com/help&quot;>Web Font FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/products/fontfolio/faq.html&quot;>Font Folio FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://forums.adobe.com/community/typography_fonts&quot;>Adobe Type user forums&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14696954815400
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_fe11"/>
+            <end_14696954224860
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_8c5d"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2016-08-22T03:15:21.050-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2016-08-22T03:15:21.050-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+    </jcr:content>
+</jcr:root>

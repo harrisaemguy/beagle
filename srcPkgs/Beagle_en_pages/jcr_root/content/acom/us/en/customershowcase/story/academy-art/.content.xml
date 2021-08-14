@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-12-23T07:20:58.650Z"
+        cq:lastModifiedBy="handoo"
+        cq:lastReplicated="{Date}2019-12-23T07:23:13.108Z"
+        cq:lastReplicatedBy="handoo"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Academy of Art"
+        jcr:uuid="07db19f3-4661-4be6-883b-56a38b5a9dce"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Adobe | Customer Showcase"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="dark"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        isMCPage="true"
+        metaDescription="Adobe | Customer Showcase"
+        overrideBreadcrumbPath="/content/acom/us/en/customershowcase"
+        removeFromHtmlSitemap="true"
+        removeFromXmlSitemap="true"
+        useH1Tags="pageTitle">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <hero_8ec2
+                jcr:created="{Date}2017-02-23T18:40:10.890Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-10T16:37:28.246Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hero"
+                avoid="hero2-avoid-1"
+                color="hero2-theme-2"
+                effect="hero2-fx-frame-1"
+                fixedHeight="true"
+                height="hero2-size-5"
+                hideArticle="true"
+                hideCredits="true"
+                hideLink="true"
+                stackMode="hero2-tall-reset">
+                <image
+                    jcr:lastModified="{Date}2017-03-10T16:37:28.246Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/image"
+                    alt="Customer showcase detail page"
+                    fileReference="/content/dam/acom/en/customer-showcase/images/customer-showcase-marquee-story-1440x280.jpg"
+                    xcord="{Long}50"
+                    ycord="{Long}50"/>
+            </hero_8ec2>
+            <column_2de6
+                jcr:created="{Date}2017-02-23T16:57:01.644Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T16:57:18.746Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                section="v"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-02-23T16:57:18.746Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_2de6>
+            <column_2c99
+                jcr:created="{Date}2017-02-23T16:57:26.042Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T16:59:06.474Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-2of3;grid-span-1of3;"
+                bgColor=" "
+                layout="2;grid-span-2of3;grid-span-1of3;"
+                layoutMode="spatial"
+                multiplier="6"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-02-23T16:59:06.474Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_2c99>
+            <text_d97c
+                jcr:created="{Date}2017-02-23T16:59:17.420Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-14T21:20:49.280Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>Challenges&lt;/strong>&lt;/div>&#xa;&lt;ul class=&quot;text-5-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Prepare students for careers by providing access to professional, cutting-edge software&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Standardize creative software to reduce time spent supporting software or adjusting lessons&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Centralize course materials to reduce time and effort required to create and manage learning assets&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Streamline processing of HR paperwork&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;strong>Key products used&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Creative Cloud for enterprise, the Adobe Experience Manager solution within Adobe Marketing Cloud, and Adobe Sign, an Adobe Document Cloud solution&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Workday&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14878691464830
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_2c99"/>
+            <image_d6ac
+                jcr:created="{Date}2017-02-23T17:11:53.887Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-14T21:17:46.664Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Hyatt"
+                fileReference="/content/dam/acom/en/customer-showcase/logo/academyofart-logo.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-02-23T17:13:24.541Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d6ac>
+            <end_14878690460450
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_2c99"/>
+            <text_ee58
+                jcr:created="{Date}2017-03-29T22:43:35.909Z"
+                jcr:createdBy="lsloane"
+                jcr:lastModified="{Date}2017-04-14T21:22:56.000Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>Designing the university of the future&amp;nbsp;&lt;/h3>&#xa;&lt;h3>&amp;nbsp;&lt;/h3>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Whether their focus is on photography, video, graphic design, visual effects—or all of the above—many creatives today have to be comfortable working with the latest technologies to have their work stand out and reach the broadest possible audiences.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Located in San Francisco, Academy of Art University understands the importance of technology in preparing students for success. With both on-campus and online studies across 27 departments, from animation and architecture to graphic and fashion design, the Academy of Art is undergoing a digital transformation to improve teaching and learning—and further bolster its reputation as an education leader and visionary.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <pullquote_f049
+                jcr:created="{Date}2017-03-27T18:44:02.724Z"
+                jcr:createdBy="lsloane"
+                jcr:lastModified="{Date}2017-04-14T21:27:30.069Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/pullquote"
+                author="Jason Shaeffer"
+                fontstyle="italic"
+                quote="Adobe is a respected leader in digital, document, and creative spaces. Working with Adobe solutions, we’re keeping our faculty and staff trained in innovative and emerging digital technologies and giving students a career advantage."
+                title="Vice President of Online Education, Academy of Art University"/>
+            <text_86ac
+                jcr:created="{Date}2017-02-23T17:14:47.284Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-14T21:26:57.165Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>“We believe that by marrying the theoretical with the practical we can teach students the creative process and give them the skills that they need to succeed in careers as artists,” says Elisa Stephens, President of Academy of Art University. “Part of that is listening to what the industry is looking for and teaching students to use tools that will make them more valuable to employers.”&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;Looking at the needs of the industry, Adobe solutions, including Adobe Creative Cloud for enterprise, Adobe Marketing Cloud, and Adobe Document Cloud, have become integral to the university’s digital transformation.&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;“Adobe is a respected leader in digital, document, and creative spaces,” says Jason Shaeffer, Vice President of Online Education at Academy of Art University. “Working with Adobe solutions, we’re keeping our faculty and staff trained in innovative and emerging digital technologies and giving students a career advantage.”&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;“I think it’s the future to have curriculum available online,” adds Stephens. “We’re reaching more students on desktop or even mobile devices, and the flexibility in learning experiences allows us to reach a more diverse audience of artists. Adobe solutions have a big part in helping us reach people online and establish ourselves as the art school of the future.”&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <horizontalrule_7443
+                jcr:created="{Date}2017-03-10T17:21:10.132Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-10T17:21:10.132Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_60af
+                jcr:created="{Date}2017-03-10T17:20:44.498Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-10T17:21:01.705Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot;>&lt;strong>RESULTS&lt;/strong>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <column_d5e4
+                jcr:created="{Date}2017-03-10T17:19:59.708Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-16T22:02:05.717Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of8;grid-span-7of8;"
+                bgColor="background-color:#f5f5f5;color:#000000"
+                layout="2;grid-span-1of8;grid-span-7of8;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-03-16T22:02:05.717Z"
+                        jcr:lastModifiedBy="lsloane"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_d5e4>
+            <image_82e1
+                jcr:created="{Date}2017-03-10T17:20:15.347Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-14T21:27:54.714Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="circles"
+                fileReference="/content/dam/acom/en/customer-showcase/icons/academy-art-icon1small.png">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-02-23T17:18:28.926Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_82e1>
+            <break_14891663997230
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_d5e4"/>
+            <text_7a74
+                jcr:created="{Date}2017-03-10T17:20:07.663Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-14T21:28:41.477Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Improve &lt;strong>LEARNING &lt;/strong>with industry-standard software&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14891663997231
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_d5e4"/>
+            <column_45e0
+                jcr:created="{Date}2017-03-10T17:19:56.589Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-16T22:03:08.373Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of8;grid-span-7of8;"
+                bgColor=" "
+                layout="2;grid-span-1of8;grid-span-7of8;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-03-16T22:03:08.373Z"
+                        jcr:lastModifiedBy="lsloane"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_45e0>
+            <image_9fed
+                jcr:created="{Date}2017-03-10T17:20:11.711Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-14T21:28:01.645Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="circles"
+                fileReference="/content/dam/acom/en/customer-showcase/icons/academy-art-icon2small.png">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-02-23T17:18:28.926Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_9fed>
+            <break_14891663966050
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_45e0"/>
+            <text_c974
+                jcr:created="{Date}2017-03-10T17:20:05.024Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-14T21:29:02.423Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>INSPIRE &lt;/strong>creativity with mobile apps&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14891663966061
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_45e0"/>
+            <column_c8c6
+                jcr:created="{Date}2017-03-10T17:18:21.395Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-16T22:03:24.436Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of8;grid-span-7of8;"
+                bgColor="background-color:#f5f5f5;color:#000000"
+                layout="2;grid-span-1of8;grid-span-7of8;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-03-16T22:03:24.436Z"
+                        jcr:lastModifiedBy="lsloane"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_c8c6>
+            <image_d8a9
+                jcr:created="{Date}2017-03-10T17:18:52.678Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-14T21:28:07.409Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="circles"
+                fileReference="/content/dam/acom/en/customer-showcase/icons/academy-art-icon3small.png">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-02-23T17:18:28.926Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d8a9>
+            <break_14891663014120
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_c8c6"/>
+            <text_efc3
+                jcr:created="{Date}2017-03-10T17:18:57.337Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-14T21:29:19.303Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Improve &lt;strong>QUALITY &lt;/strong>with consistent templates&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14891663014131
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_c8c6"/>
+            <column_30ec
+                jcr:created="{Date}2017-02-23T17:16:55.642Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-10T17:14:46.519Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of8;grid-span-7of8;"
+                bgColor=" "
+                layout="2;grid-span-1of8;grid-span-7of8;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-03-10T17:14:46.519Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_30ec>
+            <image_d8d6
+                jcr:created="{Date}2017-02-23T17:17:50.805Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-14T21:28:10.917Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="circles"
+                fileReference="/content/dam/acom/en/customer-showcase/icons/academy-art-icon4small.png">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-02-23T17:18:28.926Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d8d6>
+            <break_14878702296900
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_30ec"/>
+            <text_3139
+                jcr:created="{Date}2017-02-23T17:18:01.486Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-14T21:29:34.821Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Save &lt;strong>TIME &lt;/strong>with streamlined HR workflows&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14878702156510
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_30ec"/>
+            <horizontalrule_b5fc
+                jcr:created="{Date}2017-02-23T17:32:16.935Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T17:32:16.935Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_ac5f
+                jcr:created="{Date}2017-03-29T22:46:16.597Z"
+                jcr:createdBy="lsloane"
+                jcr:lastModified="{Date}2017-04-14T21:32:53.630Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>A foundation for growth&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Through an Adobe Enterprise Term License agreement (ETLA), every student, teacher, and staff member at Academy of Art University receives access to Adobe Creative Cloud for enterprise, including all apps, services, and storage options. With their memberships, students can download Creative Cloud to their personal computers or work with Creative Cloud on one of the 600 school computers.&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;“Providing access to Adobe Creative Cloud apps is incredibly valuable when we’re talking to prospective students about attending the university,” says Haydn Adams, Director of AAU Mobile Press at Academy of Art University. “Students are very excited to learn that we’re teaching the very latest technology that might be only months old.”&lt;br>&#xa; Students can work on their personal computers or in computer labs at any time, saving and sharing projects, palettes, and brushes through Creative Cloud. All Creative Cloud apps share similar easy-to-use interfaces, encouraging students to experiment with apps and improve their skills.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;Academy of Art University also encourages students to explore mobile apps through their smartphones or tablets to prepare for a future where mobile experiences are increasingly front and center. Using mobile apps such as Adobe Capture CC, students can work from anywhere and capture inspiration when it strikes. They can turn sketches or photographs into color themes, patterns, and shapes. By saving the results to their cloud storage space, they can draw from this inspiration anytime they want.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;Standardizing on Creative Cloud also improves the classroom experience for students and instructors. “As an instructor, it’s great knowing that everyone is working on the same version of apps in Adobe Creative Cloud,” says Adams. “We don’t have to spend classroom time troubleshooting software and dealing with students using older or different software solutions. We can just jump right in and focus more time on exploring and learning new techniques.”&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;&lt;strong>Inspiration through collaboration&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>The best way to prepare students for life as art and design professionals is through real-world examples. Academy of Art students studying illustration, web design, photography, and advertising come together twice a year to create Peephole Magazine, a digital publication for mobile devices. During a semester, students learn to design, code, and publish the digital magazine using Creative Cloud apps and Adobe Experience Manager Mobile, a capability within Adobe Experience Manager that helps the students design mobile apps quickly, without requiring an extensive coding background.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;“We teach our students to use Adobe Experience Manager Mobile so we can create designs that function on almost every mobile device,” says Adams. “Adobe Experience Manager Mobile is terrific because people who have never coded can easily learn the basics and assemble a stunning magazine. We’re now teaching students 100% HTML5 responsive design that they can apply to their future careers.”&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;Students create the layout using HTML, CSS, and responsive code, pulling in images and logos created in Adobe Photoshop CC and Illustrator CC. By taking advantage of responsive design support in Experience Manager Mobile the teams can be sure that their designs work well across devices.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;“People may have their own roles, but they need to draw inspiration from each other,” says Adams. “With Adobe Creative Cloud and Adobe Experience Manager Mobile, we can show students how their work fits together for a project to succeed. Even if students never need to use the software in their careers, learning how apps work or how to create apps will give them the background to better convey their ideas to others.”&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <text_4293
+                jcr:created="{Date}2017-02-23T17:19:06.983Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-14T21:34:33.649Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Digital experiences with impact&lt;/strong>&lt;br>&#xa;As a school that values design and technology, Academy of Art University is committed to developing and delivering stunning digital content to attract students to the school and keep them engaged throughout their journeys as students. Using Adobe Experience Manager Sites, Academy of Art University is more easily creating high-quality, consistent websites and online course content.&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;Creating a new web page or course is as simple as dragging images, video, components, and other assets into premade templates. Working with standard templates and designs improves branding for digital content by providing a consistent feel. Creating content is also faster and easier, which allowed Academy of Art University to consolidate several legacy websites into a main marketing website for easier management.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;With a solid web content platform in place, Academy of Art University can focus more resources on building custom components for course content, such as autoplay image carousels. So far, Academy of Art University has built more than 45 custom components to help instructional designers develop courses that engage students and present information in the best way possible.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;“Adobe Experience Manager integrates with our learning management system, which allows us to track how students access courses and use custom learning content,” says Shaeffer. “We’re then using this knowledge to improve components and course design to give students better learning experiences.”&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;&lt;strong>Curating talent&lt;/strong>&lt;br>&#xa;The use of Adobe solutions at Academy of Art University isn’t limited to instructors and students. The HR department also uses Adobe tools to streamline paperwork. The team once spent significant time before every semester organizing and sending agreements in triplicate to each of Academy of Art University’s instructors. By integrating Adobe Sign, the electronic signature solution within Adobe Document Cloud, with the HR application Workday, the HR team can automatically generate, send, and file signed instructor agreements in minutes. Agreements are signed with just a few clicks, leading to faster turnaround and less follow up.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;“Adobe helps streamline administration and improve student learning through its industry-leading solutions,” says Shaeffer. “We spend more time and energy giving students excellent classroom experiences that translate to stronger skills and success after they graduate.”&lt;/span>&lt;/div>&#xa;"/>
+            <pullquote_cbc1
+                jcr:created="{Date}2017-02-23T17:20:11.740Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-14T21:35:13.023Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/pullquote"
+                author="Haydn Adams"
+                fontstyle="italic"
+                quote="Providing access to Adobe Creative Cloud apps is incredibly valuable when we’re talking &#xa;to prospective students about attending the university."
+                title="Director of AAU Mobile Press, Academy of Art University"/>
+            <end_14878690216470
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_2de6"/>
+            <column_7807
+                jcr:created="{Date}2017-02-23T17:21:19.125Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T18:30:55.827Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="2"
+                grid0="7"
+                grid1="3"
+                layout="2;grid-cols-7 grid-offset-3;grid-cols-3;"
+                multiplier="4"
+                offset0="3"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-02-23T18:30:55.827Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_7807>
+            <column_6904
+                jcr:created="{Date}2017-02-23T17:22:13.973Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-16T22:26:31.629Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-7;"
+                bgColor="background-color:#f5f5f5;color:#000000"
+                layout="1;grid-cols-7;"
+                layoutMode="structured"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-03-16T22:26:31.629Z"
+                        jcr:lastModifiedBy="lsloane"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_6904>
+            <text_39d8
+                jcr:created="{Date}2017-02-23T17:27:45.232Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-24T17:44:04.304Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Solution at a Glance&amp;nbsp;&lt;/span>&lt;/h3>&#xa;"/>
+            <end_14878705339800
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_6904"/>
+            <column_49d
+                jcr:created="{Date}2017-02-23T17:23:00.112Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-01T22:56:44.468Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of2;grid-span-1of2;"
+                bgColor="background-color:#f5f5f5;color:#000000"
+                layout="2;grid-span-1of2;grid-span-1of2;"
+                layoutMode="spatial"
+                multiplier="5"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-03-01T22:56:44.468Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_49d>
+            <text_1f25
+                jcr:created="{Date}2017-02-23T17:24:49.844Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-14T21:41:49.724Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Adobe Creative Cloud&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Adobe Creative Cloud for enterprise&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Adobe Photoshop CC&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Adobe Illustrator CC&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Adobe InDesign CC&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Adobe Premiere Pro CC&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                textIsRich="true"/>
+            <break_14878706021930
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_49d"/>
+            <text_b571
+                jcr:created="{Date}2017-02-23T17:26:44.047Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-14T21:45:48.650Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Adobe Marketing Cloud&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Adobe Experience Manager&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Sites&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Mobile&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;strong>Adobe Document Cloud&lt;/strong>&lt;br>&#xa;&lt;/div>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Adobe Sign&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"/>
+            <end_14878705801220
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_49d"/>
+            <text_2fad
+                jcr:created="{Date}2017-02-23T17:32:56.391Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-02T22:21:43.069Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h5>&amp;nbsp;&lt;/h5>&#xa;&lt;h5>&lt;a href=&quot;#&quot;>&lt;span class=&quot;text-light&quot;>Download a PDF of this story ›&lt;/span>&lt;/a>&lt;/h5>&#xa;"/>
+            <break_14878705074930
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_7807"/>
+            <text_77a9
+                jcr:created="{Date}2017-02-23T17:29:21.117Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-14T21:37:24.344Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Academy of Art University&amp;nbsp;&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>San Francisco, California&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://www.academyart.edu&quot; target=&quot;_blank&quot;>Visit website ›&lt;/a>&lt;/div>&#xa;"/>
+            <horizontalrule_c99b
+                jcr:created="{Date}2017-02-23T17:31:16.999Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T17:31:16.999Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_14878704791310
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_7807"/>
+            <column_523c
+                jcr:created="{Date}2017-02-23T18:29:52.860Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-01T22:56:33.059Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-03-01T22:56:33.059Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_523c>
+            <end_14878745928780
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_523c"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2017-02-23T22:55:20.544Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2017-02-23T22:55:20.544Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <tophero
+            jcr:lastModified="{Date}2017-02-23T18:39:56.965Z"
+            jcr:lastModifiedBy="wmyersta"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            color="hero2-theme-2"
+            effect="hero2-fx-frame-3"
+            height="hero2-size-4"
+            hideArticle="true"
+            hideCredits="true"
+            hideLink="true">
+            <image
+                jcr:lastModified="{Date}2017-02-23T18:39:56.965Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Customer showcase detail marquee"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </tophero>
+        <merchandisingbar jcr:primaryType="nt:unstructured">
+            <contactpod
+                jcr:lastModified="{Date}2017-02-23T18:38:23.969Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/contactpod"
+                backgroundColor="background-color:#131031"
+                ctaButtonOverride="http://apps.enterprise.adobe.com/go/70114000002JNwKAAW"
+                ctaButtonText="Contact us"
+                description="Find out how Adobe can help you and your business."
+                purchasePhoneNumberCall="+118777227088"
+                purchasePhoneNumberDisp="877-722-7088"
+                title="Want to know more?">
+                <contactlist
+                    jcr:primaryType="nt:unstructured"
+                    sort_mdv="[0,1,2,3]">
+                    <_x0030_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-twitter"
+                        socialLink="#"
+                        socialTitle="Follow us on Twitter"/>
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-facebook"
+                        socialLink="#"
+                        socialTitle="Like us on Facebook"/>
+                    <_x0032_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-googleplus"
+                        socialLink="#"
+                        socialTitle="Follow us on Google+"/>
+                    <_x0033_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-linkedin"
+                        socialLink="#"
+                        socialTitle="Follow us on LinkedIn"/>
+                </contactlist>
+            </contactpod>
+        </merchandisingbar>
+    </jcr:content>
+</jcr:root>

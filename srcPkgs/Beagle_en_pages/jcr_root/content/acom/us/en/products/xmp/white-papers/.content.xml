@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-12-13T07:24:53.730Z"
+        cq:lastModifiedBy="rbedi"
+        cq:lastReplicated="{Date}2016-12-15T18:10:29.089Z"
+        cq:lastReplicatedBy="vko"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="White papers"
+        jcr:uuid="5b2d5403-2d01-4aa7-91cc-242537302eb7"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Case studies, white papers | Adobe Extensible Metadata Platform (XMP)"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideInSectionNav="true"
+        hideMerchandisingBar="inherit"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="inherit"
+        marketSegmentRewrite="none"
+        marqueeStyle="newMarquee"
+        metaDescription="Find case studies and white papers about Adobe’s Extensible Metadata Platform."
+        modalSize="426x240"
+        pageTitle="White papers"
+        stagelastReplicated="15-Dec-2016 18:10"
+        stagelastReplicatedBy="vko"
+        stageLastReplicationAction="ActivatedtoStage"
+        useH1Tags="pageTitle">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2016-12-13T07:24:53.701Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2016-12-13T07:24:53.701Z"
+                    jcr:lastModifiedBy="rbedi"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_dfbc
+                jcr:created="{Date}2016-11-04T11:39:13.352Z"
+                jcr:createdBy="nitsharm"
+                jcr:lastModified="{Date}2016-11-04T11:44:12.232Z"
+                jcr:lastModifiedBy="nitsharm"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="1"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v1x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-04T11:44:12.232Z"
+                        jcr:lastModifiedBy="nitsharm"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_dfbc>
+            <text_86c5
+                jcr:created="{Date}2016-11-04T12:11:09.095Z"
+                jcr:createdBy="nitsharm"
+                jcr:lastModified="{Date}2016-11-07T05:02:31.382Z"
+                jcr:lastModifiedBy="nitsharm"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>The term metadata literally means “data about data.” Metadata plays a crucial role for handling digital documents, images, and videos in an increasing number of digital asset management workflows. Detailed information about the features and capabilities of XMP, and their use in customer workflows, can be gathered from the following documents.&lt;/span>&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;h6>&lt;a href=&quot;/content/dam/acom/en/products/xmp/Pdfs/xmp_whitepaper.pdf&quot; style=&quot;font-style: normal;&quot;>White paper on Extensible Metadata Platform&lt;/a>&lt;/h6>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>This paper provides a manager’s introduction to Adobe’s Extensible Metadata Platform.&lt;/span>&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;h6>&lt;span style=&quot;font-style: normal;&quot;>&lt;a href=&quot;/content/dam/acom/en/products/xmp/Pdfs/DynamicMediaXMPPartnerGuide.pdf&quot; target=&quot;_blank&quot;>Partners guide to XMP for dynamic media&lt;/a>&lt;/span>&lt;/h6>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Find guidance for developers who write applications that read, write, and modify dynamic media documents.&lt;/span>&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;a href=&quot;/content/dam/acom/en/products/xmp/Pdfs/XMPAssetRelationships.pdf&quot;>Introduction to asset relationships&lt;/a>&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Understand why preserving asset relationships is important and how such relationships can be managed using XMP.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;h6>&lt;span style=&quot;font-style: normal;&quot;>&lt;a href=&quot;/content/dam/acom/en/products/xmp/Pdfs/XMP_IdeumCase_200409281.pdf&quot;>The latest technology tells an ancient story&lt;/a>&lt;/span>&lt;/h6>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>A NASA and National Park Service educational project uses Adobe’s XMP technology to streamline file management and tag hundreds of photographs with global positioning location data.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;h6>&lt;span style=&quot;font-style: normal;&quot;>&lt;a href=&quot;/content/dam/acom/en/products/xmp/Pdfs/xmp_news-mags_wp.pdf&quot;>Adobe Extensible Metadata Platform in newspapers and news magazines&lt;/a>&lt;/span>&lt;/h6>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>An enterprise commitment to XMP is be critical for leadership in the next era in news and ad delivery to the consumer.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;h6>&lt;a href=&quot;/content/dam/acom/en/products/xmp/Pdfs/XMP-CS2-Datasheet.pdf&quot; style=&quot;font-style: normal;&quot;>XMP datasheet&amp;nbsp;&lt;/a>&lt;/h6>&#xa;&lt;h6>&amp;nbsp;&lt;/h6>&#xa;&lt;h6>&lt;span style=&quot;font-style: normal;&quot;>&lt;a href=&quot;/content/dam/acom/en/products/xmp/Pdfs/XMP_for_CreativeProfessionals.pdf&quot;>Adobe XMP for creative professionals&lt;/a>&lt;/span>&lt;/h6>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Find out how XMP helps creatives enjoy better file management and streamlined workflows.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;h6>&lt;span style=&quot;font-style: normal;&quot;>&lt;a href=&quot;/content/dam/acom/en/products/xmp/Pdfs/xmp_data_chaos.pdf&quot;>Controlling the data chaos by adding intelligence to media&lt;/a>&lt;/span>&lt;/h6>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>The explosion of data that is swamping large and small organizations is a growing problem. Adobe XMP allows developers and organizations to take control of their data before it overwhelms them.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;h6>&lt;a href=&quot;http://www.adobe.com/products/dng/main.html&quot; style=&quot;font-style: normal;&quot;>Digital Negative (DNG)&lt;/a>&lt;/h6>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Powered by XMP, DNG is a publicly available archival format for the raw files generated by digital cameras.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14782595533620
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_dfbc"/>
+            <column_ca3
+                jcr:created="{Date}2016-11-04T11:12:12.770Z"
+                jcr:createdBy="nitsharm"
+                jcr:lastModified="{Date}2016-11-04T11:51:42.595Z"
+                jcr:lastModifiedBy="nitsharm"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="1"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v1x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-04T11:51:42.595Z"
+                        jcr:lastModifiedBy="nitsharm"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_ca3>
+            <horizontalrule_5e2e
+                jcr:created="{Date}2016-11-04T11:12:27.053Z"
+                jcr:createdBy="nitsharm"
+                jcr:lastModified="{Date}2016-11-04T11:12:27.053Z"
+                jcr:lastModifiedBy="nitsharm"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_4705
+                jcr:created="{Date}2016-11-04T11:12:29.220Z"
+                jcr:createdBy="nitsharm"
+                jcr:lastModified="{Date}2016-11-04T11:57:05.847Z"
+                jcr:lastModifiedBy="nitsharm"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-04T11:57:05.847Z"
+                        jcr:lastModifiedBy="nitsharm"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_4705>
+            <text_f4e6
+                jcr:created="{Date}2016-11-04T11:12:30.717Z"
+                jcr:createdBy="nitsharm"
+                jcr:lastModified="{Date}2016-11-23T16:18:11.601Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Resources&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/xmp/white-papers.html&quot; target=&quot;_self&quot;>Whitepapers&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14782606258620
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_4705"/>
+            <text_ceea
+                jcr:created="{Date}2016-11-04T11:12:32.993Z"
+                jcr:createdBy="nitsharm"
+                jcr:lastModified="{Date}2016-11-04T11:12:32.993Z"
+                jcr:lastModifiedBy="nitsharm"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Downloads&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://www.adobe.com/devnet/xmp/&quot; target=&quot;_self&quot;>XMP SDK&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14782606258631
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_4705"/>
+            <text_4ead
+                jcr:created="{Date}2016-11-04T11:12:34.986Z"
+                jcr:createdBy="nitsharm"
+                jcr:lastModified="{Date}2016-11-23T16:17:58.018Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Support&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://forums.adobe.com/community/design_development/xmp_sdk&quot; target=&quot;_self&quot;>User forums&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/xmp.html&quot; target=&quot;_self&quot;>Developer resources&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14782606258632
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_4705"/>
+            <text_1a65
+                jcr:created="{Date}2016-11-04T11:12:37.303Z"
+                jcr:createdBy="nitsharm"
+                jcr:lastModified="{Date}2016-11-04T11:12:37.303Z"
+                jcr:lastModifiedBy="nitsharm"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Page tools&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;i class=&quot;icon-facebook&quot;>&lt;/i>&amp;nbsp;&lt;a href=&quot;http://www.facebook.com/sharer.php&quot;>Share on Facebook&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://twitter.com/&quot; style=&quot;font-style: normal; font-weight: 300;&quot;>&lt;i class=&quot;icon-twitter&quot;>&lt;/i>&lt;/a>&amp;nbsp;&lt;a href=&quot;http://twitter.com/&quot;>Share on Twitter&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;i class=&quot;icon-linkedin&quot;>&lt;/i>&amp;nbsp;&lt;a href=&quot;http://www.linkedin.com/&quot;>Share on&amp;nbsp;LinkedIn&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span class=&quot;text-light&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; line-height: 16px;&quot;>Share on Facebook&lt;/span>&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span class=&quot;text-light&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; line-height: 16px;&quot;>Share on Facebook&lt;/span>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14782606258643
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_4705"/>
+            <end_14782603026110
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_ca3"/>
+        </contentbody>
+    </jcr:content>
+</jcr:root>

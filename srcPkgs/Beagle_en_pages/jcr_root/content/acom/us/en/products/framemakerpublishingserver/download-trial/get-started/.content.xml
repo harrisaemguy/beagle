@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-09-08T07:54:18.761Z"
+        cq:lastModifiedBy="bgupta"
+        cq:lastReplicated="{Date}2020-09-08T08:20:48.179Z"
+        cq:lastReplicatedBy="bgupta"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:lockable,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Adobe FrameMaker Publishing Server"
+        jcr:uuid="e9b043fc-8e07-4862-9073-1c5ccea4397e"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="center"
+        applauncherTheme="light"
+        bodyClass="whiteBackground"
+        browserTitle="Installation instructions | Adobe FrameMaker Publishing Server"
+        disableOverviewLink="true"
+        distType="dist5"
+        enableCCRedirect="NA"
+        enableTracking="true"
+        fbPixelId="1087234978075318"
+        freeTrialUrlLoggedInModalScrolling="no"
+        freeTrialUrlLoggedInModalSize="426x240"
+        freeTrialUrlLoggedInTarget="_self"
+        freeTrialUrlModalScrolling="no"
+        freeTrialUrlModalSize="426x240"
+        freeTrialUrlTarget="_self"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        headingStyle="h1"
+        hideInSectionNav="true"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        isSectionNavParent="true"
+        marketSegmentRewrite="COM"
+        metaDescription="Follow these instructions to install your trial of Adobe FrameMaker Publishing Server."
+        product="product-code-FMSV"
+        stagelastReplicated="12-Jul-2017 08:41"
+        stagelastReplicatedBy="krishnan"
+        stageLastReplicationAction="ActivatedtoStage"
+        tryLinkModalScrolling="no"
+        tryLinkModalSize="426x240"
+        tryLinkProductPlanModalScrolling="no"
+        tryLinkProductPlanModalSize="426x240"
+        tryLinkProductPlanTarget="_self"
+        tryLinkTarget="_self"
+        useH1Tags="pageTitle">
+        <sectionMore
+            jcr:primaryType="nt:unstructured"
+            linkModalScrolling="no"
+            linkModalSize="426x240"
+            linkTarget="_self"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="35">
+            <image
+                jcr:lastModified="{Date}2020-08-17T17:34:18.179Z"
+                jcr:lastModifiedBy="bgupta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column
+                jcr:created="{Date}2015-07-29T16:59:31.902-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2020-04-03T18:59:03.493Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor="background-color:#FFFFFF;color:#000000"
+                grid0="8"
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="6"
+                offset0="4"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-03T18:59:03.493Z"
+                        jcr:lastModifiedBy="21n83853"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column>
+            <column_6f48
+                jcr:created="{Date}2018-05-03T05:20:21.059Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-30T12:31:01.938Z"
+                jcr:lastModifiedBy="bgupta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-cols-5;grid-cols-5;"
+                bgColor=" "
+                enablePaddingEachColumns="true"
+                layout="2;grid-cols-5;grid-cols-5;"
+                layoutMode="structured"
+                multiplier="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-30T12:31:01.938Z"
+                        jcr:lastModifiedBy="bgupta"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_6f48>
+            <image_6088
+                jcr:created="{Date}2018-05-03T05:21:33.895Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-08-10T13:07:33.234Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="FrameMaker Publishing Server Installer"
+                fileReference="/content/dam/acom/en/products/framemaker/framemaker_new/Images/trial.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-08-10T13:07:33.234Z"
+                    jcr:lastModifiedBy="21n83853"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_6088>
+            <break_15253248210760
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_6f48"/>
+            <text_4a1c
+                jcr:created="{Date}2018-05-03T05:22:42.820Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2018-08-06T10:03:39.394Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-2-block&quot;>&lt;span class=&quot;text-light&quot;>FrameMaker Publishing Server will install now...&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Thank you for registering for the 30-day trial, your download will now begin. Unzip the downloaded file and run 'Set-up.exe' to install FrameMaker Publishing Server.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Your 30-day trial will begin from the day you install the product.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_15253248210772
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_6f48"/>
+            <column_677a
+                jcr:created="{Date}2018-07-08T17:42:40.836Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-30T16:15:32.706Z"
+                jcr:lastModifiedBy="bgupta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-cols-5;grid-cols-5;"
+                bgColor=" "
+                enablePaddingEachColumns="true"
+                layout="2;grid-cols-5;grid-cols-5;"
+                layoutMode="structured"
+                multiplier="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-30T16:15:32.706Z"
+                        jcr:lastModifiedBy="bgupta"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_677a>
+            <image_16af
+                jcr:created="{Date}2018-07-08T17:46:56.225Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-17T13:04:24.750Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Free gold support"
+                fileReference="/content/dam/acom/en/products/framemaker/framemaker_new/Images/enterprise_02.jpg"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-05-17T13:04:24.750Z"
+                    jcr:lastModifiedBy="21n83853"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_16af>
+            <text_4420
+                jcr:created="{Date}2018-07-08T17:46:57.285Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-03T18:49:03.305Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;https://www.adobe.com/go/adobe_cust_support&quot; target=&quot;_blank&quot;>Get free Enterprise support&lt;/a> with your FrameMaker Publishing Server trial&lt;/div>&#xa;"/>
+            <break_15310717608450
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_677a"/>
+            <image_70da
+                jcr:created="{Date}2018-07-08T17:48:10.468Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-17T13:04:35.496Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Reqeust for Demo"
+                fileReference="/content/dam/acom/en/products/framemaker/framemaker_new/Images/schdule_demo_02.jpg"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-05-17T13:04:35.496Z"
+                    jcr:lastModifiedBy="21n83853"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_70da>
+            <text_e9
+                jcr:created="{Date}2018-07-08T17:48:11.945Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T20:39:33.028Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;https://www.adobetechcommdemo.com/&quot; target=&quot;_blank&quot;>Schedule a demo&lt;/a> with our experts for a guided tour of FrameMaker Publishing Server&lt;/div>&#xa;"/>
+            <end_15310717608451
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_677a"/>
+            <end_14382143719110
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column"/>
+            <hiddenfield_42b2
+                jcr:created="{Date}2015-09-02T23:09:50.816-07:00"
+                jcr:createdBy="shk"
+                jcr:lastModified="{Date}2020-09-08T07:54:18.751Z"
+                jcr:lastModifiedBy="bgupta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/trials/components/hiddenfield"
+                displayType="plain"
+                name="ptThankyouPage"
+                value="framemakerpublishingserver"/>
+            <column_8216
+                jcr:created="{Date}2020-04-08T20:01:00.699Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T20:15:22.605Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor="background-color:#f5f5f5;color:#000000"
+                layout="1;grid-cols-10 grid-offset-3;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-08T20:15:22.605Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_8216>
+            <text_36f7
+                jcr:created="{Date}2018-05-03T05:24:18.998Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T20:14:07.863Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-3-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-3-block&quot; style=&quot;text-align: center;&quot;>&lt;strong>Get the most out of Adobe FrameMaker Publishing Server&lt;br>&#xa;&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <column_b793
+                jcr:created="{Date}2020-04-08T20:14:23.644Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T20:17:39.165Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10;"
+                bgColor=" "
+                layout="1;grid-cols-10;"
+                layoutMode="structured"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-08T20:17:39.165Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_b793>
+            <image_8d95
+                jcr:created="{Date}2018-05-03T05:25:05.544Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-03T18:49:43.768Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Get an overview of FrameMaker Publishing Server"
+                fileReference="/content/dam/acom/en/products/framemakerpublishingserver/framemakerpublishingserver_2019/images/framemaker_publishing_server_overview.jpg"
+                link="http://www.adobe.com/go/learn_fmps_16_intro_en"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-04-03T18:49:43.768Z"
+                    jcr:lastModifiedBy="21n83853"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_8d95>
+            <text_e6d6
+                jcr:created="{Date}2018-05-03T05:25:14.430Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2018-08-06T10:05:05.611Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;strong>Get an overview of FrameMaker Publishing Server&lt;/strong>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <text_aa20
+                jcr:created="{Date}2018-05-03T05:27:02.178Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-09-08T06:49:40.184Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Discover how easy it can be to automate multichannel, multiscreen publishing over the web.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <text_48
+                jcr:created="{Date}2018-05-03T05:28:51.054Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T20:17:18.305Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;http://www.adobe.com/go/learn_fmps_16_intro_en&quot; target=&quot;_blank&quot;>Watch now&amp;nbsp;›&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <standalonecta_503b
+                jcr:created="{Date}2020-04-03T18:50:30.931Z"
+                jcr:createdBy="21n83853"
+                jcr:lastModified="{Date}2020-04-03T18:50:58.882Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/standalonecta"
+                ctabuttoncolor="merchpod-cta-button"
+                ctaType="{Boolean}true"
+                link="https://www.youtube.com/user/AdobeTCS"
+                linkText="Watch more videos on YouTube"
+                target="_blank"/>
+            <end_15863768636530
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_b793"/>
+            <end_15863760607080
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_8216"/>
+            <column_b4c6
+                jcr:created="{Date}2020-04-08T20:18:16.679Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-23T18:46:48.672Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                layout="1;grid-cols-14 grid-offset-1;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-23T18:46:48.672Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_b4c6>
+            <text_8c0f
+                jcr:created="{Date}2018-05-03T05:33:09.007Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-23T18:46:26.420Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-3-block&quot; style=&quot;text-align: center;&quot;>&lt;strong>Access learning and training assets&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <column_ed4b
+                jcr:created="{Date}2020-04-08T20:19:43.306Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-23T18:47:12.038Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-23T18:47:12.038Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_ed4b>
+            <image_abf6
+                jcr:created="{Date}2018-05-03T05:35:09.259Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-03T18:53:10.840Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="User Guide"
+                fileReference="/content/dam/acom/en/products/framemaker/framemaker_new/Images/02_user_guide_icon.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-04-03T18:53:10.840Z"
+                    jcr:lastModifiedBy="21n83853"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_abf6>
+            <text_88a2
+                jcr:created="{Date}2018-05-03T05:35:21.631Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-08-10T13:08:07.558Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>User guide&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>Get a detailed overview of features, the install process, and other helpful resources.&lt;/div>&#xa;"/>
+            <text_83fc
+                jcr:created="{Date}2020-04-23T18:47:22.144Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-23T18:47:38.067Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;http://www.adobe.com/go/learn_fmps_16_ug_en&quot; target=&quot;_blank&quot;>Read more&amp;nbsp;›&lt;/a>&lt;/div>&#xa;"/>
+            <break_15863771833220
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_ed4b"/>
+            <image_d3e
+                jcr:created="{Date}2018-05-03T05:33:43.324Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-03T18:53:53.478Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Training video"
+                fileReference="/content/dam/acom/en/products/robohelp/robohelp_new/Images/training_videos_icons.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-04-03T18:53:53.478Z"
+                    jcr:lastModifiedBy="21n83853"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d3e>
+            <text_ee98
+                jcr:created="{Date}2018-05-03T05:33:44.861Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-08-10T13:08:28.823Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>Training videos&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>Learn at your own pace with our training videos and “show me” demos.&lt;/div>&#xa;"/>
+            <text_6ab5
+                jcr:created="{Date}2020-04-23T18:47:51.547Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-23T18:48:03.286Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;https://www.youtube.com/AdobeTCS&quot; target=&quot;_blank&quot;>Watch now&amp;nbsp;›&lt;/a>&lt;/div>&#xa;"/>
+            <break_15863772382240
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_ed4b"/>
+            <image_5be7
+                jcr:created="{Date}2018-05-03T05:34:09.272Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-03T18:54:26.221Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Webinar"
+                fileReference="/content/dam/acom/en/products/robohelp/robohelp_new/Images/webinars_icons.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-04-03T18:54:26.221Z"
+                    jcr:lastModifiedBy="21n83853"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_5be7>
+            <text_657b
+                jcr:created="{Date}2018-05-03T05:34:10.552Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-23T18:48:35.505Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>Webinars&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>Watch along as industry experts showcase what's possible with FrameMaker Publishing Server.&lt;/div>&#xa;"/>
+            <text_75c8
+                jcr:created="{Date}2020-04-23T18:48:14.850Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-23T18:48:27.204Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;https://meetus.adobeevents.com/technicalcommunication&quot; target=&quot;_blank&quot;>Browse webinars&amp;nbsp;›&lt;/a>&lt;/div>&#xa;"/>
+            <end_15863771833232
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_ed4b"/>
+            <end_15863770966880
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_b4c6"/>
+            <text_7f95
+                jcr:created="{Date}2018-05-04T14:51:58.875Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T20:23:47.142Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&lt;strong>Need help?&lt;/strong>&lt;/h3>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>Visit the Adobe FrameMaker Publishing Server&amp;nbsp;&lt;a href=&quot;https://helpx.adobe.com/support/framemaker-publishing-server.html&quot; target=&quot;_blank&quot;>learn and support&lt;/a>&amp;nbsp;section.&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <horizontalrule_36f2
+                jcr:created="{Date}2018-05-04T15:04:01.835Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2018-05-04T15:04:01.835Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_9dae
+                jcr:created="{Date}2018-05-04T15:03:49.879Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T20:24:38.143Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h3>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&lt;strong>Interested in trying our other products?&lt;/strong>&lt;/h3>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <column_9f00
+                jcr:created="{Date}2020-04-08T20:24:50.086Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T20:26:14.558Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-08T20:26:14.558Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_9f00>
+            <column_c5c6
+                jcr:created="{Date}2020-04-08T20:25:12.558Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T20:25:12.558Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-05T13:18:57.299Z"
+                        jcr:lastModifiedBy="21n83853"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_c5c6>
+            <text_fe7c
+                jcr:created="{Date}2018-05-04T15:34:44.435Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2018-08-06T15:04:34.818Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&lt;i class=&quot;adobe-icon-fm&quot;>&lt;/i>&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;/content/acom/us/en/products/framemaker.html&quot; target=&quot;_blank&quot;>Adobe FrameMaker&lt;/a>&lt;/div>&#xa;"/>
+            <break_15863775125680
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_c5c6"/>
+            <text_8c86
+                jcr:created="{Date}2018-05-04T15:20:17.228Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2018-08-06T15:05:27.909Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&lt;i class=&quot;adobe-icon-tcs&quot;>&lt;/i>&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;/content/acom/us/en/products/technicalcommunicationsuite.html&quot; target=&quot;_blank&quot;>Adobe Technical Communication Suite&lt;/a>&lt;/div>&#xa;"/>
+            <break_15863775125691
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_c5c6"/>
+            <text_85a2
+                jcr:created="{Date}2018-05-04T15:12:39.366Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-05T13:18:34.783Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&lt;a href=&quot;/content/acom/us/en/products/xml-documentation-for-experience-manager.html&quot; target=&quot;_blank&quot;>&lt;i class=&quot;adobe-icon-experiencemanager&quot;>&lt;/i>&lt;/a>&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;/content/acom/us/en/products/xml-documentation-for-experience-manager.html&quot; target=&quot;_blank&quot; _rte_style=&quot;font-size: 0.875rem;&quot; style=&quot;font-size: 0.875rem;&quot;>XML Documentation for Adobe Experience Manager&lt;/a>&lt;/div>&#xa;"/>
+            <end_15863775125692
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_c5c6"/>
+            <end_15863774900950
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_9f00"/>
+            <column_d0
+                jcr:created="{Date}2020-04-08T20:26:27.029Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T20:26:41.966Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor="background-color:#f5f5f5;color:#000000"
+                layout="1;grid-cols-14 grid-offset-1;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-08T20:26:41.966Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_d0>
+            <text_dfa4
+                jcr:created="{Date}2020-04-05T10:30:51.355Z"
+                jcr:createdBy="21n83853"
+                jcr:lastModified="{Date}2020-04-05T10:31:24.858Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h3>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&lt;strong>News. Topics. Trends.&lt;/strong>&lt;/h3>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h3>&#xa;"/>
+            <text_b957
+                jcr:created="{Date}2020-04-05T10:31:48.307Z"
+                jcr:createdBy="21n83853"
+                jcr:lastModified="{Date}2020-08-10T13:09:06.658Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;https://www.adobe.com/subscription/techcomm_newsletter.html&quot; target=&quot;_blank&quot;>Subscribe to our monthly newsletter&lt;/a>&lt;/div>&#xa;"/>
+            <text_3203
+                jcr:created="{Date}2018-07-12T08:13:39.734Z"
+                jcr:createdBy="debdas"
+                jcr:lastModified="{Date}2020-01-10T12:23:20.650Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h5 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa; Join the conversation&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span>&lt;/h5>&#xa;&lt;div class=&quot;text-3-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;https://twitter.com/adobetcs&quot; target=&quot;_blank&quot;>&lt;i class=&quot;icon-twitter&quot;>&lt;/i>&lt;/a>&lt;a href=&quot;https://www.facebook.com/adobetcs&quot; target=&quot;_blank&quot;>&lt;i class=&quot;icon-facebook&quot;>&lt;/i>&lt;/a>&lt;a href=&quot;https://www.linkedin.com/company/adobetcs/&quot; target=&quot;_blank&quot;>&lt;i class=&quot;icon-linkedin&quot;>&lt;/i>&lt;/a>&lt;a href=&quot;https://www.youtube.com/user/AdobeTCS&quot; target=&quot;_blank&quot;>&lt;i class=&quot;icon-youtube&quot;>&lt;/i>&lt;/a>&lt;a href=&quot;http://blogs.adobe.com/techcomm/&quot; target=&quot;_blank&quot;>&lt;i class=&quot;icon-blog&quot;>&lt;/i>&lt;/a>&lt;/div>&#xa;"/>
+            <text_fc40
+                jcr:created="{Date}2020-04-05T10:32:52.215Z"
+                jcr:createdBy="21n83853"
+                jcr:lastModified="{Date}2020-04-05T10:36:21.678Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>For any queries, write to us at&amp;nbsp;&lt;a href=&quot;mailto:techcomm@adobe.com&quot; target=&quot;_blank&quot;>&lt;strong>techcomm@adobe.com&lt;/strong>&lt;/a>&amp;nbsp;or call&amp;nbsp;&lt;strong>+1-866-647-1213&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <end_15863775870390
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_d0"/>
+        </contentbody>
+        <promobar jcr:primaryType="nt:unstructured">
+            <promo
+                jcr:lastModified="{Date}2015-07-22T16:53:38.251Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/promo"
+                ctaButtonOverride="https://creative.adobe.com/plans?promoid=KSPCN"
+                ctaButtonText="Choose a plan"
+                enablePriceDisplay="true"
+                icon="promo-icon adobe-icon-creativecloud"
+                marketSegmentRewrite="COM"
+                priceType="SUB_NEW"
+                product="creative_cloud"
+                productIntroText="Get the entire collection of creative apps and more for"
+                purchasePhoneCss="promo-phone">
+                <productInfo jcr:primaryType="nt:unstructured"/>
+                <free
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="https://creative.adobe.com/plans?promoid=KSPCN"
+                    ctaButtonText="Choose a plan"
+                    productIntroText="Get the entire collection of creative apps and more for"/>
+                <paid
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="http://max.adobe.com/?promoid=KTJLS"
+                    ctaButtonText="Learn more"
+                    productIntroText="Join us at Adobe MAX. The Creativity Conference. Oct. 3–7 in Los Angeles."/>
+            </promo>
+        </promobar>
+        <contentlayer
+            jcr:lastModified="{Date}2014-11-25T22:30:20.382Z"
+            jcr:lastModifiedBy="wmyersta"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/contentlayer"
+            horizontalAlign="1"
+            opacity="{Long}0"
+            rgb="FFFFFF"
+            textcolor="text-alt-color"
+            verticalAlign="2"
+            width="{Long}55">
+            <title jcr:primaryType="nt:unstructured"/>
+            <text
+                jcr:primaryType="nt:unstructured"
+                text="&lt;div class=&quot;text-0-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Make something great.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>Introducing all-new versions of your favorite desktop apps.&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2020-08-17T17:34:18.179Z"
+                    jcr:lastModifiedBy="bgupta"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <topofbodymbox
+            jcr:lastModified="{Date}2014-12-16T03:54:16.687Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="TopOfBody"/>
+        <bottomofbodymbox
+            jcr:lastModified="{Date}2014-12-16T03:54:30.562Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="BottomOfBody"/>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <card jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2017-08-03T13:11:32.633Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"/>
+        </card>
+    </jcr:content>
+</jcr:root>

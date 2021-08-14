@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-11-08T09:54:40.616Z"
+        cq:lastModifiedBy="dvirmani"
+        cq:lastReplicated="{Date}2016-12-09T18:42:37.355Z"
+        cq:lastReplicatedBy="atrevino"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="extension"
+        jcr:uuid="aaaa6b6e-e14c-4bc3-88c8-caf6dd801e97"
+        sling:resourceType="beagle/components/fullwidthcontentpage"/>
+    <downloads/>
+</jcr:root>

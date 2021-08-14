@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-08-23T00:25:38.589-07:00"
+        cq:lastModifiedBy="dvirmani"
+        cq:lastReplicated="{Date}2016-08-23T00:31:38.411-07:00"
+        cq:lastReplicatedBy="dvirmani"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Source Code Pro Readme file"
+        jcr:uuid="e7aa9221-979c-497c-8668-24ee4b29cf87"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Source code pro font information | Adobe Type"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideMerchandisingBar="inherit"
+        hidePromoComponent="inherit"
+        marketSegmentRewrite="none"
+        metaDescription="Information about source code pro font, updates, troubleshooting tips, history release notes, menu names and style linking &amp; known issues."
+        modalSize="426x240"
+        navTitle="Source Code Pro Readme file"
+        pageTitle="Source Code Pro Readme file"
+        tagsKeywords="source code pro font, font source code pro, source code pro fonts, source code pro">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2016-08-23T00:25:38.483-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2016-08-23T00:25:38.483-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_5dbd
+                jcr:created="{Date}2016-08-05T02:35:10.783-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-05T02:35:43.906-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-05T02:35:43.906-07:00"
+                        jcr:lastModifiedBy="ashahab"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_5dbd>
+            <text_d893
+                jcr:created="{Date}2016-08-05T02:36:14.746-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-05T02:41:43.755-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>Family information&lt;/h3>&#xa;&lt;h3>&amp;nbsp;&lt;/h3>&#xa;"/>
+            <text_1e8b
+                jcr:created="{Date}2016-08-05T02:37:25.306-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-09T22:07:56.090-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&lt;span class=&quot;text-light&quot;>History&lt;/span>&lt;/h3>&#xa;&lt;h4>&amp;nbsp;&lt;/h4>&#xa;"
+                textIsRich="true"/>
+            <text_39be
+                jcr:created="{Date}2016-08-05T02:41:28.647-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-09T22:08:49.797-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Source Code Pro was designed by&amp;nbsp;&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/paul-hunt.html&quot;>Paul D. Hunt&lt;/a>&amp;nbsp;as a companion to&amp;nbsp;&lt;a href=&quot;https://typekit.com/fonts/source-sans-pro&quot;>Source Sans&lt;/a>. This complementary family was adapted from the Source design to create a monospaced version for coding applications. Source Code preserves the design features and vertical proportions of Source Sans, but alters the glyph widths so that they are uniform across all glyphs and weights. Although a regular weight will typically suffice for coding environments, Source Code is available in the same weight range as the corresponding Source Sans design.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Source Code Pro currently supports a wide range of languages using the Latin script. The latest release adds support for Greek and Cyrillic scripts (upright fonts only) and italics.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>As an open source project, it is expected that incremental updates will be made over time to extend functionality. Future releases will add other features documented on the&amp;nbsp;&lt;a href=&quot;https://github.com/adobe-fonts/source-code-pro&quot;>project page&lt;/a>&amp;nbsp;hosted on GitHub. If you are interested in contributing to this open source project, please visit this&amp;nbsp;&lt;a href=&quot;https://github.com/adobe-fonts/source-code-pro&quot;>project page&lt;/a>&amp;nbsp;for information on how to become involved. Source Code Pro can be adapted and redistributed according to the terms of the&amp;nbsp;&lt;a href=&quot;http://wwwimages.adobe.com/content/dam/Adobe/en/products/type/pdfs/eulas/open-font-license.pdf&quot; target=&quot;_blank&quot;>Open Font License (OFL) agreement&lt;/a>.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_3cb2
+                jcr:created="{Date}2016-08-05T02:49:16.171-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-09T22:10:30.809-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&lt;span class=&quot;text-light&quot;>Menu Names And Style Linking&lt;/span>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_7fb
+                jcr:created="{Date}2016-08-05T02:51:04.873-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-09T23:48:53.819-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>In many Windows®&amp;nbsp;applications, instead of every font appearing on the menu, fonts are grouped into style-linked sets, and only the name of the base style font for a set is shown in the menu. The italic and the bold weight fonts of the set (if any) are not shown in the font menu, but can still be accessed by selecting the base style font, and then using the italic and bold style buttons. In this family, such programs will show only the following base style font names in the menu:&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; Source Code&amp;nbsp;Pro&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp; &amp;nbsp; &lt;span class=&quot;text-light&quot;>Source Code&amp;nbsp;Pro Black&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; Source Code&amp;nbsp;Pro ExtraLight&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp; &amp;nbsp; &lt;span class=&quot;text-light&quot;>Source Code&amp;nbsp;Pro Light&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; Source Code&amp;nbsp;Pro Semibold&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <column_de2c
+                jcr:created="{Date}2016-08-09T22:00:45.055-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-09T22:01:08.587-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12;"
+                bgColor=" "
+                layout="1;grid-cols-12;"
+                layoutMode="structured"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-09T22:01:08.587-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_de2c>
+            <table_7282
+                jcr:created="{Date}2016-08-09T02:43:20.359-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-09T02:50:43.219-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/table"
+                tableDataHTML="&lt;table class=&quot;border-none&quot;>&#xa;&lt;tbody>&lt;tr>&lt;td>&lt;strong>Menu Name&lt;/strong>&lt;/td>&#xa;&lt;td>&lt;strong>plus Style Option&lt;/strong>&lt;/td>&#xa;&lt;td>&lt;strong>select this font&lt;/strong>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Source Code Pro&lt;/td>&#xa;&lt;td>[none]&lt;/td>&#xa;&lt;td>Source Code Pro Regular&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Source Code Pro&lt;br>&#xa;&lt;/td>&#xa;&lt;td>Italic&lt;/td>&#xa;&lt;td>Source Code Pro Italic&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Source Code Pro&lt;br>&#xa;&lt;/td>&#xa;&lt;td>Bold&lt;/td>&#xa;&lt;td>Source Code Pro Bold&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Source Code Pro&lt;br>&#xa;&lt;/td>&#xa;&lt;td>Bold Italic&lt;/td>&#xa;&lt;td>Source Code Pro Bold Italic&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Source Code Pro Black&lt;/td>&#xa;&lt;td>[none]&lt;/td>&#xa;&lt;td>Source Code Pro Black&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Source Code Pro Black&lt;/td>&#xa;&lt;td>Italic&lt;/td>&#xa;&lt;td>Source Code Pro Black Italic&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Source Code Pro ExtraLight&lt;/td>&#xa;&lt;td>[none]&lt;/td>&#xa;&lt;td>Source Code Pro ExtraLight&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Source Code Pro ExtraLight&lt;/td>&#xa;&lt;td>Italic&lt;/td>&#xa;&lt;td>Source Code Pro ExtraLight Italic&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Source Code Pro Light&lt;/td>&#xa;&lt;td>[none]&lt;/td>&#xa;&lt;td>Source Code Pro Light&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Source Code Pro Light&lt;/td>&#xa;&lt;td>Italic&lt;/td>&#xa;&lt;td>Source Code Pro Light Italic&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Source Code Pro Medium&lt;/td>&#xa;&lt;td>&lt;div class=&quot;text-6-block&quot;>[none]&lt;/div>&#xa;&lt;/td>&#xa;&lt;td>Source Code Pro Medium&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Source Code Pro Medium&lt;/td>&#xa;&lt;td>Italic&lt;/td>&#xa;&lt;td>Source Code Pro Medium Italic&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Source Code Pro SemiBold&lt;/td>&#xa;&lt;td>[none]&lt;/td>&#xa;&lt;td>Source Code Pro SemiBold&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Source Code Pro SemiBold&lt;/td>&#xa;&lt;td>Italic&lt;/td>&#xa;&lt;td>Source Code Pro SemiBold Italic&lt;/td>&#xa;&lt;/tr>&lt;/tbody>&lt;/table>"/>
+            <end_14708052450930
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_de2c"/>
+            <column_788e
+                jcr:created="{Date}2016-08-09T02:35:41.503-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-09T02:35:57.445-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12;"
+                bgColor=" "
+                layout="1;grid-cols-12;"
+                layoutMode="structured"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-09T02:35:57.445-07:00"
+                        jcr:lastModifiedBy="ashahab"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_788e>
+            <text_5a9f
+                jcr:created="{Date}2016-08-05T03:12:30.616-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-09T22:09:46.210-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>On the Mac OS operating system, although each font appears as a separate entry on the font menu, users may also select fonts by means of style links. Selecting a base style font and then using the style links (as described above for Windows applications) enhances cross-platform document compatibility with many applications, such as Microsoft Word, although it is unnecessary with more sophisticated Adobe applications such as recent versions of Illustrator, Photoshop&amp;nbsp;or InDesign&amp;nbsp;software.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>One should not, however, select a base font which has no style-linked variant, and then use the bold or italic styling button. Doing so will either have no effect, or result in programmatic bolding or slanting of the base font, which will usually produce inferior screen and print results.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_b040
+                jcr:created="{Date}2016-08-05T03:13:45.812-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-09T22:12:20.376-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&lt;span class=&quot;text-light&quot;>Release Notes&lt;/span>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_9f9f
+                jcr:created="{Date}2016-08-05T03:14:25.763-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-10T00:21:43.036-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>For all fonts of family Source Code Pro: versions 2.010 Romans and 1.030 Italics created on Tue Jul 07 10:54:46 2015.&lt;br>&#xa; &lt;br>&#xa; version 2.010 (romans) &amp;amp; version 1.030 (italics) created 2015/07/07&lt;br>&#xa; &lt;br>&#xa; &amp;nbsp; &amp;nbsp; ● Fixes hinting on Regular OE. Corrects path direction on invsmileface.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Nudges the dot accent up to prevent from collapsing in CFF fonts. Adjusts design and positioning of cedillas.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;[Fixes hinting on Regular OE. Corrects path direction on invsmileface.]&lt;br>&#xa; &amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>version 2.005 (romans) &amp;amp; version 1.025 (italics) created 2015/06/25&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;&lt;span style=&quot;font-family: adobe-clean, sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 300; line-height: 21px;&quot;>Adds characters that were missing for Arabic and Hebrew transliteration schemes.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;&lt;span style=&quot;font-family: adobe-clean, sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 300; line-height: 21px;&quot;>Adds characters for coffee, heartblackheavy, robotface.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;&lt;span style=&quot;font-family: adobe-clean, sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 300; line-height: 21px;&quot;>Updates design of ringhalfleftmod, ringhalfrightmod, glottalstopreversedmod, smileface, invsmileface, poopile.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;&lt;span style=&quot;font-family: adobe-clean, sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 300; line-height: 21px;&quot;>Reorders some glyphs.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;&lt;span style=&quot;font-family: adobe-clean, sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 300; line-height: 21px;&quot;>Fixes CVT errors in the italics.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;&lt;span style=&quot;font-family: adobe-clean, sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 300; line-height: 21px;&quot;>Adds UI names to Character Variants features.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;&lt;span style=&quot;font-family: adobe-clean, sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 300; line-height: 21px;&quot;>Adds SVG colored versions of these characters: ☑ ✓ ♪ ♫ ♥ ♦ ☺ ☻ ❤ ☕ \ud83d\udca9 \ud83e\udd16 \ud83d\udd12&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span style=&quot;font-family: adobe-clean, sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 300; line-height: 21px;&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span style=&quot;font-family: adobe-clean, sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 300; line-height: 21px;&quot;>version 2.001 created 2015/06/09&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span style=&quot;font-family: adobe-clean, sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 300; line-height: 21px;&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14707353415290
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_788e"/>
+            <column_e69a
+                jcr:created="{Date}2016-08-09T22:30:18.568-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-09T22:30:48.821-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of2;grid-span-1of2;"
+                bgColor=" "
+                layout="2;grid-span-1of2;grid-span-1of2;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-09T22:30:48.821-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_e69a>
+            <text_26cd
+                jcr:created="{Date}2016-08-09T01:55:37.936-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-09T23:47:48.159-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;(Romans-only release)&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Updates the design of the following glyphs in intermediate weights, thanks to intermediate master:&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;B&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;M&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;&lt;span class=&quot;text-light&quot;>N&lt;/span>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;W&lt;/span>&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;e&lt;/span>&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;g&lt;/span>&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;p>&lt;span class=&quot;text-light&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;m&lt;/span>&lt;br>&#xa;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;text-light&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;w&lt;/span>&lt;br>&#xa;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;text-light&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Bstroke&lt;/span>&lt;br>&#xa;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;text-light&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Hbar&lt;/span>&lt;br>&#xa;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;text-light&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Oslash&lt;/span>&lt;br>&#xa;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;text-light&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Tbar&lt;/span>&lt;br>&#xa;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;text-light&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Eth&lt;/span>&lt;br>&#xa;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;text-light&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;ae&lt;/span>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&amp;nbsp; &lt;/span>&lt;span class=&quot;text-light&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&amp;nbsp; ●&amp;nbsp;bstroke&lt;/span>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;text-light&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;dcroat&lt;/span>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;text-light&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;eogonek&lt;br>&#xa; &lt;/span>&lt;/span>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <break_14708070488370
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_e69a"/>
+            <text_ca39
+                jcr:created="{Date}2016-08-09T01:55:48.382-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-09T23:44:22.646-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;hbar&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;oslash&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;oe&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;eth&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;zero.0&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;zero.0o&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;zero.0c&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;e.sups&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Adds alternate lowercase i with foot serifs, (ss04).&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Adds support for some extended Latin (IPA) in all styles.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Adds support for Greek and Cyrillic in upright styles. (GitHub issues #48 &amp;amp; #85)&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Adds character variants features to fonts (ccXX).&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Adds characters to fully support WGL4 standard.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Adds smiling poo emoji (just because).&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Changes vendor ID from ADBE to ADBO. (GitHub issue #80)&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Updates NAME table to remove full license text. (GitHub issue #83)&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Adds Powerline symbols. (GitHub issue #43)&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Adds mathematical operators specifically requested to date. (GitHub issue #49)&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Adds geometric shapes specifically requested to date. (GitHub issue #51)&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Increases length of em dash. (GitHub issue #85)&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14708070185840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_e69a"/>
+            <text_c07a
+                jcr:created="{Date}2016-08-09T02:18:57.305-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-09T23:48:40.183-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>version 1.020 created 2015/06/09&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;(Italics-only release)&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;First release.Adds italic corresponding italic styles to family.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;(GitHub issue #6)&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>version 1.017 created 2013/01/11&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Updates the hinting to the default asterisk in some styles that were missed in the previous version.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Updates the design of the asterisk glyphs, bar, and broken bar.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>version 1.016 created 2013/01/09&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Updates the hinting to the default asterisk in all styles.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Adds an new Medium weight to the font project.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Updates design of the following glyphs to center them within glyph&amp;nbsp;height/width:&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>●&amp;nbsp;lighttrpldashhorzbxd&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>●&amp;nbsp;heavytrpldashhorzbxd&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>●&amp;nbsp;lighttrpldashvertbxd&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>●&amp;nbsp;heavytrpldashvertbxd&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>●&amp;nbsp;lightquaddashhorzbxd&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>●&amp;nbsp;heavyquaddashhorzbxd&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>●&amp;nbsp;lightquaddashvertbxd&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>●&amp;nbsp;heavyquaddashvertbxd&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>●&amp;nbsp;lightdbldashhorzbxd&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>●&amp;nbsp;heavydbldashhorzbxd&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>●&amp;nbsp;lightdbldashvertbxd&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>●&amp;nbsp;heavydbldashvertbxd&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>version 1.013 created 2012/11/29&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;font-family: adobe-clean, sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 300; line-height: 21px;&quot;>version 1.020 created 2015/06/09&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;font-family: adobe-clean, sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 300; line-height: 21px;&quot;>version 1.020 created 2015/06/09&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_c85a
+                jcr:created="{Date}2016-08-09T02:27:42.568-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-09T23:39:53.751-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Updates design of asterisk and hyphen to accommodate coders' preferences.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Realigns math and punctuation glyphs.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Adds a stylistic set for typographic alternates.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Adds a stylistic set for alternate dollar sign.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Adds a small number of IPA characters.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Adds box drawing characters and block elements.&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <column_9a2f
+                jcr:created="{Date}2016-08-09T02:26:46.171-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-09T02:27:32.651-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-09T02:27:32.651-07:00"
+                        jcr:lastModifiedBy="ashahab"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_9a2f>
+            <break_14707348526700
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_9a2f"/>
+            <break_14707348526711
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_9a2f"/>
+            <end_14707348061820
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_9a2f"/>
+            <text_3f4e
+                jcr:created="{Date}2016-08-09T02:29:02.977-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-09T23:35:45.914-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>version 1.011 created 2012/10/19&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Rebuilt fonts with new MakeOTF version.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>version 1.010 created 2012/09/30&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;Fixed TrueType hinting problem in Bold ampersand.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>version 1.009 created 2012/09/20&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ●&amp;nbsp;First release.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_5e76
+                jcr:created="{Date}2016-08-05T03:53:20.304-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-09T23:37:06.892-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&lt;span class=&quot;text-light&quot;>Known Issues&lt;/span>&lt;/h3>&#xa;&lt;h4>&amp;nbsp;&lt;/h4>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Some glyphs in the font cannot be accessed unless you are using an OpenType compatible application.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;h3>&lt;span class=&quot;text-light&quot;>Customer Support&lt;/span>&lt;/h3>&#xa;&lt;h4>&amp;nbsp;&lt;/h4>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>If you require technical assistance, please email us at&amp;nbsp;&lt;a href=&quot;mailto:type-questions@adobe.com&quot;>type-questions@adobe.com&lt;/a>. Font specific resources can also be found on the&amp;nbsp;&lt;a href=&quot;http://forums.adobe.com/community/typography_fonts&quot;>Adobe Type user-to-user forums&lt;/a>.&lt;/span>&lt;/div>&#xa;&lt;h4>&amp;nbsp;&lt;/h4>&#xa;&lt;h4>&amp;nbsp;&lt;/h4>&#xa;&lt;h4>&amp;nbsp;&lt;/h4>&#xa;"
+                textIsRich="true"/>
+            <end_14703897107880
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5dbd"/>
+        </contentbody>
+    </jcr:content>
+</jcr:root>

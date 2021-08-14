@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <jcr:content/>
+    <rep:policy/>
+    <what-we-believe/>
+    <education/>
+    <sustainability/>
+    <community/>
+    <awards/>
+    <corporate-responsibility-reports/>
+    <stories/>
+    <supply-chain/>
+    <taxation-policy/>
+    <human-rights-policy/>
+    <data-security-risk/>
+    <foundation/>
+</jcr:root>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-10-11T11:20:30.924Z"
+        cq:lastModifiedBy="handoo"
+        cq:lastReplicated="{Date}2019-10-16T21:28:06.095Z"
+        cq:lastReplicatedBy="karchie"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:csProduct/cc/afterEffects,filters:csProduct/cc/photoshop,filters:csProduct/cc/premierePro,filters:csIndustry/mediaEntertainment,filters:csProduct/cc]"
+        cq:template="/apps/beagle/templates/customershowcasedetailpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="UFA SERIAL DRAMA"
+        jcr:uuid="7706031e-3686-43ce-966e-2dae3d6b3ae7"
+        sling:resourceType="beagle/components/customershowcasedetailpage"
+        noIndex="true"
+        removeFromHtmlSitemap="true"
+        removeFromSitemap="true"
+        removeFromXmlSitemap="true">
+        <customershowcasecard
+            cq:lastReplicated="{Date}2017-03-10T19:27:40.842Z"
+            cq:lastReplicatedBy="tmina"
+            cq:lastReplicationAction="Activate"
+            jcr:lastModified="{Date}2016-12-09T11:47:09.693-08:00"
+            jcr:lastModifiedBy="lsloane"
+            jcr:mixinTypes="[cq:ReplicationStatus]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/customershowcasecard"
+            cardType="standard"
+            companyName="UFA SERIAL DRAMA"
+            creationDate="{Date}2016-12-09T11:44:00.000-08:00"
+            link1="/content/dam/acom/en/customer-success/pdfs/ufa-serial-drama-case-study.pdf"
+            link1Target="_blank"
+            link1Text="Read the story"
+            link2Target="_self"
+            orderDate="{Date}2014-09-30T11:45:00.000-07:00">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    size="426x240"
+                    type="free"/>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2016-12-09T11:47:09.693-08:00"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="UFA SERIAL DRAMA"
+                fileReference="/content/dam/acom/en/customer-showcase/images/ufa-serial-drama-660x348.png"
+                xcord="{Long}63"
+                ycord="{Long}23"/>
+        </customershowcasecard>
+    </jcr:content>
+</jcr:root>

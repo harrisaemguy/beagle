@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-06-01T18:49:33.960Z"
+        cq:lastModifiedBy="krishnan"
+        cq:lastReplicated="{Date}2020-06-01T18:49:41.530Z"
+        cq:lastReplicatedBy="krishnan"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="CC Pricing"
+        jcr:uuid="e28de946-6cff-4225-ac42-53ac59cb091b"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        billingFrequency="ANNUAL"
+        browserTitle="Adobe Creative Cloud pricing and membership plans | Adobe"
+        channel="adobe.com"
+        commitment="YEAR"
+        disableGeoRouting="true"
+        distType="dist5"
+        enableCCRedirect="false"
+        enableSmallFooter="{Boolean}true"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        hideInSectionNav="true"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        marketSegmentRewrite="COM"
+        marqueeStyle="newMarquee"
+        metaDescription="Review Adobe Creative Cloud membership plans and prices. Check our key features and find the answers in our frequently asked questions section."
+        modalSize="426x240"
+        modelCode="INDIVIDUAL"
+        navTitle="Pricing"
+        pageTitle="Adobe Creative Cloud"
+        pricePoint="REGULAR"
+        product="creative_cloud"
+        removeSectionNav="true"
+        stagelastReplicated="20-Jul-2018 20:54"
+        stagelastReplicatedBy="vko"
+        stageLastReplicationAction="ActivatedtoStage"
+        subnavGradient="/etc/beagle/public/globalnav/themes/jcr:content/bgcolor_412959452"
+        topPadding="Default (Top Padding - 7 rem)"
+        useH1Tags="pageTitle">
+        <useH1Tags jcr:primaryType="nt:unstructured"/>
+        <promobar jcr:primaryType="nt:unstructured">
+            <promo
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/promo">
+                <free
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"/>
+                <paid
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"/>
+            </promo>
+        </promobar>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2018-06-06T18:57:04.126Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2018-06-06T18:57:04.126Z"
+                    jcr:lastModifiedBy="golee"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_d6b6
+                jcr:created="{Date}2017-12-15T15:01:02.620Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2017-12-15T15:01:02.620Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="6"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-12-15T14:07:33.155Z"
+                        jcr:lastModifiedBy="loewy"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_d6b6>
+            <image_851f
+                jcr:created="{Date}2017-12-18T10:15:04.983Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2018-07-20T20:54:51.814Z"
+                jcr:lastModifiedBy="vko"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="Adobe Creative Cloud"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Adobe Creative Cloud"
+                fileReference="/content/dam/acom/images/shared/product_mnemonics/128x128/creativecloud-128x128.png"
+                link="/content/acom/us/en/creativecloud"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-12-18T10:15:38.408Z"
+                    jcr:lastModifiedBy="loewy"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_851f>
+            <text_fa2
+                jcr:created="{Date}2017-12-15T15:01:21.027Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2019-12-06T17:27:30.264Z"
+                jcr:lastModifiedBy="cliclica"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;h2 style=&quot;text-align: center;&quot;>Creativity for all.&lt;/h2>&#xa;&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Adobe Creative Cloud gives you the entire collection of Adobe creative tools for your desktop and mobile. Enhance and perfect your photos with Photoshop and Lightroom. Create logos, graphics and icons with Illustrator. Produce printed documents like postcards, flyers, posters, and magazines and business material like business cards, brochures and reports with InDesign. Design and publish websites with Dreamweaver, and create prototypes of mobile apps with Adobe XD. Make stunning videos for film, TV and web.&lt;/span>&lt;/div>&#xa;"/>
+            <end_15133500626230
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_d6b6"/>
+            <merchandisingbar_9cb
+                jcr:created="{Date}2017-12-15T15:03:53.802Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2017-12-15T15:04:06.638Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/merchandisingbar"
+                hidePhoneSection="true"
+                purchasePhoneCss="merchpod-phone-item-label"
+                purchasePhoneText="Purchase by Phone"
+                standaloneMerchBar="{Boolean}true">
+                <merchandising
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/parsys">
+                    <start
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/parsys/column"
+                        layout="2;grid-span-1of2;grid-span-1of2"/>
+                    <merchandising_f4b8
+                        jcr:created="{Date}2017-12-15T15:06:18.718Z"
+                        jcr:createdBy="loewy"
+                        jcr:lastModified="{Date}2020-06-01T18:49:33.943Z"
+                        jcr:lastModifiedBy="krishnan"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/merchandising"
+                        backgroundImg="image-off"
+                        billingFrequency="ANNUAL"
+                        channel="adobe.com"
+                        commitment="YEAR_PREPAID"
+                        countryCode="US"
+                        ctaButtonOverride="https://commerce.adobe.com/checkout/email/?cli=creative&amp;co=US&amp;ctx=fp&amp;items%5B0%5D%5Bcs%5D=0&amp;items%5B0%5D%5Bid%5D=9E618D5A589EF8D6364DFBE02FC2C264&amp;lang=en"
+                        ctaButtonPosition="above"
+                        ctaButtonText="Buy now"
+                        ctaLinkTarget="_self"
+                        currency="US$599.88"
+                        isOfferingsProduct="true"
+                        languageCode="MULT"
+                        marketSegmentRewrite="COM"
+                        merchbackgroundcolor="background-color-off"
+                        merchborder="border-on"
+                        merchradius="radius-on"
+                        merchshadow="shadow-off"
+                        modelCode="INDIVIDUAL"
+                        offeringsProduct="product-code-CCSN"
+                        overrideEnable="true"
+                        prefixTitleTextCOM="&lt;h5 style=&quot;text-align: center;&quot;>Creative Cloud All Apps&lt;br>&#xa;Annual prepaid&lt;/h5>&#xa;"
+                        pricePoint="REGULAR"
+                        priceType="YEAR"
+                        pricingTextSuffix="/yr"
+                        showCTAButton="true">
+                        <productInfo jcr:primaryType="nt:unstructured"/>
+                        <imagelayer jcr:primaryType="nt:unstructured">
+                            <image
+                                jcr:lastModified="{Date}2020-06-01T18:49:33.943Z"
+                                jcr:lastModifiedBy="krishnan"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="beagle/components/image"
+                                alt="&amp;nbsp;"/>
+                        </imagelayer>
+                    </merchandising_f4b8>
+                    <break_15133502466420
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/parsys/column"
+                        columnType="break"
+                        correspondingStart="start"/>
+                    <merchandising_5b1f
+                        jcr:created="{Date}2017-12-15T15:06:24.123Z"
+                        jcr:createdBy="loewy"
+                        jcr:lastModified="{Date}2020-06-01T18:48:33.054Z"
+                        jcr:lastModifiedBy="krishnan"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/merchandising"
+                        backgroundImg="image-off"
+                        billingFrequency="MONTHLY"
+                        channel="adobe.com"
+                        commitment="YEAR"
+                        countryCode="US"
+                        ctaButtonOverride="https://commerce.adobe.com/checkout/email/?items%5B0%5D%5Bcs%5D=0&amp;items%5B0%5D%5Bid%5D=632B3ADD940A7FBB7864AA5AD19B8D28&amp;ctx=fp&amp;cli=creative&amp;co=US&amp;lang=en"
+                        ctaButtonPosition="above"
+                        ctaButtonText="Buy now"
+                        ctaLinkTarget="_self"
+                        currency="US$52.99"
+                        isOfferingsProduct="true"
+                        languageCode="MULT"
+                        marketSegmentRewrite="COM"
+                        merchbackgroundcolor="background-color-off"
+                        merchborder="border-on"
+                        merchradius="radius-on"
+                        merchshadow="shadow-off"
+                        modelCode="INDIVIDUAL"
+                        offeringsProduct="product-code-CCSN"
+                        overrideEnable="true"
+                        prefixTitleTextCOM="&lt;h5 style=&quot;text-align: center;&quot;>Creative Cloud All Apps&lt;br>&#xa;Paid monthly&lt;/h5>&#xa;"
+                        pricePoint="REGULAR"
+                        priceType="YEAR"
+                        pricingTextSuffix="/mo"
+                        showCTAButton="true">
+                        <productInfo jcr:primaryType="nt:unstructured"/>
+                        <imagelayer jcr:primaryType="nt:unstructured">
+                            <image
+                                jcr:lastModified="{Date}2020-06-01T18:48:33.054Z"
+                                jcr:lastModifiedBy="krishnan"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="beagle/components/image"
+                                alt="&amp;nbsp;"/>
+                        </imagelayer>
+                    </merchandising_5b1f>
+                    <end_15133502466421
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/parsys/column"
+                        columnType="end"
+                        correspondingStart="start"/>
+                </merchandising>
+            </merchandisingbar_9cb>
+            <column_8805
+                jcr:created="{Date}2017-12-15T15:09:35.240Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2017-12-15T15:09:35.240Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-12-15T14:19:58.638Z"
+                        jcr:lastModifiedBy="loewy"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_8805>
+            <text_30ce
+                jcr:created="{Date}2017-12-15T15:10:08.034Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2017-12-15T15:15:03.947Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>Key Features&lt;/h3>&#xa;"/>
+            <column_98e0
+                jcr:created="{Date}2017-12-15T15:10:34.472Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2017-12-15T15:10:34.472Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of2;grid-span-1of2;"
+                bgColor=" "
+                columnCount="2"
+                grid0="5"
+                grid1="5"
+                layout="2;grid-cols-5 grid-offset-1      ;grid-cols-5 grid-offset-1      ;"
+                layoutMode="spatial"
+                multiplier="4"
+                offset0="1"
+                offset1="1"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-12-15T14:21:58.559Z"
+                        jcr:lastModifiedBy="loewy"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_98e0>
+            <text_b2f5
+                jcr:created="{Date}2017-12-15T15:15:24.293Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2017-12-15T15:15:58.374Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Includes all new products updates and releases&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Typekit Portfolio plan included with Creative Cloud subscription with hundreds of desktop and web fonts - all free.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>100 GB cloud storage for seamless file sync and share.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"/>
+            <break_15133506344770
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_98e0"/>
+            <text_1c6a
+                jcr:created="{Date}2017-12-15T15:16:08.255Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2017-12-15T15:16:52.907Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Desktop applications included with a Creative Cloud membership are available in both Mac OS and Windows versions.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Adobe Spark included to make&amp;nbsp; fast and easy to create graphics, web pages, and video stories anywhere.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Adobe Portfolio comes free with any Adobe Creative Cloud plan to create beautifully simple creative portfolio websites.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"/>
+            <end_15133506344781
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_98e0"/>
+            <end_15133505752440
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_8805"/>
+            <column_623a
+                jcr:created="{Date}2017-12-15T15:10:56.142Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2017-12-15T15:10:56.142Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-12-15T14:26:28.206Z"
+                        jcr:lastModifiedBy="loewy"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_623a>
+            <text_e22
+                jcr:created="{Date}2017-12-15T15:11:57.919Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2017-12-15T15:14:53.779Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>Frequently asked questions&lt;/h3>&#xa;"/>
+            <column_8cb0
+                jcr:created="{Date}2017-12-15T15:11:49.873Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2017-12-15T15:11:49.873Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12;"
+                bgColor=" "
+                columnCount="1"
+                grid0="10"
+                layout="1;grid-cols-10 grid-offset-1      ;"
+                layoutMode="structured"
+                multiplier="4"
+                offset0="1"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-12-15T14:27:56.602Z"
+                        jcr:lastModifiedBy="loewy"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_8cb0>
+            <text_7fc6
+                jcr:created="{Date}2017-12-15T15:17:22.956Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2019-03-13T06:08:49.224Z"
+                jcr:lastModifiedBy="bgupta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Are Adobe creative apps available without a subscription?&lt;/strong>&lt;br>&#xa;No, all the latest versions of Adobe creative apps are only available with a Creative Cloud month-to-month or annual plan.&lt;br>&#xa; &lt;br>&#xa; &lt;strong>Are all apps updates included in the subscription?&lt;/strong>&lt;br>&#xa;Yes, with Creative Cloud, you have access to all the latest updates and future releases the moment they’re available.&lt;br>&#xa; &lt;br>&#xa; &lt;strong>What is the difference between the annual and month-to-month plan?&lt;/strong>&lt;br>&#xa;The annual plan requires a one-year commitment and is our best value. It comes with a 14-day money back guarantee. If you cancel after that, you’ll be charged a 50% fee for the remaining months. The month-to-month plan gives you the flexibility to stop and restart your subscription without a cancellation fee.&lt;br>&#xa; &lt;strong>&lt;br>&#xa;Are the applications installed on my computer or are they &lt;g class=&quot;gr_ gr_24 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace&quot; id=&quot;24&quot; data-gr-id=&quot;24&quot;>cloud based&lt;/g>?&lt;/strong>&lt;br>&#xa;Your Creative Cloud desktop applications - such as Illustrator - are installed locally on your computer. You don't need an ongoing Internet connection to use them. You only need to connect to the Internet once every 99 days to validate your membership.&lt;br>&#xa; &lt;strong>&lt;br>&#xa;Can I use the software on one more computer?&lt;/strong>&lt;br>&#xa;Yes, you can install and run Creative Cloud desktop apps on two computers, such a home and work computer (Mac, PC or one of each)&lt;/span>&lt;/div>&#xa;"/>
+            <end_15133507098780
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_8cb0"/>
+            <text_82d5
+                jcr:created="{Date}2017-12-15T15:12:19.876Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2017-12-15T15:12:19.876Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>Subscription and cancellation terms&lt;/h3>&#xa;"/>
+            <column_fd2b
+                jcr:created="{Date}2017-12-15T15:12:44.878Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2017-12-15T15:12:44.878Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12;"
+                bgColor=" "
+                columnCount="1"
+                grid0="10"
+                layout="1;grid-cols-10 grid-offset-1      ;"
+                layoutMode="structured"
+                multiplier="4"
+                offset0="1"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-12-15T14:33:23.271Z"
+                        jcr:lastModifiedBy="loewy"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_fd2b>
+            <text_6580
+                jcr:created="{Date}2017-12-15T15:13:21.874Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2017-12-15T15:13:21.874Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Service begins as soon as your payment is processed. You&amp;#39;ll be charged the annual rate stated at the time of purchase as one lump sum, plus applicable taxes. Your contract will renew automatically, on your annual renewal date, until you cancel. Renewal rates are subject to change, but we&amp;#39;ll always notify you beforehand. If you cancel within 14 days of your order, you&amp;#39;ll be fully refunded. Should you cancel after 14 days, your payment is non-refundable and your service will continue until the end of your contracted term. Cancellations can be made any time by visiting your &lt;a href=&quot;https://accounts.adobe.com&quot; target=&quot;_self&quot;>Manage Account page&lt;/a> or by contacting &lt;a href=&quot;https://helpx.adobe.com/support.html&quot; target=&quot;_self&quot;>Customer Support&lt;/a>.&lt;br>&#xa; &lt;br>&#xa; Adobe, the Adobe logo, Creative Cloud, the Creative Cloud logo, Illustrator, and Photoshop are either registered trademarks or trademarks of Adobe in the United States and/or other countries. All other trademarks are property of their respective owners.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_15133507648850
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_fd2b"/>
+            <end_15133506561480
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_623a"/>
+        </contentbody>
+    </jcr:content>
+</jcr:root>

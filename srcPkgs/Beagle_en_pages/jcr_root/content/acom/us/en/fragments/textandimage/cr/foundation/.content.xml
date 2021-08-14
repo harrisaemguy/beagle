@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2017-05-23T16:25:33.937Z"
+        cq:lastModifiedBy="dwilbank"
+        cq:lastReplicated="{Date}2015-06-03T18:35:48.507Z"
+        cq:lastReplicatedBy="patters"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fragmentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Communauté"
+        jcr:uuid="b1e72132-7373-4c22-bf4d-56d5bc1ef100"
+        sling:resourceType="beagle/components/fragmentpage"
+        browserTitle="Communauté d'employés | Responsabilité sociale d'Adobe"
+        metaDescription="Chez Adobe, nous aidons nos collaborateurs à réinvestir dans la collectivité par le biais de subventions, de dons en logiciels et d'actions de bénévolat.">
+        <textandimage
+            jcr:lastModified="{Date}2017-05-23T16:25:33.933Z"
+            jcr:lastModifiedBy="dwilbank"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/textandimage"
+            align="right"
+            basicLayout="2;grid-cols-6;grid-cols-6;"
+            grid0="11"
+            grid1="1"
+            layout="2;grid-cols-11      ;grid-cols-1      ;"
+            layoutType="advanceLayout"
+            modalsize="426x240"
+            multiplier="4"
+            section="b"
+            target="_self"
+            text="&lt;table bgcolor=&quot;#ffffff&quot;>&#xa;&lt;tbody>&lt;tr>&lt;td>&lt;h4 style=&quot;text-align: center;&quot;>&lt;span style=&quot;font-family: adobe-clean,sans-serif;&quot; class=&quot;text-light&quot;>The Adobe Foundation&lt;/span>&lt;/h4>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span style=&quot;font-family: adobe-clean,sans-serif;&quot; class=&quot;text-light&quot;>A private foundation created and funded by Adobe Systems Incorporated, the Adobe Foundation seeks to leverage human, technological and financial resources to drive social change and improve the communities in which we live and work. Meet our board.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span style=&quot;font-family: adobe-clean,sans-serif;&quot; class=&quot;text-light&quot;>&lt;strong>Shantanu Narayen&lt;/strong>&lt;br>&#xa; President&lt;br>&#xa; President and CEO, Adobe&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span style=&quot;font-family: adobe-clean,sans-serif;&quot; class=&quot;text-light&quot;>&lt;strong>Ann Lewnes&lt;/strong>&lt;br>&#xa; Secretary&lt;br>&#xa; Senior vice president and CMO, Adobe&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span style=&quot;font-family: adobe-clean,sans-serif;&quot; class=&quot;text-light&quot;>&lt;strong>Mark Garrett &lt;/strong>&lt;br>&#xa; Treasurer&lt;br>&#xa; Executive vice president and CFO, Adobe&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span style=&quot;font-family: adobe-clean,sans-serif;&quot; class=&quot;text-light&quot;>&lt;strong>Michelle Yates&lt;/strong>&lt;br>&#xa; Executive director&lt;br>&#xa; Director, Corporate Responsibility, Adobe&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span style=&quot;font-family: adobe-clean,sans-serif;&quot; class=&quot;text-light&quot;>&lt;strong>Michael Dillon&lt;/strong>&lt;br>&#xa; Senior vice president and corporate secretary, Adobe&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span style=&quot;font-family: adobe-clean,sans-serif;&quot; class=&quot;text-light&quot;>&lt;strong>Donna Morris &lt;/strong>&lt;br>&#xa; Senior vice president, People and Places, Adobe&lt;/span>&lt;/div>&#xa;&lt;/td>&#xa;&lt;/tr>&lt;/tbody>&lt;/table>&#xa;"
+            whitespace="grid-padded-b4x">
+            <image
+                jcr:lastModified="{Date}2017-05-23T16:25:33.933Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="The Adobe Foundation"
+                imageRotate="0"/>
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    type="free"/>
+            </contentlayer>
+        </textandimage>
+        <image
+            jcr:lastModified="{Date}2015-08-10T11:22:21.583Z"
+            jcr:lastModifiedBy="2or88130"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

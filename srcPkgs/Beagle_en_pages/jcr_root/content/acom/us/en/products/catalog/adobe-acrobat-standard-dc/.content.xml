@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-06-12T16:27:07.665Z"
+        cq:lastModifiedBy="handoo"
+        cq:lastReplicated="{Date}2020-08-13T23:15:26.287Z"
+        cq:lastReplicatedBy="vko"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:product-catalog/pf/desktop,filters:product-catalog/de/pdf]"
+        cq:template="/apps/beagle/templates/productcardpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:Title="Acrobat Standard DC"
+        jcr:title="Acrobat Standard DC"
+        jcr:uuid="298ff5ba-cf7a-4583-8c0f-44c3ddf23774"
+        sling:resourceType="beagle/components/productcardpage"
+        alignment="left"
+        applauncherTheme="light"
+        billingFrequency="MONTHLY"
+        browserTitle="Acrobat Standard DC"
+        cardDescription="Reliably create, edit, and sign PDFs.&#xa;(includes desktop, web, and mobile access)"
+        cardIcon="adobe-icon-color-acrobat-pro"
+        cardIconLinkURL="https://acrobat.adobe.com/us/en/products/acrobat-standard.html"
+        cardIcontarget="_self"
+        cardTitle="Acrobat Standard DC"
+        commitment="YEAR"
+        creationDate="{Date}2017-05-18T12:19:00.000-07:00"
+        distType="dist5"
+        freeTrialUrlLoggedInModalScrolling="no"
+        freeTrialUrlLoggedInModalSize="426x240"
+        freeTrialUrlLoggedInTarget="_self"
+        freeTrialUrlModalScrolling="no"
+        freeTrialUrlModalSize="426x240"
+        freeTrialUrlTarget="_self"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        groupSectionNavItems="no"
+        hideInSectionNav="true"
+        hideMerchandisingBar="inherit"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="inherit"
+        iconLinkURL="https://acrobat.adobe.com/us/en/acrobat/acrobat-standard.html"
+        isOfferingsProduct="true"
+        marketSegmentRewrite="COM"
+        metaDescription="Acrobat Standard DC"
+        modalSize="426x240"
+        modelCode="INDIVIDUAL"
+        noIndex="true"
+        offeringsProduct="product-code-ACRO"
+        orderDate="{Date}2017-05-10T22:47:00.000-07:00"
+        pageTitle="Acrobat Standard DC"
+        pricePoint="REGULAR"
+        removeFromHtmlSitemap="true"
+        removeFromSitemap="true"
+        removeFromXmlSitemap="true"
+        tryLinkModalScrolling="no"
+        tryLinkModalSize="426x240"
+        tryLinkProductPlanModalScrolling="no"
+        tryLinkProductPlanModalSize="426x240"
+        tryLinkProductPlanTarget="_self"
+        tryLinkTarget="_self"
+        useH1Tags="pageTitle">
+        <sectionMore
+            jcr:primaryType="nt:unstructured"
+            linkModalScrolling="no"
+            linkModalSize="426x240"
+            linkTarget="_self"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2020-05-06T19:01:37.462Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2020-05-06T19:01:37.462Z"
+                    jcr:lastModifiedBy="golee"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <links
+            jcr:primaryType="nt:unstructured"
+            sort_mdv="[0]">
+            <_x0030_
+                jcr:primaryType="nt:unstructured"
+                cardLinktarget="_self"
+                cardLinkText="Buy now"
+                cardLinkType="buttonlink"
+                cardLinkURL="https://acrobat.adobe.com/us/en/acrobat/pricing.html?promoid=2NVQCD75&amp;mv=other"/>
+        </links>
+    </jcr:content>
+</jcr:root>

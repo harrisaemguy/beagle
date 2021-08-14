@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-08-01T18:04:14.503Z"
+        cq:lastModifiedBy="wmyersta"
+        cq:lastReplicated="{Date}2017-01-06T06:48:19.764Z"
+        cq:lastReplicatedBy="kunsingh"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:language="en"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Adobe Flash Player Distribution"
+        jcr:uuid="98b58033-b2bf-4e56-8343-1183c5ce5fa2"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Adobe Flash Player Distribution | Adobe"
+        distProduct="flash"
+        distType="dist4"
+        expirationText="&lt;p>Your license for Adobe Flash&amp;nbsp;Player distribution expired on ####.&lt;/p>&#xa;&lt;p>Please re-apply at&amp;nbsp;&lt;a target=&quot;_blank&quot; href=&quot;http://www.adobe.com/products/players/flash-player-distribution.html&quot;>http://www.adobe.com/products/players/flash-player-distribution.html&lt;/a>&lt;/p>&#xa;"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideInBreadcrumb="true"
+        hideInSectionNav="true"
+        hideMerchandisingBar="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        iconModeAndroid="icon"
+        invalidAccessText="&lt;p>No Adobe Flash Player&amp;nbsp;distribution license found for this user.&lt;/p>&#xa;&lt;p>Please apply by visiting&amp;nbsp;&lt;a target=&quot;_blank&quot; href=&quot;http://www.adobe.com/products/players/flash-player-distribution.html&quot;>http://www.adobe.com/products/players/flash-player-distribution.html&lt;/a>&lt;/p>&#xa;"
+        marketSegmentRewrite="none"
+        metaDescription="Adobe Flash Player Distribution"
+        modalSize="426x240"
+        navTitle="Adobe Flash Player Distribution"
+        noFollow="true"
+        noIndex="true"
+        pageTitle="Adobe Flash Player Distribution"
+        product="flash_player"
+        siteCatalystFamilyName="Adobe Flash runtimes"
+        stagelastReplicated="06-Jan-2017 06:38"
+        stagelastReplicatedBy="kunsingh"
+        stageLastReplicationAction="ActivatedtoStage">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="10">
+            <image
+                jcr:lastModified="{Date}2016-08-01T18:04:14.478Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2016-08-01T18:04:14.478Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_9ca9
+                jcr:created="{Date}2015-11-24T10:22:53.036Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2015-11-24T10:31:48.900Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="4"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-11-24T10:31:48.900Z"
+                        jcr:lastModifiedBy="loewy"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_9ca9>
+            <column_4f9c
+                jcr:created="{Date}2015-11-24T13:20:01.376Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2015-12-03T14:52:37.326Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="2"
+                grid0="8"
+                grid1="4"
+                grid2="4"
+                layout="2;grid-cols-8;grid-cols-4 grid-offset-2;"
+                layoutMode="structured"
+                multiplier="3"
+                offset1="2"
+                offset2="2"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-12-03T14:52:37.326Z"
+                        jcr:lastModifiedBy="loewy"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_4f9c>
+            <text_97e1
+                jcr:created="{Date}2015-11-24T12:21:25.293Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2016-07-13T16:22:30.258Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>Thank you for your interest in Adobe Flash Player.&lt;/p>&#xa;&lt;p>IMPORTANT: Please review the &lt;a href=&quot;https://www.adobe.com/products/flashplayer/tech-specs.html&quot; target=&quot;_self&quot;>system requirements&lt;/a> for detailed information on supported operating systems, browsers, and languages before downloading and installing this software.&lt;/p>&#xa;&lt;p>In order to distribute Adobe Flash Player you need to have a valid Adobe Flash Player Distribution License Agreement in place. &lt;a href=&quot;https://www.adobe.com/products/players/flash-player-distribution.html&quot; target=&quot;_self&quot;>Click here for details&lt;/a>.&lt;/p>&#xa;&lt;p>On this page you will find information about your license and the Flash Player installation packages for your use. Use the installers to distribute Flash Player to your end-users.&lt;/p>&#xa;&lt;p>Your license term is one (1) year from the date you accepted the agreement. You must apply for a new license before the end of that term should you wish to renew. You will receive a reminder email at the address you provided 30 days prior to the expiration.&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;a href=&quot;https://www.adobe.com/products/flashplayer/faq.html&quot; target=&quot;_self&quot;>Read the FAQ&lt;/a>&lt;/li>&#xa;&lt;li>&lt;a href=&quot;http://www.adobe.com/products/clients/all_dist_agreement.html&quot; target=&quot;_self&quot;>View the license agreement&lt;/a>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                textIsRich="true"/>
+            <break_14483712014020
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_4f9c"/>
+            <text_ec69
+                jcr:created="{Date}2015-11-24T12:17:05.509Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2015-11-24T12:19:52.399Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;i class=&quot;adobe-icon-color-creativecloud-app&quot;>&lt;/i>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a target=&quot;_self&quot; href=&quot;https://creative.adobe.com/&quot;>Log in to Creative Cloud&lt;/a>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <text_e0c5
+                jcr:created="{Date}2015-11-24T11:58:12.828Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2015-11-24T12:20:06.299Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;i class=&quot;adobe-icon-color-flashplayer&quot;>&lt;/i>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a target=&quot;_self&quot; href=&quot;https://www.adobe.com/go/getflashplayer/&quot;>Download Adobe Flash Player&lt;/a>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <end_14483712014042
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_4f9c"/>
+            <horizontalrule_5dbb
+                jcr:created="{Date}2015-11-24T13:25:55.179Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2015-11-24T13:25:55.179Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_6d6a
+                jcr:created="{Date}2015-11-24T13:29:33.163Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2016-07-13T15:00:52.337Z"
+                jcr:lastModifiedBy="wormald"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>&lt;strong>&lt;br>&#xa; Downloads&lt;/strong>&lt;br>&#xa;Flash Player 22.0.0.209 (Mac &amp;amp; Win NPAPI &amp;amp; PPAPI); 22.0.0.210 (Win ActiveX)&lt;br>&#xa;&amp;nbsp;&lt;/h4>&#xa;"
+                textIsRich="true"/>
+            <table_1ec5
+                jcr:created="{Date}2015-11-24T13:31:34.728Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2016-06-23T12:10:06.203Z"
+                jcr:lastModifiedBy="bgupta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/table"
+                tableDataHTML="&lt;table class=&quot;stripe-grey-white-reverse data-table-row-em data-table-col-em-none&quot; width=&quot;100%&quot;>&#xa;&lt;tbody>&lt;tr>&lt;td>Operating System&lt;/td>&#xa;&lt;td>Flash Player Type&lt;/td>&#xa;&lt;td>Languages&lt;/td>&#xa;&lt;td>Installers&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Windows&lt;/td>&#xa;&lt;td>Internet Explorer-Active X&lt;/td>&#xa;&lt;td>All supported langages&lt;/td>&#xa;&lt;td>&lt;ul>&#xa;&lt;li>&lt;a href=&quot;https://fpdownload.macromedia.com/get/flashplayer/distyfp/current/win/install_flash_player_22_active_x.exe&quot; adhocenable=&quot;false&quot;>Download EXE Installer&lt;/a>&lt;/li>&#xa;&lt;li>&lt;a href=&quot;https://fpdownload.macromedia.com/get/flashplayer/distyfp/current/win/install_flash_player_22_active_x.msi&quot; adhocenable=&quot;false&quot;>Download MSI Installer&lt;/a>&lt;/li>&#xa;&lt;li>&lt;a href=&quot;https://www.adobe.com/licensing/distribution/strategies/sms.html&quot; adhocenable=&quot;false&quot;>Import SCCM/ConfigMgr SCUP Catalog*&lt;/a>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Windows&lt;/td>&#xa;&lt;td>Firefox and Netscape Plug-In compatible applications – NPAPI&lt;/td>&#xa;&lt;td>All supported languages&lt;/td>&#xa;&lt;td>&lt;ul>&#xa;&lt;li>&lt;a href=&quot;https://fpdownload.macromedia.com/get/flashplayer/distyfp/current/win/install_flash_player_22_plugin.exe&quot; adhocenable=&quot;false&quot;>Download EXE Installer&lt;/a>&lt;/li>&#xa;&lt;li>&lt;a href=&quot;https://fpdownload.macromedia.com/get/flashplayer/distyfp/current/win/install_flash_player_22_plugin.msi&quot; adhocenable=&quot;false&quot;>Download MSI Installer&lt;/a>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Windows&lt;/td>&#xa;&lt;td>Opera and Chromium based applications – PPAPI&lt;/td>&#xa;&lt;td>All supported languages&lt;/td>&#xa;&lt;td>&lt;ul>&#xa;&lt;li>&lt;a adhocenable=&quot;false&quot; href=&quot;https://fpdownload.macromedia.com/get/flashplayer/distyfp/current/win/install_flash_player_22_ppapi.exe&quot;>Download EXE Installer&lt;/a>&lt;/li>&#xa;&lt;li>&lt;a adhocenable=&quot;false&quot; href=&quot;https://fpdownload.macromedia.com/get/flashplayer/distyfp/current/win/install_flash_player_22_ppapi.msi&quot;>Download MSI Installer&lt;/a>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Mac OS X (Intel)&lt;/td>&#xa;&lt;td>Firefox and Netscape Plug-In compatible applications – NPAPI&lt;/td>&#xa;&lt;td>All supported languages&lt;/td>&#xa;&lt;td>&lt;ul>&#xa;&lt;li>&lt;a href=&quot;https://fpdownload.macromedia.com/get/flashplayer/distyfp/current/mac/install_flash_player_22_osx.dmg&quot; adhocenable=&quot;false&quot;>Download DMG Installer&lt;/a>&lt;/li>&#xa;&lt;li>&lt;a href=&quot;https://fpdownload.macromedia.com/get/flashplayer/distyfp/current/mac/install_flash_player_22_osx_pkg.dmg&quot; adhocenable=&quot;false&quot;>Download DMG Installer&lt;/a> (for System Administrators)&lt;/li>&#xa;&lt;/ul>&#xa;&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Mac OS X (Intel)&lt;/td>&#xa;&lt;td>Opera and Chromium based applications – PPAPI&lt;/td>&#xa;&lt;td>All supported languages&lt;/td>&#xa;&lt;td>&lt;ul>&#xa;&lt;li>&lt;a adhocenable=&quot;false&quot; href=&quot;https://fpdownload.macromedia.com/get/flashplayer/distyfp/current/mac/install_flash_player_22_osx_ppapi.dmg&quot;>Download DMG Installer&lt;/a>&lt;/li>&#xa;&lt;li>&lt;a adhocenable=&quot;false&quot; href=&quot;https://fpdownload.macromedia.com/get/flashplayer/distyfp/current/mac/install_flash_player_22_osx_ppapi_pkg.dmg&quot;>Download DMG Installer&lt;/a>&amp;nbsp;(for System Administrators)&lt;/li>&#xa;&lt;/ul>&#xa;&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Windows and Mac&lt;/td>&#xa;&lt;td>All supported browsers&lt;/td>&#xa;&lt;td>All supported languages&lt;/td>&#xa;&lt;td>&lt;ul>&#xa;&lt;li>&lt;a href=&quot;https://fpdownload.macromedia.com/get/flashplayer/distyfp/current/win/fp_background_update.cab&quot; adhocenable=&quot;false&quot;>Download Background Update Resources&lt;/a>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;/td>&#xa;&lt;/tr>&lt;/tbody>&lt;/table>"/>
+            <text_41c2
+                jcr:created="{Date}2015-11-24T13:45:17.716Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2016-05-13T17:47:59.171Z"
+                jcr:lastModifiedBy="wormald"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;br>&#xa;* Customers using the Microsoft System Center Updates Publisher 4.5 can import the Flash Player Catalog for deployment via WSUS 3.0 SP2.&lt;/p>&#xa;&lt;p>Note: As of Windows 8, Microsoft embeds Flash Player in Internet Explorer, and Edge browser in Windows 10. Flash Player ActiveX installers are for Windows 7 and below.&lt;br>&#xa;&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <text_e1ce
+                jcr:created="{Date}2015-11-24T13:46:28.414Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2016-06-30T17:06:40.588Z"
+                jcr:lastModifiedBy="wormald"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>&lt;strong>&lt;br>&#xa; &lt;/strong>Flash Player 11.2.202.632 (Linux)&lt;br>&#xa;&amp;nbsp;&lt;/h4>&#xa;"
+                textIsRich="true"/>
+            <table_48d0
+                jcr:created="{Date}2015-11-24T13:47:55.779Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2016-06-30T17:07:05.053Z"
+                jcr:lastModifiedBy="wormald"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/table"
+                tableDataHTML="&lt;table width=&quot;100%&quot; class=&quot;stripe-grey-white-reverse data-table-row-em data-table-col-em-none&quot;>&#xa;&lt;tbody>&lt;tr>&lt;td>Operating System&lt;/td>&#xa;&lt;td>Browsers&lt;/td>&#xa;&lt;td>Languages&lt;/td>&#xa;&lt;td>Installers&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Linux (64-bit)&lt;/td>&#xa;&lt;td>All supported browsers&lt;/td>&#xa;&lt;td>All supported langages&lt;/td>&#xa;&lt;td>&lt;ul>&#xa;&lt;li>&lt;a href=&quot;https://fpdownload.macromedia.com/get/flashplayer/distyfp/current/linux/flash-plugin-11.2.202.632-release.x86_64.rpm&quot; adhocenable=&quot;false&quot;>Download RPM Installer&lt;/a>&lt;/li>&#xa;&lt;li>&lt;a href=&quot;https://fpdownload.macromedia.com/get/flashplayer/distyfp/current/linux/install_flash_player_11_linux.x86_64.tar.gz&quot; adhocenable=&quot;false&quot;>Download GZiP Installer (for other Linux)&lt;/a>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Linux (32-bit)&lt;/td>&#xa;&lt;td>All supported browsers&lt;/td>&#xa;&lt;td>All supported languages&lt;/td>&#xa;&lt;td>&lt;ul>&#xa;&lt;li>&lt;a href=&quot;https://fpdownload.macromedia.com/get/flashplayer/distyfp/current/linux/flash-plugin-11.2.202.632-release.i386.rpm&quot; adhocenable=&quot;false&quot;>Download RPM Installer&lt;/a>&lt;/li>&#xa;&lt;li>&lt;a href=&quot;https://fpdownload.macromedia.com/get/flashplayer/distyfp/current/linux/install_flash_player_11_linux.i386.tar.gz&quot; adhocenable=&quot;false&quot;>Download GZIP Installer (for other Linux)&lt;/a>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Solaris (Sparc)&lt;br>&#xa;11.2.202.223&lt;/td>&#xa;&lt;td>All supported browsers&lt;/td>&#xa;&lt;td>All supported languages&lt;/td>&#xa;&lt;td>&lt;ul>&#xa;&lt;li>&lt;a href=&quot;https://fpdownload.macromedia.com/get/flashplayer/distyfp/current/solaris/flash_player_11_solaris_sparc.tar.bz2&quot; adhocenable=&quot;false&quot;>Download GZIP Installer&lt;/a>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Solaris (X86)&lt;br>&#xa;11.2.202.223&lt;/td>&#xa;&lt;td>All supported browsers&lt;/td>&#xa;&lt;td>All supported languages&lt;/td>&#xa;&lt;td>&lt;ul>&#xa;&lt;li>&lt;a href=&quot;https://fpdownload.macromedia.com/get/flashplayer/distyfp/current/solaris/flash_player_11_solaris_x86.tar.bz2&quot; adhocenable=&quot;false&quot;>Download GZIP Installer&lt;/a>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;/td>&#xa;&lt;/tr>&lt;/tbody>&lt;/table>"/>
+            <text_81c8
+                jcr:created="{Date}2015-11-24T14:05:44.695Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2015-11-24T14:06:08.532Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;br>&#xa;Note: Flash Player 11.2 is the last supported Flash Player version for Linux OS. Adobe will continue to provide security updates.&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <column_3894
+                jcr:created="{Date}2015-11-24T14:11:55.943Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2016-07-01T00:54:38.072Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="2"
+                grid0="4"
+                grid1="8"
+                grid2="2"
+                layout="2;grid-cols-4;grid-cols-8;"
+                layoutMode="structured"
+                multiplier="3"
+                offset2="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-07-01T00:54:38.072Z"
+                        jcr:lastModifiedBy="karchie"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_3894>
+            <image_d15d
+                jcr:created="{Date}2016-07-01T00:54:09.107Z"
+                jcr:createdBy="karchie"
+                jcr:lastModified="{Date}2016-07-01T00:55:19.201Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="stop"
+                fileReference="/content/dam/acom/en/products/flashplayer/images/stop-sign-112x108.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-07-01T00:55:19.201Z"
+                    jcr:lastModifiedBy="karchie"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d15d>
+            <break_14483743159690
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_3894"/>
+            <text_c50c
+                jcr:created="{Date}2016-07-01T00:54:51.378Z"
+                jcr:createdBy="karchie"
+                jcr:lastModified="{Date}2016-07-01T00:54:51.378Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>&lt;strong>Extended Support Release - Flash Player&amp;nbsp;18.0.0.366 (Win &amp;amp; Mac)&lt;/strong>&lt;/h4>&#xa;&lt;h4>&amp;nbsp;&lt;/h4>&#xa;&lt;h4>&lt;strong>ATTENTION: Important Changes to Extended Support Release&lt;/strong>&lt;br>&#xa;&lt;/h4>&#xa;"
+                textIsRich="true"/>
+            <text_dd4a
+                jcr:created="{Date}2016-07-01T00:54:57.498Z"
+                jcr:createdBy="karchie"
+                jcr:lastModified="{Date}2016-07-01T00:54:57.498Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>The Extended Support Release was originally created to help minimize the time IT administrators spend certifying a new Flash Player release, by restricting the number of changes introduced in a given release to only security changes and critical functional fixes. &amp;nbsp;At the time, functional changes far outweighed the number of security fixes included with each release of Flash Player. &amp;nbsp;In the modern security landscape; however, the opposite is true and the combination of proactive and responsive security mitigations far outweigh functional changes. &amp;nbsp;In practice, the ESR no longer insulates IT organizations from the vast majority of changes included in the standard Flash Player release, providing little relief in terms of reduced functional risk. &amp;nbsp;&lt;strong>As a result, we have decided to discontinue the ESR branch and instead focus solely on the standard release. &lt;/strong>&amp;nbsp;Focusing on the standard release allows us to be more agile in response scenarios, and to focus more deeply on both testing and new security engineering efforts moving forward.&lt;/p>&#xa;&lt;p>To permit organizations sufficient time for testing and certification, the ESR will be maintained and updated until &lt;strong>October 11, 2016&lt;/strong>, after which point organizations will need to transition to the standard release.&lt;br>&#xa;&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <end_14483743159702
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_3894"/>
+            <table_5816
+                jcr:created="{Date}2015-11-24T14:18:55.606Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2016-06-23T12:02:18.366Z"
+                jcr:lastModifiedBy="bgupta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/table"
+                tableDataHTML="&lt;table width=&quot;100%&quot; class=&quot;stripe-grey-white-reverse data-table-row-em data-table-col-em-none&quot;>&#xa;&lt;tbody>&lt;tr>&lt;td>Operating System&lt;/td>&#xa;&lt;td>Flash Player Type&lt;/td>&#xa;&lt;td>Languages&lt;/td>&#xa;&lt;td>Installers&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Windows&lt;/td>&#xa;&lt;td>Internet Explorer-AciveX&lt;/td>&#xa;&lt;td>All supported langages&lt;/td>&#xa;&lt;td>&lt;ul>&#xa;&lt;li>&lt;a href=&quot;https://fpdownload.macromedia.com/get/flashplayer/distyfp/current/win/install_flash_player_18_active_x.exe&quot; adhocenable=&quot;false&quot;>Download EXE Installer&lt;/a>&lt;/li>&#xa;&lt;li>&lt;a href=&quot;https://fpdownload.macromedia.com/get/flashplayer/distyfp/current/win/install_flash_player_18_active_x.msi&quot; adhocenable=&quot;false&quot;>Download MSI Installer&lt;/a>&lt;/li>&#xa;&lt;li>&lt;a href=&quot;https://www.adobe.com/licensing/distribution/strategies/sms.html&quot; adhocenable=&quot;false&quot;>Import SCCM/ConfigMgr SCUP Catalog*&lt;/a>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Windows&lt;/td>&#xa;&lt;td>Firefox and Netscape Plug-In compatible applications – NPAPI&lt;/td>&#xa;&lt;td>All supported languages&lt;/td>&#xa;&lt;td>&lt;ul>&#xa;&lt;li>&lt;a href=&quot;https://fpdownload.macromedia.com/get/flashplayer/distyfp/current/win/install_flash_player_18_plugin.exe&quot; adhocenable=&quot;false&quot;>Download EXE Installer&lt;/a>&lt;/li>&#xa;&lt;li>&lt;a href=&quot;https://fpdownload.macromedia.com/get/flashplayer/distyfp/current/win/install_flash_player_18_plugin.msi&quot; adhocenable=&quot;false&quot;>Download MSI Installer&lt;/a>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Mac OS X (Intel)&lt;/td>&#xa;&lt;td>Safari, Firefox and Netscape Plug-In compatible applications - NPAPI&lt;/td>&#xa;&lt;td>All supported languages&lt;/td>&#xa;&lt;td>&lt;ul>&#xa;&lt;li>&lt;a href=&quot;https://fpdownload.macromedia.com/get/flashplayer/distyfp/current/mac/install_flash_player_18_osx.dmg&quot; adhocenable=&quot;false&quot;>Download DMG Installer&lt;/a>&lt;/li>&#xa;&lt;li>&lt;a href=&quot;https://fpdownload.macromedia.com/get/flashplayer/distyfp/current/mac/install_flash_player_18_osx_pkg.dmg&quot; adhocenable=&quot;false&quot;>Download DMG Installer&lt;/a> (for System Administrators)&lt;/li>&#xa;&lt;/ul>&#xa;&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Windows and Mac&lt;/td>&#xa;&lt;td>All supported browsers&lt;/td>&#xa;&lt;td>All supported languages&lt;/td>&#xa;&lt;td>&lt;ul>&#xa;&lt;li>&lt;a href=&quot;https://fpdownload.macromedia.com/get/flashplayer/distyfp/current/win/fp_background_update_18.cab&quot; adhocenable=&quot;false&quot;>Download Background Update Resources&lt;/a>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;/td>&#xa;&lt;/tr>&lt;/tbody>&lt;/table>"/>
+            <text_c03d
+                jcr:created="{Date}2016-05-13T17:48:19.733Z"
+                jcr:createdBy="wormald"
+                jcr:lastModified="{Date}2016-05-13T17:48:33.908Z"
+                jcr:lastModifiedBy="wormald"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>Note: As of Windows 8, Microsoft embeds Flash Player in Internet Explorer, and Edge browser in Windows 10. Flash Player ActiveX installers are for Windows 7 and below.&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <text_1ecf
+                jcr:created="{Date}2015-11-24T14:23:57.723Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2015-12-03T10:23:03.873Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h5>&lt;br>&#xa;Related Information&lt;/h5>&#xa;"
+                textIsRich="true"/>
+            <text_4d54
+                jcr:created="{Date}2015-11-24T14:24:39.007Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2016-02-26T17:16:20.045Z"
+                jcr:lastModifiedBy="wormald"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;a href=&quot;http://www.adobe.com/devnet/flashplayer/articles/flash_player_admin_guide.html&quot;>Flash Player Administration Guide&lt;/a>&lt;/li>&#xa;&lt;li>&lt;a href=&quot;http://www.adobe.com/licensing/distribution/strategies/&quot;>Strategies for Deploying Adobe Flash Player&lt;/a>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                textIsRich="true"/>
+            <horizontalrule_610f
+                jcr:created="{Date}2015-11-24T14:23:20.696Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2015-11-24T14:23:20.696Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_76cf
+                jcr:created="{Date}2015-12-03T10:09:33.807Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2015-12-03T10:24:51.065Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                multiplier="4"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-12-03T10:24:51.065Z"
+                        jcr:lastModifiedBy="loewy"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_76cf>
+            <text_4656
+                jcr:created="{Date}2015-12-03T10:10:32.447Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2015-12-03T10:20:48.023Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h5>Learning&lt;/h5>&#xa;&lt;p>&lt;a href=&quot;//www.adobe.com/devnet/games.html&quot; target=&quot;_self&quot;>Game Developer Center&lt;/a>&lt;br>&#xa;&lt;a href=&quot;http://groups.adobe.com/pages/home&quot; target=&quot;_blank&quot;>User groups&lt;/a>&lt;br>&#xa;&lt;a href=&quot;//www.adobe.com/devnet/flashplayer.html&quot; target=&quot;_self&quot;>Flash Player Developer Center&lt;/a>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <break_14491374060490
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_76cf"/>
+            <text_de5d
+                jcr:created="{Date}2015-12-03T10:11:33.930Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2015-12-03T10:19:46.555Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h5>Help&lt;/h5>&#xa;&lt;p>&lt;a href=&quot;//www.adobe.com/support/flashplayer/&quot;>Help and support&lt;/a>&lt;br>&#xa;&lt;a href=&quot;http://forums.adobe.com/community/webplayers/flash_player&quot; target=&quot;_blank&quot;>User forums&lt;/a>&lt;br>&#xa;&lt;a href=&quot;http://www.macromedia.com/support/documentation/en/flashplayer/help/&quot; target=&quot;_blank&quot;>Flash Player help (Settings Manager)&lt;/a>&lt;br>&#xa;&lt;a href=&quot;//www.adobe.com/devnet/actionscript/documentation.html&quot; target=&quot;_self&quot;>Documentation&lt;/a>&lt;br>&#xa;&lt;a href=&quot;//www.adobe.com/support/documentation/en/flashplayer/releasenotes.html&quot; target=&quot;_self&quot;>Release notes&lt;/a>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <break_14491374060501
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_76cf"/>
+            <text_6e62
+                jcr:created="{Date}2015-12-03T10:11:38.347Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2015-12-03T10:17:52.108Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h5>Resources&lt;/h5>&#xa;&lt;p>&lt;a href=&quot;http://gaming.adobe.com/showcase&quot; target=&quot;_blank&quot;>Gaming showcase&lt;/a>&lt;br>&#xa;                        &lt;a href=&quot;//www.adobe.com/flashplatform/certified_devices/&quot; target=&quot;_blank&quot;>Supported devices&lt;/a>&lt;br>&#xa;                        &lt;a href=&quot;//www.adobe.com/devnet/games.html&quot; target=&quot;_self&quot;>For game developers&lt;/a>&lt;br>&#xa;                        &lt;a href=&quot;//www.adobe.com/devnet/devices.html&quot;>For mobile developers&lt;/a>&lt;br>&#xa;                        &lt;a href=&quot;//www.adobe.com/devnet/video.html&quot; target=&quot;_self&quot;>For video developers&lt;/a>&lt;br>&#xa;                        &lt;a href=&quot;//www.adobe.com/devnet/enterprise-platform.html&quot; target=&quot;_self&quot;>For enterprise developers&lt;/a>&lt;br>&#xa;                        &lt;a href=&quot;http://blogs.adobe.com/flashruntimereleases&quot; target=&quot;_blank&quot;>Flash runtimes blog&lt;/a>&lt;br>&#xa;                        &lt;a href=&quot;//www.adobe.com/products/flashplayer/security/&quot; target=&quot;_self&quot;>Security and privacy&lt;/a>&lt;br>&#xa;                        &lt;a href=&quot;//www.adobe.com/licensing/&quot; target=&quot;_self&quot;>Licensing&lt;/a>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <break_14491374060502
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_76cf"/>
+            <end_14491373738300
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_76cf"/>
+            <end_14483605730770
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_9ca9"/>
+        </contentbody>
+    </jcr:content>
+</jcr:root>

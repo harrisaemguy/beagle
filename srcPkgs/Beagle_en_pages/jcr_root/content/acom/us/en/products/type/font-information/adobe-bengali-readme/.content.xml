@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-09-07T10:57:32.540-07:00"
+        cq:lastModifiedBy="wmyersta"
+        cq:template="/apps/beagle/templates/freelinkpage"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Adobe Bengali Readme"
+        sling:resourceType="beagle/components/freelinkpage"
+        bodyClass="whiteBackground"
+        languageDirection="ltr">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <text_3_ffde2682-32b0-4c81-8519-d0c96eacd2f0
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;&quot;>This document contains product information, updates, and troubleshooting tips.&lt;/p>&#xa;"/>
+            <text_12ac035c-fa02-41a5-9db9-58f44333c23b
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;strong>History&lt;/strong>&lt;/p>&#xa;&lt;p>বাংলা লিপি বিশেষজ্ঞ ফিয়োনা রোস-এর ডিজাইন সংক্রান্ত পরামর্শ অনুসারে, Adobe বাংলা টাইপফেস-এর ডিজাইনটি করেছিলেন নীলাকাশ ক্ষেত্রীমায়ুম।&amp;nbsp; Adobe-এর অন্যান্য ব্রাহ্মী লিপির ফন্টগুলির সাথে আপাত সাইজ ও স্টাইল উভয় দিক থেকেই সমন্বয়পূর্ণ করে তোলার জন্য এই টাইপ ফ্যামিলিটির ডিজাইন করা হয়েছিল, যাতে সুনিশ্চিত করা যায় যে টাইপফেস ফ্যামিলিগুলির এই গুচ্ছটিকে একটি সিস্টেম হিসাবে একত্রে টাইপসেট করা যায়।&amp;nbsp; &amp;nbsp; &amp;nbsp; প্রাথমিক অভিপ্রেত ব্যবহারটি – প্রিন্টের আউটপুটগুলির জন্য, বিশেষ করে নিরবচ্ছিন্নভাবে পাঠ্যাংশ সেটিং করা – ডিজাইনের লক্ষ্যটিকে পথনির্দেশ দিয়েছিল।&lt;/p>&#xa;&lt;p>অক্ষরের গঠনটি প্রথাগত বাংলা ক্যালিগ্রাফির উপর ভিত্তি করে গড়ে উঠেছিল এবং নিয়মের তুলনায় কিছুটা কম করে কন্ট্রাস্ট বন্টন করা হয়েছিল যাতে ছোট হরফেও সুস্পষ্ট, পাঠযোগ্য একটি আকার বজায় রাখা যায়।&amp;nbsp; আকার সৃষ্টি ও নিঁখুততার প্রতি সযত্ন মনোযোগ এই টাইপফেসগুলিকে বড় হরফের ডিসপ্লে টাইপগুলির মতোই ভালভাবে কাজ করতে সমর্থ করে তোলে।&lt;/p>&#xa;&lt;p>অক্ষর এনকোড করা এবং ওপেনটাইপ লেআউট-এর সুবিধা দেওয়ার জন্য Adobe বাংলা ফন্টগুলি ইউনিকোড স্ট্যান্ডার্ড মেনে চলে যাতে লিপির সঠিক আকার সৃষ্টি করা যায় এবং নিঁখুতভাবে চিহ্নগুলি বসানো যায়। বাংলা পাঠকে সবচেয়ে স্বাভাবিকভাবে উপস্থাপন করার জন্য ফন্টগুলির সাথে বাংলা যুক্তাক্ষরের একটি সম্পূর্ণ সেট যুক্ত করা হয়েছে।&amp;nbsp; সংলগ্ন অক্ষর বা যুক্তাক্ষরের বিস্তার অনুযায়ী ইকার —ি এবং ী— এর দৈর্ঘ্য আপনা থেকেই পরিবর্তিত হয়।&amp;nbsp; ডিজাইনার সকল স্বরবর্ণের চিহ্ন ও পরিবর্তকগুলিকে সযত্নে বসানোর বন্দোবস্ত রেখেছেন। বাংলা এবং ইউরোপীয়ান স্টাইলে প্রোপোরশানাল ও ট্যাবুলার উভয়ভাবে লেখা সংখ্যাগুলিই ফন্টটির অন্তর্ভুক্ত।&lt;/p>&#xa;&lt;p>গত কয়েক দশক ধরে প্রকাশনা শিল্পক্ষেত্রটিতে বহুল আধিপত্য বিস্তার করে থাকা লিনোটাইল বাংলা এবং এটির অনুরূপগুলির বিকল্প হিসাবে, ডিজিটাল বাংলা ফন্টগুলির রীতিতে Adobe বাংলা ফন্টগুলির সংযোজনকে স্বাগত&amp;nbsp; জানানো হয়।&lt;/p>&#xa;&lt;p>The Adobe Bengali typeface was designed by Neelakash Kshetrimayum, with Bengali script expert Fiona Ross consulting on the design. This type family was designed to harmonize with Adobe’s other Brahmic fonts, both in terms of apparent size and style, to ensure that this suite of typefaces families can be typeset together as a system. The primary intended usage — for printed outputs, particularly continuous text settings — guided the design direction. The letter construction is based on traditional Bengali calligraphy and features a contrast distribution somewhat lower than the norm so as to maintain strong, legible forms at small sizes. Careful attention to shaping and details allow these typefaces to also serve well as display types at larger sizes. The Adobe Bengali fonts comply with the Unicode standard for character encoding and leverage OpenType&lt;sup>®&lt;/sup>&amp;nbsp;layout to produce correct script shaping and accurate mark placement. A full set of Bengali conjuncts is included in the fonts to provide the most natural representation of Bengali text. The length of the ikars—િ and ી—varies automatically according to adjacent letter or conjunct width. The designer has provided careful placement of all vowel signs and modifiers. The fonts include both proportional and tabular numerals in Bengali and European styles. The Adobe Bengali fonts are a welcome addition to the canon of digital Bengali fonts as an alternative to Linotype Bengali and its clones, which have dominated much of the publication industry for the past several decades.&lt;/p>&#xa;&lt;p>&lt;strong>Menu Names And Style Linking&lt;/strong>&lt;/p>&#xa;&lt;p>In many Windows&lt;sup>®&lt;/sup>&amp;nbsp;applications, instead of every font appearing on the menu, fonts are grouped into style-linked sets, and only the name of the base style font for a set is shown in the menu. The italic and the bold weight fonts of the set (if any) are not shown in the font menu, but can still be accessed by selecting the base style font, and then using the italic and bold style buttons. In this family, such programs will show only the following base style font name in the menu:&lt;/p>&#xa;&lt;p>Adobe Bengali&lt;br>&#xa;&lt;/p>&#xa;&lt;p>To access the bold style, use the bold style button.&lt;/p>&#xa;&lt;p>On the Mac OS operating system, although each font appears as a separate entry on the font menu, users may also select fonts by means of style links. Selecting a base style font and then using the style links (as described above for Windows applications) enhances cross-platform document compatibility with many applications, such as Microsoft Word and Adobe PageMaker&amp;nbsp;software, although it is unnecessary with more sophisticated Adobe applications such as recent versions of Illustrator, Photoshop&amp;nbsp;or InDesign&amp;nbsp;software.&lt;/p>&#xa;&lt;p>One should not, however, select a base font which has no style-linked variant, and then use the bold or italic styling button. Doing so will either have no effect, or result in programmatic bolding or slanting of the base font, which will usually produce inferior screen and print results.&lt;/p>&#xa;"/>
+            <text_0_010f000c-6a00-40ac-a199-c707f0482301
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>For all fonts of family Adobe Bengali: version 1.031 created on Fri Nov 15 11:50:20 2013.&lt;/p>&#xa;&lt;p>version 1.030 created 2014/04/02&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>First release.&lt;/li>&#xa;&lt;/ul>&#xa;"/>
+            <text_1_d220a03b-4b2e-4e97-be9e-f4fac10ee346
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>Some glyphs in the font cannot be accessed unless you are using an OpenType compatible application.&lt;/p>&#xa;"/>
+            <text_2_ae997d7f-6c79-4c8a-a6a9-45d5b980828a
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>If you require technical assistance, please email us at &lt;a href=&quot;mailto:type-questions@adobe.com&quot;>type-questions@adobe.com&lt;/a>. Font specific resources can also be found on the&amp;nbsp;&lt;a href=&quot;http://forums.adobe.com/community/typography_fonts&quot;>Adobe Type user-to-user forums&lt;/a>.&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"/>
+        </contentbody>
+    </jcr:content>
+</jcr:root>

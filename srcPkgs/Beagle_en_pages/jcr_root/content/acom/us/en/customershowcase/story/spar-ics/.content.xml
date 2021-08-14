@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-12-23T07:21:16.156Z"
+        cq:lastModifiedBy="handoo"
+        cq:lastReplicated="{Date}2019-12-23T07:22:36.970Z"
+        cq:lastReplicatedBy="handoo"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="SPAR ICS"
+        jcr:uuid="21aee8ca-5387-49ec-8764-ca1c869ab264"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        billingFrequency="ANNUAL"
+        bodyClass="whiteBackground"
+        browserTitle="Adobe | Customer Showcase"
+        channel="adobe.com"
+        commitment="YEAR"
+        distType="dist5"
+        enableBreadcrumb="true"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        gnavTheme="dark"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        isMCPage="true"
+        marketSegmentRewrite="COM"
+        metaDescription="Adobe | Customer Showcase"
+        modalSize="426x240"
+        modelCode="INDIVIDUAL"
+        navTitle=" "
+        overrideBreadcrumbPath="/content/acom/us/en/customershowcase"
+        pageTitle="Adobe Customer Showcase"
+        pricePoint="REGULAR"
+        removeFromHtmlSitemap="true"
+        removeFromXmlSitemap="true"
+        stagelastReplicated="09-Nov-2017 23:51"
+        stagelastReplicatedBy="wmyersta"
+        stageLastReplicationAction="ActivatedtoStage"
+        topPadding="small-top-padding"
+        useH1Tags="pageTitle">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_951442349
+                jcr:created="{Date}2017-11-03T23:47:22.323Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-09T23:51:35.143Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                columnCount="1"
+                grid0="4"
+                layout="1;grid-cols-4 grid-offset-6      ;"
+                multiplier="3"
+                offset0="6"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-09T23:51:35.143Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_951442349>
+            <image_d6ac
+                jcr:created="{Date}2017-02-23T17:11:53.887Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-12-15T21:59:06.117Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="SPAR ICS"
+                fileReference="/content/dam/acom/en/customer-showcase/logo/spar-logo-208x100.png">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-12-15T21:59:06.117Z"
+                    jcr:lastModifiedBy="lsloane"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d6ac>
+            <end_15097528423370
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_951442349"/>
+            <column_403323371
+                jcr:created="{Date}2017-11-03T23:41:11.531Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:47:53.589Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-03T23:47:53.589Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_403323371>
+            <horizontalrule_1747206081
+                jcr:created="{Date}2017-11-03T23:44:09.184Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:44:09.184Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_15097528030730
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_403323371"/>
+            <column_e8e7
+                jcr:created="{Date}2017-04-04T20:12:05.215Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:48:09.441Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                grid0="7"
+                grid1="4"
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="3"
+                offset0="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-03T23:48:09.441Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_e8e7>
+            <text_d97c
+                jcr:created="{Date}2017-02-23T16:59:17.420Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-12-15T22:02:22.035Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>Challenges&lt;/strong>&lt;/div>&#xa;&lt;ul class=&quot;text-5-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Eliminate digital siloes&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;ul class=&quot;text-5-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Address shifts in industry, market, and trade practices&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;ul class=&quot;text-5-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Adopt country-specific strategies that embody local culture&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;ul class=&quot;text-5-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Personalize the customer journey&lt;/span>&lt;br>&#xa;&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;strong>Key products used&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Experience Cloud, including Adobe Experience Manager and Adobe Target within Adobe Marketing Cloud, and Adobe Analytics within Adobe Analytics Cloud&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Consulting&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14913367252261
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_e8e7"/>
+            <horizontalrule
+                jcr:created="{Date}2017-11-03T23:44:00.392Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:44:00.392Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_2de6
+                jcr:created="{Date}2017-02-23T16:57:01.644Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T16:57:18.746Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                section="v"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-02-23T16:57:18.746Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_2de6>
+            <text_86ac
+                jcr:created="{Date}2017-02-23T17:14:47.284Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-12-15T22:03:02.900Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&lt;span class=&quot;text-light&quot;>&lt;strong>Appealing to local appetites.&amp;nbsp;&lt;/strong>&lt;/span>&lt;br>&#xa;&lt;/h3>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>SPAR ICS embraces digital retailing to accommodate regional shopping tastes using Adobe Experience Cloud.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <hero
+                jcr:created="{Date}2017-11-28T19:21:05.456Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-12-15T21:59:37.351Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hero"
+                avoid="hero2-avoid-1"
+                color="hero2-theme-1"
+                height="hero2-size-3"
+                hideArticle="true"
+                hideCredits="true">
+                <image
+                    jcr:lastModified="{Date}2017-12-15T21:59:37.351Z"
+                    jcr:lastModifiedBy="lsloane"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/image"
+                    alt="SPAR ICS"
+                    fileReference="/content/dam/acom/en/customer-showcase/images/spar-ics-660x348.png"
+                    xcord="{Long}50"
+                    ycord="{Long}50"/>
+                <link
+                    jcr:lastModified="{Date}2017-12-15T22:03:26.007Z"
+                    jcr:lastModifiedBy="lsloane"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                    size="854x480"
+                    type="youtube"
+                    youTubeAutoPlay="true"
+                    youTubeUrl="s6q1RvDIFgc">
+                    <social jcr:primaryType="nt:unstructured"/>
+                    <meta
+                        jcr:primaryType="nt:unstructured"
+                        type="website">
+                        <image
+                            jcr:lastModified="{Date}2017-12-15T22:03:26.007Z"
+                            jcr:lastModifiedBy="lsloane"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </meta>
+                    <tracking jcr:primaryType="nt:unstructured"/>
+                </link>
+            </hero>
+            <text_983818343
+                jcr:created="{Date}2017-11-03T23:48:58.346Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:50:29.663Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <horizontalrule_1353714344
+                jcr:created="{Date}2017-11-03T23:49:30.808Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:49:30.808Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_60af
+                jcr:created="{Date}2017-03-10T17:20:44.498Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:48:34.372Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-4-block&quot;>&lt;strong>RESULTS&lt;/strong>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <column_d5e4
+                jcr:created="{Date}2017-03-10T17:19:59.708Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-17T21:33:58.273Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of8;grid-span-7of8;"
+                layout="2;grid-span-1of8;grid-span-7of8;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:33:58.273Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_d5e4>
+            <image_82e1
+                jcr:created="{Date}2017-03-10T17:20:15.347Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-12-15T21:59:46.676Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Results"
+                fileReference="/content/dam/acom/en/customer-showcase/icons/spar-icon1-64x64.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-12-14T18:50:44.245Z"
+                    jcr:lastModifiedBy="lsloane"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_82e1>
+            <break_14891663997230
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_d5e4"/>
+            <text
+                jcr:created="{Date}2017-10-16T20:24:33.526Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-12-15T22:03:48.917Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>INCREASE &lt;/strong>in number of customers&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14891663997231
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_d5e4"/>
+            <column_45e0
+                jcr:created="{Date}2017-03-10T17:19:56.589Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-17T21:34:30.046Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of8;grid-span-7of8;"
+                layout="2;grid-span-1of8;grid-span-7of8;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:34:30.046Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_45e0>
+            <image_9fed
+                jcr:created="{Date}2017-03-10T17:20:11.711Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-12-15T21:59:51.308Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Results"
+                fileReference="/content/dam/acom/en/customer-showcase/icons/spar-icon2-64x64.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-12-14T18:50:53.928Z"
+                    jcr:lastModifiedBy="lsloane"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_9fed>
+            <break_14891663966050
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_45e0"/>
+            <text_c974
+                jcr:created="{Date}2017-03-10T17:20:05.024Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-12-15T22:04:06.145Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Better shopping experience for &lt;strong>HIGHER SALES&lt;/strong>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14891663966061
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_45e0"/>
+            <column_c8c6
+                jcr:created="{Date}2017-03-10T17:18:21.395Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-17T21:34:56.611Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of8;grid-span-7of8;"
+                layout="2;grid-span-1of8;grid-span-7of8;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:34:56.611Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_c8c6>
+            <image_d8a9
+                jcr:created="{Date}2017-03-10T17:18:52.678Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-12-15T22:00:02.256Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Results"
+                fileReference="/content/dam/acom/en/customer-showcase/icons/spar-icon3-64x64.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-12-14T18:51:05.412Z"
+                    jcr:lastModifiedBy="lsloane"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d8a9>
+            <break_14891663014120
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_c8c6"/>
+            <text_1940731405
+                jcr:created="{Date}2017-10-17T20:21:44.671Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-12-15T22:04:21.521Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Support for &lt;strong>GLOBAL EXPANSION&lt;/strong>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14891663014131
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_c8c6"/>
+            <column_30ec
+                jcr:created="{Date}2017-02-23T17:16:55.642Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-17T21:35:17.355Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of8;grid-span-7of8;"
+                layout="2;grid-span-1of8;grid-span-7of8;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:35:17.355Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_30ec>
+            <image_d8d6
+                jcr:created="{Date}2017-02-23T17:17:50.805Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-12-15T22:00:06.281Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Results"
+                fileReference="/content/dam/acom/en/customer-showcase/icons/spar-icon4-64x64.png">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-12-14T18:51:13.428Z"
+                    jcr:lastModifiedBy="lsloane"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d8d6>
+            <break_14878702296900
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_30ec"/>
+            <text_846314396
+                jcr:created="{Date}2017-10-17T20:24:44.711Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-12-15T22:04:37.030Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Maintain &lt;strong>INNOVATION &lt;/strong>and industry leadership&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14878702156510
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_30ec"/>
+            <text_893038935
+                jcr:created="{Date}2017-11-03T23:51:15.852Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:51:15.852Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <horizontalrule_1635904791
+                jcr:created="{Date}2017-11-03T23:51:16.024Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:51:16.024Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_4293
+                jcr:created="{Date}2017-02-23T17:19:06.983Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-12-15T22:05:37.207Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>The changing face of retail&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;The retail industry is one of the most highly impacted by digital disruption. As the influence of connected consumers grows, traditional business models are adapting to new ways of engaging with customers.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;SPAR Information and Communication Services (ICS) has always embraced innovation. As the incumbent IT arm of the SPAR Group, the European retailer specializing in, among other things, grocery and convenience stores, SPAR ICS is considered a pioneer in e-commerce. In fact, SPAR ICS was the first to introduce EDI scanner tills to the retail market in Europe, and also founded the Digital Innovation Forum, which independently drives digital retailing.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;“In the face of changing shopping habits and customer expectations, technology is now at the core of the business,” says Andreas Kranabitl, Managing Director, SPAR ICS. “Digitalization has provided us with many opportunities, but we must be able to capitalize on them.”&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;As SPAR expands, it is met with greater competition, while impending changes in European trade pose further challenges to the business. SPAR ICS saw digital engagement as the way to attract and retain customers and drive ongoing growth.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <pullquote
+                jcr:created="{Date}2017-10-17T20:32:15.365Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-12-15T22:06:07.409Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/pullquote"
+                author="Andreas Kranabitl"
+                fontstyle="italic"
+                quote="We anchor our company strategy around customer experiences. Adobe Experience Cloud gives us the tools to create personalized and consistent digital journeys."
+                title="Managing Director, SPAR ICS"/>
+            <end_14878690216470
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_2de6"/>
+            <column
+                jcr:created="{Date}2017-10-17T20:36:07.860Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-10-17T21:14:33.995Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="4"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:14:33.995Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column>
+            <text_606073231
+                jcr:created="{Date}2017-10-17T20:36:32.876Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-12-15T22:21:53.043Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>Food for thought&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;SPAR ICS wanted to help differentiate the company’s offerings, particularly in the grocery space, which is subject to local customs and preferences. “The way food is purchased in Italy is very different from the way people shop in Austria,” explains Kranabitl. “Understanding local customers’ behaviors and expectations will help us offer the right product at the right price in the right country.”&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;SPAR ICS decided to build out its digital foundation and expand its existing &lt;a href=&quot;https://www.adobe.com/marketing-cloud/experience-manager.html&quot; target=&quot;_blank&quot;>Adobe Experience Manager&lt;/a> footprint. This approach would also eliminate duplicate processes caused by multiple toolsets that lacked integration—which effectively created digital siloes across the organization.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;In addition to using Adobe Experience Manager Assets to manage approximately 500,000 internal assets for internal communications and marketing, SPAR ICS added the Sites capability in Adobe Experience Manager to create, manage, and deliver content to the local landing pages in Austria, Hungary, Slovenia, Italy, and Croatia. Using these Adobe tools SPAR brands can maintain a consistent look and feel, and offer value-added features such as recipe portals to enhance overall shopping experiences.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;“Adobe Experience Manager gives us a central platform for delivering digital experiences that are relevant across all local customer touchpoints,” says Oliver Simmerstatter, Enterprise Architect, SPAR ICS. “This enables us to be much more efficient in our operations.”&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;strong>&lt;br>&#xa;From web to table&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;Serving up local content alone isn’t enough, so SPAR ICS relies on &lt;a href=&quot;http://www.adobe.com/data-analytics-cloud/analytics.html&quot; target=&quot;_blank&quot;>Adobe Analytics&lt;/a> for further insights into what customers want in their respective geographies. The intelligence gathered is then used to determine how SPAR ICS can improve the customer journey. For example, healthy eating is at the forefront of many customers’ minds, and so is price.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;“We want customers to eat well so they can live well,” says Simmerstatter. “Adobe Analytics helps us understand what consumers are looking for so we can provide the best experiences.”&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;To further personalize the shopping journey, SPAR ICS uses the Recommendations and Search and Promote capabilities in &lt;a href=&quot;http://www.adobe.com/marketing-cloud/target.html&quot; target=&quot;_blank&quot;>Adobe Target&lt;/a> to link searches on web pages with relevant e-commerce opportunities. “Creating an exceptional customer experience through relevant offerings is critical to our success,” adds Kranabitl. “We are building on our track record for innovation to maintain our leadership and will continue to push the business forward as it grows.”&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <pullquote_1203464296
+                jcr:created="{Date}2017-12-15T22:07:39.697Z"
+                jcr:createdBy="lsloane"
+                jcr:lastModified="{Date}2017-12-15T22:08:12.164Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/pullquote"
+                author="Oliver Simmerstatter"
+                fontstyle="italic"
+                quote="Adobe Experience Manager gives us a central platform for delivering digital experiences that are relevant across all local customer touchpoints."
+                title="Enterprise Architect, SPAR ICS"/>
+            <end_15082725678780
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column"/>
+            <column_107594481
+                jcr:created="{Date}2017-10-17T20:40:52.905Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-10-17T21:14:43.806Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="4"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:14:43.806Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_107594481>
+            <text_1462718452
+                jcr:created="{Date}2017-10-17T20:41:05.854Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-12-15T22:09:00.396Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>An appetite for change&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;The use of Adobe Experience Cloud has enabled SPAR ICS to expand its digital foundation, with results that can clearly be tracked back to its efforts. In Vienna, a SPAR store featuring digital signage, electronic shelving, and self-checkouts has seen a 50% increase in customers due to the ease of shopping experience—leading to higher sales.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;This early success is just the beginning for SPAR ICS. The organization is working with Adobe Consulting Services to determine how challenges associated with delivery logistics can be addressed through digitalization, and discussing future integration between the content and identity management systems. SPAR ICS is also considering Adobe Campaign for channel marketing, and Adobe Audience Manager for third-party data integration.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;“We anchor our company strategy around customer experiences,” says Kranabitl. “Adobe Experience Cloud gives us the tools to create personalized and consistent digital journeys. As a business unit serving the needs of SPAR, we have moved from purely a support role into being strategically important because of our digital transformation.”&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_15082728529200
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_107594481"/>
+            <column_1396326381
+                jcr:created="{Date}2017-10-17T20:53:47.251Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-10-17T21:15:22.187Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="4"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:15:22.187Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_1396326381>
+            <text_77a9
+                jcr:created="{Date}2017-02-23T17:29:21.117Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-12-15T22:12:08.635Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>SPAR ICS&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Established in 2011, SPAR in 1932&lt;br>&#xa;Employees: 400&lt;br>&#xa;Salzburg, Austria&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.spar-ics.com&quot; target=&quot;_blank&quot;>Visit website ›&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <end_15082736272770
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1396326381"/>
+            <column_583802035
+                jcr:created="{Date}2017-11-04T00:01:09.453Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:01:24.099Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-04T00:01:24.099Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_583802035>
+            <horizontalrule_634136392
+                jcr:created="{Date}2017-11-04T00:01:30.682Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:01:30.682Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_15097536694730
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_583802035"/>
+            <column_7807
+                jcr:created="{Date}2017-02-23T17:21:19.125Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T18:30:55.827Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="2"
+                grid0="7"
+                grid1="3"
+                layout="2;grid-cols-7 grid-offset-3;grid-cols-3;"
+                multiplier="4"
+                offset0="3"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-02-23T18:30:55.827Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_7807>
+            <column_6904
+                jcr:created="{Date}2017-02-23T17:22:13.973Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:01:58.784Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-7;"
+                bgColor=" "
+                layout="1;grid-cols-7;"
+                layoutMode="structured"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-04T00:01:58.784Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_6904>
+            <text_39d8
+                jcr:created="{Date}2017-02-23T17:27:45.232Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-22T19:49:17.622Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: left;&quot;>&lt;span class=&quot;text-light&quot;>Solution at a Glance&amp;nbsp;&lt;/span>&lt;/h3>&#xa;"
+                textIsRich="true"/>
+            <end_14878705339800
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_6904"/>
+            <column_49d
+                jcr:created="{Date}2017-02-23T17:23:00.112Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:56:14.353Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of2;grid-span-1of2;"
+                layout="2;grid-span-1of2;grid-span-1of2;"
+                layoutMode="spatial"
+                multiplier="5"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-03T23:56:14.353Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_49d>
+            <text_1f25
+                jcr:created="{Date}2017-02-23T17:24:49.844Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-12-15T22:15:20.024Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>&lt;a href=&quot;http://www.adobe.com/experience-cloud.html&quot; target=&quot;_blank&quot;>Adobe Experience Cloud&lt;/a>&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;strong>Adobe Marketing Cloud&lt;/strong>&lt;/div>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Adobe Experience Manager&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Assets&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Sites&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Adobe Target&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Recommendations&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Search and Promote&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;strong>Adobe Analytics Cloud&lt;/strong>&lt;/div>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Adobe Analytics&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;strong>Adobe Consulting&lt;/strong>&lt;br>&#xa;&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <break_14878706021930
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_49d"/>
+            <text_b571
+                jcr:created="{Date}2017-02-23T17:26:44.047Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-12-15T22:15:33.788Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"/>
+            <end_14878705801220
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_49d"/>
+            <break_14878705074930
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_7807"/>
+            <end_14878704791310
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_7807"/>
+            <horizontalrule_1162472091
+                jcr:created="{Date}2017-11-04T00:02:41.125Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:02:41.125Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_1826107193
+                jcr:created="{Date}2017-11-04T00:04:51.784Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:05:31.407Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="2"
+                grid0="7"
+                grid1="3"
+                layout="2;grid-cols-7 grid-offset-3      ;grid-cols-3      ;"
+                multiplier="9"
+                offset0="3"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-04T00:05:31.407Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_1826107193>
+            <text_2fad
+                jcr:created="{Date}2017-02-23T17:32:56.391Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-12-15T22:16:03.893Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h5>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/dam/acom/en/customer-success/pdfs/spar-ics-case-study.pdf&quot; target=&quot;_blank&quot;>Download a PDF of this story ›&lt;/a>&lt;/span>&lt;/h5>&#xa;"
+                textIsRich="true"/>
+            <text_143692239
+                jcr:created="{Date}2017-11-22T21:54:39.124Z"
+                jcr:createdBy="lsloane"
+                jcr:lastModified="{Date}2017-12-15T22:16:26.160Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h5>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://youtu.be/s6q1RvDIFgc&quot; target=&quot;_blank&quot;>Watch the video ›&lt;/a>&lt;/span>&lt;/h5>&#xa;"/>
+            <break_15097538917980
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_1826107193"/>
+            <end_15097538917991
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1826107193"/>
+            <column_1705662858
+                jcr:created="{Date}2017-11-04T00:03:08.624Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:03:08.624Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-03-01T22:56:33.059Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_1705662858>
+            <end_15097537886380
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1705662858"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2017-12-06T21:58:51.341Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2017-12-06T21:58:51.341Z"
+                    jcr:lastModifiedBy="lsloane"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <tophero
+            jcr:lastModified="{Date}2017-02-23T18:39:56.965Z"
+            jcr:lastModifiedBy="wmyersta"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            color="hero2-theme-2"
+            effect="hero2-fx-frame-3"
+            height="hero2-size-4"
+            hideArticle="true"
+            hideCredits="true"
+            hideLink="true">
+            <image
+                jcr:lastModified="{Date}2017-02-23T18:39:56.965Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Customer showcase detail marquee"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </tophero>
+        <merchandisingbar jcr:primaryType="nt:unstructured">
+            <contactpod
+                jcr:lastModified="{Date}2017-02-23T18:38:23.969Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/contactpod"
+                backgroundColor="background-color:#131031"
+                ctaButtonOverride="http://apps.enterprise.adobe.com/go/70114000002JNwKAAW"
+                ctaButtonText="Contact us"
+                description="Find out how Adobe can help you and your business."
+                purchasePhoneNumberCall="+118777227088"
+                purchasePhoneNumberDisp="877-722-7088"
+                title="Want to know more?">
+                <contactlist
+                    jcr:primaryType="nt:unstructured"
+                    sort_mdv="[0,1,2,3]">
+                    <_x0030_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-twitter"
+                        socialLink="#"
+                        socialTitle="Follow us on Twitter"/>
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-facebook"
+                        socialLink="#"
+                        socialTitle="Like us on Facebook"/>
+                    <_x0032_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-googleplus"
+                        socialLink="#"
+                        socialTitle="Follow us on Google+"/>
+                    <_x0033_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-linkedin"
+                        socialLink="#"
+                        socialTitle="Follow us on LinkedIn"/>
+                </contactlist>
+            </contactpod>
+        </merchandisingbar>
+    </jcr:content>
+</jcr:root>

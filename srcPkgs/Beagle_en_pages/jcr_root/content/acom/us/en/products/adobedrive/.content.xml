@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-12-08T22:06:11.503Z"
+        cq:lastModifiedBy="vko"
+        cq:lastReplicated="{Date}2016-12-08T23:18:32.955Z"
+        cq:lastReplicatedBy="vko"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Adobe Drive CC"
+        jcr:uuid="1247fd6f-4195-4d2e-9fd8-2b8a0a8a9b6e"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="blackBackground"
+        browserTitle="Integrate DAM system with Creative Cloud  | Adobe Drive CC"
+        disableOverviewLink="true"
+        distType="dist5"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        iconModeAndroid="icon"
+        isSectionNavParent="true"
+        manualChildren="true"
+        marketSegmentRewrite="none"
+        marqueeStyle="newMarquee"
+        metaDescription="Adobe Drive CC software enables seamless integration of a digital asset management system with Adobe Creative Cloud™ desktop applications. Sign up now."
+        modalSize="426x240"
+        noLoggedInChange="true"
+        product="adobe-drive"
+        sectionNavTitle="Overview"
+        stagelastReplicated="08-Dec-2016 23:18"
+        stagelastReplicatedBy="vko"
+        stageLastReplicationAction="ActivatedtoStage"
+        useH1Tags="pageTitle">
+        <sectionMore
+            jcr:primaryType="nt:unstructured"
+            link="/content/acom/us/en/creativecloud/catalog/desktop"
+            linkText="More products"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2016-12-08T19:36:05.247Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2016-12-08T19:36:05.247Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <sectionNavItems
+            jcr:primaryType="nt:unstructured"
+            sort_mdv="[0,1]">
+            <_x0030_
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionLink"
+                link="http://helpx.adobe.com/drive.html"
+                sectionNavTitle="Learn &amp; Support"
+                target="_self"/>
+            <_x0031_
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionLink"
+                link="https://campaign.adobe.com/webApp/adbeAdobeDrive"
+                sectionNavTitle="Sign up if interested in Adobe Drive"
+                target="_self"/>
+        </sectionNavItems>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_453f
+                jcr:created="{Date}2015-06-11T10:08:54.984Z"
+                jcr:createdBy="krishnan"
+                jcr:lastModified="{Date}2015-06-11T10:09:32.129Z"
+                jcr:lastModifiedBy="krishnan"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                layout="1;grid-cols-10 grid-offset-3;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-06-11T10:09:32.129Z"
+                        jcr:lastModifiedBy="krishnan"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_453f>
+            <text_a716
+                jcr:created="{Date}2015-06-11T10:12:09.014Z"
+                jcr:createdBy="krishnan"
+                jcr:lastModified="{Date}2016-12-08T06:14:30.891Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h2 style=&quot;text-align: center;&quot;>What is Adobe Drive?&lt;br>&#xa;&lt;/h2>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Adobe® Drive CC (version 5) software enables seamless integration of a digital asset management (DAM) system with Adobe Creative Cloud™ desktop applications. Once connected to a DAM server, you can access remote assets through your operating system file browser, through Adobe Bridge, or from the menus of CC products that integrate with Drive: Adobe Photoshop®, Illustrator®, InDesign®, and InCopy®.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14340173349910
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_453f"/>
+            <column_fd82
+                jcr:created="{Date}2015-06-11T10:15:17.558Z"
+                jcr:createdBy="krishnan"
+                jcr:lastModified="{Date}2015-06-25T18:54:05.453Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor="background-color:#f7f8fa;color:#3f4c56"
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-06-25T18:54:05.453Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_fd82>
+            <text_1e91
+                jcr:created="{Date}2015-06-11T10:29:55.168Z"
+                jcr:createdBy="krishnan"
+                jcr:lastModified="{Date}2015-06-11T10:31:02.369Z"
+                jcr:lastModifiedBy="krishnan"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h2 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Features&lt;/span>&lt;/h2>&#xa;"/>
+            <column_871c
+                jcr:created="{Date}2015-06-29T11:16:33.899Z"
+                jcr:createdBy="vimehra"
+                jcr:lastModified="{Date}2016-09-22T18:42:43.065Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                multiplier="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-22T18:42:43.065Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_871c>
+            <text_b683
+                jcr:created="{Date}2016-09-22T18:44:14.412Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2016-10-11T00:18:58.252Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;strong>Support for &amp;quot;hidden&amp;quot; features&lt;/strong>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <text_bacc
+                jcr:created="{Date}2016-09-22T18:43:25.643Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2016-10-11T00:18:47.740Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;span class=&quot;text-light&quot;>Within the integrated Creative Cloud and Creative Suite desktop applications, perform asset management functions such as viewing version history or adding comments upon check-in when saving files directly from the application.&lt;/span>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <break_14355766390430
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_871c"/>
+            <text_6451
+                jcr:created="{Date}2015-06-30T08:48:55.785Z"
+                jcr:createdBy="arana"
+                jcr:lastModified="{Date}2016-10-11T00:19:09.025Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;strong>Connection to Adobe AEM DAM&lt;/strong>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <text_d499
+                jcr:created="{Date}2015-06-29T11:17:39.553Z"
+                jcr:createdBy="vimehra"
+                jcr:lastModified="{Date}2016-12-08T22:06:11.493Z"
+                jcr:lastModifiedBy="vko"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;span class=&quot;text-light&quot;>If you want to connect to &lt;a href=&quot;/content/acom/us/en/marketing-cloud/enterprise-content-management/digital-asset-management.html&quot;>Adobe Experience Manager Assets&lt;/a>, please use the dedicated integration via &lt;a href=&quot;https://docs.adobe.com/docs/en/aem/6-2/administer/integration/aem-desktop-app.html&quot; target=&quot;_blank&quot;>AEM Desktop App&lt;/a>.&lt;/span>&lt;br>&#xa;&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <break_14355766390431
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_871c"/>
+            <text_9b56
+                jcr:created="{Date}2015-06-29T11:44:41.707Z"
+                jcr:createdBy="vimehra"
+                jcr:lastModified="{Date}2016-10-11T00:19:19.944Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;strong>CMIS connector&lt;/strong>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <text_1338
+                jcr:created="{Date}2015-09-17T17:52:02.212Z"
+                jcr:createdBy="jamaulha"
+                jcr:lastModified="{Date}2016-10-11T00:20:35.002Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;span class=&quot;text-light&quot;>Access asset management servers that implement the &lt;a href=&quot;http://en.wikipedia.org/wiki/Content_Management_Interoperability_Services&quot; target=&quot;_blank&quot;>Content Management Interoperability Services&lt;/a> (CMIS) specification.&lt;/span>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <break_14745697630780
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_871c"/>
+            <text_fb35
+                jcr:created="{Date}2015-09-17T17:48:11.303Z"
+                jcr:createdBy="jamaulha"
+                jcr:lastModified="{Date}2016-10-11T00:19:40.352Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;strong>Customized properties support&lt;/strong>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <text_fd4e
+                jcr:created="{Date}2015-09-17T17:48:12.293Z"
+                jcr:createdBy="jamaulha"
+                jcr:lastModified="{Date}2016-10-11T00:18:27.665Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;span class=&quot;text-light&quot;>Edit and view custom metadata and other properties directly in Adobe Bridge through Adobe Drive.&lt;/span>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <end_14355765939180
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_871c"/>
+            <end_14340177175670
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_fd82"/>
+        </contentbody>
+        <tophero
+            jcr:lastModified="{Date}2016-12-08T22:03:13.139Z"
+            jcr:lastModifiedBy="vko"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            avoid="hero2-avoid-1"
+            color="hero2-theme-1"
+            effect="hero2-fx-frame-2"
+            fixedHeight="true"
+            height="hero2-size-2">
+            <image
+                jcr:lastModified="{Date}2016-12-08T22:03:13.139Z"
+                jcr:lastModifiedBy="vko"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Adobe Drive"
+                fileReference="/content/dam/acom/en/products/adobedrive/adobedrive-marquee-1440x600.jpg"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+            <article
+                jcr:lastModified="{Date}2016-12-08T06:12:58.510Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hero/article"
+                articleAlignment="hero2-align-0"
+                text="&lt;p>Seamlessly integrate a digital asset management system with Creative &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Cloud products.&lt;/p>&#xa;"
+                title="&lt;p>Adobe Drive &amp;amp; Asset Management&lt;/p>&#xa;"
+                width="hero2-basis-0">
+                <titleImage
+                    jcr:lastModified="{Date}2016-12-08T06:12:58.510Z"
+                    jcr:lastModifiedBy="rbedi"
+                    jcr:primaryType="nt:unstructured"/>
+                <link
+                    jcr:primaryType="nt:unstructured"
+                    modalMode="VIDEO"
+                    size="426x240"
+                    type="free">
+                    <image
+                        jcr:lastModified="{Date}2016-12-08T06:12:58.510Z"
+                        jcr:lastModifiedBy="rbedi"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </link>
+            </article>
+        </tophero>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2015-09-15T16:45:17.735Z"
+        cq:lastModifiedBy="karchie"
+        cq:lastReplicated="{Date}2015-09-15T16:45:32.360Z"
+        cq:lastReplicatedBy="karchie"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fragmentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Teachers - How to Buy"
+        jcr:uuid="04fbbd5c-2e83-444c-8adb-124c64b5b929"
+        sling:resourceType="beagle/components/fragmentpage"
+        browserTitle=" "
+        groupSectionNavItems="no"
+        marketSegmentRewrite="none"
+        metaDescription=" "
+        stagelastReplicated="15-Sep-2015 22:04"
+        stagelastReplicatedBy="karchie"
+        stageLastReplicationAction="ActivatedtoStage">
+        <textandimage
+            jcr:lastModified="{Date}2015-09-15T16:45:17.704Z"
+            jcr:lastModifiedBy="karchie"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/textandimage"
+            align="left"
+            grid0="1"
+            grid1="11"
+            layout="2;grid-cols-1;grid-cols-11;"
+            layoutType="advanceLayout"
+            modalsize="426x240"
+            multiplier="4"
+            section="v"
+            target="_blank"
+            text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>To qualify for a discount, you must be one of the following:&lt;br>&#xa;• Faculty or staff — employed by an accredited primary or secondary school, public or private university or college, school district, or board of education (including emeritus status professors)*&lt;br>&#xa;• Teacher of a homeschooled student — defined by state homeschooling regulations&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-4-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;br>&#xa; Proof of eligibility&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>Your proof of eligibility must be a document issued by the institution with your name, school name, and current date.&lt;sup>†&lt;/sup>&lt;br>&#xa;Note: Any sensitive information such as pay amounts or Social Security numbers can be covered or crossed out. Types of proof of employment include:&lt;br>&#xa;• Paycheck stub from school&lt;br>&#xa;• Letter on official letterhead from the education entity indicating current employment&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;strong>For teachers of homeschooled students:&lt;/strong>&lt;br>&#xa;• Dated copy of a letter of intent to homeschool&lt;sup>†&lt;/sup>&lt;br>&#xa;• Current membership ID to a homeschool association (for example, the Home School Legal Defense Association)&lt;sup>†&lt;/sup>&lt;br>&#xa;• Dated proof of purchase of curriculum for the current academic school year†&lt;br>&#xa;&lt;br>&#xa;Contact Adobe at 800-585-0774 if you are unclear about whether you qualify.&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;div class=&quot;text-7-block&quot;>* Accredited schools are those that are approved&lt;br>&#xa;by an association recognized by the U.S. Department of Education/State Board of Education or the Canadian/Provincial Ministries of Education and that teach students as their primary focus. In the U.S., such associations include: Middle States Association of Colleges and Schools, North Central Association of Colleges and Schools, Western Association of Schools and Colleges, Southern Association of Colleges and Schools, New England Association of Schools and Colleges, Northwest Association of Accredited Schools.&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;sup>†&lt;/sup> Documents dated within the last six months are considered current.&lt;/div>&#xa;"
+            title="Teacher eligibility"
+            whitespace="grid-padded-v4x">
+            <image
+                jcr:lastModified="{Date}2015-09-15T16:45:17.704Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Teacher eligibility"
+                imageRotate="0"/>
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    type="free"/>
+            </contentlayer>
+        </textandimage>
+        <image
+            jcr:lastModified="{Date}2015-07-29T18:00:27.387Z"
+            jcr:lastModifiedBy="karchie"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

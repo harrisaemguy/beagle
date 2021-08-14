@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <jcr:content/>
+    <PSE-Share1/>
+    <Elements-Disclaimer-TRY/>
+    <PSE-Share/>
+    <PRE-Share/>
+    <family-Share/>
+    <Elements-Trials-PSE/>
+    <Elements-Trials-PRE/>
+    <Elements-Trials-family/>
+    <Elements-Disclaimer-PSE-BAK/>
+    <Elements-Disclaimer-PRE/>
+    <Elements-Disclaimer-PSE/>
+    <Related-Products-PSE/>
+    <Related-Products-PEPE/>
+    <Related-Products-PRE/>
+    <Resources-PSE/>
+    <Resources-PRE/>
+    <Resources-PEPE/>
+    <also-available-pse/>
+    <Elements-Disclaimer-Fuji/>
+    <Elements-Disclaimer-PEPE/>
+    <Elements-Disclaimer-PRE1/>
+    <Elements-Disclaimer-PSE1/>
+    <Elements-TechSpecs-PRE/>
+    <Elements-TechSpecs-PSE/>
+    <Elements-Whats-New-PRE/>
+    <rep:policy/>
+</jcr:root>

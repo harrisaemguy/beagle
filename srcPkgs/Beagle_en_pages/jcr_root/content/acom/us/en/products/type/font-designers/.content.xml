@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2018-12-11T23:26:11.367Z"
+        cq:lastModifiedBy="golee"
+        cq:lastReplicated="{Date}2018-12-11T23:26:17.362Z"
+        cq:lastReplicatedBy="golee"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Type Designers"
+        jcr:uuid="0eee6c09-ae0f-477a-b4fc-94bf42b4a1d6"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        applauncherTheme="light"
+        bodyClass="whiteBackground"
+        browserTitle="Font &amp; typeface designers | Adobe Type"
+        disableGeoRouting="true"
+        distType="dist5"
+        enableBreadcrumb="true"
+        enableCCRedirect="NA"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        gnavTheme="light"
+        hideInSectionNav="true"
+        hidePersonalizedHero="hide"
+        languageDirection="ltr"
+        marketSegmentRewrite="COM"
+        marqueeStyle="newMarquee"
+        metaDescription="Meet the famous typeface designers &amp; typographers behind Adobe Type fonts."
+        pageTitle="Type Designers"
+        seodescription="Meet designers who are behind Adobe Font types."
+        tagsKeywords="font designers, type designers, typeface designer, typeface designers, font designer, famous typographer"
+        useH1Tags="pageTitle">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <text_ab17
+                jcr:created="{Date}2016-07-25T23:21:42.994-07:00"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-07-27T02:36:30.100-07:00"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/p>&#xa;"/>
+            <column_126b
+                jcr:lastModified="{Date}2016-08-02T04:17:22.974-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-02T04:17:22.974-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_126b>
+            <text_72e3
+                jcr:created="{Date}2016-07-26T02:38:45.655-07:00"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-08-09T18:16:27.946-07:00"
+                jcr:lastModifiedBy="maraun"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Meet the designers behind Adobe fonts.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <column_deba
+                jcr:created="{Date}2016-07-27T00:01:16.035-07:00"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-07-27T23:50:34.968-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-07-27T23:50:34.968-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_deba>
+            <text_192
+                jcr:created="{Date}2016-07-27T23:59:44.352-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-18T04:51:18.213-07:00"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/akira-kobayashi.html&quot;>Akira Kobayashi&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/alan-blackman.html&quot;>Alan Blackman&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/carl-crossgrove.html&quot;>Carl Crossgrove&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/carol-twombly.html&quot;>Carol Twombly&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/christopher-slye.html&quot;>Christopher Slye&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/cleo-huggins.html&quot;>Cleo Huggins&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/craig-frazier.html&quot;>Craig Frazier&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/david-brezina.html&quot;>David Březina&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/david-siegel.html&quot;>David Siegel&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/erin-mclaughlin.html&quot;>Erin McLaughlin&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/fiona-ross.html&quot;>Fiona Ross&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14696028760700
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_deba"/>
+            <text_8e07
+                jcr:created="{Date}2016-07-28T00:11:11.184-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-18T04:54:35.857-07:00"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/frank-griesshammer.html&quot;>Frank Grießhammer&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/jeremy-tankard.html&quot;>Jeremy Tankard&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/jim-parkinson.html&quot;>Jim Parkinson&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/jim-wasco.html&quot;>Jim Wasco&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/joachim-muller-lance.html&quot;>Joachim Müller-Lancé&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/john-benson.html&quot;>John Benson&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/john-hudson.html&quot;>John Hudson&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/jovica-veljovic.html&quot;>Jovica Veljovic&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/joy-redick.html&quot;>Joy Redick&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/julian-waters.html&quot;>Julian Waters&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/lance-hidy.html&quot;>Lance Hidy&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14696028760711
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_deba"/>
+            <text_2abf
+                jcr:created="{Date}2016-07-28T00:15:02.569-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-18T04:57:23.142-07:00"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/laurie-szujewska.html&quot;>Laurie Szujewska&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/lynne-garell.html&quot;>Lynne Garell&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/mario-feliciano.html&quot;>Mario Feliciano&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/mark-jamra.html&quot;>Mark Jamra&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/masahiko-kozuka.html&quot;>Masahiko Kozuka &amp;amp; Adobe’s Japanese type design team&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/michael-harvey.html&quot;>Michael Harvey&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/michael-want.html&quot;>Michael Want&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/miguel-sousa.html&quot;>Miguel Sousa&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/min-wang.html&quot;>Min Wang&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/neelakash-kshetrimayum.html&quot;>Neelakash Kshetrimayum&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14696886350090
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_deba"/>
+            <text_b28f
+                jcr:created="{Date}2016-07-28T00:19:55.330-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-18T05:00:48.253-07:00"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/paul-hunt.html&quot;>&lt;span class=&quot;text-light&quot;>Paul D. Hunt&lt;/span>&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/richard-lipton.html&quot;>Richard Lipton&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/rick-cusick.html&quot;>Rick Cusick&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/robert-slimbach.html&quot;>Robert Slimbach&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/ryoko-nishizuka.html&quot;>Ryoko Nishizuka&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/thomas-phinney.html&quot;>Thomas Phinney&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/tim-donaldson.html&quot;>Tim Donaldson&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/tim-holloway.html&quot;>Tim Holloway&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/vaibhav-singh.html&quot;>Vaibhav Singh&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/viktor-solt-bittner.html&quot;>Viktor Solt-Bittner&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <end_14696028760722
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_deba"/>
+            <end_14544550461840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_126b"/>
+            <column_343e
+                jcr:created="{Date}2016-07-26T03:23:55.250-07:00"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-08-03T04:28:15.770-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-03T04:28:15.770-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_343e>
+            <horizontalrule_c4be
+                jcr:created="{Date}2016-07-27T02:44:40.707-07:00"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-07-27T02:44:40.707-07:00"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_95bd
+                jcr:created="{Date}2016-07-26T21:51:41.821-07:00"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-07-27T02:36:07.258-07:00"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/p>&#xa;"/>
+            <column_44e4
+                jcr:created="{Date}2016-07-26T03:26:56.576-07:00"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-07-26T03:28:00.345-07:00"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-07-26T03:28:00.345-07:00"
+                        jcr:lastModifiedBy="rbedi"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_44e4>
+            <text_e279
+                jcr:created="{Date}2016-07-26T03:28:30.062-07:00"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-08-03T05:52:35.467-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Learning&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers.html&quot;>Adobe Type Designers&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-team.html&quot;>Adobe Type Team&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-specimens.html&quot;>Type specimens&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-references-tips.html&quot;>Type reference materials&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-originals.html&quot;>Adobe Originals&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/opentype.html&quot;>OpenType&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14695288803910
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_44e4"/>
+            <text_2f18
+                jcr:created="{Date}2016-07-26T03:29:05.511-07:00"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-07-27T06:40:58.738-07:00"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Resources&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blog.typekit.com/&quot;>Type &amp;amp; Typekit blog&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blogs.adobe.com/CCJKType/&quot;>CJK Type blog (Asian fonts)&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype.html&quot;>Developer information&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype/afdko.html&quot;>Font Development Kit&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/install-instructions.html&quot;>Font installation instructions&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14695288803931
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_44e4"/>
+            <text_2159
+                jcr:created="{Date}2016-09-01T04:50:38.182Z"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-09-01T04:50:38.182Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Help&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing Center&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/creative-cloud-fonts.html&quot;>CC Bundled Fonts&amp;nbsp;FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://typekit.com/help&quot;>Web Font FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/products/fontfolio/faq.html&quot;>Font Folio FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://forums.adobe.com/community/typography_fonts&quot;>Adobe Type user forums&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14695288166020
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_44e4"/>
+            <end_14695286352740
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_343e"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2018-12-11T23:26:11.354Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2018-12-11T23:26:11.354Z"
+                    jcr:lastModifiedBy="golee"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <tophero
+            jcr:lastModified="{Date}2016-09-06T08:53:07.178Z"
+            jcr:lastModifiedBy="maraun"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            height="hero2-size-3">
+            <image
+                jcr:lastModified="{Date}2016-09-06T08:53:07.178Z"
+                jcr:lastModifiedBy="maraun"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Type Designers"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/type-font-designers-marquee-1600x600.jpg"
+                xcord="{Long}25"
+                ycord="{Long}26"/>
+        </tophero>
+    </jcr:content>
+    <craig-frazier/>
+    <joachim-muller-lance/>
+    <michael-want/>
+    <michael-harvey/>
+    <alan-blackman/>
+    <fiona-ross/>
+    <vaibhav-singh/>
+    <ryoko-nishizuka/>
+    <thomas-phinney/>
+    <jovica-veljovic/>
+    <neelakash-kshetrimayum/>
+    <joy-redick/>
+    <fernando-mello/>
+    <david-brezina/>
+    <jim-wasco/>
+    <laurie-szujewska/>
+    <tim-holloway/>
+    <jim-parkinson/>
+    <erin-mclaughlin/>
+    <rick-cusick/>
+    <robert-slimbach/>
+    <frank-griesshammer/>
+    <mario-feliciano/>
+    <carol-twombly/>
+    <christopher-slye/>
+    <paul-hunt/>
+    <john-hudson/>
+    <min-wang/>
+    <masahiko-kozuka/>
+    <tim-donaldson/>
+    <lance-hidy/>
+    <david-siegel/>
+    <julian-waters/>
+    <miguel-sousa/>
+    <mark-jamra/>
+    <akira-kobayashi/>
+    <lynne-garell/>
+    <cleo-huggins/>
+    <carl-crossgrove/>
+    <richard-lipton/>
+    <john-benson/>
+    <jeremy-tankard/>
+    <viktor-solt-bittner/>
+</jcr:root>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-06-12T16:45:41.689Z"
+        cq:lastModifiedBy="handoo"
+        cq:lastReplicated="{Date}2020-08-13T23:15:26.287Z"
+        cq:lastReplicatedBy="vko"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:product-catalog/cd/photography,filters:product-catalog/pf/mobile]"
+        cq:template="/apps/beagle/templates/productcardpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:Title="Photoshop Express"
+        jcr:title="Photoshop Express"
+        jcr:uuid="d9d59c01-ceb4-40dd-a6c7-1f3d6f75734b"
+        sling:resourceType="beagle/components/productcardpage"
+        alignment="left"
+        applauncherTheme="light"
+        browserTitle="Photoshop Express"
+        cardDescription="Fast, powerful editing on mobile devices."
+        cardIcon="adobe-icon-color-ps-express"
+        cardIconLinkURL="http://www.photoshop.com/products/photoshopexpress"
+        cardIcontarget="_self"
+        cardTitle="Photoshop Express"
+        creationDate="{Date}2018-03-29T08:52:00.000-07:00"
+        distType="dist5"
+        freeTrialUrlLoggedInModalScrolling="no"
+        freeTrialUrlLoggedInModalSize="426x240"
+        freeTrialUrlLoggedInTarget="_self"
+        freeTrialUrlModalScrolling="no"
+        freeTrialUrlModalSize="426x240"
+        freeTrialUrlTarget="_self"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        groupSectionNavItems="no"
+        hideInSectionNav="true"
+        hideMerchandisingBar="inherit"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="inherit"
+        iconLinkURL="/content/acom/us/en/creativecloud"
+        marketSegmentRewrite="COM"
+        metaDescription="Photoshop Express"
+        modalSize="426x240"
+        noIndex="true"
+        orderDate="{Date}2017-05-10T22:50:00.000-07:00"
+        pageTitle="Photoshop Express"
+        removeFromHtmlSitemap="true"
+        removeFromSitemap="true"
+        removeFromXmlSitemap="true"
+        stagelastReplicated="12-May-2020 22:11"
+        stagelastReplicatedBy="vko"
+        stageLastReplicationAction="ActivatedtoStage"
+        tryLinkModalScrolling="no"
+        tryLinkModalSize="426x240"
+        tryLinkProductPlanModalScrolling="no"
+        tryLinkProductPlanModalSize="426x240"
+        tryLinkProductPlanTarget="_self"
+        tryLinkTarget="_self"
+        useH1Tags="pageTitle">
+        <sectionMore
+            jcr:primaryType="nt:unstructured"
+            linkModalScrolling="no"
+            linkModalSize="426x240"
+            linkTarget="_self"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2020-05-07T18:33:12.855Z"
+                jcr:lastModifiedBy="vko"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2020-05-07T18:33:12.855Z"
+                    jcr:lastModifiedBy="vko"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <links
+            jcr:primaryType="nt:unstructured"
+            sort_mdv="[0,2]">
+            <_x0030_
+                jcr:primaryType="nt:unstructured"
+                cardLinktarget="_blank"
+                cardLinkText="iOS"
+                cardLinkType="buttonlink"
+                cardLinkURL="http://itunes.apple.com/us/app/adobe-photoshop-express/id331975235?mt=8&amp;ls=1"/>
+            <_x0032_
+                jcr:primaryType="nt:unstructured"
+                cardLinktarget="_blank"
+                cardLinkText="Android"
+                cardLinkType="buttonlink"
+                cardLinkURL="https://play.google.com/store/apps/details?id=com.adobe.psmobile"/>
+        </links>
+    </jcr:content>
+</jcr:root>

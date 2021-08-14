@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2017-02-10T20:12:46.654Z"
+        cq:lastModifiedBy="tmina"
+        cq:lastReplicated="{Date}2019-02-13T21:44:07.508Z"
+        cq:lastReplicatedBy="tvaldez"
+        cq:lastReplicationAction="Deactivate"
+        cq:tags="[filters:csIndustry/financialServices,filters:csProduct/mc/adMediaOptimizer,filters:csProduct/mc,filters:csProduct/mc/experienceManager,filters:csProduct/mc/analytics]"
+        cq:template="/apps/beagle/templates/customershowcasedetailpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Scottrade"
+        jcr:uuid="731bd1a3-d104-4020-b839-a1a3001a2d68"
+        sling:resourceType="beagle/components/customershowcasedetailpage"
+        noIndex="true"
+        removeFromHtmlSitemap="true"
+        removeFromSitemap="true"
+        removeFromXmlSitemap="true">
+        <customershowcasecard
+            cq:lastReplicated="{Date}2017-03-03T22:17:12.934Z"
+            cq:lastReplicatedBy="tmina"
+            cq:lastReplicationAction="Activate"
+            jcr:lastModified="{Date}2017-02-10T20:12:46.632Z"
+            jcr:lastModifiedBy="tmina"
+            jcr:mixinTypes="[cq:ReplicationStatus]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/customershowcasecard"
+            cardType="standard"
+            companyName="Scottrade"
+            creationDate="{Date}2016-12-14T11:09:00.000-06:00"
+            detailPageLink="/content/acom/us/en/index"
+            link1="/content/dam/acom/en/customer-success/pdfs/scottrade-case-study.pdf"
+            link1Target="_blank"
+            link1Text="Read the story"
+            link2Target="_self"
+            orderDate="{Date}2016-09-07T13:00:00.000-05:00">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                    size="426x240"
+                    type="free">
+                    <social jcr:primaryType="nt:unstructured"/>
+                    <meta jcr:primaryType="nt:unstructured">
+                        <image
+                            jcr:lastModified="{Date}2017-02-10T20:12:46.632Z"
+                            jcr:lastModifiedBy="tmina"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </meta>
+                    <tracking jcr:primaryType="nt:unstructured"/>
+                </video>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2017-02-10T20:12:46.632Z"
+                jcr:lastModifiedBy="tmina"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Scottrade"
+                fileReference="/content/dam/acom/en/customer-showcase/images/scottrade-660x348.png"
+                xcord="{Long}67"
+                ycord="{Long}44"/>
+        </customershowcasecard>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-10-11T11:18:16.140Z"
+        cq:lastModifiedBy="handoo"
+        cq:lastReplicated="{Date}2019-10-16T21:32:11.550Z"
+        cq:lastReplicatedBy="karchie"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:csIndustry/education,filters:csProduct/ec,filters:csProduct/other/as,filters:csProduct/mc,filters:csProduct/mc/target,filters:csProduct/ac,filters:csProduct/mc/analytics,filters:csProduct/mc/adMediaOptimizer]"
+        cq:template="/apps/beagle/templates/customershowcasedetailpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Charles Sturt University"
+        jcr:uuid="1aabb9b2-83e6-479b-98de-3916e98f06cf"
+        sling:resourceType="beagle/components/customershowcasedetailpage"
+        removeFromHtmlSitemap="true"
+        removeFromXmlSitemap="true">
+        <customershowcasecard
+            jcr:lastModified="{Date}2019-05-01T00:04:26.536Z"
+            jcr:lastModifiedBy="tvaldez"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/customershowcasecard"
+            cardType="standard"
+            companyName="Charles Sturt University"
+            creationDate="{Date}2019-03-15T16:49:00.000-06:00"
+            includeCTAVideo2="true"
+            link1="/content/dam/acom/en/customer-success/pdfs/charles-sturt-university-case-study.pdf"
+            link1Target="_blank"
+            link1Text="Read the story"
+            link2Target="_self"
+            link2Text="Watch the video"
+            orderDate="{Date}2019-03-15T16:49:00.000-06:00">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                    size="854x480"
+                    type="youtube"
+                    youTubeAutoPlay="true"
+                    youTubeUrl="kxdANXltJmo">
+                    <social jcr:primaryType="nt:unstructured"/>
+                    <meta
+                        jcr:primaryType="nt:unstructured"
+                        type="website">
+                        <image
+                            jcr:lastModified="{Date}2019-05-01T00:04:26.536Z"
+                            jcr:lastModifiedBy="tvaldez"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </meta>
+                    <tracking jcr:primaryType="nt:unstructured"/>
+                </video>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2019-05-01T00:04:26.536Z"
+                jcr:lastModifiedBy="tvaldez"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Charles Sturt University"
+                fileReference="/content/dam/acom/en/customer-showcase/images/charles-sturt-university-660x348.png"
+                xcord="{Long}39"
+                ycord="{Long}15"/>
+            <ctavideolink2
+                jcr:lastModified="{Date}2019-03-15T22:57:24.893Z"
+                jcr:lastModifiedBy="tvaldez"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                size="854x480"
+                type="youtube"
+                youTubeAutoPlay="true"
+                youTubeUrl="kxdANXltJmo">
+                <social jcr:primaryType="nt:unstructured"/>
+                <meta
+                    jcr:primaryType="nt:unstructured"
+                    type="website">
+                    <image
+                        jcr:lastModified="{Date}2019-03-15T22:57:24.893Z"
+                        jcr:lastModifiedBy="tvaldez"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </meta>
+                <tracking jcr:primaryType="nt:unstructured"/>
+            </ctavideolink2>
+        </customershowcasecard>
+    </jcr:content>
+</jcr:root>

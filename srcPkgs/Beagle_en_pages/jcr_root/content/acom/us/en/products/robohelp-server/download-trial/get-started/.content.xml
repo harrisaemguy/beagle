@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-09-08T07:53:15.684Z"
+        cq:lastModifiedBy="bgupta"
+        cq:lastReplicated="{Date}2020-09-08T08:20:43.012Z"
+        cq:lastReplicatedBy="bgupta"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:lockable,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Installation | RoboHelp Server"
+        jcr:uuid="176dc2ae-9fef-4a3c-82d3-219885ad52b5"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="center"
+        applauncherTheme="light"
+        bodyClass="whiteBackground"
+        browserTitle="Installation | RoboHelp Server"
+        disableOverviewLink="true"
+        distType="dist5"
+        enableCCRedirect="NA"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        groupSectionNavItems="no"
+        headingStyle="h1"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        isSectionNavParent="true"
+        marketSegmentRewrite="COM"
+        metaDescription="Installation | RoboHelp Server"
+        modalSize="426x240"
+        product="product-code-RBSV"
+        stagelastReplicated="05-Apr-2016 09:09"
+        stagelastReplicatedBy="golee"
+        stageLastReplicationAction="ActivatedtoStage"
+        useH1Tags="pageTitle">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="35">
+            <image
+                jcr:lastModified="{Date}2020-04-08T21:03:28.188Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column
+                jcr:created="{Date}2015-07-29T16:59:31.902-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2020-04-08T20:29:19.611Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                grid0="8"
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="6"
+                offset0="4"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-08T20:29:19.611Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column>
+            <column_1943157328
+                jcr:created="{Date}2015-07-29T17:00:26.078-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2020-04-08T20:29:45.619Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of2;grid-span-1of2;"
+                bgColor=" "
+                layout="2;grid-span-1of2;grid-span-1of2;"
+                layoutMode="spatial"
+                multiplier="6"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-08T20:29:45.619Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_1943157328>
+            <image_6812
+                jcr:created="{Date}2020-04-08T20:30:27.588Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-08-12T09:04:23.655Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="right"
+                alt="RoboHelp Server Installer"
+                fileReference="/content/dam/acom/en/products/framemaker/framemaker_new/Images/trial.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-08-12T09:04:23.655Z"
+                    jcr:lastModifiedBy="21n83853"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_6812>
+            <break_14382144394120
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_1943157328"/>
+            <text_1095817264
+                jcr:created="{Date}2015-07-29T17:01:40.483-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2020-04-08T20:32:23.650Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-2-block&quot;>RoboHelp Server will install now...&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Thank you for registering for the 30-day trial, your download will now begin. Unzip the downloaded file and run 'Set-up.exe' to install RoboHelp Server.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Your 30-day trial will begin from the day you install the product.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14382144260910
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1943157328"/>
+            <column_93b6
+                jcr:created="{Date}2020-04-08T20:33:49.679Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T20:34:10.162Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of2;grid-span-1of2;"
+                bgColor=" "
+                layout="2;grid-span-1of2;grid-span-1of2;"
+                layoutMode="spatial"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-08T20:34:10.162Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_93b6>
+            <image_1ccc
+                jcr:created="{Date}2020-04-08T20:34:33.447Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-17T12:44:19.759Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Free gold support"
+                fileReference="/content/dam/acom/en/products/framemaker/framemaker_new/Images/enterprise_02.jpg"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-05-17T12:44:19.759Z"
+                    jcr:lastModifiedBy="21n83853"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_1ccc>
+            <text_5cca
+                jcr:created="{Date}2020-04-08T20:34:34.542Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T20:34:47.810Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;https://www.adobe.com/go/adobe_cust_support&quot; target=&quot;_blank&quot;>Get free Enterprise support&lt;/a> with your RoboHelp Server trial&lt;/div>&#xa;"/>
+            <break_15863780501670
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_93b6"/>
+            <image_f1b3
+                jcr:created="{Date}2020-04-08T20:35:12.003Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-17T12:46:55.172Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Reqeust for Demo"
+                fileReference="/content/dam/acom/en/products/framemaker/framemaker_new/Images/schdule_demo_02.jpg"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-05-17T12:46:55.172Z"
+                    jcr:lastModifiedBy="21n83853"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_f1b3>
+            <text_b35f
+                jcr:created="{Date}2020-04-08T20:35:12.684Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T20:39:47.384Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;https://www.adobetechcommdemo.com/&quot; target=&quot;_blank&quot;>Schedule a demo&lt;/a> with our experts for a guided tour of RoboHelp Publishing Server&lt;/div>&#xa;"/>
+            <end_15863780296830
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_93b6"/>
+            <end_14382143719110
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column"/>
+            <hiddenfield_2e97
+                jcr:created="{Date}2020-09-08T07:52:48.368Z"
+                jcr:createdBy="bgupta"
+                jcr:lastModified="{Date}2020-09-08T07:53:15.673Z"
+                jcr:lastModifiedBy="bgupta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/trials/components/hiddenfield"
+                displayType="plain"
+                name="ptThankyouPage"
+                value="robohelp-server"/>
+            <column_7bd0
+                jcr:created="{Date}2020-04-08T20:40:11.425Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T20:40:35.030Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor="background-color:#f5f5f5;color:#000000"
+                layout="1;grid-cols-10 grid-offset-3;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-08T20:40:35.030Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_7bd0>
+            <text_3676
+                jcr:created="{Date}2020-04-08T20:41:24.191Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T20:42:09.220Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-3-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-3-block&quot; style=&quot;text-align: center;&quot;>&lt;strong>Get the most out of Adobe RoboHelp Server&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <column_287e
+                jcr:created="{Date}2020-04-08T20:42:52.397Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T20:43:22.096Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10;"
+                bgColor=" "
+                layout="1;grid-cols-10;"
+                layoutMode="structured"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-08T20:43:22.096Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_287e>
+            <image_f2b
+                jcr:created="{Date}2020-04-08T20:44:08.124Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-08-14T14:22:12.518Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Introduction to Adobe RoboHelp Server"
+                fileReference="/content/dam/acom/en/products/robohelp_server/robohelp_server_new/images/get_introduced_to_robohelp_server.jpg"
+                link="http://www.adobe.com/go/learn_rhs_11_intro_en"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-08-14T14:22:12.518Z"
+                    jcr:lastModifiedBy="21n83853"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_f2b>
+            <text_c330
+                jcr:created="{Date}2020-04-08T20:45:08.494Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-15T07:09:36.820Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;strong>Introduction to Adobe RoboHelp Server&lt;br>&#xa;&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>Learn how RoboHelp Server makes it easy to host and track content, with support for single-click publishing from RoboHelp.&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_fb60
+                jcr:created="{Date}2020-04-08T20:45:09.260Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T20:46:12.927Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;http://www.adobe.com/go/learn_rhs_11_intro_en&quot; target=&quot;_blank&quot;>Watch video&amp;nbsp;›&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <standalonecta_b91c
+                jcr:created="{Date}2020-04-08T20:45:30.294Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T20:45:56.862Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/standalonecta"
+                ctabuttonalign="text-center"
+                ctabuttoncolor="merchpod-cta-button"
+                ctaType="{Boolean}true"
+                link="https://www.youtube.com/user/AdobeTCS"
+                linkText="Watch more videos on YouTube"
+                target="_blank"/>
+            <end_15863785724020
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_287e"/>
+            <end_15863784114300
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_7bd0"/>
+            <column_81bc
+                jcr:created="{Date}2020-04-08T20:46:35.777Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-15T07:10:21.104Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor="background-color:#FFFFFF;color:#000000"
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-15T07:10:21.104Z"
+                        jcr:lastModifiedBy="21n83853"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_81bc>
+            <text_893c
+                jcr:created="{Date}2020-04-08T20:47:38.072Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-23T19:48:43.881Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-3-block&quot; style=&quot;text-align: center;&quot;>&lt;strong>Access learning and training assets&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <column_69bb
+                jcr:created="{Date}2020-04-08T20:49:09.638Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T20:49:51.855Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of2;grid-span-1of2;"
+                bgColor=" "
+                layout="2;grid-span-1of2;grid-span-1of2;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-08T20:49:51.855Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_69bb>
+            <image_15ab
+                jcr:created="{Date}2020-04-08T20:50:48.404Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T21:05:36.524Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Getting Started Guide"
+                fileReference="/content/dam/acom/en/products/robohelp_server/robohelp_server_new/images/01_getting_started_guide_icon.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-04-08T21:05:36.524Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_15ab>
+            <text_7f47
+                jcr:created="{Date}2020-04-08T20:50:49.222Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-08-12T09:06:23.240Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>Getting started guide&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>Learn the basics with videos, articles and other helpful resources.&lt;/div>&#xa;"/>
+            <text_9f5b
+                jcr:created="{Date}2020-04-23T19:48:57.649Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-23T19:49:11.438Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;http://www.adobe.com/go/learn_rhs_11_gsg_en&quot; target=&quot;_blank&quot;>Read more ›&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <break_15863789642700
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_69bb"/>
+            <image_8895
+                jcr:created="{Date}2020-04-08T20:50:49.881Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T21:07:33.812Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="User Guide"
+                fileReference="/content/dam/acom/en/products/robohelp_server/robohelp_server_new/images/02_user_guide_icon.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-04-08T21:07:33.812Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_8895>
+            <text_a970
+                jcr:created="{Date}2020-04-08T20:50:50.748Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-08-12T09:06:29.965Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>User guide&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>Easily master RoboHelp Server’s capabilities with step-by-step instructions.&lt;/div>&#xa;"/>
+            <text_a0fc
+                jcr:created="{Date}2020-04-23T19:49:25.094Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-23T19:49:39.873Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;http://www.adobe.com/go/learn_rhs_11_ug_en&quot; target=&quot;_blank&quot;>Read more&amp;nbsp;›&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <end_15863789496440
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_69bb"/>
+            <column_a279
+                jcr:created="{Date}2020-04-08T20:51:00.616Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T20:51:00.616Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of2;grid-span-1of2;"
+                bgColor=" "
+                layout="2;grid-span-1of2;grid-span-1of2;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-08T20:49:51.855Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_a279>
+            <image_4508
+                jcr:created="{Date}2020-04-08T20:50:51.556Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T21:08:22.148Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Training videos"
+                fileReference="/content/dam/acom/en/products/robohelp_server/robohelp_server_new/images/training_videos_icons.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-04-08T21:08:22.148Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_4508>
+            <text_6605
+                jcr:created="{Date}2020-04-08T20:50:52.306Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-08-12T09:06:38.805Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>Training videos&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>Learn at your own pace with our training videos and “show me” demos.&lt;/div>&#xa;"/>
+            <text_22c
+                jcr:created="{Date}2020-04-23T19:50:50.085Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-23T19:51:01.987Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;https://www.youtube.com/AdobeTCS&quot; target=&quot;_blank&quot;>Watch now&amp;nbsp;›&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <break_15863790606250
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_a279"/>
+            <image_d63c
+                jcr:created="{Date}2020-04-08T20:50:52.998Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T21:09:05.256Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Webinars"
+                fileReference="/content/dam/acom/en/products/robohelp_server/robohelp_server_new/images/webinars_icons.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-04-08T21:09:05.256Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d63c>
+            <text_de9d
+                jcr:created="{Date}2020-04-08T20:50:53.754Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-23T19:51:39.552Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>Webinars&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>Watch along as industry experts showcase what's possible with RoboHelp.&lt;/div>&#xa;"/>
+            <text_ac7e
+                jcr:created="{Date}2020-04-23T19:51:16.504Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-23T19:51:31.553Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;https://meetus.adobeevents.com/technicalcommunication&quot; target=&quot;_blank&quot;>Browse webinars&amp;nbsp;›&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <end_15863790606251
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_a279"/>
+            <end_15863787957830
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_81bc"/>
+            <text_4543
+                jcr:created="{Date}2020-04-08T20:55:11.455Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-23T19:51:54.973Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&lt;strong>Need help?&lt;/strong>&lt;/h3>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>Visit the Adobe RoboHelp Server&amp;nbsp;&lt;a href=&quot;https://helpx.adobe.com/support/robohelp-server.html&quot; target=&quot;_blank&quot;>learn &amp;amp; support&lt;/a>&amp;nbsp;section.&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <horizontalrule_28e7
+                jcr:created="{Date}2020-04-08T20:55:12.226Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T20:55:12.226Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_d73a
+                jcr:created="{Date}2020-04-08T20:55:12.887Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T20:55:12.887Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&lt;strong>Interested in trying our other products?&lt;/strong>&lt;/h3>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <column_3d2b
+                jcr:created="{Date}2020-04-08T20:56:14.400Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T20:56:34.887Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-08T20:56:34.887Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_3d2b>
+            <column_d293
+                jcr:created="{Date}2020-04-08T20:56:47.479Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T20:56:59.766Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-08T20:56:59.766Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_d293>
+            <text_71cd
+                jcr:created="{Date}2020-04-08T20:57:51.399Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T21:00:06.618Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&lt;a href=&quot;/content/acom/us/en/products/robohelp.html&quot; target=&quot;_blank&quot;>&lt;i class=&quot;adobe-icon-rh&quot;>&lt;/i>&lt;/a>&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;/content/acom/us/en/products/robohelp.html&quot; target=&quot;_blank&quot;>Adobe RoboHelp&lt;/a>&lt;/div>&#xa;"/>
+            <break_15863794197770
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_d293"/>
+            <text_a747
+                jcr:created="{Date}2020-04-08T20:57:50.635Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T21:00:25.781Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&lt;i class=&quot;adobe-icon-tcs&quot;>&lt;/i>&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;/content/acom/us/en/products/technicalcommunicationsuite.html&quot; target=&quot;_blank&quot;>Adobe Technical Communication Suite&lt;/a>&lt;/div>&#xa;"/>
+            <break_15863794197771
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_d293"/>
+            <text_7263
+                jcr:created="{Date}2020-04-08T20:57:52.225Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T20:57:52.225Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&lt;i class=&quot;adobe-icon-experiencemanager&quot;>&lt;/i>&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;/content/acom/us/en/products/xml-documentation-for-experience-manager.html&quot; target=&quot;_blank&quot;>XML Documentation for Adobe Experience Manager&lt;/a>&lt;/div>&#xa;"/>
+            <end_15863794074880
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_d293"/>
+            <end_15863793744080
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_3d2b"/>
+            <column_517e
+                jcr:created="{Date}2020-04-08T21:00:49.773Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T21:01:15.914Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor="background-color:#f5f5f5;color:#000000"
+                layout="1;grid-cols-14 grid-offset-1;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-08T21:01:15.914Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_517e>
+            <text_2540
+                jcr:created="{Date}2020-04-08T21:01:51.401Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T21:01:51.401Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h3>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&lt;strong>News. Topics. Trends.&lt;/strong>&lt;/h3>&#xa;&lt;h3>&amp;nbsp;&lt;/h3>&#xa;"/>
+            <text_8297
+                jcr:created="{Date}2020-04-08T21:01:53.688Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-08-12T09:07:21.594Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;https://www.adobe.com/subscription/techcomm_newsletter.html&quot; target=&quot;_blank&quot;>Subscribe to our monthly newsletter&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <text_cb4c
+                jcr:created="{Date}2020-04-08T21:01:52.229Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T21:01:52.229Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h5 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h5>&#xa;&lt;h5 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Join the conversation&amp;nbsp;&lt;/span>&lt;/h5>&#xa;&lt;div class=&quot;text-3-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;https://twitter.com/adobetcs&quot; target=&quot;_blank&quot;>&lt;i class=&quot;icon-twitter&quot;>&lt;/i>&lt;/a>&lt;a href=&quot;https://www.facebook.com/adobetcs&quot; target=&quot;_blank&quot;>&lt;i class=&quot;icon-facebook&quot;>&lt;/i>&lt;/a>&lt;a href=&quot; https://www.linkedin.com/company/adobetcs/&quot; target=&quot;_blank&quot;>&lt;i class=&quot;icon-linkedin&quot;>&lt;/i>&lt;/a>&lt;a href=&quot;https://www.youtube.com/user/AdobeTCS&quot; target=&quot;_blank&quot;>&lt;i class=&quot;icon-youtube&quot;>&lt;/i>&lt;/a>&lt;a href=&quot;https://blogs.adobe.com/techcomm/&quot; target=&quot;_blank&quot;>&lt;i class=&quot;icon-blog&quot;>&lt;/i>&lt;/a>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_bef9
+                jcr:created="{Date}2020-04-08T21:01:53.004Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-08T21:01:53.004Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>For any queries, write to us at &lt;strong>&lt;a href=&quot;mailto:techcomm@adobe.com&quot;>techcomm@adobe.com&lt;/a>&amp;nbsp;&lt;/strong>or call &lt;a href=&quot;tel:+1-866-647-1213&quot;>&lt;strong>+1-866-647-1213&lt;/strong>&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <end_15863796497820
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_517e"/>
+        </contentbody>
+        <promobar jcr:primaryType="nt:unstructured">
+            <promo
+                jcr:lastModified="{Date}2015-07-22T16:53:38.251Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/promo"
+                ctaButtonOverride="https://creative.adobe.com/plans?promoid=KSPCN"
+                ctaButtonText="Choose a plan"
+                enablePriceDisplay="true"
+                icon="promo-icon adobe-icon-creativecloud"
+                marketSegmentRewrite="COM"
+                priceType="SUB_NEW"
+                product="creative_cloud"
+                productIntroText="Get the entire collection of creative apps and more for"
+                purchasePhoneCss="promo-phone">
+                <productInfo jcr:primaryType="nt:unstructured"/>
+                <free
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="https://creative.adobe.com/plans?promoid=KSPCN"
+                    ctaButtonText="Choose a plan"
+                    productIntroText="Get the entire collection of creative apps and more for"/>
+                <paid
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="http://max.adobe.com/?promoid=KTJLS"
+                    ctaButtonText="Learn more"
+                    productIntroText="Join us at Adobe MAX. The Creativity Conference. Oct. 3–7 in Los Angeles."/>
+            </promo>
+        </promobar>
+        <contentlayer
+            jcr:lastModified="{Date}2014-11-25T22:30:20.382Z"
+            jcr:lastModifiedBy="wmyersta"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/contentlayer"
+            horizontalAlign="1"
+            opacity="{Long}0"
+            rgb="FFFFFF"
+            textcolor="text-alt-color"
+            verticalAlign="2"
+            width="{Long}55">
+            <title jcr:primaryType="nt:unstructured"/>
+            <text
+                jcr:primaryType="nt:unstructured"
+                text="&lt;div class=&quot;text-0-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Make something great.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>Introducing all-new versions of your favorite desktop apps.&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2020-04-08T21:03:28.188Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <topofbodymbox
+            jcr:lastModified="{Date}2014-12-16T03:54:16.687Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="TopOfBody"/>
+        <bottomofbodymbox
+            jcr:lastModified="{Date}2014-12-16T03:54:30.562Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="BottomOfBody"/>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+    </jcr:content>
+</jcr:root>

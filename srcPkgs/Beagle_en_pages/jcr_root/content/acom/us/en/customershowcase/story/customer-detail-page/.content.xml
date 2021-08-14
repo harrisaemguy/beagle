@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-12-23T07:21:01.495Z"
+        cq:lastModifiedBy="handoo"
+        cq:lastReplicated="{Date}2019-12-23T07:23:13.108Z"
+        cq:lastReplicatedBy="handoo"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Customer detail page"
+        jcr:uuid="da9dc774-92ef-4905-be6f-56c6127b3342"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Adobe | Customer Showcase"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="dark"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        isMCPage="true"
+        metaDescription="Adobe | Customer Showcase"
+        overrideBreadcrumbPath="/content/acom/us/en/customershowcase"
+        removeFromHtmlSitemap="true"
+        removeFromXmlSitemap="true"
+        useH1Tags="pageTitle">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <hero_8ec2
+                jcr:created="{Date}2017-02-23T18:40:10.890Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-10T16:37:28.246Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hero"
+                avoid="hero2-avoid-1"
+                color="hero2-theme-2"
+                effect="hero2-fx-frame-1"
+                fixedHeight="true"
+                height="hero2-size-5"
+                hideArticle="true"
+                hideCredits="true"
+                hideLink="true"
+                stackMode="hero2-tall-reset">
+                <image
+                    jcr:lastModified="{Date}2017-03-10T16:37:28.246Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/image"
+                    alt="Customer showcase detail page"
+                    fileReference="/content/dam/acom/en/customer-showcase/images/customer-showcase-marquee-story-1440x280.jpg"
+                    xcord="{Long}50"
+                    ycord="{Long}50"/>
+            </hero_8ec2>
+            <column_e8e7
+                jcr:created="{Date}2017-04-04T20:12:05.215Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-04T20:12:05.215Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="2"
+                grid0="7"
+                grid1="4"
+                layout="2;grid-cols-7 grid-offset-3      ;grid-cols-4      ;"
+                multiplier="6"
+                offset0="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-04-04T20:11:19.967Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_e8e7>
+            <column_d1ef
+                jcr:created="{Date}2017-04-04T20:12:13.361Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-04T20:13:41.175Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-7;"
+                bgColor="background-color:#f5f5f5;color:#000000"
+                layout="1;grid-cols-7;"
+                layoutMode="structured"
+                multiplier="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-04-04T20:13:41.175Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_d1ef>
+            <text_d97c
+                jcr:created="{Date}2017-02-23T16:59:17.420Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T17:11:46.919Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>Challenges&lt;/strong>&lt;/div>&#xa;&lt;ul class=&quot;text-5-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Create a magazine-style shopping experience with an emphasis on inspiration and editorials.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Deliver stunning email marketing at the right timing to increase sales.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Use in-house talent to develop all creative content required for Spree&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;strong>Key products used&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Analytics, Adobe Experience Manager, and Adobe Target solutions within Adobe Marketing Cloud, Adobe Creative Cloud for enterprise&lt;/span>&lt;/div>&#xa;"/>
+            <end_14913367333740
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_d1ef"/>
+            <break_14913367252250
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_e8e7"/>
+            <column_df2e
+                jcr:created="{Date}2017-04-04T20:15:09.640Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-04T20:15:09.640Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-4;"
+                bgColor=" "
+                layout="1;grid-cols-4;"
+                layoutMode="structured"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-04-04T20:14:54.403Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_df2e>
+            <end_14913369096520
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_df2e"/>
+            <image_d6ac
+                jcr:created="{Date}2017-02-23T17:11:53.887Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T17:13:24.541Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Hyatt"
+                fileReference="/content/dam/acom/en/customer-showcase/images/logo-hyatt-180x45.gif">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-02-23T17:13:24.541Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d6ac>
+            <text_b11a
+                jcr:created="{Date}2017-02-23T17:13:39.107Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T17:14:04.851Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>With Adobe partner&lt;/span>&lt;/div>&#xa;"/>
+            <image_a72e
+                jcr:created="{Date}2017-02-23T17:13:29.883Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T17:14:16.417Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Valtech"
+                fileReference="/content/dam/acom/en/customer-showcase/images/logo-valtech-130x35.gif">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-02-23T17:14:16.417Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_a72e>
+            <text_4fd9
+                jcr:created="{Date}2017-02-23T22:51:33.014Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T22:52:41.037Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-3-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;h4 style=&quot;text-align: center;&quot;>&lt;a data-modal-size=&quot;854x480&quot; href=&quot;http://www.youtube.com/&quot; target=&quot;modal-frame&quot; style=&quot;font-size: 1.25rem; font-style: normal; font-weight: 500;&quot;>&lt;span class=&quot;text-light&quot;>Watch the video ›&lt;/span>&lt;/a>&lt;/h4>&#xa;"/>
+            <end_14913367252261
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_e8e7"/>
+            <column_2de6
+                jcr:created="{Date}2017-02-23T16:57:01.644Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T16:57:18.746Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                section="v"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-02-23T16:57:18.746Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_2de6>
+            <text_86ac
+                jcr:created="{Date}2017-02-23T17:14:47.284Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-16T19:17:25.886Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>Making guests feel at home&amp;nbsp;&lt;/h3>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>With more than 600 hotels, resorts, residences, and vacation properties in more than 50 countries, Hyatt Hotels Corporation is a global hospitality leader. Through eleven brands, Hyatt provides authentic hospitality and inventive services that address the diverse needs of its associates, owners, and guests alike.&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>A prioritay for Hyatt is delivering excellent experiences at every step of the customer journey to build lasting, positive relationships. “The customer journey for us begins as soon as a customer starts dreaming about her vacation,” says Ellen Lee, Senior Vice President of Global Digital at Hyatt. “It then progresses into researching and booking the perfect property, having a great experience at one of our hotels, and then sharing those experiences with family and friends.”&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>To support customers throughout their journeys—from dreaming to planning and experiencing—Hyatt wanted to deliver consistent, high-quality content across digital properties, channels, and devices. Centralto accomplishing this was finding a way to effectively manage tens of thousands of approved assets used by content creators around the world.&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Working with integrated marketing partner Valtech, Hyatt decided to adopt Adobe Experience Manager Assets and Sites capabilities within Adobe Marketing Cloud. Valtech engaged with Hyatt from the beginning, looking at requirements, evaluating current and future needs, and collaborating with Hyatt to enable teams to easily work with Adobe’s cloud-based services. “Adobe Experience Manager Assets enable Hyatt to manage content in a centralized location to help ensure only current, approved content is used on websites, mobile apps, and on third-party travel sites,” says Joshua Young, Vice President at Valtech.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <image_d5b3
+                jcr:created="{Date}2017-02-23T17:16:05.354Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T17:16:36.003Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="long form"
+                fileReference="/content/dam/acom/en/customer-showcase/images/updated_long-form-article-r1_11.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-02-23T17:16:36.003Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d5b3>
+            <horizontalrule_7443
+                jcr:created="{Date}2017-03-10T17:21:10.132Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-10T17:21:10.132Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_60af
+                jcr:created="{Date}2017-03-10T17:20:44.498Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-10T17:21:01.705Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot;>&lt;strong>RESULTS&lt;/strong>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <column_d5e4
+                jcr:created="{Date}2017-03-10T17:19:59.708Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-10T17:19:59.708Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of8;grid-span-7of8;"
+                bgColor=" "
+                layout="2;grid-span-1of8;grid-span-7of8;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-03-10T17:14:46.519Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_d5e4>
+            <image_82e1
+                jcr:created="{Date}2017-03-10T17:20:15.347Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-10T17:20:15.347Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="circles"
+                fileReference="/content/dam/acom/en/customer-showcase/images/icon-showcase-circles-64x64.gif">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-02-23T17:18:28.926Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_82e1>
+            <break_14891663997230
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_d5e4"/>
+            <text_7a74
+                jcr:created="{Date}2017-03-10T17:20:07.663Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-10T17:20:07.663Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Shorter sales cycle for faster &lt;strong>ONBOARDING&lt;/strong>&lt;/div>&#xa;"/>
+            <end_14891663997231
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_d5e4"/>
+            <column_45e0
+                jcr:created="{Date}2017-03-10T17:19:56.589Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-10T17:19:56.589Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of8;grid-span-7of8;"
+                bgColor=" "
+                layout="2;grid-span-1of8;grid-span-7of8;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-03-10T17:14:46.519Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_45e0>
+            <image_9fed
+                jcr:created="{Date}2017-03-10T17:20:11.711Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-10T17:20:11.711Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="circles"
+                fileReference="/content/dam/acom/en/customer-showcase/images/icon-showcase-circles-64x64.gif">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-02-23T17:18:28.926Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_9fed>
+            <break_14891663966050
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_45e0"/>
+            <text_c974
+                jcr:created="{Date}2017-03-10T17:20:05.024Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-10T17:20:05.024Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Shorter sales cycle for faster &lt;strong>ONBOARDING&lt;/strong>&lt;/div>&#xa;"/>
+            <end_14891663966061
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_45e0"/>
+            <column_c8c6
+                jcr:created="{Date}2017-03-10T17:18:21.395Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-10T17:18:21.395Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of8;grid-span-7of8;"
+                bgColor=" "
+                layout="2;grid-span-1of8;grid-span-7of8;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-03-10T17:14:46.519Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_c8c6>
+            <image_d8a9
+                jcr:created="{Date}2017-03-10T17:18:52.678Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-10T17:18:52.678Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="circles"
+                fileReference="/content/dam/acom/en/customer-showcase/images/icon-showcase-circles-64x64.gif">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-02-23T17:18:28.926Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d8a9>
+            <break_14891663014120
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_c8c6"/>
+            <text_efc3
+                jcr:created="{Date}2017-03-10T17:18:57.337Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-10T17:19:52.130Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Shorter sales cycle for faster &lt;strong>ONBOARDING&lt;/strong>&lt;/div>&#xa;"/>
+            <end_14891663014131
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_c8c6"/>
+            <column_30ec
+                jcr:created="{Date}2017-02-23T17:16:55.642Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-10T17:14:46.519Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of8;grid-span-7of8;"
+                bgColor=" "
+                layout="2;grid-span-1of8;grid-span-7of8;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-03-10T17:14:46.519Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_30ec>
+            <image_d8d6
+                jcr:created="{Date}2017-02-23T17:17:50.805Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T17:18:28.926Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="circles"
+                fileReference="/content/dam/acom/en/customer-showcase/images/icon-showcase-circles-64x64.gif">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-02-23T17:18:28.926Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d8d6>
+            <break_14878702296900
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_30ec"/>
+            <text_3139
+                jcr:created="{Date}2017-02-23T17:18:01.486Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-10T17:14:32.900Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>REDUCED &lt;/strong>signature cycle time by 88%&lt;/div>&#xa;"/>
+            <end_14878702156510
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_30ec"/>
+            <horizontalrule_b5fc
+                jcr:created="{Date}2017-02-23T17:32:16.935Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T17:32:16.935Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_4293
+                jcr:created="{Date}2017-02-23T17:19:06.983Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T17:19:53.374Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Centralizing asset control&amp;nbsp;&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>With Adobe Experience Manager Assets, Hyatt stores approximately 70,000 approved images from properties worldwide. Equally importantly, the company stores associated details, such as photographer release forms, model release forms, legal notices, and other key documents. Having all image data in one location enables Hyatt to empower thousands of content creators company-wide with fast access to branded, quality images.&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>“It used to be difficult to manage images and ensure only approved content was used,” says Frank Breithaupt, Director of eCommerce and Marketing Systems at Hyatt. “People were sending DVDs of photos to each other, emailing images, or uploading images one at a time to file-sharing services. We didn’t have an efficient way to manage and control activities.”&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Combining Adobe Experience Manager with Adobe Creative Cloud, Hyatt streamlined image approval and uploading processes. Today, the creative team working at Hyatt headquarters receives images from authorized photographers and uses Adobe Bridge CC to quickly view, organize, and select hotel or lifestyle images to move along the approval process. Only photographs that meet Hyatt’s high standards are uploaded to Experience Manager Assets.&lt;/span>&lt;/div>&#xa;"/>
+            <pullquote_cbc1
+                jcr:created="{Date}2017-02-23T17:20:11.740Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T18:31:38.857Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/pullquote"
+                author="Frank Breithaupt"
+                fontstyle="italic"
+                quote="By using Adobe Experience Manager Assets, we can replace complex asset approval andmanagement processes with simplified workflows that can behandled by a centralized team."
+                title="Director of eCommerce and Marketing Systems, Hyatt"/>
+            <end_14878690216470
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_2de6"/>
+            <column_7807
+                jcr:created="{Date}2017-02-23T17:21:19.125Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T18:30:55.827Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="2"
+                grid0="7"
+                grid1="3"
+                layout="2;grid-cols-7 grid-offset-3;grid-cols-3;"
+                multiplier="4"
+                offset0="3"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-02-23T18:30:55.827Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_7807>
+            <column_6904
+                jcr:created="{Date}2017-02-23T17:22:13.973Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T17:22:53.922Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-7;"
+                bgColor="background-color:#f5f5f5;color:#000000"
+                layout="1;grid-cols-7;"
+                layoutMode="structured"
+                multiplier="6"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-02-23T17:22:53.922Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_6904>
+            <text_39d8
+                jcr:created="{Date}2017-02-23T17:27:45.232Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T17:27:57.027Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Solution at-a-glance&amp;nbsp;&lt;/span>&lt;/h3>&#xa;"/>
+            <end_14878705339800
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_6904"/>
+            <column_49d
+                jcr:created="{Date}2017-02-23T17:23:00.112Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-01T22:56:44.468Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of2;grid-span-1of2;"
+                bgColor="background-color:#f5f5f5;color:#000000"
+                layout="2;grid-span-1of2;grid-span-1of2;"
+                layoutMode="spatial"
+                multiplier="5"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-03-01T22:56:44.468Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_49d>
+            <text_1f25
+                jcr:created="{Date}2017-02-23T17:24:49.844Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-28T22:50:41.429Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Adobe Marketing Cloud&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Adobe Analytics&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Ad hoc Analysis&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Marketing Reporting and Analytics&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Adobe Experience Manager&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Assets&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Sites&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Adobe Target&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;#&quot;>AB Testing&lt;/a>&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"/>
+            <break_14878706021930
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_49d"/>
+            <text_b571
+                jcr:created="{Date}2017-02-23T17:26:44.047Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T17:27:30.119Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Adobe Creative Cloud&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Creative Cloud for enterprise&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Photoshop CC&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Bridge CC&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Creative Cloud libraries&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Other services&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Consultings&lt;/span>&lt;/div>&#xa;"/>
+            <end_14878705801220
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_49d"/>
+            <text_2fad
+                jcr:created="{Date}2017-02-23T17:32:56.391Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-02T22:21:43.069Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h5>&amp;nbsp;&lt;/h5>&#xa;&lt;h5>&lt;a href=&quot;#&quot;>&lt;span class=&quot;text-light&quot;>Download a PDF of this story ›&lt;/span>&lt;/a>&lt;/h5>&#xa;"/>
+            <break_14878705074930
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_7807"/>
+            <text_77a9
+                jcr:created="{Date}2017-02-23T17:29:21.117Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T17:30:46.444Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Hyatt Hotels Corporation&amp;nbsp;&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Established in 1957&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Chicago, Illinois&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>97,000 employees&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Visit website ›&lt;/span>&lt;/div>"/>
+            <horizontalrule_c99b
+                jcr:created="{Date}2017-02-23T17:31:16.999Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T17:31:16.999Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_5598
+                jcr:created="{Date}2017-02-23T17:30:42.212Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T17:31:10.230Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Valtech&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Headquarted in Paris, France with 20 offices worldwide&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Visit website ›&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14878704791310
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_7807"/>
+            <column_523c
+                jcr:created="{Date}2017-02-23T18:29:52.860Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-03-01T22:56:33.059Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-03-01T22:56:33.059Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_523c>
+            <end_14878745928780
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_523c"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2017-02-23T22:55:20.544Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2017-02-23T22:55:20.544Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <tophero
+            jcr:lastModified="{Date}2017-02-23T18:39:56.965Z"
+            jcr:lastModifiedBy="wmyersta"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            color="hero2-theme-2"
+            effect="hero2-fx-frame-3"
+            height="hero2-size-4"
+            hideArticle="true"
+            hideCredits="true"
+            hideLink="true">
+            <image
+                jcr:lastModified="{Date}2017-02-23T18:39:56.965Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Customer showcase detail marquee"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </tophero>
+        <merchandisingbar jcr:primaryType="nt:unstructured">
+            <contactpod
+                jcr:lastModified="{Date}2017-02-23T18:38:23.969Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/contactpod"
+                backgroundColor="background-color:#131031"
+                ctaButtonOverride="http://apps.enterprise.adobe.com/go/70114000002JNwKAAW"
+                ctaButtonText="Contact us"
+                description="Find out how Adobe can help you and your business."
+                purchasePhoneNumberCall="+118777227088"
+                purchasePhoneNumberDisp="877-722-7088"
+                title="Want to know more?">
+                <contactlist
+                    jcr:primaryType="nt:unstructured"
+                    sort_mdv="[0,1,2,3]">
+                    <_x0030_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-twitter"
+                        socialLink="#"
+                        socialTitle="Follow us on Twitter"/>
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-facebook"
+                        socialLink="#"
+                        socialTitle="Like us on Facebook"/>
+                    <_x0032_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-googleplus"
+                        socialLink="#"
+                        socialTitle="Follow us on Google+"/>
+                    <_x0033_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-linkedin"
+                        socialLink="#"
+                        socialTitle="Follow us on LinkedIn"/>
+                </contactlist>
+            </contactpod>
+        </merchandisingbar>
+    </jcr:content>
+</jcr:root>

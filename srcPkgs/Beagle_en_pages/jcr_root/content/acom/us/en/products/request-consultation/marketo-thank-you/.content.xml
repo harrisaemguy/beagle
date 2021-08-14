@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-01-17T01:01:53.797Z"
+        cq:lastModifiedBy="peharris"
+        cq:lastReplicated="{Date}2019-01-17T01:01:57.668Z"
+        cq:lastReplicatedBy="peharris"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Thank you"
+        jcr:uuid="bbd73ae4-e3e5-4195-85c5-c0d60fc86f17"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        applauncherTheme="light"
+        bodyClass="whiteBackground"
+        browserTitle="Adobe | Thank You"
+        disableGeoRouting="true"
+        distType="dist5"
+        enableCCRedirect="NA"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        groupSectionNavItems="no"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        marketSegmentRewrite="COM"
+        metaDescription="Thank you for your interest in Adobe. Your request has been submitted to an Adobe representative who will contact you shortly."
+        modalSize="426x240"
+        noFollow="true"
+        noIndex="true"
+        removeFromHtmlSitemap="true"
+        removeFromXmlSitemap="true"
+        stagelastReplicated="19-Jul-2016 00:58"
+        stagelastReplicatedBy="golee"
+        stageLastReplicationAction="ActivatedtoStage"
+        useH1Tags="pageTitle">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2018-12-18T17:14:35.946Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2018-12-18T17:14:35.946Z"
+                    jcr:lastModifiedBy="peharris"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_8920
+                jcr:created="{Date}2016-02-10T00:26:28.641Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2016-02-22T23:19:10.339Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-02-22T23:19:10.339Z"
+                        jcr:lastModifiedBy="rikio"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_8920>
+            <text_1629
+                jcr:created="{Date}2016-02-10T00:27:06.233Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2019-01-17T01:01:53.794Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Thank you for filling out the form.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Your submission will be sent into the Adobe Corporate SFDC instance for routing to an Adobe BDR Rep.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14550639886510
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_8920"/>
+        </contentbody>
+        <topofbodymbox
+            jcr:lastModified="{Date}2017-09-25T21:08:45.134Z"
+            jcr:lastModifiedBy="peharris"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="TopOfBody"/>
+        <bottomofbodymbox
+            jcr:lastModified="{Date}2017-09-25T21:08:57.441Z"
+            jcr:lastModifiedBy="peharris"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="BottomOfBody"/>
+    </jcr:content>
+</jcr:root>

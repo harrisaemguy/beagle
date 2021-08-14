@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-09-11T07:23:23.594Z"
+        cq:lastModifiedBy="21n83853"
+        cq:lastReplicated="{Date}2020-09-11T07:52:40.739Z"
+        cq:lastReplicatedBy="21n83853"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="University Outreach"
+        jcr:uuid="e2668aae-315d-4db2-928a-ed526649993c"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        applauncherTheme="light"
+        bodyClass="blackBackground"
+        browserTitle="Adobe Technical Communication Suite-University Outreach Program"
+        distType="dist5"
+        enableCCRedirect="NA"
+        enableLead="true"
+        freeTrialUrlLoggedInModalScrolling="no"
+        freeTrialUrlLoggedInModalSize="426x240"
+        freeTrialUrlLoggedInTarget="_self"
+        freeTrialUrlModalScrolling="no"
+        freeTrialUrlModalSize="426x240"
+        freeTrialUrlTarget="_self"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        gnavTheme="light"
+        hideInBreadcrumb="true"
+        hideInSectionNav="true"
+        hideMerchandisingBar="inherit"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        marketSegmentRewrite="COM"
+        marqueeStyle="newMarquee"
+        metaDescription="Learn more about Adobe University Outreach Pgrogram that provides innumerable benefits to the technical communication students from leading institutes"
+        pageTitle="Adobe Technical Communication Suite"
+        product="product-code-ATST"
+        stagelastReplicated="12-Jul-2017 08:44"
+        stagelastReplicatedBy="krishnan"
+        stageLastReplicationAction="ActivatedtoStage"
+        tryLinkModalScrolling="no"
+        tryLinkModalSize="426x240"
+        tryLinkProductPlanModalScrolling="no"
+        tryLinkProductPlanModalSize="426x240"
+        tryLinkProductPlanTarget="_self"
+        tryLinkTarget="_self"
+        useH1Tags="pageTitle">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_23b4
+                jcr:created="{Date}2020-02-04T12:00:05.250Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-02-04T12:00:18.676Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                layout="1;grid-cols-14 grid-offset-1;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-02-04T12:00:18.676Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_23b4>
+            <text_d2f
+                jcr:created="{Date}2015-03-19T11:14:17.487Z"
+                jcr:createdBy="pwavhal"
+                jcr:lastModified="{Date}2020-03-31T14:14:23.916Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&amp;nbsp;&lt;/h3>&#xa;&lt;h3>&lt;strong>Jumpstart your professional career with the best-in-class tools from Adobe&lt;/strong>&lt;/h3>&#xa;&lt;h4>&amp;nbsp;&lt;/h4>&#xa;&lt;h5>&lt;span class=&quot;text-light&quot;>Adobe’s University Outreach Program brings with it a bunch of benefits for technical communication students across leading institutions worldwide simply by making the industry-standard technical communication tools available to the students for their courses. Adobe has partnered with a number of universities across the globe and offered free of cost licenses of Adobe Technical Communication Suite, to the students and teachers in these programs.&amp;nbsp;If your institution is interested in this partnership, please reach out to us at &lt;a href=&quot;mailto:techcomm@adobe.com&quot;>techcomm@adobe.com&lt;/a>.&lt;/span>&lt;/h5>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <end_15808176052680
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_23b4"/>
+            <column_705b
+                jcr:created="{Date}2020-02-04T12:00:35.792Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-02-04T12:00:46.112Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                layout="1;grid-cols-14 grid-offset-1;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-02-04T12:00:46.112Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_705b>
+            <column_ffca
+                jcr:created="{Date}2020-02-04T12:00:56.247Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-16T19:24:54.291Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                enablePaddingEachColumns="true"
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-16T19:24:54.291Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_ffca>
+            <image_81b9
+                jcr:created="{Date}2020-01-28T07:17:22.091Z"
+                jcr:createdBy="21n44842"
+                jcr:lastModified="{Date}2020-09-11T07:21:47.549Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="Conestoga College"
+                sling:resourceType="beagle/components/image"
+                alt="Conestoga College"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/technicalcommunicationsuite_new/images/conestoga-logo.jpg"
+                link="https://www.conestogac.on.ca/fulltime/technical-communication"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-09-11T07:21:47.549Z"
+                    jcr:lastModifiedBy="21n83853"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_81b9>
+            <text_329d
+                jcr:created="{Date}2020-01-28T07:17:48.613Z"
+                jcr:createdBy="21n44842"
+                jcr:lastModified="{Date}2020-09-11T07:19:31.835Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://www.conestogac.on.ca/fulltime/technical-communication&quot; target=&quot;_blank&quot;>Conestoga College&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>“Our partnership with Adobe allows us to train future technical communicators using industry-standard tools so that they are positioned for success in their careers. We are proud to be able to offer our students the competitive advantage that comes with the Adobe Technical Communication Suite.”&lt;br>&#xa; &lt;/span>- Lisa BaumanProgram Manager and Part time Professor Career Development,&amp;nbsp;Conestoga College Institute of Technology and Advanced Learning&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://www.conestogac.on.ca/fulltime/technical-communication&quot; target=&quot;_blank&quot;>Read more&amp;nbsp;›&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_15808176562670
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_ffca"/>
+            <image_17b0
+                jcr:created="{Date}2020-09-11T07:16:05.428Z"
+                jcr:createdBy="21n83853"
+                jcr:lastModified="{Date}2020-09-11T07:23:23.570Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="SDI International University Munich"
+                sling:resourceType="beagle/components/image"
+                alt="SDI International University Munich"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/technicalcommunicationsuite_new/images/218x138.png"
+                link="https://www.sdi-muenchen.de/home/aktuell/detailansicht/news/kooperation-mit-adobe-bringt-studierenden-viele-vorteile/"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-09-11T07:23:23.570Z"
+                    jcr:lastModifiedBy="21n83853"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_17b0>
+            <text_211a
+                jcr:created="{Date}2020-09-11T07:16:06.228Z"
+                jcr:createdBy="21n83853"
+                jcr:lastModified="{Date}2020-09-11T07:19:50.838Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://www.sdi-muenchen.de/home/aktuell/detailansicht/news/kooperation-mit-adobe-bringt-studierenden-viele-vorteile/&quot; target=&quot;_blank&quot;>SDI International University Munich&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;quot;In our new Dual Master's degree in Translation Management at the International University SDI Munich, students benefit enormously from using Adobe software for text creation such as. B. Get to know FrameMaker. This makes our seminars on pre-editing and information management particularly practical. &amp;quot;&lt;br>&#xa; &lt;/span>-&amp;nbsp;Dr. Rachel Herwartz, Professor of Translation and Terminology Management, SDI International University Munich&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://www.sdi-muenchen.de/home/aktuell/detailansicht/news/kooperation-mit-adobe-bringt-studierenden-viele-vorteile/&quot; target=&quot;_blank&quot;>Read more&amp;nbsp;›&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_15808176562671
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_ffca"/>
+            <image_afc0
+                jcr:created="{Date}2020-04-15T13:27:13.166Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-15T13:27:13.166Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="Zurich University of Applied Sciences"
+                sling:resourceType="beagle/components/image"
+                alt="Zurich University of Applied Sciences"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/technicalcommunicationsuite_new/images/logo_UO_ZHAW.jpg"
+                link="https://www.zhaw.ch/de/linguistik/institute-zentren/iued/ueber-uns/netzwerke-und-berufsorganisationen/#c101286"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-03-28T20:28:27.361Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_afc0>
+            <text_3c71
+                jcr:created="{Date}2020-04-15T13:27:18.910Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-15T13:27:18.910Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://www.zhaw.ch/de/hochschule/&quot; target=&quot;_blank&quot;>Zurich&amp;nbsp;University of Applied Sciences&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;quot;&lt;span class=&quot;text-light&quot;>Adobe enables students to learn about the tools and applications from Technical Communication with the&lt;/span> &lt;span class=&quot;text-light&quot;>availability of licenses from the&lt;/span> &lt;span class=&quot;text-light&quot;>Technical Communication Suite.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>With the practice-oriented tools such as FrameMaker and RoboHelp, I can very well convey the single source principles that are becoming increasingly important in class. They are familiar with the graduate tools that can be used to handle the increasingly complex tasks in technical communication.&amp;quot;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>- Felix Scheibe, lecturer at the ZHAW and certified Adobe Expert for Framemaker (ACE)&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://www.zhaw.ch/de/linguistik/institute-zentren/iued/ueber-uns/netzwerke-und-berufsorganisationen/#c101286&quot; target=&quot;_blank&quot;>Read more&amp;nbsp;›&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_15808176562672
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_ffca"/>
+            <image_d26c
+                jcr:created="{Date}2020-01-28T10:33:25.953Z"
+                jcr:createdBy="21n44842"
+                jcr:lastModified="{Date}2020-03-28T20:28:49.307Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="Karlsruhe University of Applied Sciences"
+                sling:resourceType="beagle/components/image"
+                alt="Karlsruhe University of Applied Sciences"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/technicalcommunicationsuite_new/images/logo_UO_KarlsruheUniversity.jpg"
+                link="https://www.hs-karlsruhe.de/kmm-b/"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-03-28T20:28:49.307Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d26c>
+            <text_bde1
+                jcr:created="{Date}2020-01-28T10:54:01.178Z"
+                jcr:createdBy="21n44842"
+                jcr:lastModified="{Date}2020-04-15T13:27:02.816Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://www.hs-karlsruhe.de/internationalprogram/&quot; target=&quot;_blank&quot;>Karlsruhe&amp;nbsp;University of Applied Sciences&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>“By partnering with Adobe, our students get free access to powerful, industry-established tools for technical communication. I have been using Adobe Tools in teaching for more than 20 years. In this way, students can learn how to use established programs at an early stage, which gives them a clear advantage in their internships and working student activities during their studies.”&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>- Prof. Sissi Closs, Information and Media Technology in the Communication and Media Management course, Karlsruhe University of Applied Sciences.&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://www.hs-karlsruhe.de/kmm-b/&quot; target=&quot;_blank&quot;>Read more&amp;nbsp;›&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_15808176562683
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_ffca"/>
+            <column_80a1
+                jcr:created="{Date}2020-02-04T12:05:29.198Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-16T19:24:39.151Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                enablePaddingEachColumns="true"
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-16T19:24:39.151Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_80a1>
+            <image_b4d0
+                jcr:created="{Date}2020-01-28T10:33:29.718Z"
+                jcr:createdBy="21n44842"
+                jcr:lastModified="{Date}2020-03-28T20:29:03.232Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="Technische Hochschule Mittelhessen University of Applied Sciences"
+                sling:resourceType="beagle/components/image"
+                alt="Technische Hochschule Mittelhessen University of Applied Sciences"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/technicalcommunicationsuite_new/images/logo_UO_thm.jpg"
+                link="https://profthiele.jimdo.com/2019/12/28/danke-adobe/"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-03-28T20:29:03.232Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_b4d0>
+            <text_b316
+                jcr:created="{Date}2020-01-28T10:54:05.080Z"
+                jcr:createdBy="21n44842"
+                jcr:lastModified="{Date}2020-03-29T12:46:05.000Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://www.thm.de/site/&quot; target=&quot;_blank&quot;>Technische Hochschule Mittelhessen University of Applied Sciences&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;quot;The master's graduates of the trmd course (Technische Redaktion und Multimediale Dokumentation/technical editing and multimedia documentation) acquire in-depth skills in the field of technical writing. The Adobe software products of the Technical Communication Suite offer the basis with Acrobat, Robohelp and especially FrameMaker.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>The University Outreach Program supports our students in acquiring the necessary skills as technical editors and independently writing extensive operating instructions at work. We are grateful to Adobe for being able to experience this support and for passing on these opportunities to our students!&amp;quot;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>- Prof. Dr.-Ing. Ulrich Thiele, trmd&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://profthiele.jimdo.com/2019/12/28/danke-adobe/&quot; target=&quot;_blank&quot;>Read more&amp;nbsp;›&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_15808179292180
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_80a1"/>
+            <image_19d5
+                jcr:created="{Date}2020-01-28T10:33:33.306Z"
+                jcr:createdBy="21n44842"
+                jcr:lastModified="{Date}2020-03-28T20:29:16.936Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="University of Strasbourg "
+                sling:resourceType="beagle/components/image"
+                alt="University of Strasbourg "
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/technicalcommunicationsuite_new/images/logo_UO_UniversityofStrasbourg.jpg"
+                link="https://en.unistra.fr/"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-03-28T20:29:16.936Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_19d5>
+            <text_1aba
+                jcr:created="{Date}2020-01-28T10:54:09.424Z"
+                jcr:createdBy="21n44842"
+                jcr:lastModified="{Date}2020-03-29T12:46:53.208Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://mastertcloc.unistra.fr/tcloc-masters-becomes-part-of-the-adobe-tech-comm-university-outreach-program/&quot; target=&quot;_blank&quot;>University of Strasbourg&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>“With our master’s program in technical communication and localization, we seek to provide courses that give students opportunities for hands-on, practical application of the competencies they acquire during their coursework using the best tools available.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>The Technical Communication Suite is the most popular collection of tools used by the industry for creating and editing technical documentation. In our Technical Publishing class, for example, we use Adobe FrameMaker because it allows users to publish natively across channels, mobile devices, and formats, and to create content with best-in-class XML/DITA support.”&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>- Dr. Renate de la Paix, program director, Master in Technical Communication and Localization&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://mastertcloc.unistra.fr/tcloc-masters-becomes-part-of-the-adobe-tech-comm-university-outreach-program/&quot; target=&quot;_blank&quot;>Read more&amp;nbsp;›&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_15808179292191
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_80a1"/>
+            <image_3f28
+                jcr:created="{Date}2015-03-28T10:59:13.653Z"
+                jcr:createdBy="pwavhal"
+                jcr:lastModified="{Date}2020-03-28T20:29:37.111Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="Anhalt University of Applied Sciences"
+                sling:resourceType="beagle/components/image"
+                alt="Anhalt University of Applied Sciences"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/technicalcommunicationsuite_new/images/logoNEU_hsa_kompl.jpg"
+                link="https://www.hs-anhalt.de/hochschule-anhalt/fachbereich-5/studiengaenge.html"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-03-28T20:29:37.111Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_3f28>
+            <text_20bc
+                jcr:created="{Date}2015-03-28T11:00:07.781Z"
+                jcr:createdBy="pwavhal"
+                jcr:lastModified="{Date}2020-03-29T12:54:53.903Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://www.hs-anhalt.de/hochschule-anhalt/fachbereich-5/studiengaenge.html&quot; target=&quot;_blank&quot;>Anhalt University of Applied Sciences&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>“The study programs at the Anhalt University of Applied Sciences focus on practical skills. Our partnership with Adobe enables our computer science and software localization students to learn the powerful, state-of-the-art, and industry-recognized tools of the Adobe Technical Communication Suite and to be confident that they will meet the latest technological requirements when they start their careers.”&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>-&amp;nbsp;Prof. Dr. Uta Seewald-Heeg, Anhalt University of Applied Sciences&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://www.hs-anhalt.de/hochschule-anhalt/fachbereich-5/studiengaenge.html&quot; target=&quot;_blank&quot;>Read more&amp;nbsp;›&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_15808179292202
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_80a1"/>
+            <image_8bd7
+                jcr:created="{Date}2019-12-31T05:39:06.245Z"
+                jcr:createdBy="21n83853"
+                jcr:lastModified="{Date}2020-03-28T20:29:51.471Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="Hochschule Flensburf - Flensburg University of Applied Sciences"
+                sling:resourceType="beagle/components/image"
+                alt="Hochschule Flensburf - Flensburg University of Applied Sciences"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/technicalcommunicationsuite_new/images/logo_UO_Flensberg.jpg"
+                link="https://hs-flensburg.de/studium/bachelor/ifk/meldungen/2019/10/17/ifk-nimmt-teil-am-university-outreach-programm-von-adobe"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-03-28T20:29:51.471Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_8bd7>
+            <text_4f71
+                jcr:created="{Date}2019-12-31T05:39:12.922Z"
+                jcr:createdBy="21n83853"
+                jcr:lastModified="{Date}2020-03-29T12:55:11.609Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://hs-flensburg.de/studium/bachelor/ifk/meldungen/2019/10/17/ifk-nimmt-teil-am-university-outreach-programm-von-adobe&quot; target=&quot;_blank&quot;>Flensburg University of Applied Sciences&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;quot;We are delighted that Adobe is giving international communication students the opportunity to use the Adobe Technical Communication Suite free of charge,&amp;quot;. “As a result, our students get to know leading software tools for creating and editing technical documentation during their studies. This not only offers the students an enormous advantage when starting their career, but also future employers.&amp;quot;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>- Sascha Heimann, technical translator and program manager for the BA course in international communication&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://hs-flensburg.de/studium/bachelor/ifk/meldungen/2019/10/17/ifk-nimmt-teil-am-university-outreach-programm-von-adobe&quot; target=&quot;_blank&quot;>Read more&amp;nbsp;›&lt;/a>&lt;/div>&#xa;"/>
+            <end_15808179292203
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_80a1"/>
+            <column_8f06
+                jcr:created="{Date}2020-02-04T12:08:23.932Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-16T19:24:17.884Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                enablePaddingEachColumns="true"
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-16T19:24:17.884Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_8f06>
+            <image_82d6
+                jcr:created="{Date}2019-11-29T06:50:06.903Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-03-28T20:30:02.750Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="Missouri University of Science and Technology"
+                sling:resourceType="beagle/components/image"
+                alt="Missouri University of Science and Technology"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/technicalcommunicationsuite_new/images/Logo_UO_Missouri.jpg"
+                link="https://news.mst.edu/2019/11/missouri-st-renews-partnership-with-adobe-3/"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-03-28T20:30:02.750Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_82d6>
+            <text_d8f9
+                jcr:created="{Date}2019-11-29T06:50:12.347Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-03-29T12:56:18.529Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://news.mst.edu/2019/11/missouri-st-renews-partnership-with-adobe-3/&quot; target=&quot;_blank&quot;>Missouri University of Science and Technology&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>“We are thrilled to continue working with Adobe and with Adobe’s generosity toward our program.” “Our students have benefited greatly from their experience with Adobe products, and we are proud to be associated with them. Their Creative Suite is the best collection of products on the market for technical communication studies.”&lt;/span>&lt;strong>&lt;span class=&quot;text-light&quot;>&lt;/span>&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>-&amp;nbsp;Dr. David Wright, Associate Professor of English and technical communication, Missouri S&amp;amp;T&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://news.mst.edu/2019/11/missouri-st-renews-partnership-with-adobe-3/&quot; target=&quot;_blank&quot;>Read more&amp;nbsp;›&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_15808181039530
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_8f06"/>
+            <image_f142
+                jcr:created="{Date}2019-12-30T13:59:16.198Z"
+                jcr:createdBy="21n83853"
+                jcr:lastModified="{Date}2020-03-28T20:30:16.143Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="Hochschule Anhalt, FB Informatik und Sprachen"
+                sling:resourceType="beagle/components/image"
+                alt="Hochschule Anhalt, FB Informatik und Sprachen"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/technicalcommunicationsuite_new/images/Logo_UO_München.jpg"
+                link="https://www.trk.hm.edu/aktuelles_1/newsdetail_68544.de.html"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-03-28T20:30:16.143Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_f142>
+            <text_2ec8
+                jcr:created="{Date}2019-12-30T13:59:25.900Z"
+                jcr:createdBy="21n83853"
+                jcr:lastModified="{Date}2020-03-29T12:56:55.691Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://www.trk.hm.edu/aktuelles_1/newsdetail_68544.de.html&quot; target=&quot;_blank&quot;>Munich University of Applied Sciences&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>For years, the Munich University of Applied Sciences has relied on the partnership with Adobe for the software for technical communication. This collaboration will now be extended to 2020.&amp;nbsp;The Adobe Tech Comm University Outreach Program enables students to use the Technical Communication Suite free of charge for study purposes.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;quot;I like to use RoboHelp in teaching projects for software documentation, because it can be learned intuitively and also has all the state-of-the-art functions. RoboHelp is also ideal for multiscreen online help on desktop, tablet and smartphone.&amp;quot;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>- Prof. Grünwied&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://www.trk.hm.edu/aktuelles_1/newsdetail_68544.de.html&quot; target=&quot;_blank&quot;>Read more&amp;nbsp;›&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_15808181039541
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_8f06"/>
+            <image_e798
+                jcr:created="{Date}2015-03-19T13:17:26.470Z"
+                jcr:createdBy="pwavhal"
+                jcr:lastModified="{Date}2015-03-19T13:23:11.765Z"
+                jcr:lastModifiedBy="pwavhal"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="University of Wisconsin Stout"
+                sling:resourceType="beagle/components/image"
+                alt="University of Wisconsin Stout"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/technicalcommunicationsuite_2015/images/University-of-Wisconsin-Stout.jpg"
+                link="http://www.uwstout.edu/news/articles/Masters-program-students-to-benefit-from-Adobe-partnership.cfm"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+            </image_e798>
+            <text_7b48
+                jcr:created="{Date}2015-03-19T13:20:47.159Z"
+                jcr:createdBy="pwavhal"
+                jcr:lastModified="{Date}2020-03-29T12:57:46.572Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://www.uwstout.edu/news/articles/Masters-program-students-to-benefit-from-Adobe-partnership.cfm&quot; target=&quot;_blank&quot;>University of Wisconsin Stout&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;quot;Many of our graduates will need to use FrameMaker and other Adobe tools as soon as they are hired. I look forward to preparing them for being productive from their first day on the job, using the tools in the Technical Communication Suite.&amp;quot;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>- Gregory Schneider-Bateman, Assistant Professor, University of Wisconsin Stout&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://www.uwstout.edu/news/articles/Adobe-partnership-benefits-technical-communication-students.cfm&quot; target=&quot;_blank&quot;>Read more&amp;nbsp;&lt;span style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px; font-style: normal;&quot;>›&lt;/span>&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_15808181039542
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_8f06"/>
+            <image_2f15
+                jcr:created="{Date}2015-03-19T13:25:06.736Z"
+                jcr:createdBy="pwavhal"
+                jcr:lastModified="{Date}2015-04-10T10:32:58.565Z"
+                jcr:lastModifiedBy="pwavhal"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="Algonquin College"
+                sling:resourceType="beagle/components/image"
+                alt="Algonquin College"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/technicalcommunicationsuite_2015/images/Algonquin-College.jpg"
+                link="http://www.adobe.com/content/dam/Adobe/en/customer-success/pdfs/algonquin-college-case-study.pdf"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+            </image_2f15>
+            <text_1af1
+                jcr:created="{Date}2015-03-19T13:25:54.491Z"
+                jcr:createdBy="pwavhal"
+                jcr:lastModified="{Date}2020-03-31T13:43:40.028Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://www.adobe.com/content/dam/Adobe/en/customer-success/pdfs/algonquin-college-case-study.pdf&quot; target=&quot;_blank&quot;>Algonquin College&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>“Adobe Creative Cloud and Adobe RoboHelp are gold standards in applied arts and technology education. They play a vital role in student engagement and learning in school and as they follow their career paths.”&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>- Glenn MacDougall, Director of Learning and Teaching Services, Algonquin College&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://www.adobe.com/content/dam/Adobe/en/customer-success/pdfs/algonquin-college-case-study.pdf&quot; target=&quot;_blank&quot;>Read more&amp;nbsp;›&lt;/a>&lt;/div>&#xa;"/>
+            <end_15808181039543
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_8f06"/>
+            <column_ec2e
+                jcr:created="{Date}2020-02-04T12:09:40.890Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-16T19:23:58.361Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                enablePaddingEachColumns="true"
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-16T19:23:58.361Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_ec2e>
+            <image_8681
+                jcr:created="{Date}2015-03-19T13:27:55.615Z"
+                jcr:createdBy="pwavhal"
+                jcr:lastModified="{Date}2017-01-23T19:31:17.908Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="George Brown College"
+                sling:resourceType="beagle/components/image"
+                alt="George Brown College"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/technicalcommunicationsuite_2015/images/George-Brown-College.jpg"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-01-23T19:31:17.908Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_8681>
+            <text_5f44
+                jcr:created="{Date}2015-03-19T13:28:42.006Z"
+                jcr:createdBy="pwavhal"
+                jcr:lastModified="{Date}2020-03-29T12:59:50.218Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>George Brown College&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;quot;Partnering with Adobe ensures our students have access to powerful, widely used digital tools for developing, managing and publishing interactive instructional documents and e-learning materials. By becoming well versed in these industry standard software programs, our students will enjoy a competitive advantage in the workforce.&amp;quot;&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>- Lynne Kurylo, Chair of Liberal Studies, School of Continuing Education&lt;/div>&#xa;"/>
+            <break_15808181809110
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_ec2e"/>
+            <image_f2a6
+                jcr:created="{Date}2015-03-19T13:30:39.960Z"
+                jcr:createdBy="pwavhal"
+                jcr:lastModified="{Date}2015-03-19T13:31:24.577Z"
+                jcr:lastModifiedBy="pwavhal"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="Wright State University"
+                sling:resourceType="beagle/components/image"
+                alt="Wright State University"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/technicalcommunicationsuite_2015/images/Wright-State-University.jpg"
+                link="https://liberal-arts.wright.edu/english-language-and-literatures/article/adobe-donates-technical-communication-software-to-professional-writing-classes"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+            </image_f2a6>
+            <text_7f7
+                jcr:created="{Date}2015-03-19T13:31:37.020Z"
+                jcr:createdBy="pwavhal"
+                jcr:lastModified="{Date}2020-03-29T13:00:24.370Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://liberal-arts.wright.edu/english-language-and-literatures/article/adobe-donates-technical-communication-software-to-professional-writing-classes&quot; target=&quot;_blank&quot;>Wright State University&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>“Many employers are expecting students to be familiar with a documentation software like Robohelp, so I am thrilled that Adobe is giving the students access to the software as they prepare for their careers.”&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>- Dr. Lars Söderlund, Wright State University&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://liberal-arts.wright.edu/english-language-and-literatures/article/adobe-donates-technical-communication-software-to-professional-writing-classes&quot; target=&quot;_blank&quot;>Read more&amp;nbsp;&lt;span style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px; font-style: normal;&quot;>›&lt;/span>&lt;/a>&lt;/div>&#xa;"/>
+            <break_15808181809121
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_ec2e"/>
+            <image_a24b
+                jcr:created="{Date}2019-12-30T11:21:05.341Z"
+                jcr:createdBy="21n83853"
+                jcr:lastModified="{Date}2019-12-30T11:21:05.341Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="Metropolitan State University of Denver"
+                sling:resourceType="beagle/components/image"
+                alt="Metropolitan State University of Denver"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/technicalcommunicationsuite_2015/images/Metropolitan-State-University-of-Denver.jpg"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-01-23T19:33:54.078Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_a24b>
+            <text_9a0b
+                jcr:created="{Date}2019-12-30T11:25:55.312Z"
+                jcr:createdBy="21n83853"
+                jcr:lastModified="{Date}2020-03-29T13:02:14.132Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>Metropolitan State University of Denver&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;“We feel incredibly fortunate to be able to offer TCS at no charge to students in our technical writing courses. Professionals in the industry have often noted the need to employ RoboHelp and Captivate software when writing and editing technical documents, and both our faculty and students have taken this advice to heart. “&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>- Prof. Bob Amend, Department Chairman, Department of Journalism and Technical Communication&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_15808181809122
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_ec2e"/>
+            <image_c80
+                jcr:created="{Date}2019-12-30T11:26:22.335Z"
+                jcr:createdBy="21n83853"
+                jcr:lastModified="{Date}2019-12-30T11:26:22.335Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="Seneca College"
+                sling:resourceType="beagle/components/image"
+                alt="Seneca College"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/technicalcommunicationsuite_2015/images/Seneca-College.jpg"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-01-25T15:42:18.345Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_c80>
+            <text_8299
+                jcr:created="{Date}2019-12-30T11:26:27.045Z"
+                jcr:createdBy="21n83853"
+                jcr:lastModified="{Date}2020-03-29T13:02:32.220Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>Seneca College&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;“Adobe not only provides software licenses but their support and training materials deliver added value to our students, making this partnership truly rewarding. Employers increasingly demand skilled communicators who can develop and manage content while helping make technology easier to use. By mastering this software, our students will be must-have employees in any company upon graduation.&amp;quot;&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>- Prof. Beth Agnew, Coordinator for Seneca’s Technical Communication Program&lt;/div>&#xa;"/>
+            <end_15808181809123
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_ec2e"/>
+            <column_bd2e
+                jcr:created="{Date}2020-02-04T12:14:17.220Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-04-16T19:23:41.548Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                enablePaddingEachColumns="true"
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-16T19:23:41.548Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_bd2e>
+            <image_e294
+                jcr:created="{Date}2019-12-30T11:26:56.891Z"
+                jcr:createdBy="21n83853"
+                jcr:lastModified="{Date}2019-12-30T11:26:56.891Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="New Jersey Institute of Technology"
+                sling:resourceType="beagle/components/image"
+                alt="New Jersey Institute of Technology"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/technicalcommunicationsuite_2015/images/New-Jersey-Institute-of-Technology.jpg"
+                link="http://www.njit.edu/news/2013/msptc-001.php"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+            </image_e294>
+            <text_bdab
+                jcr:created="{Date}2019-12-30T11:27:03.849Z"
+                jcr:createdBy="21n83853"
+                jcr:lastModified="{Date}2020-03-29T13:03:02.706Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://www.njit.edu/news/2013/msptc-001.php&quot; target=&quot;_blank&quot;>New Jersey Institute of Technology&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>“Our agreement with Adobe provides students with the opportunity to learn and use a state-of-the-art authoring suite. As a result, [students] can directly apply the design principles that they learn in the course, and see their designs come to life.”&amp;nbsp;&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>- &amp;nbsp;Prof. Robert Myre, New Jersey Institute of Technology&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://www.njit.edu/news/2013/msptc-001.php&quot; target=&quot;_blank&quot;>Read more&amp;nbsp;&lt;span style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px; font-style: normal;&quot;>›&lt;/span>&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_15808184572390
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_bd2e"/>
+            <image_84a1
+                jcr:created="{Date}2019-12-30T11:10:06.448Z"
+                jcr:createdBy="21n83853"
+                jcr:lastModified="{Date}2020-08-07T12:08:39.867Z"
+                jcr:lastModifiedBy="21n62761"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="The University of Alabama in Huntsville"
+                sling:resourceType="beagle/components/image"
+                alt="The University of Alabama in Huntsville"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/technicalcommunicationsuite_2015/images/The-University-of-Alabama-in-Huntsville.jpg"
+                link="https://www.uah.edu/news/people/uah-partners-with-adobe-to-bring-cutting-edge-technical-communication-software-to-students#.UqdgYvQW2BL"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-08-07T12:08:39.867Z"
+                    jcr:lastModifiedBy="21n62761"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_84a1>
+            <text_4f75
+                jcr:created="{Date}2019-12-30T11:12:04.026Z"
+                jcr:createdBy="21n83853"
+                jcr:lastModified="{Date}2020-03-31T13:44:09.293Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://www.uah.edu/news/people/6411-uah-partners-with-adobe-to-bring-cutting-edge-technical-communication-software-to-students#.UqdgYvQW2BL&quot; target=&quot;_blank&quot;>The University of Alabama in Huntsville&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;quot;I was very excited(when I got the call from Adobe asking if I would be interested in partnering). Adobe is one of the premier software companies in the world, and the software in Adobe TCS is used by technical communicators around the world every day&amp;quot;&amp;nbsp;&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>- Dr. Ryan Weber, Director of Business and Technical Writing, University of Alabama in Huntsville&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://www.uah.edu/news/people/6411-uah-partners-with-adobe-to-bring-cutting-edge-technical-communication-software-to-students#.UqdgYvQW2BL&quot; target=&quot;_blank&quot;>Read more&amp;nbsp;›&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_15808184572391
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_bd2e"/>
+            <image_9383
+                jcr:created="{Date}2019-12-30T11:18:02.076Z"
+                jcr:createdBy="21n83853"
+                jcr:lastModified="{Date}2020-08-07T12:08:57.599Z"
+                jcr:lastModifiedBy="21n62761"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="Austin Community College"
+                sling:resourceType="beagle/components/image"
+                alt="Austin Community College"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/technicalcommunicationsuite_2015/images/Austin-Community-College.jpg"
+                link="http://sites.austincc.edu/newsroom/2016/04/20/acc-partners-with-adobe-to-provide-students-free-software-access-2/"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-08-07T12:08:57.599Z"
+                    jcr:lastModifiedBy="21n62761"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_9383>
+            <text_9232
+                jcr:created="{Date}2019-12-30T11:18:09.332Z"
+                jcr:createdBy="21n83853"
+                jcr:lastModified="{Date}2020-03-29T13:04:20.824Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot; http://sites.austincc.edu/newsroom/acc-partners-with-adobe-to-provide-students-free-software-access-2/&quot; target=&quot;_blank&quot;>Austin Community College&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>“This donation provides our students with essential hands-on experience using the exact software they’ll likely encounter in their careers as technical writers, online help authors, and desktop publishers. It’s the best technology for content development.”&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>- David McMurrey, Chair of the Business and Technical Communications Department, Austin Community College&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>“I was first introduced to Adobe FrameMaker during my Technical Publishing with Adobe FrameMaker class. It’s become my go-to tool. I’m able to put together various technical documents with ease.”&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>- Jhenelle J., former ACC student.&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot; http://sites.austincc.edu/newsroom/acc-partners-with-adobe-to-provide-students-free-software-access-2/&quot; target=&quot;_blank&quot;>Read more&amp;nbsp;&lt;span style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px; font-style: normal;&quot;>›&lt;/span>&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_15808184572392
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_bd2e"/>
+            <image_ddf7
+                jcr:created="{Date}2019-12-30T11:17:40.054Z"
+                jcr:createdBy="21n83853"
+                jcr:lastModified="{Date}2020-08-07T09:57:29.552Z"
+                jcr:lastModifiedBy="21n62761"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="Metropolitan State University"
+                sling:resourceType="beagle/components/image"
+                alt="Metropolitan State University"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/technicalcommunicationsuite_2015/images/Metropolitan-State-University.jpg"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-08-07T09:57:29.552Z"
+                    jcr:lastModifiedBy="21n62761"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_ddf7>
+            <text_aa7c
+                jcr:created="{Date}2019-12-30T11:17:47.660Z"
+                jcr:createdBy="21n83853"
+                jcr:lastModified="{Date}2020-08-04T03:34:32.956Z"
+                jcr:lastModifiedBy="21n62761"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>Metropolitan State University&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>“This kind of partnership is a perfect fit for our program. Adobe produces industry standard tools for technical communicators and we want our graduates to be familiar not only with relevant theory, but with the tools of the trade. It's an exciting opportunity, much appreciated by students and their potential employers.&amp;quot;&amp;nbsp;&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>- Craig Hansen, Professor and Director, Master of Science in Technical Communication Program, Metropolitan State&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <end_15808184572403
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_bd2e"/>
+            <column_2158
+                jcr:created="{Date}2020-09-11T07:06:31.918Z"
+                jcr:createdBy="21n83853"
+                jcr:lastModified="{Date}2020-09-11T07:06:31.918Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                enablePaddingEachColumns="true"
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-04-16T19:23:41.548Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_2158>
+            <image_14c7
+                jcr:created="{Date}2019-12-30T11:17:07.123Z"
+                jcr:createdBy="21n83853"
+                jcr:lastModified="{Date}2019-12-30T11:17:07.123Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="The Purdue School of Engineering and Technology"
+                sling:resourceType="beagle/components/image"
+                alt="The Purdue School of Engineering and Technology"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/technicalcommunicationsuite_2015/images/the-purdue-school-of-engineering-and-technology.jpg"
+                link="http://news.iupui.edu/releases/2015/04/adobe-engineering-technology.shtml"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+            </image_14c7>
+            <text_a07d
+                jcr:created="{Date}2019-12-30T11:17:13.376Z"
+                jcr:createdBy="21n83853"
+                jcr:lastModified="{Date}2020-03-29T13:06:36.402Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://news.iupui.edu/releases/2015/04/adobe-engineering-technology.shtml&quot; target=&quot;_blank&quot;>The Purdue School of Engineering and Technology&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>“It is critical for students to learn how to use the software available in the Adobe Technical Communication Suite because many companies expect employees to have experience using this specific software in technical fields. Students are more likely to be hired if they have learned to use the Adobe Technical Communication Suite.”&amp;nbsp;&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>-&amp;nbsp;Corinne Renguette, Ph.D. Program Director, Assistant Professor of Technical Communication&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://news.iupui.edu/releases/2015/04/adobe-engineering-technology.shtml&quot; target=&quot;_blank&quot;>Read more&amp;nbsp;›&lt;/a>&lt;/div>&#xa;"/>
+            <break_15998079919390
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_2158"/>
+            <break_15998079919391
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_2158"/>
+            <break_15998079919402
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_2158"/>
+            <end_15998079919403
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_2158"/>
+            <end_15808176358110
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_705b"/>
+            <column_8f30
+                jcr:created="{Date}2016-11-30T19:57:40.679Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-03-28T19:48:29.772Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor="background-color:#f5f5f5;color:#000000"
+                layout="1;grid-cols-14 grid-offset-1;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-03-28T19:48:29.772Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_8f30>
+            <text_ebe9
+                jcr:created="{Date}2020-03-28T19:49:02.087Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-03-28T19:49:16.914Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;h2 style=&quot;text-align: center;&quot;>&lt;strong>News. Topics. Trends.&lt;/strong>&lt;/h2>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"/>
+            <text_1e7d
+                jcr:created="{Date}2020-03-28T19:49:32.870Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-06-25T10:49:22.627Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;https://www.adobe.com/subscription/techcomm_newsletter.html&quot; target=&quot;_blank&quot;>Subscribe to our monthly newsletter&lt;/a>&lt;/div>&#xa;"/>
+            <text_90d3
+                jcr:created="{Date}2020-03-28T19:51:09.703Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-03-28T19:51:09.703Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h5 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h5>&#xa;&lt;h5 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Join the conversation&amp;nbsp;&lt;/span>&lt;/h5>&#xa;&lt;div class=&quot;text-3-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;https://twitter.com/adobetcs&quot; target=&quot;_blank&quot;>&lt;i class=&quot;icon-twitter&quot;>&lt;/i>&lt;/a>&lt;a href=&quot;https://www.facebook.com/adobetcs&quot; target=&quot;_blank&quot;>&lt;i class=&quot;icon-facebook&quot;>&lt;/i>&lt;/a>&lt;a href=&quot; https://www.linkedin.com/company/adobetcs/&quot; target=&quot;_blank&quot;>&lt;i class=&quot;icon-linkedin&quot;>&lt;/i>&lt;/a>&lt;a href=&quot;https://www.youtube.com/user/AdobeTCS&quot; target=&quot;_blank&quot;>&lt;i class=&quot;icon-youtube&quot;>&lt;/i>&lt;/a>&lt;a href=&quot;https://blogs.adobe.com/techcomm/&quot; target=&quot;_blank&quot;>&lt;i class=&quot;icon-blog&quot;>&lt;/i>&lt;/a>&lt;/div>&#xa;"/>
+            <text_ce8e
+                jcr:created="{Date}2020-03-28T19:51:40.131Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-03-28T19:51:40.131Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>For any queries, write to us at &lt;strong>&lt;a href=&quot;mailto:techcomm@adobe.com&quot;>techcomm@adobe.com&lt;/a>&amp;nbsp;&lt;/strong>or call &lt;a href=&quot;tel:+1-866-647-1213&quot;>&lt;strong>+1-866-647-1213&lt;/strong>&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <end_14805358607020
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_8f30"/>
+        </contentbody>
+        <sectionMore
+            jcr:primaryType="nt:unstructured"
+            linkModalScrolling="no"
+            linkModalSize="426x240"
+            linkTarget="_self"/>
+        <imagelayer jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2020-03-28T19:43:50.354Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2020-03-28T19:43:50.354Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <card jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2017-06-29T14:55:06.237Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"/>
+        </card>
+        <tophero
+            jcr:lastModified="{Date}2020-06-25T11:51:27.891Z"
+            jcr:lastModifiedBy="21n83853"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            avoid="hero2-avoid-1"
+            color="hero2-theme-1"
+            height="hero2-size-4"
+            hideCredits="true"
+            hideLink="true">
+            <image
+                jcr:lastModified="{Date}2020-06-25T11:51:27.891Z"
+                jcr:lastModifiedBy="21n83853"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="University Outreach"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/technicalcommunicationsuite_new/images/tcs_innerpage_marquee.png"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+            <article
+                jcr:lastModified="{Date}2020-03-28T19:47:25.671Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hero/article"
+                articleAlignment="hero2-align-2"
+                title="&lt;p>&lt;strong>Adobe Technical Communication University Outreach Program&lt;/strong>&lt;/p>&#xa;"
+                width="hero2-basis-0">
+                <titleImage
+                    jcr:lastModified="{Date}2020-03-28T19:47:25.671Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"/>
+                <link
+                    jcr:primaryType="nt:unstructured"
+                    modalMode="VIDEO"
+                    size="426x240"
+                    type="free">
+                    <image
+                        jcr:lastModified="{Date}2020-03-28T19:47:25.671Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </link>
+            </article>
+        </tophero>
+    </jcr:content>
+</jcr:root>

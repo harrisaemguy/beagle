@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-08-10T02:57:06.239-07:00"
+        cq:lastModifiedBy="dvirmani"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Community Translation"
+        jcr:uuid="d0ca1144-006c-43d4-b4b7-c43a2bbdbd01"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="enterpriseBackground"
+        browserTitle="Adobe Type | Community Translation"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="light"
+        hideInSectionNav="true"
+        languageDirection="ltr"
+        metaDescription="Adobe Type | Community Translation"
+        pageTitle="Community Translation"
+        seodescription="placeholder">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_126b
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=""
+                layout="1;grid-cols-14 grid-offset-1;"/>
+            <image_d40c38c3-3c2d-414a-bfe4-29f7fae4631d
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                fileReference="/content/dam/acom/en/products/type/images/147x83/featured-font-trajan-sans-147x83.png"/>
+            <text_e2b58923-434a-4c4c-afac-b06209e05bb1
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>placeholder&lt;br>&#xa;&lt;/p>&#xa;"/>
+            <col_break13517938802150
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="colctrl"/>
+            <image_0_7b1a1dbd-2a0a-4d59-a4a0-4d9f7f7357c8
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                fileReference="/content/dam/acom/en/products/type/images/147x83/featured-font-trajan-sans-147x83.png"/>
+            <text_0_a5a677f4-18dd-4ab0-8424-57d0770429e7
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>placeholder&lt;br>&#xa;&lt;/p>&#xa;"/>
+            <col_break13517938802151
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="colctrl"/>
+            <image_1_763329a2-156a-43dd-a6ca-0db732305a1c
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                fileReference="/content/dam/acom/en/products/type/images/147x83/featured-font-trajan-sans-147x83.png"/>
+            <text_1_e69af8e9-0df6-40c9-b0aa-4ecc637db112
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>For every ten translations which are accepted by the moderator for that language, contributors can request &lt;strong>five free fonts &lt;/strong>from the &lt;a href=&quot;http://blogs.adobe.com/typblography/files/2012/08/CommunityTranslation.pdf&quot; title=&quot;Adobe Owned Fonts&quot;>list of Adobe owned fonts&lt;/a> (currently totals more than 800 fonts).&lt;/p>&#xa;&lt;p>Moderators will be looking for translations that use the appropriate type vernacular and capture the essence of what’s being communicated.&lt;/p>&#xa;&lt;p>Requests for fonts and any questions/comments about the Adobe Type Community Translation program should be...&lt;br>&#xa;&lt;/p>&#xa;"/>
+            <col_end13517938802152
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="colctrl"/>
+            <text_6_094db7ad-4e6d-4206-96c3-b0dd251f9d44
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;ul>&#xa;&lt;li>Contributer 1&lt;/li>&#xa;&lt;li>Contributor 2&lt;/li>&#xa;&lt;li>Contributor 3&lt;br>&#xa;&lt;/li>&#xa;&lt;/ul>&#xa;"/>
+            <col_break13517945076550
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="colctrl_0"/>
+            <text_7_42f55fd4-09da-422f-922c-f5cc644d2d32
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;ul>&#xa;&lt;li>Contributer 1&lt;/li>&#xa;&lt;li>Contributor 2&lt;/li>&#xa;&lt;/ul>&#xa;"/>
+            <col_break13517945076551
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="colctrl_0"/>
+            <text_4_bbf093d3-cf5d-4931-bafb-dacb46d4ef2d
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"/>
+            <col_break13517945076552
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="colctrl_0"/>
+            <text_5_1504992c-8223-48b7-9f41-516d009eccbc
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"/>
+            <col_end13517945076553
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="colctrl_0"/>
+            <text_3_7f08c3db-6ed4-465f-a69d-9ed5559cd6ba
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&amp;lt;Place rules &amp;amp; eligibility from Legal&amp;gt;&lt;br>&#xa;&lt;/p>&#xa;"/>
+            <end_14544550461840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_126b"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2016-08-10T02:57:06.213-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2016-08-10T02:57:06.213-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+    </jcr:content>
+</jcr:root>

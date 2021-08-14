@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <rep:policy/>
+    <jcr:content
+        cq:lastModified="{Date}2015-08-27T18:16:32.826Z"
+        cq:lastModifiedBy="robertfr"
+        cq:lastReplicated="{Date}2015-06-16T15:34:20.243Z"
+        cq:lastReplicatedBy="env74043"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fragmentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Photoshop Elements 13"
+        jcr:uuid="cc4cce12-ae43-4225-8129-8ddb5a81a6b1"
+        sling:resourceType="beagle/components/fragmentpage"
+        hideInNav="{Boolean}true">
+        <buypod
+            jcr:lastModified="{Date}2015-08-27T18:16:32.795Z"
+            jcr:lastModifiedBy="robertfr"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/buypod"
+            ctaButtonOverride="http://www.adobe.com/cfusion/store/handlers/elicensing/trialconversion.cfm?productId=057&amp;platform=Windows&amp;locale=en_US&amp;marketSegment=com&amp;skuType=UPGRADE&amp;view=editcart"
+            ctaButtonText="Upgrade now"
+            introTextCOM="Photoshop Elements "
+            introTextEDU="Photoshop Elements "
+            marketSegmentRewrite="COM"
+            multiSubscriptionCheck="single"
+            priceOverrideCOM="69.99"
+            priceOverrideEDU="69.99"
+            priceType="UPGRADE"
+            priceTypeEDU="YEAR"
+            pricingTextPrefix="US$"
+            pricingTextSuffix="   "
+            product="photoshop_elements"
+            strikeThroughPrice="Disabled"
+            try="Buy now"
+            tryLink="http://www.adobe.com/cfusion/store/handlers/elicensing/trialconversion.cfm?productId=057&amp;platform=Windows&amp;locale=en_US&amp;marketSegment=com&amp;skuType=FULL&amp;view=editcart">
+            <prodlist jcr:primaryType="nt:unstructured"/>
+            <ratings
+                jcr:primaryType="nt:unstructured"
+                reviewsText="Reviews"
+                starsText="stars"
+                starText="star"/>
+        </buypod>
+    </jcr:content>
+</jcr:root>

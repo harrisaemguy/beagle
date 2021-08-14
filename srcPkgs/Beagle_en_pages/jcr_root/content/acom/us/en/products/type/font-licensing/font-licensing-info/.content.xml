@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-05-09T23:06:55.381Z"
+        cq:lastModifiedBy="karchie"
+        cq:lastReplicated="{Date}2016-05-17T22:27:05.462Z"
+        cq:lastReplicatedBy="karchie"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Font License Information"
+        jcr:uuid="159978bf-db7b-4f9d-b0ae-7efdd5b9b2d9"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Font License Information"
+        hideMerchandisingBar="hide"
+        hidePromoComponent="hide"
+        metaDescription="Font License Information"
+        stagelastReplicated="04-May-2016 22:44"
+        stagelastReplicatedBy="karchie"
+        stageLastReplicationAction="ActivatedtoStage">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_453c
+                jcr:created="{Date}2016-04-23T00:14:57.633Z"
+                jcr:createdBy="karchie"
+                jcr:lastModified="{Date}2016-04-26T18:08:24.302Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                layout="1;grid-cols-14 grid-offset-1;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-04-26T18:08:24.302Z"
+                        jcr:lastModifiedBy="karchie"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_453c>
+            <text_47ef
+                jcr:created="{Date}2016-04-23T00:18:25.726Z"
+                jcr:createdBy="karchie"
+                jcr:lastModified="{Date}2016-05-09T23:06:55.372Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>With the advent of the CSS @font-face rule and the expansion of font&amp;nbsp;services, web designers and developers have the ability to enrich the&amp;nbsp;look and feel of their websites and realize beneficial improvements in&amp;nbsp;their workflows through the use of web fonts. When you use fonts in our&amp;nbsp;products we may ask you to confirm you hold the proper license for the&amp;nbsp;intended use. We do so out of respect for the work and livelihood of&amp;nbsp;typeface designers and in an effort to help keep users from&amp;nbsp;inadvertently using a font in an unlicensed manner.&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>Many existing font licenses only allow desktop usage. That is, the&amp;nbsp;license allows the font to be used to create content that is printed or&amp;nbsp;rasterized (as an image), but prohibits the font data from being&amp;nbsp;streamed from a server to a browser. Fortunately, many foundries and webservices are now making fonts available directly to customers with&amp;nbsp;licenses or license extensions that broaden the usage of desktop fonts&amp;nbsp;to include use on the web. Most may charge an additional fee for these&amp;nbsp;extended rights.&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>A font, whether purchased or integrated with a program, is typically&amp;nbsp;accompanied by an End User License Agreement (EULA) defining what you&amp;nbsp;can and cannot do with the font. Not all EULAs are alike. Your rights to use a font may be more or less restrictive than those of someone who&amp;nbsp;licensed the same font from a different vendor. Before using a font or&amp;nbsp;adding one to your website, please read the EULA carefully to understand your rights. If the EULA doesn't specifically state that a particular&amp;nbsp;use is permitted (e.g. as a web font), then it probably isn't. If you&amp;nbsp;are unsure of your usage rights, it is best to contact the vendor from&amp;nbsp;which you licensed the font. If you have misplaced the EULA you might&amp;nbsp;ask for another copy. If you don't know from whom you licensed your&amp;nbsp;font, the information below can help you find out.&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>Remember good typeface design is a meticulous and time-consuming&amp;nbsp;effort. Please help support the vibrant, creative community of typeface&amp;nbsp;designers by properly licensing the fonts you use.&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>This list shows one or more vendors which might be the source of your font EULA, based on information found in the font. More font licensing information may be found by clicking on a vendor name.&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14613704976440
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_453c"/>
+            <fontlicensing_7163
+                jcr:created="{Date}2016-04-20T00:12:23.387-07:00"
+                jcr:createdBy="sskadako"
+                jcr:lastModified="{Date}2016-04-23T00:24:35.628Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/fontlicensing"
+                fontNameLabel="Font:"
+                fontVendorsLabel="Show all registered font vendors +"
+                vendorsLabel="Vendor source:">
+                <vendoridentification
+                    jcr:lastModified="{Date}2016-04-26T23:44:58.908Z"
+                    jcr:lastModifiedBy="knissank"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/text"
+                    textIsRich="true"/>
+            </fontlicensing_7163>
+            <column_b57c
+                jcr:created="{Date}2016-04-26T23:44:04.064Z"
+                jcr:createdBy="knissank"
+                jcr:lastModified="{Date}2016-04-26T23:44:11.024Z"
+                jcr:lastModifiedBy="knissank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                layout="1;grid-cols-14 grid-offset-1;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-04-26T23:44:11.024Z"
+                        jcr:lastModifiedBy="knissank"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_b57c>
+            <text_e154
+                jcr:created="{Date}2016-04-26T23:41:14.716Z"
+                jcr:createdBy="knissank"
+                jcr:lastModified="{Date}2016-05-05T21:37:15.310Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>Font Vendor ID information is maintained by&amp;nbsp;&lt;a target=&quot;_blank&quot; href=&quot;https://www.microsoft.com/typography/links/VendorList.aspx&quot;>Microsoft Corporation&lt;/a>.&amp;nbsp;Font vendors other than Adobe are responsible for their own URLs and web site content, and are not affiliated with Adobe Systems&amp;nbsp;Incorporated or part of Adobe.com.&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>If you are a font vendor and would like to add or update information here, please contact&amp;nbsp;&lt;a href=&quot;mailto:font-vendor-info@adobe.com&quot;>Adobe Systems&lt;/a>.&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14617142440690
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_b57c"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2016-04-23T00:17:14.369Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2016-04-23T00:17:14.369Z"
+                    jcr:lastModifiedBy="karchie"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+    </jcr:content>
+</jcr:root>

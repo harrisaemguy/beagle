@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-07-27T10:56:27.451Z"
+        cq:lastModifiedBy="nedas"
+        cq:lastReplicated="{Date}2020-09-01T08:35:41.187Z"
+        cq:lastReplicatedBy="bgupta"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Adobe Connect Trial Un-Available"
+        jcr:uuid="a644a40d-f010-4064-8d31-64ab06b6eda6"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        applauncherTheme="light"
+        bodyClass="whiteBackground"
+        browserTitle="Adobe Connect"
+        disableFloatingNav="true"
+        disableGeoRouting="true"
+        distType="dist5"
+        enableCCRedirect="NA"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideInBreadcrumb="true"
+        hideInSectionNav="true"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        marketSegmentRewrite="COM"
+        marqueeStyle="newMarquee"
+        metaDescription=" "
+        modalSize="426x240"
+        navTitle="Adobe Connect"
+        noIndex="true"
+        product="adobe--icon-only-"
+        stagelastReplicated="31-Aug-2020 13:31"
+        stagelastReplicatedBy="nedas"
+        stageLastReplicationAction="ActivatedtoStage"
+        useH1Tags="pageTitle">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2020-07-27T10:56:27.432Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2020-07-27T10:56:27.432Z"
+                    jcr:lastModifiedBy="nedas"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_7b7c
+                jcr:created="{Date}2015-08-31T20:56:10.222Z"
+                jcr:createdBy="golee"
+                jcr:lastModified="{Date}2015-08-31T20:56:10.222Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"/>
+            <end_15957808519290
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_7b7c"/>
+            <column_a25f
+                jcr:created="{Date}2015-08-31T20:55:01.344Z"
+                jcr:createdBy="golee"
+                jcr:lastModified="{Date}2020-07-26T16:27:31.922Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="9"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-07-26T16:27:31.922Z"
+                        jcr:lastModifiedBy="nedas"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_a25f>
+            <text_ea50
+                jcr:created="{Date}2015-08-31T21:00:12.335Z"
+                jcr:createdBy="golee"
+                jcr:lastModified="{Date}2020-07-25T14:21:49.611Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>This page is &lt;strong>currently unavailable&lt;/strong> as a result of planned system maintenance. &lt;/span>&lt;/h3>&#xa;&lt;h4 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Please try back later.&lt;/span>&lt;/h4>&#xa;"
+                textIsRich="true"/>
+            <end_14410545013530
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_a25f"/>
+            <image_8ce1
+                jcr:created="{Date}2020-07-25T14:22:20.476Z"
+                jcr:createdBy="nedas"
+                jcr:lastModified="{Date}2020-07-26T16:23:44.690Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Trial-unavailable-footer"
+                fileReference="/content/dam/acom/en/products/adobeconnect/2020launch/connect_green_pattern_footer.jpg"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-07-25T14:23:10.267Z"
+                    jcr:lastModifiedBy="nedas"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_8ce1>
+        </contentbody>
+        <tophero
+            jcr:lastModified="{Date}2020-07-25T14:20:04.610Z"
+            jcr:lastModifiedBy="nedas"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            height="hero2-size-5">
+            <image
+                jcr:lastModified="{Date}2020-07-25T14:20:04.610Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Trail Unavailable Header"
+                fileReference="/content/dam/acom/en/products/adobeconnect/2020launch/connect_green_pattern.jpg"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </tophero>
+    </jcr:content>
+    <rep:policy/>
+</jcr:root>

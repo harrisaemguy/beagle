@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-11-21T14:42:14.426Z"
+        cq:lastModifiedBy="rbedi"
+        cq:lastReplicated="{Date}2017-01-24T20:53:14.643Z"
+        cq:lastReplicatedBy="atrevino"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Pricing"
+        jcr:uuid="ad4ffc57-6240-433f-bf58-527a752e3210"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Adobe Media Server 5 on Amazon Web Services - Pricing"
+        ctaButtonText="Contact sales"
+        distType="dist5"
+        enableBreadcrumb="true"
+        freeTrial="Subscribe now"
+        freeTrialLoggedIn="Subscribe now"
+        freeTrialUrl="https://aws.amazon.com/marketplace/pp/B00IGJMIOI/ref=_ptnr_subscribe"
+        freeTrialUrlLoggedIn="https://aws.amazon.com/marketplace/pp/B00IGJMIOI/ref=_ptnr_subscribe"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideMerchandisingBar="hide"
+        hidePromoComponent="hide"
+        marketSegmentRewrite="none"
+        marqueeStyle="newMarquee"
+        metaDescription="Adobe Media Server 5 on Amazon Web Services - Pricing"
+        modalSize="426x240"
+        noLoggedInChange="true"
+        pageTitle="Pricing"
+        stagelastReplicated="21-Oct-2016 10:28"
+        stagelastReplicatedBy="rbedi"
+        stageLastReplicationAction="ActivatedtoStage"
+        tryLink="http://www.adobe.com/products/request-consultation/adobe-media-server.html">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2016-10-21T10:27:56.368Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2016-10-21T10:27:56.368Z"
+                    jcr:lastModifiedBy="rbedi"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <sectionNavItems
+            jcr:primaryType="nt:unstructured"
+            sort_mdv="[3,1,2,0]">
+            <_x0033_
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionLink"
+                link="https://helpx.adobe.com/adobe-media-server/kb/ams-aws-marketplace-faq.html"
+                sectionNavTitle="FAQ"/>
+            <_x0031_
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionLink"
+                link="https://helpx.adobe.com/adobe-media-server/tech-overview/topics.html"
+                sectionNavTitle="User guide"/>
+            <_x0032_
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionLink"
+                link="https://www.adobe.com/products/adobemediaserver/partners/"
+                sectionNavTitle="Partners"/>
+            <_x0030_
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionLink"
+                link="https://www.adobe.com/support/flashmediaserver/"
+                sectionNavTitle="Learn &amp; Support"/>
+        </sectionNavItems>
+        <promobar jcr:primaryType="nt:unstructured">
+            <promo
+                jcr:lastModified="{Date}2016-06-16T00:13:15.518Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/promo"
+                ctaButtonOverride="https://aws.amazon.com/marketplace/pp/B00IGJMIOI/ref=_ptnr_subscribe"
+                ctaButtonOverrideLoggedInFreeTarget="_blank"
+                ctaButtonOverrideLoggedInTarget="_blank"
+                ctaButtonOverrideTarget="_blank"
+                ctaButtonText="Subscribe now"
+                hidePhoneSection="true"
+                icon="none"
+                marketSegmentRewrite="COM"
+                priceType="YEAR"
+                product="brush_cc"
+                productIntroText="Take advantage of self-managed cloud streaming services."
+                purchasePhoneCss="promo-phone"
+                purchasePhoneText="Purchase by Phone">
+                <productInfo jcr:primaryType="nt:unstructured"/>
+                <free
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="https://aws.amazon.com/marketplace/pp/B00IGJMIOI/ref=_ptnr_subscribeadobe.com/products/request-consultation/adobe-access.html"
+                    ctaButtonText="Subscribe now"
+                    productIntroText="Take advantage of self-managed cloud streaming services."/>
+                <paid
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="https://aws.amazon.com/marketplace/pp/B00IGJMIOI/ref=_ptnr_subscribe"
+                    ctaButtonText="Subscribe now"
+                    productIntroText="Take advantage of self-managed cloud streaming services."/>
+            </promo>
+        </promobar>
+        <modalcontent
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys"/>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_ee1f
+                jcr:created="{Date}2016-06-14T22:03:46.912Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2016-06-14T22:04:08.395Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="6"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-06-14T22:04:08.395Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_ee1f>
+            <text_1238
+                jcr:created="{Date}2016-10-19T08:02:28.260Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-10-19T08:05:57.264Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>Instance types&lt;/h3>&#xa;&lt;h3>&amp;nbsp;&lt;/h3>&#xa;"/>
+            <table_268
+                jcr:created="{Date}2016-10-19T08:02:54.158Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-10-19T09:31:53.188Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/table"
+                tableDataHTML="&lt;table width=&quot;100%&quot; class=&quot;stripe-grey-white-reverse padding-all data-table-row-em&quot;>&#xa;&lt;tbody>&lt;tr>&lt;td style=&quot;text-align: center;&quot;>&lt;strong>Instance Type&lt;/strong>&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>&lt;strong>RTMFP Connection Limit&lt;/strong>&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>&lt;strong>HTTP Connection Limit&lt;/strong>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td style=&quot;text-align: center;&quot;>m3.large&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>100&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>No Limits&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td style=&quot;text-align: center;&quot;>m3.xlarge&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>100&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>No Limits&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td style=&quot;text-align: center;&quot;>m1.large&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>100&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>No Limits&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td style=&quot;text-align: center;&quot;>m2.xlarge&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>100&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>No Limits&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td style=&quot;text-align: center;&quot;>c1.xlarge&lt;br>&#xa;&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>1000&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>No Limits&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td style=&quot;text-align: center;&quot;>m1.xlarge&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>1000&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>No Limits&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td style=&quot;text-align: center;&quot;>m2.2xlarge&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>10000&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>No Limits&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td style=&quot;text-align: center;&quot;>m2.4xlarge&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>10000&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>No Limits&lt;/td>&#xa;&lt;/tr>&lt;/tbody>&lt;/table>"/>
+            <text_1976
+                jcr:created="{Date}2016-10-19T08:04:35.554Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-10-19T08:05:17.058Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>The prices for various instances are available on the&amp;nbsp;&lt;a href=&quot;https://aws.amazon.com/marketplace/pp/B00IGJMIOI&quot; target=&quot;_blank&quot;>AMS AMI Page&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <text_d613
+                jcr:created="{Date}2016-10-19T08:05:23.738Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-10-19T08:06:08.747Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;h3>Data transfer&lt;/h3>&#xa;&lt;h3>&amp;nbsp;&lt;/h3>&#xa;"/>
+            <text_7cef
+                jcr:created="{Date}2016-10-19T08:06:02.277Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-10-19T08:06:48.540Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>For information on data transfer, visit the&amp;nbsp;&lt;a href=&quot;http://aws.amazon.com/ec2/#dataXferPricing&quot; target=&quot;_blank&quot;>Internet Data Transfer&lt;/a>&amp;nbsp;section of the Amazon Elastic Compute Cloud (Amazon EC2)&amp;nbsp;site.&lt;/div>&#xa;"/>
+            <end_14659418269180
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_ee1f"/>
+            <column_123b
+                jcr:created="{Date}2016-06-14T21:51:13.880Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2016-06-14T21:51:13.880Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor="background-color:#444444;color:#FFFFFF"
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="6"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-06-14T21:33:26.884Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_123b>
+            <text_5a3
+                jcr:created="{Date}2016-06-14T22:11:03.390Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2016-06-16T00:28:13.726Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4 style=&quot;text-align: center;&quot;>Best practice guides&lt;/h4>&#xa;"
+                textIsRich="true"/>
+            <column_ce80
+                jcr:created="{Date}2016-06-14T21:51:20.684Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2016-06-16T00:43:48.798Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                multiplier="3"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-06-16T00:43:48.798Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_ce80>
+            <text_683
+                jcr:created="{Date}2016-06-14T22:01:12.502Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2016-06-16T00:30:52.362Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>&lt;a href=&quot;http://tv.adobe.com/watch/project-primetime/adobe-media-server-overview-with-kevin-towes/&quot; target=&quot;_blank&quot;>Adobe Media Server 5 introduction video&lt;/a>&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>Get familiar with Adobe Media Server 5.&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14659410901370
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_ce80"/>
+            <text_14aa
+                jcr:created="{Date}2016-06-14T22:01:15.813Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2016-06-16T00:32:20.889Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>&lt;a href=&quot;https://www.adobe.com/go/ams_introwp/&quot; target=&quot;_blank&quot;>Adobe Media Server 5 introduction white paper&lt;/a>&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>Learn about the features and technology in Adobe Media Server 5.&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14659410901371
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_ce80"/>
+            <text_5929
+                jcr:created="{Date}2016-06-14T22:01:19.389Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2016-06-16T00:43:21.250Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>&lt;a href=&quot;https://www.adobe.com/go/ams_on_aws_help&quot;>Using Adobe Media Server on Amazon Web Services&lt;/a>&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>A getting started guide and resource.&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14659410806890
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_ce80"/>
+            <end_14659410738860
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_123b"/>
+            <column_91a3
+                jcr:created="{Date}2016-10-19T08:16:12.191Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-10-19T08:17:25.610Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-10-19T08:17:25.610Z"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_91a3>
+            <column_df68
+                jcr:created="{Date}2016-10-19T08:17:44.215Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-10-19T08:19:31.453Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-10-19T08:19:31.453Z"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_df68>
+            <text_545d
+                jcr:created="{Date}2016-10-19T08:20:12.531Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-10-19T08:25:02.062Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Learning&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/flashmediaserver/&quot;>Developer Center&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://tv.adobe.com/product/flash-media-server/&quot;>About TV&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14768651714670
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_df68"/>
+            <text_7592
+                jcr:created="{Date}2016-10-19T08:20:15.840Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-10-19T08:20:15.840Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Help&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://www.adobe.com/support/flashmediaserver/&quot;>&lt;span class=&quot;text-light&quot;>Support&lt;/span>&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://forums.adobe.com/community/adobe_media_server/&quot;>Forums&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://www.adobe.com/support/flashmediaserver/downloads_updaters.html&quot;>&lt;span class=&quot;text-light&quot;>Product updates&lt;/span>&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14768651714681
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_df68"/>
+            <text_664f
+                jcr:created="{Date}2016-10-19T08:20:24.077Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-21T14:42:14.414Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Resources&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/go/ams_partners/&quot;>Partners&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://www.adobe.com/go/tryadobemediaserver/&quot; style=&quot;font-size: 0.875rem;&quot;>&lt;span class=&quot;text-light&quot;>Adobe Media Server Starter download&lt;/span>&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/dam/acom/en/products/amazon-web-services/pdf/ams5-aws-datasheet-cs6.pdf&quot; style=&quot;font-style: normal; font-weight: 300;&quot; target=&quot;_blank&quot;>Datasheet&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;/content/dam/acom/en/products/amazon-web-services/pdf/2013%2012%2013%20-%20EULA%20-%20AWS%205%200-%20FINAL.pdf&quot; target=&quot;_blank&quot;>&lt;span class=&quot;text-light&quot;>Terms of Use&lt;/span>&lt;/a>&lt;/div>&#xa;"/>
+            <break_14768651714692
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_df68"/>
+            <text_7c7c
+                jcr:created="{Date}2016-10-19T08:20:26.263Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-10-19T08:20:26.263Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Page tools&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://www.facebook.com/sharer.php&quot;>&lt;span class=&quot;text-light&quot;>&lt;i class=&quot;off icon-facebook&quot;>&lt;/i>&amp;nbsp;Share on Facebook&lt;/span>&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://twitter.com/&quot; style=&quot;font-style: normal; font-weight: 300;&quot;>&lt;i class=&quot;off icon-twitter&quot;>&lt;/i>&amp;nbsp;Share on Twitter&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://www.linkedin.com/&quot;>&lt;span class=&quot;text-light&quot;>&lt;i class=&quot;off icon-linkedin&quot;>&lt;/i>Share on LinkedIn&lt;/span>&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; line-height: 16px;&quot;>Share on Facebook&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; line-height: 16px;&quot;>Share on Facebook&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal;&quot;>Share on LinkedIn&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal;&quot;>Share on LinkedIn&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal;&quot;>Share on LinkedIn&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal;&quot;>Share on LinkedIn&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal;&quot;>Share on LinkedIn&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14768650642280
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_df68"/>
+            <end_14768649722010
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_91a3"/>
+        </contentbody>
+        <tophero
+            jcr:lastModified="{Date}2016-10-19T08:00:05.302Z"
+            jcr:lastModifiedBy="dvirmani"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            color="hero2-theme-1"
+            effect="hero2-fx-frame-2"
+            height="hero2-size-2"
+            hideCredits="true"
+            hideLink="true">
+            <image
+                jcr:lastModified="{Date}2016-10-19T08:00:05.302Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Adobe Access"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </tophero>
+    </jcr:content>
+</jcr:root>

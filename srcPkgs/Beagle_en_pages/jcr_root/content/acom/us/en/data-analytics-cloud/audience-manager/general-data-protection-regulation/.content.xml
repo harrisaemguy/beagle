@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-07-18T21:30:31.196Z"
+        cq:lastModifiedBy="mwitten"
+        cq:lastReplicated="{Date}2019-07-18T21:30:36.130Z"
+        cq:lastReplicatedBy="mwitten"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:language="en"
+        jcr:mixinTypes="[mix:lockable,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Discover how to be GDPR compliant| Adobe Audience Manager"
+        jcr:uuid="968df784-56ba-408d-a220-e19e66bd02b6"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        applauncherTheme="light"
+        bodyClass="MarketingCloudSubPage"
+        browserTitle="Discover how to be GDPR compliant| Adobe Audience Manager"
+        ctaButtonText="Request demo"
+        disableGeoRouting="true"
+        distType="dist5"
+        enableBreadcrumb="true"
+        enableCCRedirect="NA"
+        faasFormPage="true"
+        freeTrialUrlLoggedInModalScrolling="no"
+        freeTrialUrlLoggedInModalSize="426x240"
+        freeTrialUrlLoggedInTarget="_self"
+        freeTrialUrlModalScrolling="no"
+        freeTrialUrlModalSize="426x240"
+        freeTrialUrlTarget="_self"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        groupSectionNavItems="no"
+        hideInBreadcrumb="true"
+        hideInSectionNav="true"
+        hideMerchandisingBar="inherit"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        isMCPage="true"
+        livePersonSiteId="89901003"
+        lpUnit="lead-us"
+        marketSegmentRewrite="COM"
+        marqueeStyle="newMarquee"
+        metaDescription="When it comes to data compliance for GDPR, Audience Manager has you covered. Find out how Adobe helps you keep user data private."
+        navTitle="General Data Protection Regulation (GDPR) and Adobe Audience Manager"
+        pageTitle="Discover how to be GDPR compliant| Adobe Audience Manager"
+        product="audiencemanager"
+        stagelastReplicated="01-May-2018 22:36"
+        stagelastReplicatedBy="karchie"
+        stageLastReplicationAction="ActivatedtoStage"
+        tagsKeywords="GDPR, Audience Manager, General Data Protection Regulation"
+        thumbMode="{Boolean}false"
+        tryLink="/content/acom/us/en/marketing-cloud"
+        tryLinkModalScrolling="no"
+        tryLinkModalSize="426x240"
+        tryLinkProductPlanModalScrolling="no"
+        tryLinkProductPlanModalSize="426x240"
+        tryLinkProductPlanTarget="_self"
+        tryLinkTarget="_self"
+        useH1Tags="heroTitle">
+        <sectionMore
+            jcr:primaryType="nt:unstructured"
+            linkModalScrolling="no"
+            linkModalSize="426x240"
+            linkTarget="_self"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="10">
+            <image
+                jcr:lastModified="{Date}2019-07-18T21:30:31.143Z"
+                jcr:lastModifiedBy="mwitten"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2019-07-18T21:30:31.143Z"
+                    jcr:lastModifiedBy="mwitten"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <promobar jcr:primaryType="nt:unstructured">
+            <promo
+                jcr:lastModified="{Date}2015-02-02T22:27:12.749Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/promo"
+                ctaButtonText="Request a demo"
+                icon="promo-icon adobe-icon-marketing-cloud"
+                marketSegmentRewrite="COM"
+                priceType="SUB_NEW"
+                product="adobe-analytics"
+                productIntroText="Find out how Adobe Analytics can help your business."
+                purchasePhoneCss="promo-phone"
+                purchasePhoneNumberCall="+18777227088"
+                purchasePhoneNumberDisp="877.722.7088"
+                purchasePhoneText="call">
+                <free
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonText="Request a demo"
+                    productIntroText="Find out how Adobe Analytics can help your business."/>
+                <paid
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="/content/acom/us/en/marketing-cloud"
+                    ctaButtonText="Request a demo"
+                    productIntroText="Find out how Adobe Analytics can help your business."/>
+            </promo>
+        </promobar>
+        <mmarquee
+            jcr:lastModified="{Date}2015-02-02T22:31:18.061Z"
+            jcr:lastModifiedBy="peharris"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mmarquee"
+            text="&lt;h1 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h1>&#xa;&lt;h1 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h1>&#xa;&lt;h1 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h1>&#xa;&lt;h1 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h1>&#xa;&lt;h1 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h1>&#xa;&lt;h1 style=&quot;text-align: center;&quot;>&lt;strong>Now being a know-it-all is actually a good thing.&lt;/strong>&lt;/h1>&#xa;&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Know everything that your customers are doing and what to do about it.&lt;/span>&lt;/div>&#xa;"/>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_af58
+                jcr:created="{Date}2015-03-26T20:12:56.406Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-08T22:53:19.009Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                columnCount="1"
+                grid0="12"
+                layout="1;grid-cols-12 grid-offset-2      ;"
+                multiplier="9"
+                offset0="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2018-03-08T22:53:19.009Z"
+                        jcr:lastModifiedBy="karchie"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_af58>
+            <text_957c
+                jcr:created="{Date}2015-08-10T19:43:10.053Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-09T00:27:36.245Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div style=&quot;text-align: center;&quot; class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>The General Data Protection Regulation (GDPR) is the European Union’s new privacy law that harmonizes and modernizes data protection requirements. While there are many new or enhanced requirements, the core underlying principles remain the same. The new rules have a broad definition of personal data, and they have a wide reach, affecting any company that markets products and services to individuals in the EU. As your trusted data processor, we’re committed to compliance and to helping you on your GDPR compliance journey.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14274007764470
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_af58"/>
+            <column_5fd1
+                jcr:created="{Date}2018-03-08T22:11:42.457Z"
+                jcr:createdBy="karchie"
+                jcr:lastModified="{Date}2018-03-08T22:13:08.350Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2018-03-08T22:13:08.350Z"
+                        jcr:lastModifiedBy="karchie"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_5fd1>
+            <image_ad51
+                jcr:created="{Date}2018-03-08T22:13:13.303Z"
+                jcr:createdBy="karchie"
+                jcr:lastModified="{Date}2018-03-08T22:13:13.303Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="space"
+                fileReference="/content/dam/acom/en/marketing-cloud/great-content-mindshift/54658.en.amc-article.rule.grey-separator.1100.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-02-17T19:42:41.134Z"
+                    jcr:lastModifiedBy="atrevino"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_ad51>
+            <end_15205471024670
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5fd1"/>
+            <column_5f6d
+                jcr:created="{Date}2015-08-11T19:01:04.890Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2015-08-11T19:01:30.686Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnCount="1"
+                grid0="12"
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="9"
+                offset0="2"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-08-11T19:01:30.686Z"
+                        jcr:lastModifiedBy="peharris"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_5f6d>
+            <text_3b2d
+                jcr:created="{Date}2015-08-11T19:01:41.713Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-09T00:27:56.286Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&lt;strong>Understand Your Data&lt;/strong>&lt;br>&#xa;&lt;/h3>&#xa;"/>
+            <text_1c05
+                jcr:created="{Date}2015-08-11T19:01:42.166Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-09T00:47:44.373Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div style=&quot;text-align: center;&quot; class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>In addition to the other steps in place that we’re taking in our role as a data processor and as part of Adobe Experience Cloud, here are a few Audience Manager specifics.&lt;/span>&lt;/div>&#xa;&lt;h3>&amp;nbsp;&lt;/h3>&#xa;"
+                textIsRich="true"/>
+            <end_14393196650100
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5f6d"/>
+            <column_46f9
+                jcr:created="{Date}2015-03-26T20:13:40.196Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-09T00:53:07.709Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                bottomPadding0="2"
+                bottomPadding1="2"
+                columnCount="2"
+                grid0="6"
+                grid1="6"
+                layout="2;grid-cols-6 grid-offset-2     grid-padded-t2x  grid-padded-b2x ;grid-cols-6     grid-padded-t2x  grid-padded-b2x ;"
+                multiplier="9"
+                offset0="2"
+                section="t"
+                showBorders="false"
+                topPadding0="2"
+                topPadding1="2">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2018-03-09T00:53:07.709Z"
+                        jcr:lastModifiedBy="karchie"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_46f9>
+            <image_8b2f
+                jcr:created="{Date}2018-05-07T23:17:49.489Z"
+                jcr:createdBy="karchie"
+                jcr:lastModified="{Date}2018-05-07T23:18:16.838Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Privacy by Design Heritage"
+                fileReference="/content/dam/acom/en/data-analytics-cloud/gsdr/images/208659773.en.GDPR_AAM.feature.01.460x290.jpg"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2018-05-07T23:18:16.838Z"
+                    jcr:lastModifiedBy="karchie"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_8b2f>
+            <break_14393196163980
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_46f9"/>
+            <text_f1e3
+                jcr:created="{Date}2015-08-11T19:09:28.564Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-09T00:46:02.872Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Privacy by Design Heritage:&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Privacy by design has been and continues to be a foundational pillar of Audience Manager’s product development process. With the new GDPR requirements, customers need tools to appropriately manage data and the associated restrictions.&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>With features such as &lt;a href=&quot;https://experiencecloud.adobe.com/resources/help/en_US/aam/c_dec.html&quot; target=&quot;_blank&quot;>Data Export Controls&lt;/a> (industry first, patent pending) and &lt;a href=&quot;https://experiencecloud.adobe.com/resources/help/en_US/aam/c_administration.html&quot; target=&quot;_blank&quot;>Role-Based Access Controls&lt;/a>, marketers can manage access to and activation of audience data directly within Audience Manager.&lt;/span>&lt;/div>&#xa;"/>
+            <end_14274008359350
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_46f9"/>
+            <column_e7c
+                jcr:created="{Date}2018-03-12T18:37:06.467Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-12T18:37:31.800Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="6"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2018-03-12T18:37:31.800Z"
+                        jcr:lastModifiedBy="peharris"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_e7c>
+            <horizontalrule_a2a2
+                jcr:created="{Date}2018-03-12T18:37:19.219Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-12T18:37:19.219Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_15208798264960
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_e7c"/>
+            <column_901a
+                jcr:created="{Date}2018-03-08T22:24:16.174Z"
+                jcr:createdBy="karchie"
+                jcr:lastModified="{Date}2018-03-08T23:04:46.581Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                bottomPadding0="2"
+                bottomPadding1="2"
+                columnCount="2"
+                grid0="6"
+                grid1="6"
+                layout="2;grid-cols-6 grid-offset-2     grid-padded-t2x  grid-padded-b2x ;grid-cols-6     grid-padded-t2x  grid-padded-b2x ;"
+                multiplier="4"
+                offset0="2"
+                section="v"
+                showBorders="false"
+                topPadding0="2"
+                topPadding1="2">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2018-03-08T23:04:46.581Z"
+                        jcr:lastModifiedBy="karchie"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_901a>
+            <text_103a
+                jcr:created="{Date}2018-03-08T22:24:24.299Z"
+                jcr:createdBy="karchie"
+                jcr:lastModified="{Date}2018-05-07T23:18:36.733Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Managing Your Data&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Audience Manager customers have full control over how and what data is ingested into the DMP. Per Adobe policy, data that would allow Adobe to directly identify an individual (such as, but not limited to, email addresses, first and last names, and phone numbers) is not permitted in Audience Manager. For data types that could fit into this category, customers are required to convert the data into hashed IDs prior to ingesting it into Audience Manager for segmentation and activation.&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;With GDPR in mind, we recommend working with your Adobe Consulting team member to understand which data sources and associated data types fit best for your required use cases. Adobe offers various tools and privacy-enhancing technologies to support your needs (e.g., hashing, obfuscation).&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_15205478561870
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_901a"/>
+            <image_68a4
+                jcr:created="{Date}2018-05-07T23:18:34.141Z"
+                jcr:createdBy="karchie"
+                jcr:lastModified="{Date}2018-05-08T16:57:01.136Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="right"
+                alt="Managing Your Data"
+                fileReference="/content/dam/acom/en/data-analytics-cloud/gsdr/images/208659773.en.GDPR_AAM.feature.02.460x290.jpg"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2018-05-08T16:57:01.136Z"
+                    jcr:lastModifiedBy="karchie"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_68a4>
+            <end_15205478561871
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_901a"/>
+            <column_6fd0
+                jcr:created="{Date}2018-03-09T00:32:10.300Z"
+                jcr:createdBy="karchie"
+                jcr:lastModified="{Date}2018-03-09T00:51:45.090Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="7"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t7x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2018-03-09T00:51:45.090Z"
+                        jcr:lastModifiedBy="karchie"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_6fd0>
+            <image_619b
+                jcr:created="{Date}2018-03-09T00:32:20.053Z"
+                jcr:createdBy="karchie"
+                jcr:lastModified="{Date}2018-03-09T00:32:20.053Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="space"
+                fileReference="/content/dam/acom/en/marketing-cloud/great-content-mindshift/54658.en.amc-article.rule.grey-separator.1100.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-02-17T19:42:41.134Z"
+                    jcr:lastModifiedBy="atrevino"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_619b>
+            <end_15205555303110
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_6fd0"/>
+            <column_fadc
+                jcr:created="{Date}2018-03-08T22:27:03.683Z"
+                jcr:createdBy="karchie"
+                jcr:lastModified="{Date}2018-03-08T22:58:00.570Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="1"
+                grid0="12"
+                layout="1;grid-cols-12 grid-offset-2      ;"
+                multiplier="2"
+                offset0="2"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2018-03-08T22:58:00.570Z"
+                        jcr:lastModifiedBy="karchie"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_fadc>
+            <text_9267
+                jcr:created="{Date}2018-03-08T22:27:25.183Z"
+                jcr:createdBy="karchie"
+                jcr:lastModified="{Date}2018-03-09T00:32:34.146Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h4>&#xa;&lt;h4 style=&quot;text-align: center;&quot;>&lt;strong>Additional Areas of Consideration&amp;nbsp;&lt;/strong>&lt;br>&#xa;&lt;/h4>&#xa;"/>
+            <text_7c09
+                jcr:created="{Date}2018-03-08T22:27:25.398Z"
+                jcr:createdBy="karchie"
+                jcr:lastModified="{Date}2018-03-09T23:57:54.930Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div style=&quot;text-align: center;&quot; class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-5-block&quot;>&lt;strong>Data Governance: &lt;em>Start thinking about how your consumer data is managed&lt;/em>.&lt;/strong>&lt;/div>&#xa;&lt;div style=&quot;text-align: left;&quot; class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;ul class=&quot;text-5-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Review the various IDs (including mobile IDs) your marketing teams use to identify users in Audience Manager along with the data sources in which they are stored. This will streamline the process for requests (like delete or access requests), since certain data types will be hashed by your teams prior to ingestion in Audience Manager.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;ul class=&quot;text-5-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Determine a validation and authentication policy and process for Data Subject identity confirmation. This will be an important part of making sure you properly return data in response to the Data Subject.&amp;nbsp;&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;ul class=&quot;text-5-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Consider using Data Export Controls to block audience activation to technologies that house personal data. For example, segments with third-party data should not be syndicated to email service providers.&amp;nbsp; Set a Data Export Control to help ensure that no one in your organization can accidentally activate this data.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;ul class=&quot;text-5-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Begin utilizing Role-Based Access Controls to help ensure the right teams have access to intended data.&amp;nbsp;&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;ul class=&quot;text-5-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Review identity linkage, privacy policies, and legal requirements to see when and where it is appropriate to tie identity sets together. Use these appropriately via Audience Manager’s Profile Merge Rules.&lt;/span>&lt;br>&#xa;&lt;/li>&#xa;&lt;/ul>&#xa;"
+                textIsRich="true"/>
+            <end_15205480236960
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_fadc"/>
+            <column_5db6
+                jcr:created="{Date}2018-03-08T22:35:12.200Z"
+                jcr:createdBy="karchie"
+                jcr:lastModified="{Date}2018-03-12T18:36:23.493Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                bottomPadding0="9"
+                columnCount="1"
+                grid0="12"
+                layout="1;grid-cols-12 grid-offset-2     grid-padded-t2x  grid-padded-b9x ;"
+                multiplier="2"
+                offset0="2"
+                section="t"
+                showBorders="false"
+                topPadding0="2">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2018-03-12T18:36:23.493Z"
+                        jcr:lastModifiedBy="peharris"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_5db6>
+            <text_1020
+                jcr:created="{Date}2018-03-09T00:40:31.019Z"
+                jcr:createdBy="karchie"
+                jcr:lastModified="{Date}2018-03-12T18:36:14.401Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div style=&quot;text-align: center;&quot; class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-5-block&quot;>&lt;strong>Organizational Readiness: &lt;em>Establish a business process&lt;/em>.&lt;/strong>&lt;/div>&#xa;&lt;div style=&quot;text-align: left;&quot; class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;ul class=&quot;text-5-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Identify a process to receive and respond to Data Subject requests. Consider building an automated tool to submit requests.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;ul class=&quot;text-5-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Appoint a privacy point of contact within your DMP center of excellence. Connect your organization’s privacy point of contact with your Audience Manager product usage team to understand how you might manage your input ID requirements.&amp;nbsp;&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;ul class=&quot;text-5-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Conduct a data review prior to providing the Data Subject access to their data. Document the steps you put in place to help you establish an audit trail for records of process requirements.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                textIsRich="true"/>
+            <end_15205485122140
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5db6"/>
+            <hoveritem_1d4d
+                jcr:created="{Date}2015-03-17T19:18:35.261Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2015-03-17T19:18:35.261Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hovercontainer/hoveritem"/>
+            <column_2828
+                jcr:created="{Date}2015-08-11T16:49:04.113Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-05-01T22:30:45.854Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor="background-color:#C0C0C0;color:#FFFFFF"
+                grid0="8"
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="9"
+                offset0="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2018-05-01T22:30:45.854Z"
+                        jcr:lastModifiedBy="karchie"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        fileReference="/content/dam/acom/en/data-analytics-cloud/gsdr/images/208659773.en.GDPR_AAM.banner.1440x421.jpg"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_2828>
+            <text_40b9
+                jcr:created="{Date}2015-08-11T16:49:54.883Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-08T23:00:05.235Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&lt;strong>Adobe and GDPR.&lt;/strong>&lt;/h3>&#xa;"
+                textIsRich="true"/>
+            <text_708a
+                jcr:created="{Date}2015-08-11T16:49:55.289Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-08T22:47:03.817Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>See how we’re helping brands get GDPR-ready across our solutions.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <column_4342
+                jcr:created="{Date}2018-03-08T22:48:05.206Z"
+                jcr:createdBy="karchie"
+                jcr:lastModified="{Date}2018-05-01T22:30:02.249Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                bottomPadding0="2"
+                grid0="6"
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                offset0="2"
+                section="b"
+                showBorders="false"
+                topPadding0="2">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2018-05-01T22:30:02.249Z"
+                        jcr:lastModifiedBy="karchie"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_4342>
+            <text_17ec
+                jcr:created="{Date}2018-03-08T22:48:55.271Z"
+                jcr:createdBy="karchie"
+                jcr:lastModified="{Date}2018-03-08T23:19:51.066Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;strong>Experience Business&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/privacy/general-data-protection-regulation.html&quot; target=&quot;_self&quot;>Learn more ›&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_15252137416840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_4342"/>
+            <text_e2f6
+                jcr:created="{Date}2018-03-08T22:50:07.891Z"
+                jcr:createdBy="karchie"
+                jcr:lastModified="{Date}2018-03-09T00:43:59.386Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&lt;strong>Adobe Analytics&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&lt;a href=&quot;/content/acom/us/en/data-analytics-cloud/analytics/general-data-protection-regulation.html&quot; target=&quot;_self&quot;>Learn more ›&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_15252137416841
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_4342"/>
+            <text_c7c0
+                jcr:created="{Date}2018-03-08T22:50:09.957Z"
+                jcr:createdBy="karchie"
+                jcr:lastModified="{Date}2018-03-09T00:14:59.541Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&lt;strong>Adobe Campaign&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/marketing-cloud/campaign/general-data-protection-regulation.html&quot; target=&quot;_self&quot;>Learn more ›&lt;/a>&lt;/span>&lt;/span>&lt;/div>&#xa;"/>
+            <break_15252137416852
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_4342"/>
+            <text_4946
+                jcr:created="{Date}2018-05-01T22:30:19.881Z"
+                jcr:createdBy="karchie"
+                jcr:lastModified="{Date}2018-05-01T22:32:12.940Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&lt;strong>Adobe Advertising Cloud&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/advertising-cloud/general-data-protection-regulation.html&quot; target=&quot;_self&quot;>Learn more ›&lt;/a>&lt;/span>&lt;/span>&lt;/div>&#xa;"/>
+            <end_15205492852160
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_4342"/>
+            <end_14393117442050
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_2828"/>
+        </contentbody>
+        <sources jcr:primaryType="nt:unstructured"/>
+        <doubleclick
+            jcr:lastModified="{Date}2015-03-09T21:21:48.116Z"
+            jcr:lastModifiedBy="peharris"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/doubleclick"
+            comSnippetSource="https://1295336.fls.doubleclick.net/activityi;src=1295336;type=digit786;cat=digit000;ord=1;num=' + a + '?"/>
+        <bottomofbodymbox
+            jcr:lastModified="{Date}2015-03-09T21:22:00.460Z"
+            jcr:lastModifiedBy="peharris"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="BottomOfBody"/>
+        <topofbodymbox
+            jcr:lastModified="{Date}2015-03-09T21:22:13.183Z"
+            jcr:lastModifiedBy="peharris"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="TopOfBody"/>
+        <merchandisingbar jcr:primaryType="nt:unstructured"/>
+        <modalcontent
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <faasform_ba54
+                jcr:created="{Date}2017-06-20T19:29:05.161Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2018-03-16T17:37:35.478Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/faasform"
+                destinationURL="/content/acom/us/en/products/request-consultation/thankyou"
+                formLocale="en_us"
+                formSubType="2851"
+                formTemplate="40"
+                formType="2846"
+                intCampaignId="70114000002XYvIAAW"
+                modalID="amc-rfi"
+                modalSize="1000x940"
+                modalTitle="See what Adobe Analytics Cloud can do for you."
+                onsiteCampaignId="70114000002XYdTAAW"
+                openInModal="true"/>
+        </modalcontent>
+        <tophero
+            jcr:lastModified="{Date}2018-03-12T18:39:16.681Z"
+            jcr:lastModifiedBy="peharris"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            avoid="hero2-avoid-1"
+            color="hero2-theme-1"
+            height="hero2-size-4"
+            hideCredits="true"
+            hideLink="true">
+            <image
+                jcr:lastModified="{Date}2018-03-12T18:39:16.681Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Marketing campaign management"
+                fileReference="/content/dam/acom/en/data-analytics-cloud/gsdr/images/208659773.en.GDPR_AAM.marquee.1440x337.jpg"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+            <article
+                jcr:lastModified="{Date}2018-03-12T18:39:29.545Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hero/article"
+                articleAlignment="hero2-align-2"
+                title="&lt;p>&lt;strong>Adobe Audience Manager and General Data Protection Regulation (GDPR)&lt;/strong>&lt;br>&#xa;&lt;/p>&#xa;"
+                width="hero2-basis-1">
+                <titleImage
+                    jcr:lastModified="{Date}2018-03-12T18:39:29.545Z"
+                    jcr:lastModifiedBy="peharris"
+                    jcr:primaryType="nt:unstructured"/>
+                <link
+                    jcr:primaryType="nt:unstructured"
+                    modalMode="VIDEO"
+                    size="426x240"
+                    type="free">
+                    <image
+                        jcr:lastModified="{Date}2018-03-12T18:39:29.545Z"
+                        jcr:lastModifiedBy="peharris"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </link>
+            </article>
+            <link
+                jcr:lastModified="{Date}2017-09-07T19:57:06.532Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                adobeTvNewAutoPlay="true"
+                adobeTvNewQuality="6"
+                adobeTvNewUrl="15019"
+                modalMode="VIDEO"
+                size="854x480"
+                type="adobetvnew">
+                <social jcr:primaryType="nt:unstructured"/>
+                <meta jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-07T19:57:06.532Z"
+                        jcr:lastModifiedBy="golee"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </meta>
+                <tracking jcr:primaryType="nt:unstructured"/>
+            </link>
+        </tophero>
+    </jcr:content>
+</jcr:root>

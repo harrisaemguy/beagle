@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-08-06T11:15:58.121Z"
+        cq:lastModifiedBy="handoo"
+        cq:lastReplicated="{Date}2018-01-12T23:19:36.332Z"
+        cq:lastReplicatedBy="gewittig"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Make it with Creative Cloud"
+        jcr:uuid="24cb4fa4-087b-43c4-a49e-e941e78fce90"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        billingFrequency="MONTHLY"
+        bodyClass="blackBackground"
+        browserTitle="Make it with Creative Cloud | Adobe Students"
+        channel="creative.adobe.com"
+        chatGroupId="40144"
+        commitment="YEAR"
+        distType="dist5"
+        enableBreadcrumb="true"
+        enableCCRedirect="false"
+        freeTrialUrlLoggedInModalScrolling="no"
+        freeTrialUrlLoggedInModalSize="426x240"
+        freeTrialUrlLoggedInTarget="_self"
+        freeTrialUrlModalScrolling="no"
+        freeTrialUrlModalSize="426x240"
+        freeTrialUrlTarget="_self"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        groupSectionNavItems="no"
+        hideInSectionNav="true"
+        hideMerchandisingBar="show"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="show"
+        hideSectionNav="true"
+        isOfferingsProduct="true"
+        isSectionNavParent="true"
+        marketSegmentRewrite="COM"
+        metaDescription="See what students are making with Creative Cloud. Read more about the new creative tools used by students create their projects and watch inspiring tutorial videos to do it yourself."
+        modelCode="INDIVIDUAL"
+        offeringsProduct="product-code-CCSV"
+        pageTitle="Make it with Creative Cloud"
+        pricePoint="PROMO_STE"
+        product="creative_cloud"
+        thumbMode="{Boolean}true"
+        tryLinkModalScrolling="no"
+        tryLinkModalSize="426x240"
+        tryLinkProductPlanModalScrolling="no"
+        tryLinkProductPlanModalSize="426x240"
+        tryLinkProductPlanTarget="_self"
+        tryLinkTarget="_self"
+        useH1Tags="pageTitle">
+        <sectionMore
+            jcr:primaryType="nt:unstructured"
+            linkModalScrolling="no"
+            linkModalSize="426x240"
+            linkTarget="_self"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="68">
+            <image
+                jcr:lastModified="{Date}2018-06-06T19:54:24.315Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                fileReference="/content/dam/acom/en/products/creativecloud/students/make-it-with-creative-cloud/images/marquee-edu-caleb-1440x810.jpg"
+                xcord="{Long}87"
+                ycord="{Long}49"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            author="Caleb Morris"
+            icon="adobe-icon-behance"
+            link="https://www.behance.net/calebmorris"
+            position="bottom-right"
+            preposition="by"
+            target="_self"
+            title="Illustration"/>
+        <contentlayer
+            jcr:lastModified="{Date}2015-02-17T21:06:06.087Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/contentlayer"
+            horizontalAlign="1"
+            opacity="{Long}0"
+            rgb="FFFFFF"
+            verticalAlign="2"
+            width="{Long}55">
+            <video
+                jcr:primaryType="nt:unstructured"
+                adobeTvAutoPlay="true"
+                adobeTvUrl="v/1838t3/"
+                freeFormUrl="//video.tv.adobe.com/v/1838t3/?quality=6&amp;amp;autoplay=true"
+                size="854x480"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2018-06-06T19:54:24.315Z"
+                    jcr:lastModifiedBy="golee"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/image"
+                    alt="SCAD student Caleb Morris designs on the fly"
+                    fileReference="/content/dam/acom/en/products/creativecloud/students/make-it-with-creative-cloud/images/marquee-thumb-caleb-139x78.jpg"/>
+            </video>
+            <title
+                jcr:primaryType="nt:unstructured"
+                title="MAKE IT ANYWHERE."/>
+            <text
+                jcr:primaryType="nt:unstructured"
+                text="&lt;p>SCAD student Caleb Morris designs on the fly, using Adobe Brush to pick up inspiration wherever he goes.&amp;nbsp;&lt;a data-modal-size=&quot;854x480&quot; href=&quot;//video.tv.adobe.com/v/1838t3/?quality=6&amp;amp;amp;autoplay=true&quot; target=&quot;modal-frame&quot;>Watch the video&amp;nbsp;›&lt;/a>&lt;/p>&#xa;&lt;p>Make your own thing. Get started with this tutorial:&lt;br>&#xa;&lt;a href=&quot;http://helpx.adobe.com/mobile-apps/how-to/adobe-brush-create-brushes.html&quot; target=&quot;_self&quot;>How to create custom brushes from your photos with Adobe Brush ›&lt;/a>&lt;br>&#xa;&lt;/p>&#xa;"
+                textIsRich="true"/>
+        </contentlayer>
+        <promobar jcr:primaryType="nt:unstructured">
+            <promo
+                jcr:lastModified="{Date}2015-02-12T21:18:24.417Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/promo"
+                ctaButtonOverride="/content/acom/us/en/creativecloud/catalog/desktop"
+                ctaButtonText="Start a trial"
+                icon="promo-icon adobe-icon-creativecloud"
+                marketSegmentRewrite="COM"
+                priceType="SUB_NEW"
+                product="creative_cloud"
+                productIntroText="Try all the new apps in Creative Cloud for free."
+                purchasePhoneCss="promo-phone"
+                purchasePhoneText="Purchase by Phone">
+                <free
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="/content/acom/us/en/creativecloud/catalog/desktop"
+                    ctaButtonText="Start a trial"
+                    productIntroText="Try all the new apps in Creative Cloud for free."/>
+                <paid
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="http://www.adobe.com/creativecloud/catalog/desktop.html"
+                    ctaButtonText="Start a trial"
+                    productIntroText="Try all the new apps in Creative Cloud for free."/>
+            </promo>
+        </promobar>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <reimtabs_1860
+                jcr:created="{Date}2015-02-06T01:27:20.078Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2015-02-20T16:15:22.232Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/reimtabs"
+                deepLink="projects"
+                height="88">
+                <title
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/title"
+                    headingStyle="h2"
+                    title="See what students are making"/>
+                <tab1
+                    jcr:lastModified="{Date}2015-02-10T00:30:00.074Z"
+                    jcr:lastModifiedBy="gewittig"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/reimtabs/singletab"
+                    tabTitle="Graphic Design">
+                    <contentlayer
+                        jcr:primaryType="nt:unstructured"
+                        horizontalAlign="0"
+                        opacity="{Long}50"
+                        rgb="000000"
+                        verticalAlign="2"
+                        width="{Long}55">
+                        <text
+                            jcr:primaryType="nt:unstructured"
+                            text="&lt;h2>MAKE IT QUICK.&lt;/h2>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>ASU student Scott Biersack uses Adobe Shape to speed his process from sketchbook to skateboard.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Make your own thing. Get started with this tutorial:&lt;br>&#xa; &lt;a href=&quot;https://helpx.adobe.com/mobile-apps/how-to/shape-get-started.html?set=mobile-apps--fundamentals--adobe-shape-cc&quot; target=&quot;_self&quot;>Turn a picture on your phone into a vector graphic with Adobe Shape ›&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+                        <video
+                            jcr:primaryType="nt:unstructured"
+                            freeFormUrl="https://video.tv.adobe.com/v/1839t3/?quality=6&amp;amp;autoplay=true"
+                            size="854x480"
+                            type="free"/>
+                    </contentlayer>
+                    <image
+                        jcr:lastModified="{Date}2015-02-10T00:30:00.074Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        fileReference="/content/dam/acom/en/products/creativecloud/students/make-it-with-creative-cloud/images/tab-marquee-student-profile-scott-biersack-1440-850.jpg"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                    <credits
+                        jcr:primaryType="nt:unstructured"
+                        author="Scott Biersack"
+                        icon="adobe-icon-behance"
+                        link="https://www.behance.net/youbringfire"
+                        position="bottom-left"
+                        preposition="by"
+                        target="_self"
+                        title="Graphic design"/>
+                </tab1>
+                <tab2
+                    jcr:lastModified="{Date}2015-02-10T06:36:23.337Z"
+                    jcr:lastModifiedBy="gewittig"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/reimtabs/singletab"
+                    tabTitle="3D Printing">
+                    <contentlayer
+                        jcr:primaryType="nt:unstructured"
+                        horizontalAlign="0"
+                        opacity="{Long}50"
+                        rgb="000000"
+                        verticalAlign="2"
+                        width="{Long}50">
+                        <text
+                            jcr:primaryType="nt:unstructured"
+                            text="&lt;h2>MAKE IT 3D.&lt;/h2>&#xa;&lt;div class=&quot;text-5-block&quot;>Pratt student Kai Lin gives caricature portraits a new twist by 3D printing them in Photoshop. Yes, Photoshop.&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>Make your own thing. Get started with this tutorial:&lt;br>&#xa;&lt;a data-window-size=&quot;854x480&quot; href=&quot;https://helpx.adobe.com/photoshop/how-to/photoshop-print-3d.html?set=photoshop--key-techniques--work-3d&quot; target=&quot;modal-frame&quot;>How to print a 3D object in Photoshop ›&lt;/a>&lt;/div>&#xa;"/>
+                        <video
+                            jcr:primaryType="nt:unstructured"
+                            freeFormUrl="https://video.tv.adobe.com/v/471/?quality=9&amp;amp;autoplay=true"
+                            size="854x480"
+                            type="free"/>
+                    </contentlayer>
+                    <image
+                        jcr:lastModified="{Date}2015-02-10T06:36:23.337Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        fileReference="/content/dam/acom/en/products/creativecloud/students/make-it-with-creative-cloud/images/tab-marquee-student-profile-kai-lin-1440-850.jpg"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                    <credits
+                        jcr:primaryType="nt:unstructured"
+                        author="Kai Lin"
+                        icon="adobe-icon-behance"
+                        link="https://www.behance.net/Kailin"
+                        position="bottom-left"
+                        preposition="by"
+                        target="_self"
+                        title="3D printing"/>
+                </tab2>
+                <tab3
+                    jcr:lastModified="{Date}2015-02-10T06:36:48.893Z"
+                    jcr:lastModifiedBy="gewittig"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/reimtabs/singletab"
+                    tabTitle="Illustration">
+                    <contentlayer
+                        jcr:primaryType="nt:unstructured"
+                        horizontalAlign="0"
+                        opacity="{Long}50"
+                        rgb="000000"
+                        verticalAlign="2"
+                        width="{Long}50">
+                        <text
+                            jcr:primaryType="nt:unstructured"
+                            text="&lt;h2>MAKE IT MOVE.&lt;/h2>&#xa;&lt;div class=&quot;text-5-block&quot;>School of Visual Arts student Vivienne Medrano brings her animated characters to life with Adobe Illustrator and Sketch.&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>Make your own thing. Get started with this tutorial:&lt;br>&#xa;&lt;a href=&quot;https://helpx.adobe.com/illustrator/how-to/illustrator-live-corners.html?set=illustrator--fundamentals--create-artwork&quot; target=&quot;modal-frame&quot; data-window-size=&quot;854x480&quot;>How to use Live Corners in Illustrator to edit images ›&lt;/a>&lt;/div>&#xa;"/>
+                        <video
+                            jcr:primaryType="nt:unstructured"
+                            freeFormUrl="https://video.tv.adobe.com/v/228/?quality=9&amp;amp;autoplay=true"
+                            size="854x480"
+                            type="free"/>
+                    </contentlayer>
+                    <image
+                        jcr:lastModified="{Date}2015-02-10T06:36:48.893Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        fileReference="/content/dam/acom/en/products/creativecloud/students/make-it-with-creative-cloud/images/tab-marquee-student-vivienne-medrano-1440x850.jpg"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                    <credits
+                        jcr:primaryType="nt:unstructured"
+                        author="Vivienne Medrano"
+                        icon="adobe-icon-behance"
+                        link="https://www.behance.net/Viviennemedrano"
+                        position="bottom-left"
+                        preposition="by"
+                        target="_self"
+                        title="Illustration"/>
+                </tab3>
+                <tab4
+                    jcr:lastModified="{Date}2015-02-10T06:37:27.079Z"
+                    jcr:lastModifiedBy="gewittig"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/reimtabs/singletab"
+                    tabTitle="Special Effects">
+                    <contentlayer
+                        jcr:primaryType="nt:unstructured"
+                        horizontalAlign="0"
+                        opacity="{Long}50"
+                        rgb="000000"
+                        verticalAlign="2"
+                        width="{Long}50">
+                        <text
+                            jcr:primaryType="nt:unstructured"
+                            text="&lt;h2>MAKE IT REAL.&lt;/h2>&#xa;&lt;div class=&quot;text-5-block&quot;>University of South Wales student Dominik Urban uses Photoshop and After Effects to tell fascinating stop-motion stories.&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>Make your own thing. Get started with this tutorial:&lt;br>&#xa;&lt;a data-window-size=&quot;854x480&quot; href=&quot;https://helpx.adobe.com/after-effects/how-to/insert-objects-after-effects.html&quot; target=&quot;modal-frame&quot;>How to insert 3D objects in After Effects ›&lt;/a>&lt;/div>&#xa;"/>
+                        <video
+                            jcr:primaryType="nt:unstructured"
+                            freeFormUrl="https://video.tv.adobe.com/v/236/?quality=9&amp;amp;autoplay=true"
+                            size="854x480"
+                            type="free"/>
+                    </contentlayer>
+                    <image
+                        jcr:lastModified="{Date}2015-02-10T06:37:27.079Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        fileReference="/content/dam/acom/en/products/creativecloud/students/make-it-with-creative-cloud/images/tab-marquee-student-dominik-urban-1440x850.jpg"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                    <credits
+                        jcr:primaryType="nt:unstructured"
+                        author="Dominik Urban"
+                        icon="adobe-icon-behance"
+                        link="https://www.behance.net/dominikurban"
+                        position="bottom-left"
+                        preposition="by"
+                        target="_self"
+                        title="Special effectes"/>
+                </tab4>
+                <firstLink
+                    jcr:primaryType="nt:unstructured"
+                    link="https://www.adobe.com/education/students/student-showcase.edu.html"
+                    linkText="More student projects"/>
+                <secondLink jcr:primaryType="nt:unstructured"/>
+            </reimtabs_1860>
+            <column_8a6
+                jcr:created="{Date}2015-02-09T22:53:19.120Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2015-02-09T22:53:39.249Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnCount="1"
+                grid0="12"
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="6"
+                offset0="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-02-09T22:53:39.249Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_8a6>
+            <text_4150
+                jcr:created="{Date}2015-02-09T22:53:46.313Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2015-02-10T00:29:39.692Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h2 style=&quot;text-align: center;&quot;>MAKE IT BIG.&lt;/h2>&#xa;&lt;h2 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h2>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Adobe and Girl Skateboards recently teamed up to give students an opportunity to design and market a limited-edition skateboard line. Five students were selected. Two of them were flown to Girl’s headquarters in LA, and three participated remotely via Creative Cloud. All of them were stoked.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Remember — we're always looking for great student work to showcase. So keep tagging your projects with #madethis in your &lt;a href=&quot;https://www.behance.net/&quot; target=&quot;_blank&quot;>Behance&lt;/a>&amp;nbsp;portfolio. You might be the next student we feature here on adobe.com.&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14235223991490
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_8a6"/>
+            <column_cbaf
+                jcr:created="{Date}2015-02-09T23:09:47.552Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2015-02-09T23:25:42.751Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnCount="1"
+                grid0="12"
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="3"
+                offset0="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-02-09T23:25:42.751Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_cbaf>
+            <inlinevideo_cb5a
+                jcr:created="{Date}2015-02-09T23:10:43.097Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2015-02-10T00:10:35.762Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/inlinevideo">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <text jcr:primaryType="nt:unstructured"/>
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        freeFormUrl="//video.tv.adobe.com/v/1835t1/?quality=6&amp;amp;autoplay=true"
+                        size="854x480"
+                        type="free"/>
+                </contentlayer>
+                <image
+                    jcr:lastModified="{Date}2015-02-10T00:10:35.762Z"
+                    jcr:lastModifiedBy="gewittig"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/image"
+                    alt="Girl Skateboards: watch the video"
+                    fileReference="/content/dam/acom/en/products/creativecloud/students/make-it-with-creative-cloud/images/partnership-story-girl.jpg"/>
+            </inlinevideo_cb5a>
+            <end_14235233875910
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_cbaf"/>
+            <column_7b23
+                jcr:created="{Date}2015-02-09T23:20:46.099Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2015-02-09T23:26:32.638Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnCount="1"
+                grid0="12"
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="4"
+                offset0="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-02-09T23:26:32.638Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_7b23>
+            <text_b2fc
+                jcr:created="{Date}2015-02-09T23:21:25.129Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2015-03-19T10:53:03.217Z"
+                jcr:lastModifiedBy="2or12684"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h2 style=&quot;text-align: center;&quot;>Build your creative cred.&lt;/h2>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;span style=&quot;font-style: normal;&quot;>Be an Adobe Student Rep. Show your classmates how to make it with Creative Cloud.&lt;br>&#xa; &amp;nbsp;&lt;/span>&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a style=&quot;font-style: normal;&quot; target=&quot;_self&quot; href=&quot;https://www.adobe.com/education/students/adobe-campus-rep.edu.html?&quot;>Learn more ›&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <column_f227
+                jcr:created="{Date}2015-02-09T23:47:46.202Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2015-02-09T23:50:30.162Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-1;"
+                layout="1;grid-cols-10 grid-offset-1;"
+                layoutMode="structured"
+                multiplier="3"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-02-09T23:50:30.162Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_f227>
+            <end_14235256662520
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_f227"/>
+            <horizontalrule_2e6d
+                jcr:created="{Date}2015-02-09T23:48:04.045Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2015-02-09T23:48:04.045Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_375
+                jcr:created="{Date}2015-02-09T23:48:40.118Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2015-02-09T23:49:02.941Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-1;"
+                layout="1;grid-cols-10 grid-offset-1;"
+                layoutMode="structured"
+                multiplier="2"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-02-09T23:49:02.941Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_375>
+            <end_14235257201690
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_375"/>
+            <text_870b
+                jcr:created="{Date}2015-02-09T23:51:18.309Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2015-02-10T00:09:02.027Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/creativecloud/buy/students.html?promoid=KLXMM&quot; target=&quot;_self&quot;>Learn more about Creative Cloud for students ›&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;p style=&quot;text-align: center;&quot;>&lt;a href=&quot;/content/acom/us/en/products/photoshop.html&quot; target=&quot;_self&quot;>&lt;i class=&quot;adobe-icon-ps&quot;>&lt;/i>&lt;/a>&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href=&quot;/content/acom/us/en/products/photoshop-lightroom.html&quot; target=&quot;_self&quot;>&lt;i class=&quot;adobe-icon-lr&quot;>&lt;/i>&lt;/a>&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href=&quot;/content/acom/us/en/products/premiere.html&quot;>&lt;i class=&quot;adobe-icon-pr&quot;>&lt;/i>&lt;/a>&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href=&quot;/content/acom/us/en/products/indesign.html&quot; target=&quot;_self&quot;>&lt;i class=&quot;adobe-icon-id&quot;>&lt;/i>&lt;/a>&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href=&quot;/content/acom/us/en/products/aftereffects.html&quot; target=&quot;_self&quot;>&lt;i class=&quot;adobe-icon-ae&quot;>&lt;/i>&lt;/a>&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href=&quot;/content/acom/us/en/products/illustrator.html&quot; target=&quot;_self&quot;>&lt;i class=&quot;adobe-icon-ai&quot;>&lt;/i>&lt;/a>&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://creative.adobe.com/products/audition&quot; target=&quot;_self&quot;>&lt;i class=&quot;adobe-icon-au&quot;>&lt;/i>&lt;/a>&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href=&quot;/content/acom/us/en/products/dreamweaver.html&quot; target=&quot;_self&quot;>&lt;i class=&quot;adobe-icon-dw&quot;>&lt;/i>&lt;/a>&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://creative.adobe.com/products/reflow&quot; target=&quot;_self&quot;>&lt;i class=&quot;adobe-icon-color-edge-reflow&quot;>&lt;/i>&lt;/a>&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href=&quot;/content/acom/us/en/products/muse.html&quot; target=&quot;_self&quot;>&lt;i class=&quot;adobe-icon-mu&quot;>&lt;/i>&lt;/a>&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href=&quot;/content/acom/us/en/products/flash.html&quot; target=&quot;_self&quot;>&lt;i class=&quot;adobe-icon-fl&quot;>&lt;/i>&lt;/a>&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://www.adobe.com/products/acrobatpro.html&quot; target=&quot;_self&quot;>&lt;i class=&quot;adobe-icon-color-acrobat-app&quot;>&lt;/i>&lt;/a>&lt;span style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px; font-style: normal;&quot;>&lt;/span>&lt;/p>&#xa;"/>
+            <end_14235240461390
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_7b23"/>
+        </contentbody>
+        <merchandisingbar
+            jcr:lastModified="{Date}2015-02-10T00:14:14.455Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/merchandisingbar"
+            purchasePhoneCss="merchpod-phone-item-label"
+            purchasePhoneText="Purchase by Phone">
+            <merchandising
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys">
+                <start
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/parsys/column"
+                    layout="2;grid-span-1of2;grid-span-1of2"/>
+                <merchandising_4671
+                    jcr:created="{Date}2015-02-10T00:14:23.345Z"
+                    jcr:createdBy="gewittig"
+                    jcr:lastModified="{Date}2018-01-12T23:17:15.588Z"
+                    jcr:lastModifiedBy="gewittig"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/merchandising"
+                    backgroundImg="image-off"
+                    billingFrequency="MONTHLY"
+                    channel="creative.adobe.com"
+                    commitment="YEAR"
+                    ctaButtonPosition="above"
+                    ctaButtonText="Buy now"
+                    isOfferingsProduct="true"
+                    marketSegmentRewrite="EDU"
+                    merchbackgroundcolor="background-color-off"
+                    merchborder="border-on"
+                    merchradius="radius-on"
+                    merchshadow="shadow-off"
+                    modelCode="INDIVIDUAL"
+                    offeringsProduct="product-code-CCSV"
+                    prefixTitleTextCOM="&lt;p style=&quot;text-align: center;&quot;>Special for students and teachers&lt;/p>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>Creative Cloud Complete&lt;/h3>&#xa;&lt;p style=&quot;text-align: center;&quot;>&lt;a href=&quot;/content/acom/us/en/fragments/textandimage/education/modal/edu-ste-eligibility-students.html&quot; target=&quot;modal-frame&quot; data-modal-size=&quot;640x360&quot;>Check eligibility ›&lt;/a>&lt;/p>&#xa;"
+                    pricePoint="PROMO_STE"
+                    priceType="SUB_NEW"
+                    product="creative_cloud_edu"
+                    showCTAButton="true"
+                    unifiedCheckout="true">
+                    <productInfo jcr:primaryType="nt:unstructured"/>
+                    <imagelayer jcr:primaryType="nt:unstructured">
+                        <image
+                            jcr:lastModified="{Date}2018-01-12T23:17:15.588Z"
+                            jcr:lastModifiedBy="gewittig"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </imagelayer>
+                </merchandising_4671>
+                <break_14235272545300
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/parsys/column"
+                    columnType="break"
+                    correspondingStart="start"/>
+                <merchandising_1aef
+                    jcr:created="{Date}2015-02-10T00:19:01.093Z"
+                    jcr:createdBy="gewittig"
+                    jcr:lastModified="{Date}2017-06-08T15:36:08.425Z"
+                    jcr:lastModifiedBy="golee"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/merchandising"
+                    backgroundImg="image-off"
+                    billingFrequency="MONTHLY"
+                    channel="creative.adobe.com"
+                    commitment="YEAR"
+                    ctaButtonPosition="above"
+                    ctaButtonText="Buy now"
+                    isOfferingsProduct="true"
+                    marketSegmentRewrite="EDU"
+                    merchbackgroundcolor="background-color-off"
+                    merchborder="border-on"
+                    merchradius="radius-on"
+                    merchshadow="shadow-off"
+                    modelCode="INDIVIDUAL"
+                    offeringsProduct="product-code-PHLT"
+                    prefixTitleTextCOM="&lt;p style=&quot;text-align: center;&quot;>Photoshop, Lightroom, and more&lt;/p>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>Creative Cloud Photography&lt;/h3>&#xa;"
+                    pricePoint="STE"
+                    priceType="SUB_NEW"
+                    product="photoshop_lightroom_bundle_edu"
+                    showCTAButton="true"
+                    unifiedCheckout="true">
+                    <productInfo jcr:primaryType="nt:unstructured"/>
+                    <imagelayer jcr:primaryType="nt:unstructured">
+                        <image
+                            jcr:lastModified="{Date}2017-06-08T15:36:08.425Z"
+                            jcr:lastModifiedBy="golee"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </imagelayer>
+                </merchandising_1aef>
+                <end_14235272545301
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/parsys/column"
+                    columnType="end"
+                    correspondingStart="start"/>
+            </merchandising>
+        </merchandisingbar>
+        <image
+            jcr:lastModified="{Date}2017-06-08T15:33:27.372Z"
+            jcr:lastModifiedBy="golee"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/image"/>
+        <card jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2017-09-06T01:13:51.424Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"/>
+        </card>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <jcr:content/>
+    <learning-management-system/>
+    <_x0032_019_launch/>
+    <features/>
+    <buying-guide/>
+    <learner/>
+    <lms/>
+    <gamification/>
+    <manager/>
+    <enterprise/>
+    <prime-rfi/>
+    <lms-workshop/>
+    <success-stories/>
+    <win-theme-easy/>
+    <roadshows/>
+    <lms-comparison/>
+    <content-catalog/>
+    <showcase/>
+    <content-rfi/>
+    <customer-education/>
+    <sales-enablement/>
+    <social-learning/>
+    <compliance-training/>
+    <extended-enterprise/>
+    <skills-development/>
+    <prime-adc/>
+    <prime-social/>
+    <whitepapers/>
+    <fedramp/>
+    <case-study/>
+    <learn-more/>
+    <prime-dmb/>
+    <future-of-your-lms/>
+    <trust/>
+    <know-more/>
+    <events/>
+    <rep:policy/>
+</jcr:root>

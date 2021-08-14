@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2017-05-02T07:04:03.553Z"
+        cq:lastModifiedBy="rbedi"
+        cq:lastReplicated="{Date}2017-05-02T07:04:11.149Z"
+        cq:lastReplicatedBy="rbedi"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Creative Cloud Fonts FAQ"
+        jcr:uuid="1d379f10-5105-48fa-ba91-7519582165f6"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Creative Cloud fonts, installation &amp; FAQs | Adobe Type"
+        disableGeoRouting="true"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="light"
+        hideInSectionNav="true"
+        hidePersonalizedHero="hide"
+        languageDirection="ltr"
+        marqueeStyle="newMarquee"
+        metaDescription="FAQs and information about features, installation Adobe CC bundled packages font packages in Creative Suites."
+        pageTitle="Creative Cloud Fonts FAQ"
+        seodescription="The Adobe Font Center provides font licensing, font permissions, and other legal information about Adobe fonts."
+        tagsKeywords="creative cloud fonts, creative cloud font, cc fonts, cc font, adobe cc fonts, adobe cc font"
+        useH1Tags="pageTitle">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_126b
+                jcr:lastModified="{Date}2016-08-02T04:14:08.599-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-02T04:14:08.599-07:00"
+                        jcr:lastModifiedBy="ashahab"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_126b>
+            <ttt_f5a5f57f-ca3d-45aa-8cf2-8645eca742b9
+                jcr:lastModified="{Date}2016-08-04T09:16:32.098-07:00"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Many previous Adobe software products, including the Creative Suite, have included Adobe desktop fonts which are installed in the user’s system folder. Today, these bundled fonts have been replaced by desktop fonts delivered by&amp;nbsp;&lt;a href=&quot;https://typekit.com/&quot; target=&quot;_blank&quot;>Adobe Typekit&lt;/a>. Some applications, like Adobe InDesign, make it easy to quickly identify missing fonts and conveniently sync them from Typekit. If you have a question that is not addressed here, please&amp;nbsp;&lt;a href=&quot;mailto:support@typekit.com&quot;>contact us&lt;/a>.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <horizontalrule_ec42
+                jcr:created="{Date}2016-08-02T22:55:59.451-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-02T22:55:59.451-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_9ed4
+                jcr:created="{Date}2016-08-01T05:44:22.649-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-02T22:58:22.467-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q.&amp;nbsp;Does Adobe Creative Cloud come with fonts?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A: Yes. Every subscription to the Creative Cloud includes Adobe Typekit. Full (paid) Creative Cloud plans and most single-app subscriptions include a Typekit Portfolio plan, which includes hundreds of fonts for both desktop and web. Other Creative Cloud subscriptions also include a selection of fonts for desktop and web use; refer to the&amp;nbsp;&lt;a href=&quot;http://help.typekit.com/customer/portal/articles/1441161&quot; target=&quot;_blank&quot;>subscription requirements&lt;/a>&amp;nbsp;for more information.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_ab8a
+                jcr:created="{Date}2016-08-01T05:46:42.961-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-02T22:58:30.533-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q.&amp;nbsp;Do individual Adobe applications come with fonts?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A:&amp;nbsp;Yes. Any subscription to an individual Adobe application includes a Typekit account. Adobe’s Photography Bundle, which is significantly discounted, includes a selection of fonts for web and desktop with Typekit’s free plan. All other single-app subscriptions include a Typekit Portfolio plan, with hundreds of fonts for web and desktop from Adobe and other type foundries.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_3cd4
+                jcr:created="{Date}2016-08-01T05:46:53.428-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-02T22:58:59.552-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q.&amp;nbsp;Did Adobe take away the fonts it used to bundle?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A:&amp;nbsp;No. All of the same fonts which used to be installed onto users' computers are available for desktop sync and web use from Typekit — along with hundreds more great typefaces from Typekit’s other foundry partners, available for desktop sync, web, or both.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_d928
+                jcr:created="{Date}2016-08-01T05:46:58.824-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-03T09:50:48.249-07:00"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q.&amp;nbsp;Didn’t I buy those fonts?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A:&amp;nbsp;The license for software which included bundled fonts allows those fonts to be used while the software is installed. That means if you uninstall the software, you are no longer licensed to use the fonts. And if you upgrade, you have a new software license which might grant different rights.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>The Adobe Creative Cloud now provides desktop fonts for its users via Typekit. The same set of fonts previously bundled and installed with Adobe applications is now part of Typekit’s Portfolio plan. You are licensed to use the fonts as long as you are a Creative Cloud (or Typekit) subscriber.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 600; line-height: 16px;&quot;>Didn’t I buy those fonts?&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_4cf5
+                jcr:created="{Date}2016-08-02T03:07:17.562-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-02T23:01:43.368-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q:&amp;nbsp;But I can't include these font when I use the Package feature!&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A:&amp;nbsp;Because desktop fonts from Typekit are provided by subscription, they cannot be copied and moved by the Package feature (or users). However, any recipient of your document who is also using Creative Cloud can use Typekit to sync the necessary fonts if they don’t already have them installed. In many cases, simply creating a PDF of your document with the fonts embedded is a convenient way to send a document for print output or publishing. (See also&amp;nbsp;&lt;a href=&quot;http://help.typekit.com/customer/portal/articles/1166052&quot; target=&quot;_blank&quot;>Packaging files that use synced fonts&lt;/a>.)&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_5705
+                jcr:created="{Date}2016-08-01T05:47:28.593-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-03T09:51:05.061-07:00"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q.&amp;nbsp;Will Adobe remove any fonts installed on my computer?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A:&amp;nbsp;Adobe products will not remove fonts you have installed on your computer. Even fonts installed at the system level by previous Adobe products, like the Creative Suite, will remain until you move them, delete them, or erase your hard disk.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>Some Adobe products include embedded fonts which are not installed in the system fonts folder, but are available from your font menu only within the application. Any such fonts will be removed if you uninstall the application.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 600; line-height: 16px;&quot;>Will Adobe remove any fonts installed on my computer?&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_e2fb
+                jcr:created="{Date}2016-08-01T05:47:37.737-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2017-05-02T07:04:03.548Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q.&amp;nbsp;Which fonts were bundled with previous versions of Creative Suite and Creative Suite Applications?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A:&amp;nbsp;&lt;a href=&quot;/content/acom/us/en/products/type/creative-suite-6-installed-fonts.html&quot;>Fonts&lt;/a>&amp;nbsp;included with Creative Suite 6&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; &lt;a href=&quot;/content/acom/us/en/products/type/creative-suite-5-installed-fonts.html&quot;>Fonts&lt;/a>&amp;nbsp;included with Creative Suite 5 and 5.5&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; &lt;a href=&quot;/content/acom/us/en/products/type/creative-suite-4-installed-fonts.html&quot;>Fonts&lt;/a>&amp;nbsp;included with Creative Suite 4&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; &lt;a href=&quot;/content/acom/us/en/products/type/creative-suite-3-installed-fonts.html&quot;>Fonts&lt;/a>&amp;nbsp;included with Creative Suite 3 and previous versions&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14544550461840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_126b"/>
+            <column_ca1
+                jcr:created="{Date}2016-07-29T03:23:56.964-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-03T04:39:01.895-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor="background-color:#FFFFFF;color:#000000"
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-03T04:39:01.895-07:00"
+                        jcr:lastModifiedBy="ashahab"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_ca1>
+            <horizontalrule_a4ef
+                jcr:created="{Date}2016-08-02T03:19:12.983-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-02T03:19:12.983-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_ac51
+                jcr:created="{Date}2016-07-29T03:23:59.947-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-07-29T03:25:33.888-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-07-29T03:25:33.888-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_ac51>
+            <text_260b
+                jcr:created="{Date}2016-07-29T03:24:02.584-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-07-29T03:24:02.584-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Learning&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers.html&quot;>Adobe Type Designers&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-team.html&quot;>Adobe Type Team&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-specimens.html&quot;>Type specimens&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-references-tips.html&quot;>Type reference materials&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-originals.html&quot;>Adobe Originals&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/opentype.html&quot;>OpenType&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14697879338970
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_ac51"/>
+            <text_b7ba
+                jcr:created="{Date}2016-07-29T03:24:04.484-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-07-29T03:24:04.484-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Resources&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blog.typekit.com/&quot;>Type &amp;amp; Typekit blog&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blogs.adobe.com/CCJKType/&quot;>CJK Type blog (Asian fonts)&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype.html&quot;>Developer information&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype/afdko.html&quot;>Font Development Kit&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/install-instructions.html&quot;>Font installation instructions&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14697879338981
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_ac51"/>
+            <text_14c1
+                jcr:created="{Date}2016-09-01T05:02:10.503Z"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-09-01T05:02:10.503Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Help&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing Center&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/creative-cloud-fonts.html&quot;>CC Bundled Fonts&amp;nbsp;FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://typekit.com/help&quot;>Web Font FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/products/fontfolio/faq.html&quot;>Font Folio FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://forums.adobe.com/community/typography_fonts&quot;>Adobe Type user forums&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14697879338982
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_ac51"/>
+            <text_905c
+                jcr:created="{Date}2016-07-29T03:37:08.009-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-07-29T03:37:17.128-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&amp;nbsp;&amp;nbsp;&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <end_14697878369710
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_ca1"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2017-02-02T00:13:02.082Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2017-02-02T00:13:02.082Z"
+                    jcr:lastModifiedBy="karchie"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+    </jcr:content>
+</jcr:root>

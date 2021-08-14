@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-02-25T20:32:27.932Z"
+        cq:lastModifiedBy="wmyersta"
+        cq:lastReplicated="{Date}2019-02-25T20:32:31.065Z"
+        cq:lastReplicatedBy="wmyersta"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Adobe LiveCycle ES4"
+        jcr:uuid="6aa90469-3b86-4960-b3b8-e02af413b218"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        applauncherTheme="light"
+        bodyClass="blackBackground"
+        browserTitle="Adobe LiveCycle Enterprise Suite 4"
+        distType="dist5"
+        enableCCRedirect="NA"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        isSectionNavParent="true"
+        manualChildren="true"
+        marketSegmentRewrite="COM"
+        marqueeStyle="newMarquee"
+        metaDescription="Adobe LiveCycle Enterprise Suite 4 is an enterprise document and forms platform that helps you capture &amp; process information, deliver personalized communications to customers."
+        modalSize="426x240"
+        pageTitle="Adobe LiveCycle ES4"
+        sectionNavTitle="Overview"
+        stagelastReplicated="22-Feb-2019 16:08"
+        stagelastReplicatedBy="wmyersta"
+        stageLastReplicationAction="ActivatedtoStage"
+        tagsKeywords="adobe livecycle, adobe live cycle, adobe livecycle designer es4, live cycle, adobe livecycle es4"
+        useH1Tags="pageTitle">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2019-02-21T22:58:39.200Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2019-02-21T22:58:39.200Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_c188
+                jcr:created="{Date}2016-10-20T09:50:46.416Z"
+                jcr:createdBy="nitsharm"
+                jcr:lastModified="{Date}2016-10-20T09:51:58.252Z"
+                jcr:lastModifiedBy="nitsharm"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-10-20T09:51:58.252Z"
+                        jcr:lastModifiedBy="nitsharm"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_c188>
+            <text_7020
+                jcr:created="{Date}2016-10-20T09:24:06.501Z"
+                jcr:createdBy="nitsharm"
+                jcr:lastModified="{Date}2019-02-25T20:32:27.928Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: left;&quot;>&lt;span class=&quot;text-light&quot;>When we introduced Adobe LiveCycle in 2004, our goal was to make it easy for customers to author and publish PDF forms. Over the past 14 years since Adobe LiveCycle’s inception, there has been an increased adoption of mobile devices and big push towards digital transformation.&amp;nbsp; Customers are looking for a product that is ready for a web and mobile-first world.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: left;&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: left;&quot;>&lt;span class=&quot;text-light&quot;>To address these needs, in 2014 we introduced the next evolution of LiveCycle called &lt;a href=&quot;https://www.adobe.com/marketing-cloud/experience-manager/forms-document-management.html&quot;>Adobe Experience Manager Forms&lt;/a>.&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: left;&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: left;&quot;>&lt;span class=&quot;text-light&quot;>Adobe Experience Manager Forms modernizes the existing features in Adobe LiveCycle. It also adds capabilities to transform digital enrollment, onboarding and ongoing forms-based communications into simple, streamlined experiences, including the ability to:&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: left;&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;ul class=&quot;text-5-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Author mobile-ready forms that adapt to any device and screen size &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Design forms that are optimized for both print and web, from a single editor&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Integrate with the rest of Adobe Experience Cloud to track engagement across channels and identify where customers abandon during the enrollment process&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: left;&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: left;&quot;>&lt;span class=&quot;text-light&quot;>You can find more details about the innovations in the latest release of Experience Manager Forms &lt;a href=&quot;https://theblog.adobe.com/experience-driven-communications-using-latest-innovations-adobe-experience-manager-forms/&quot;>here&lt;/a>.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: left;&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: left;&quot;>&lt;span class=&quot;text-light&quot;>We want to help our customers make a smooth transition to Adobe Experience Manager Forms. To this end, it is important for any organization still using Adobe LiveCycle to be aware that core technical support has ended, and to begin planning accordingly. You can learn more about the end of support for Adobe LiveCycle and begin planning accordingly &lt;a href=&quot;https://helpx.adobe.com/support/adobe-livecycle-end-of-core-support.html&quot;>here&lt;/a>.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: left;&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: left;&quot;>&lt;span class=&quot;text-light&quot;>Finally, for organizations still using Adobe LiveCycle Designer, &lt;a href=&quot;https://helpx.adobe.com/support/adobe-livecycle-end-of-core-support.html&quot;>please see our FAQ&lt;/a>.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14769570464200
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_c188"/>
+            <column_36bb
+                jcr:created="{Date}2016-10-21T13:20:02.968Z"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-10-21T13:20:02.968Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-10-20T10:14:21.480Z"
+                        jcr:lastModifiedBy="nitsharm"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_36bb>
+            <horizontalrule_380e
+                jcr:created="{Date}2016-10-21T13:19:41.424Z"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-10-21T13:19:41.424Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_14770560029840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_36bb"/>
+        </contentbody>
+        <tophero
+            jcr:lastModified="{Date}2016-11-15T22:22:23.018Z"
+            jcr:lastModifiedBy="atrevino"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            avoid="hero2-avoid-1"
+            color="hero2-theme-1"
+            effect="hero2-fx-frame-2"
+            fixedHeight="true"
+            height="hero2-size-2"
+            hideCredits="true">
+            <image
+                jcr:lastModified="{Date}2016-11-15T22:22:23.018Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Adobe LiveCycle"
+                fileReference="/content/dam/acom/en/products/livecycle/images/lifecycle-es4-marquee-1440x600.jpg"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+            <article
+                jcr:lastModified="{Date}2019-02-21T22:56:53.485Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hero/article"
+                articleAlignment="hero2-align-2"
+                title="&lt;p>Adobe LiveCycle is now Adobe Experience Manager Forms&lt;br>&#xa;&lt;/p>&#xa;"
+                width="hero2-basis-0">
+                <links
+                    jcr:primaryType="nt:unstructured"
+                    sort_mdv="0"/>
+                <titleImage
+                    jcr:lastModified="{Date}2019-02-21T22:56:53.485Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"/>
+                <link
+                    jcr:primaryType="nt:unstructured"
+                    modalMode="VIDEO"
+                    size="426x240"
+                    type="free">
+                    <image
+                        jcr:lastModified="{Date}2019-02-21T22:56:53.485Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </link>
+            </article>
+        </tophero>
+        <sectionNavItems
+            jcr:primaryType="nt:unstructured"
+            sort_mdv="0"/>
+        <promobar jcr:primaryType="nt:unstructured">
+            <promo
+                jcr:lastModified="{Date}2017-06-01T23:51:30.128Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/promo"
+                ctaButtonOverride="https://blogs.adobe.com/livecycle/2015/09/five-reasons-to-upgrade-from-livecycle-to-experience-manager-forms.html"
+                ctaButtonOverrideModalScrolling="no"
+                ctaButtonOverrideModalSize="426x240"
+                ctaButtonOverrideTarget="_blank"
+                ctaButtonText="Learn more"
+                hidePhoneSection="true"
+                icon="none"
+                marketSegmentRewrite="COM"
+                priceType="YEAR"
+                product="creative-cloud-wishform"
+                productIntroText="Core support for Adobe LiveCycle ES4 ends March 2018. Consider upgrading from LiveCycle to Adobe Experience Manager Forms today"
+                purchasePhoneCss="promo-phone"
+                purchasePhoneText="Purchase by Phone">
+                <productInfo jcr:primaryType="nt:unstructured"/>
+                <free
+                    jcr:lastModified="{Date}2017-06-01T23:52:35.023Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="http://apps.enterprise.adobe.com/go/701a0000000lijLAAQ "
+                    ctaButtonOverrideModalScrolling="no"
+                    ctaButtonOverrideModalSize="426x240"
+                    ctaButtonOverrideTarget="_blank"
+                    ctaButtonText="Contact us"
+                    productIntroText="Core support for Adobe LiveCycle ES4 ends March 2018. Consider upgrading from LiveCycle to Adobe Experience Manager Forms today"/>
+                <paid
+                    jcr:lastModified="{Date}2017-06-01T23:52:28.672Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="https://blogs.adobe.com/livecycle/2015/09/five-reasons-to-upgrade-from-livecycle-to-experience-manager-forms.html"
+                    ctaButtonOverrideModalScrolling="no"
+                    ctaButtonOverrideModalSize="426x240"
+                    ctaButtonOverrideTarget="_blank"
+                    ctaButtonText="Contact us"
+                    productIntroText="Core support for Adobe LiveCycle ES4 ends March 2018. Consider upgrading from LiveCycle to Adobe Experience Manager Forms today"/>
+            </promo>
+        </promobar>
+    </jcr:content>
+    <tools/>
+    <modules/>
+    <modules-displayTab2/>
+    <modules-displayTab3/>
+    <showcase/>
+    <upgrade/>
+    <rightsmanagement/>
+    <mobile/>
+</jcr:root>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2017-04-26T23:27:30.244Z"
+        cq:lastModifiedBy="golee"
+        cq:lastReplicated="{Date}2017-04-26T23:27:42.884Z"
+        cq:lastReplicatedBy="golee"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Multiple Master to OpenType Cross Reference"
+        jcr:uuid="689520db-2f2d-4b78-94c8-628fc3c501fc"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Multiple Masters to OpenType font conversion FAQ | Adobe Type"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="light"
+        languageDirection="ltr"
+        metaDescription="List of the multiple master fonts formerly available from Adobe and their corresponding OpenType packages."
+        pageTitle="Multiple Master to OpenType Cross Reference"
+        seodescription=""
+        stagelastReplicated="10-Mar-2017 20:22"
+        stagelastReplicatedBy="golee"
+        stageLastReplicationAction="ActivatedtoStage">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_126b
+                jcr:lastModified="{Date}2016-08-04T07:29:32.826-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-04T07:29:32.826-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_126b>
+            <text_825a
+                jcr:created="{Date}2016-08-08T04:03:17.451-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2017-04-07T21:05:45.144Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>First released in 1992, the multiple master font format was an incredible advance in type technology. In 2000, Adobe unveiled the next great leap forward: &lt;a href=&quot;/content/dotcom/en/products/type/opentype.html&quot;>Opentype&lt;/a>&lt;sup>®&lt;/sup>. Developed in conjunction with Microsoft, OpenType uses the same cross-platform font file on both the Macintosh and Windows platforms, providing more reliable document portability. This one font file can also contain an expanded glyph set that allows for extended language support and integrated access to advanced typographic features.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Below is a list of the multiple master fonts formerly available from Adobe and their corresponding OpenType packages.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <table_22f6
+                jcr:created="{Date}2016-08-10T04:06:42.361-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2017-04-07T21:08:14.564Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/table"
+                tableDataHTML="&lt;table width=&quot;100%&quot; class=&quot;stripe-grey-white-reverse creative data-table-row-em&quot;>&#xa;&lt;tbody>&lt;tr>&lt;td height=&quot;17&quot;>&lt;strong>Legacy MM Family&lt;/strong>&lt;/td>&#xa;&lt;td>&lt;strong>Corresponding OpenType Family(ies)&lt;/strong>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>ITC Avant Garde MM&lt;/td>&#xa;&lt;td>ITC Avant Garde Std 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>ITC Avant Garde Std 2&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>ITC Avant Garde Std Condensed 1&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>ITC Avant Garde Std Condensed 2&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Bickham Script MM&lt;/td>&#xa;&lt;td>Bickham Script Pro&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Briem Akademi MM&lt;/td>&#xa;&lt;td>Briem Akademi Std&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>Briem Akademi Std Compressed&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>Briem Akademi Std Condensed&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Briem Script MM&lt;/td>&#xa;&lt;td>Briem Script Std&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Caflisch Script MM&lt;/td>&#xa;&lt;td>Caflisch Script Pro&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Chaparral MM&lt;/td>&#xa;&lt;td>Chaparral Pro&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Chaparral Expert MM&lt;/td>&#xa;&lt;td>Chaparral Pro Opticals&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Conga Brava MM&lt;/td>&#xa;&lt;td>Conga Brava Std&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Cronos MM&lt;/td>&#xa;&lt;td>Cronos Pro&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Cronos Expert MM&lt;/td>&#xa;&lt;td>Cronos Pro Opticals&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Ex Ponto MM&lt;/td>&#xa;&lt;td>Ex Ponto Pro&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>ITC Garamond MM&lt;/td>&#xa;&lt;td>ITC Garamond Std&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>ITC Garamond Std Condensed&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>ITC Garamond Std Narrow&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Graphite MM&lt;/td>&#xa;&lt;td>Graphite Std&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Adobe Jenson MM&lt;/td>&#xa;&lt;td>Adobe Jenson Pro&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Adobe Jenson Expert MM&lt;/td>&#xa;&lt;td>Adobe Jenson Pro Opticals&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Jimbo MM&lt;/td>&#xa;&lt;td>Jimbo Std&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Kepler MM&lt;/td>&#xa;&lt;td>Kepler Std&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Kepler Expert MM&lt;/td>&#xa;&lt;td>Kepler Std SemiCondensed&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>Kepler Std Extended&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>Kepler Std Opticals&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>Kepler Std SemiCondensed Opticals&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>Kepler Std Condensed Opticals&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>Kepler Std Extended Opticals&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Kinesis MM&lt;/td>&#xa;&lt;td>Kinesis Std&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Kinesis Expert MM&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Mezz MM&lt;/td>&#xa;&lt;td>Mezz Std&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Minion MM&lt;/td>&#xa;&lt;td>Minion Pro&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Minion Expert MM&lt;/td>&#xa;&lt;td>Minion Pro Condensed&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>Minion Std Black&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>Minion Pro Opticals&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>Minion Pro Condensed Opticals&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Motter Corpus MM&lt;/td>&#xa;&lt;td>Motter Corpus Std&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Myriad MM&lt;/td>&#xa;&lt;td>Myriad Pro&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>Myriad Pro SemiCondensed&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>Myriad Pro Condensed&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>Myriad Pro SemiExtended&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Nueva MM&lt;/td>&#xa;&lt;td>Nueva Std&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>Nueva Std Condensed&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>Nueva Std Extended&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Ocean Sans MM&lt;/td>&#xa;&lt;td>Ocean Sans Std&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>Ocean Sans Std Extended&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>Ocean Sans Std SemiExtended&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Penumbra MM&lt;/td>&#xa;&lt;td>Penumbra Flare Std&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>Penumbra HalfSerif Std&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>Penumbra Sans Std&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>Penumbra Serif Std&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Reliq MM&lt;/td>&#xa;&lt;td>Reliq Std Calm&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>Reliq Std Active&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>Reliq Std Extra Active&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Sanvito MM&lt;/td>&#xa;&lt;td>Sanvito Pro&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>Sanvito Pro Opticals&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Tekton MM&lt;/td>&#xa;&lt;td>Tekton Pro&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>&amp;nbsp;&lt;/td>&#xa;&lt;td>Tekton Pro Condensed &amp;amp; Extended&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Verve MM&lt;/td>&#xa;&lt;td>Verve Std&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>Viva MM&lt;/td>&#xa;&lt;td>Viva Std&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td height=&quot;17&quot;>WatersTitling MM&lt;/td>&#xa;&lt;td>WatersTitling Pro&lt;/td>&#xa;&lt;/tr>&lt;/tbody>&lt;/table>"/>
+            <end_14544550461840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_126b"/>
+            <column_d51c
+                jcr:created="{Date}2016-08-04T07:25:13.962-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-04T07:25:13.962-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-03T03:53:28.539-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_d51c>
+            <horizontalrule_ca15
+                jcr:created="{Date}2016-08-04T07:25:22.493-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-04T07:25:22.493-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_62d9
+                jcr:created="{Date}2016-08-04T07:25:20.021-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-04T07:25:20.021-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-03T02:05:42.205-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_62d9>
+            <text_cd88
+                jcr:created="{Date}2016-08-04T07:25:17.334-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-04T07:25:17.334-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Learning&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers.html&quot;>Adobe Type Designers&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-team.html&quot;>Adobe Type Team&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-specimens.html&quot;>Type specimens&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-references-tips.html&quot;>Type reference materials&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-originals.html&quot;>Adobe Originals&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/opentype.html&quot;>OpenType&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14703207955060
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_62d9"/>
+            <text_17e5
+                jcr:created="{Date}2016-08-04T07:25:25.578-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-04T07:25:25.578-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Resources&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blog.typekit.com/&quot;>Type &amp;amp; Typekit blog&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blogs.adobe.com/CCJKType/&quot;>CJK Type blog (Asian fonts)&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype.html&quot;>Developer information&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype/afdko.html&quot;>Font Development Kit&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/install-instructions.html&quot;>Font installation instructions&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14703207955071
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_62d9"/>
+            <text_bf96
+                jcr:created="{Date}2016-09-01T05:42:32.910Z"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-09-01T05:42:32.910Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Help&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing Center&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/creative-cloud-fonts.html&quot;>CC Bundled Fonts&amp;nbsp;FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://typekit.com/help&quot;>Web Font FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/products/fontfolio/faq.html&quot;>Font Folio FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://forums.adobe.com/community/typography_fonts&quot;>Adobe Type user forums&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14703207955082
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_62d9"/>
+            <column_56aa
+                jcr:created="{Date}2017-03-10T20:20:15.736Z"
+                jcr:createdBy="golee"
+                jcr:lastModified="{Date}2017-03-10T20:20:42.480Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                multiplier="6"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-03-10T20:20:42.480Z"
+                        jcr:lastModifiedBy="golee"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_56aa>
+            <text_f688
+                jcr:created="{Date}2017-03-10T20:20:46.215Z"
+                jcr:createdBy="golee"
+                jcr:lastModified="{Date}2017-04-26T23:27:30.240Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>More information&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/opentype/opentype-fonts-information.html&quot;>OpenType ReadMe&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/opentype/opentype-faq.html&quot;>OpenType FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/qna_japanese.pdf&quot; target=&quot;_blank&quot;>OpenType FAQ (Japanese)&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype.html&quot;>OpenType Developer Information&lt;br>&#xa;&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/PiFontInfo.pdf&quot; target=&quot;_blank&quot;>Pi Font Info&lt;/a>&lt;br>&#xa; &lt;a href=&quot;http://www.microsoft.com/typography/default.mspx&quot; target=&quot;_blank&quot;>Microsoft Typography&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14891772424890
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_56aa"/>
+            <break_14891772424891
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_56aa"/>
+            <end_14891772157420
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_56aa"/>
+            <end_14703207139690
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_d51c"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2016-08-22T23:34:01.849-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2016-08-22T23:34:01.849-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+    </jcr:content>
+</jcr:root>

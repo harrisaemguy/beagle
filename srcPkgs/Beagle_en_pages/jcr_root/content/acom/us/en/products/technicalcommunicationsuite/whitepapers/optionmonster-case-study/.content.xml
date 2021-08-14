@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2018-04-02T17:21:06.502Z"
+        cq:lastModifiedBy="wmyersta"
+        cq:lastReplicated="{Date}2018-09-06T07:22:46.218Z"
+        cq:lastReplicatedBy="debdas"
+        cq:lastReplicationAction="Deactivate"
+        cq:tags="[]"
+        cq:template="/apps/beagle/templates/customershowcasedetailpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="optionmonster-case-study"
+        jcr:uuid="3c528907-4cfe-4d2a-9b90-30564ca33191"
+        sling:resourceType="beagle/components/customershowcasedetailpage">
+        <customershowcasecard
+            jcr:lastModified="{Date}2017-11-27T10:12:11.074Z"
+            jcr:lastModifiedBy="21n57074"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/customershowcasecard"
+            cardType="standard"
+            companyName="optionMONSTER/tradeMONSTER"
+            creationDate="{Date}2017-11-12T11:34:00.000+05:30"
+            link1="http://wwwimages.adobe.com/www.adobe.com/content/dam/acom/en/customer-success/pdfs/optionmonster-case-study.pdf"
+            link1Target="_blank"
+            link1Text="Read more"
+            link2Target="_self"
+            orderDate="{Date}2009-05-01T11:34:00.000+05:30">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                    size="426x240"
+                    type="free">
+                    <social jcr:primaryType="nt:unstructured"/>
+                    <meta
+                        jcr:primaryType="nt:unstructured"
+                        type="website">
+                        <image
+                            jcr:lastModified="{Date}2017-11-27T10:12:11.074Z"
+                            jcr:lastModifiedBy="21n57074"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </meta>
+                    <tracking jcr:primaryType="nt:unstructured"/>
+                </video>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2017-11-27T10:12:11.074Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="optionMONSTER/tradeMONSTER"
+                fileReference="/content/dam/acom/en/products/one-adobe-solution-for-technical-content/images/trade_monster.png"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </customershowcasecard>
+    </jcr:content>
+</jcr:root>

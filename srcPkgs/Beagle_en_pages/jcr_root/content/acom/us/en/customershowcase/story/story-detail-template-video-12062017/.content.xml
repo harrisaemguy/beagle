@@ -1,0 +1,1094 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-12-23T07:21:18.751Z"
+        cq:lastModifiedBy="handoo"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Story Detail Video Template"
+        jcr:uuid="88f2afbb-845e-4168-bd7b-a7e172975384"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        billingFrequency="ANNUAL"
+        bodyClass="whiteBackground"
+        browserTitle="Adobe | Customer Showcase"
+        channel="adobe.com"
+        commitment="YEAR"
+        distType="dist5"
+        enableBreadcrumb="true"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        gnavTheme="dark"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        isMCPage="true"
+        marketSegmentRewrite="COM"
+        metaDescription="Adobe | Customer Showcase"
+        modalSize="426x240"
+        modelCode="INDIVIDUAL"
+        navTitle=" "
+        overrideBreadcrumbPath="/content/acom/us/en/customershowcase"
+        pageTitle="Adobe Customer Showcase"
+        pricePoint="REGULAR"
+        removeFromHtmlSitemap="true"
+        removeFromXmlSitemap="true"
+        stagelastReplicated="09-Nov-2017 23:51"
+        stagelastReplicatedBy="wmyersta"
+        stageLastReplicationAction="ActivatedtoStage"
+        topPadding="small-top-padding"
+        useH1Tags="pageTitle">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_951442349
+                jcr:created="{Date}2017-11-03T23:47:22.323Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-09T23:51:35.143Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                columnCount="1"
+                grid0="4"
+                layout="1;grid-cols-4 grid-offset-6      ;"
+                multiplier="3"
+                offset0="6"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-09T23:51:35.143Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_951442349>
+            <image_d6ac
+                jcr:created="{Date}2017-02-23T17:11:53.887Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-12-14T18:50:14.335Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Customer Name"
+                fileReference="/content/dam/acom/en/customer-showcase/logo/state-of-hawaii-142x94.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-12-14T18:50:14.335Z"
+                    jcr:lastModifiedBy="lsloane"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d6ac>
+            <end_15097528423370
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_951442349"/>
+            <column_403323371
+                jcr:created="{Date}2017-11-03T23:41:11.531Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:47:53.589Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-03T23:47:53.589Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_403323371>
+            <horizontalrule_1747206081
+                jcr:created="{Date}2017-11-03T23:44:09.184Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:44:09.184Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_15097528030730
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_403323371"/>
+            <column_e8e7
+                jcr:created="{Date}2017-04-04T20:12:05.215Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:48:09.441Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                grid0="7"
+                grid1="4"
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="3"
+                offset0="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-03T23:48:09.441Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_e8e7>
+            <text_d97c
+                jcr:created="{Date}2017-02-23T16:59:17.420Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-21T19:29:18.379Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>Challenges&lt;/strong>&lt;/div>&#xa;&lt;ul class=&quot;text-5-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Provide citizens with faster government services&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Reach geographically disperse population&amp;nbsp;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Improve productivity of government employees&lt;/span>&lt;br>&#xa;&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;strong>Key products used&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Sign and Adobe Acrobat Pro DC within Adobe Document Cloud&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Creative Cloud for enterprise&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Microsoft SharePoint&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14913367252261
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_e8e7"/>
+            <horizontalrule
+                jcr:created="{Date}2017-11-03T23:44:00.392Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:44:00.392Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_2de6
+                jcr:created="{Date}2017-02-23T16:57:01.644Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T16:57:18.746Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                section="v"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-02-23T16:57:18.746Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_2de6>
+            <text_86ac
+                jcr:created="{Date}2017-02-23T17:14:47.284Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-21T19:30:20.641Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&lt;span class=&quot;text-light&quot;>&lt;strong>Increasing government efficiency in the Aloha state.&amp;nbsp;&lt;/strong>&lt;/span>&lt;br>&#xa;&lt;/h3>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>State of Hawaii aims to enhance services through paperless initiatives powered by Adobe solutions.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <hero
+                jcr:created="{Date}2017-11-28T19:21:05.456Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-12-14T18:50:34.837Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hero"
+                avoid="hero2-avoid-1"
+                color="hero2-theme-1"
+                height="hero2-size-3"
+                hideArticle="true"
+                hideCredits="true">
+                <image
+                    jcr:lastModified="{Date}2017-12-14T18:50:34.837Z"
+                    jcr:lastModifiedBy="lsloane"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/image"
+                    alt="Customer Name"
+                    fileReference="/content/dam/acom/en/customer-showcase/images/state-of-hawaii-alt-thumbnail-660x348.png"
+                    xcord="{Long}50"
+                    ycord="{Long}50"/>
+                <link
+                    jcr:lastModified="{Date}2017-11-28T19:25:03.481Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                    size="854x480"
+                    type="youtube"
+                    youTubeAutoPlay="true"
+                    youTubeUrl="QCWfKgUo7Ww">
+                    <social jcr:primaryType="nt:unstructured"/>
+                    <meta
+                        jcr:primaryType="nt:unstructured"
+                        type="website">
+                        <image
+                            jcr:lastModified="{Date}2017-11-28T19:25:03.481Z"
+                            jcr:lastModifiedBy="wmyersta"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </meta>
+                    <tracking jcr:primaryType="nt:unstructured"/>
+                </link>
+            </hero>
+            <text_983818343
+                jcr:created="{Date}2017-11-03T23:48:58.346Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:50:29.663Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <horizontalrule_1353714344
+                jcr:created="{Date}2017-11-03T23:49:30.808Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:49:30.808Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_60af
+                jcr:created="{Date}2017-03-10T17:20:44.498Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:48:34.372Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-4-block&quot;>&lt;strong>RESULTS&lt;/strong>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <column_d5e4
+                jcr:created="{Date}2017-03-10T17:19:59.708Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-17T21:33:58.273Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of8;grid-span-7of8;"
+                layout="2;grid-span-1of8;grid-span-7of8;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:33:58.273Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_d5e4>
+            <image_82e1
+                jcr:created="{Date}2017-03-10T17:20:15.347Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-12-14T18:50:44.245Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Results"
+                fileReference="/content/dam/acom/en/customer-showcase/icons/state-of-hawaii-icon2-64x64.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-12-14T18:50:44.245Z"
+                    jcr:lastModifiedBy="lsloane"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_82e1>
+            <break_14891663997230
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_d5e4"/>
+            <text
+                jcr:created="{Date}2017-10-16T20:24:33.526Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-21T19:39:16.561Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>LESS TIME&lt;/strong> to process new hires&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14891663997231
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_d5e4"/>
+            <column_45e0
+                jcr:created="{Date}2017-03-10T17:19:56.589Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-17T21:34:30.046Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of8;grid-span-7of8;"
+                layout="2;grid-span-1of8;grid-span-7of8;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:34:30.046Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_45e0>
+            <image_9fed
+                jcr:created="{Date}2017-03-10T17:20:11.711Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-12-14T18:50:53.928Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Results"
+                fileReference="/content/dam/acom/en/customer-showcase/icons/state-of-hawaii-icon2.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-12-14T18:50:53.928Z"
+                    jcr:lastModifiedBy="lsloane"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_9fed>
+            <break_14891663966050
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_45e0"/>
+            <text_c974
+                jcr:created="{Date}2017-03-10T17:20:05.024Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-21T19:39:34.685Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Signed &lt;strong>APPROVALS&lt;/strong> returned in hours, not weeks&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14891663966061
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_45e0"/>
+            <column_c8c6
+                jcr:created="{Date}2017-03-10T17:18:21.395Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-17T21:34:56.611Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of8;grid-span-7of8;"
+                layout="2;grid-span-1of8;grid-span-7of8;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:34:56.611Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_c8c6>
+            <image_d8a9
+                jcr:created="{Date}2017-03-10T17:18:52.678Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-12-14T18:51:05.412Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Results"
+                fileReference="/content/dam/acom/en/customer-showcase/icons/state-of-hawaii-icon3-64x64.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-12-14T18:51:05.412Z"
+                    jcr:lastModifiedBy="lsloane"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d8a9>
+            <break_14891663014120
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_c8c6"/>
+            <text_1940731405
+                jcr:created="{Date}2017-10-17T20:21:44.671Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-21T19:39:56.897Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Electronic signature &lt;strong>TRANSACTIONS&lt;/strong> in the first year&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14891663014131
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_c8c6"/>
+            <column_30ec
+                jcr:created="{Date}2017-02-23T17:16:55.642Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-17T21:35:17.355Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of8;grid-span-7of8;"
+                layout="2;grid-span-1of8;grid-span-7of8;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:35:17.355Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_30ec>
+            <image_d8d6
+                jcr:created="{Date}2017-02-23T17:17:50.805Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-12-14T18:51:13.428Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Results"
+                fileReference="/content/dam/acom/en/customer-showcase/icons/state-of-hawaii-icon4-64x64.png">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-12-14T18:51:13.428Z"
+                    jcr:lastModifiedBy="lsloane"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d8d6>
+            <break_14878702296900
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_30ec"/>
+            <text_846314396
+                jcr:created="{Date}2017-10-17T20:24:44.711Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-21T19:40:11.082Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Empowers employees to sign anywhere on &lt;strong>MOBILE&lt;/strong> devices&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14878702156510
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_30ec"/>
+            <text_893038935
+                jcr:created="{Date}2017-11-03T23:51:15.852Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:51:15.852Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <horizontalrule_1635904791
+                jcr:created="{Date}2017-11-03T23:51:16.024Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:51:16.024Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_4293
+                jcr:created="{Date}2017-02-23T17:19:06.983Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-21T19:41:43.698Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>Bringing the aloha spirit&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;br>&#xa;&lt;span class=&quot;text-light&quot;>From the clear waters of the Pacific Ocean to the active volcanos on the Big Island, Hawaii is known for its close ties to nature and its unique culture. With population spread across multiple islands, Hawaii also offers distinct challenges for the state government as it works to reach all 1.4 million citizens quickly and efficiently.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;When elected to office, Governor David Ige promoted the idea of paperless workflows. By reducing the amount of paper that the government uses, Governor Ige recognized that the state could cut costs and positively impact the environment. But just as importantly, adopting digital processes, including supporting electronic documents, helps the government communicate more effectively across islands and deliver citizen services as efficiently as possible.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;“Government agencies must be responsive to citizens and held accountable, so our departments have to manage a lot of paper trails and signed document approvals. Electronic signatures are essential for paperless initiatives to succeed,” says Todd Nacapuy, Chief Information Officer for the State of Hawaii. “Adobe Sign in Adobe Document Cloud offers flexibility to encourage adoption and improve processes inside and outside government.”&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <pullquote
+                jcr:created="{Date}2017-10-17T20:32:15.365Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-21T19:42:40.834Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/pullquote"
+                author="Todd Nacapuy"
+                fontstyle="italic"
+                quote="Using Adobe Sign as part of our state’s eSign Services program, we eliminate much of the time previously spent preparing and routing documents. State personnel can sign with just a few clicks, so we can focus on state business and roll out new services faster."
+                title="Chief Information Officer, State of Hawaii"/>
+            <end_14878690216470
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_2de6"/>
+            <column
+                jcr:created="{Date}2017-10-17T20:36:07.860Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-10-17T21:14:33.995Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="4"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:14:33.995Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column>
+            <text_606073231
+                jcr:created="{Date}2017-10-17T20:36:32.876Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-21T19:45:28.789Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>Embracing change&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;br>&#xa;&lt;span class=&quot;text-light&quot;>Every department and agency has its own methods to keep operations running smoothly. Rather than mandating specific tools and workflows, the State of Hawaii prefers to offer scalable, versatile solutions that departments can adapt to their needs. When Hawaii began developing its electronic signature capabilities, which the state eventually branded “eSign Services,” Adobe Sign was considered not only for ease of use to get departments up and running quickly, but also for its strong integration with many third-party solutions already used by teams. Departments can work with Adobe Sign as a standalone solution, or integrate it into Microsoft SharePoint workflows.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;&amp;quot;Being able to integrate Adobe Sign within existing SharePoint environments and department workflows gives state employees more options for an integrated solution to send and track documents,&amp;quot; adds Nacapuy.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;Across the state government, more than 64,000 documents were electronically signed in the first year, and the team expects that number to jump substantially. With continued rollout of the state’s eSign Services initiative, powered by Adobe Sign, Nacapuy anticipates that as many as 25,000 government employees will regularly use the solution as a signer, document creator, or both. Over time, the number of users could increase by tens of thousands of employees as more government agencies adopt the service.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_15082725678780
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column"/>
+            <column_107594481
+                jcr:created="{Date}2017-10-17T20:40:52.905Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-10-17T21:14:43.806Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="4"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:14:43.806Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_107594481>
+            <text_1462718452
+                jcr:created="{Date}2017-10-17T20:41:05.854Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-21T19:46:42.276Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>Serving citizens across islands&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;With the state population across seven islands, simply getting documents to the right signer can be difficult. With Adobe Sign, people can sign documents from almost any device—laptop, tablet, or even mobile phone. No special app is needed, nor does the signer need to be logged into a state machine.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;Several agencies are already adopting the solution. For instance, the State of Hawaii Department of Health is working toward rolling out an electronic process to manage receiving signed immunization forms for each of the state’s 180,000 students in K-12 public schools. Signed forms for every student have to be received and filed annually before a student can start school.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;The traditional process of sending immunization forms home with students or asking parents to drop off signed paper forms was problematic, resulting in delays in returning forms or lost forms. By using a solution like Adobe Sign to enable parents or guardians to electronically sign forms, the state can make it faster and easier for parents and school administrators alike to comply with processes that help keep students healthy and safe.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;The automated electronic processes also support busy government administrators and elected officials who frequently travel to meet with constituents. “Many times, officials who sign documents spend a good part of their days out of the office attending meetings or conferences,” says Nacapuy. “With mobile signing, people can get their work done wherever they are while meeting their constituent commitments.”&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <pullquote_1861982903
+                jcr:created="{Date}2017-10-17T20:42:46.525Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-21T19:48:04.962Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/pullquote"
+                author="Todd Nacapuy"
+                fontstyle="italic"
+                quote="Adobe Sign in Adobe Document Cloud offers flexibility to encourage adoption and improve processes inside and outside government."
+                title="Chief Information Officer, State of Hawaii"/>
+            <end_15082728529200
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_107594481"/>
+            <column_602895060
+                jcr:created="{Date}2017-10-17T20:47:32.989Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-10-17T21:14:54.851Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="4"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:14:54.851Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_602895060>
+            <text_49029951
+                jcr:created="{Date}2017-10-17T20:48:04.267Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-22T19:45:48.096Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>Empowering employees&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;br>&#xa;&lt;span class=&quot;text-light&quot;>Accelerated signing dramatically reduces the time that employees spend on paperwork overall. For instance, newly hired government employees, who once spent 2 hours filling out onboarding paperwork on their first day, can complete online forms at home before ever setting foot in the office. In addition, all employees must sign about 30 documents a year on average, from annual tax documents to updated acceptable use policies—a process that can be greatly streamlined with Adobe Sign.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;&amp;quot;The HR department can send documents out for signatures to state employees, and track the document status for every signer,&amp;quot; says Nacapuy. &amp;quot;Now that new hire onboarding can be done electronically, it has dramatically reduced the onboarding process time from 2 hours to just 20 minutes.&amp;quot;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;The integration between Adobe Sign and SharePoint also promises to simplify previously complex authorization workflows. Leave of Absence forms have to be completed, routed, and signed by several managers if an employee is requesting extended time off. The authorizations can vary based on department, length of leave, and other factors. By integrating Adobe Sign into SharePoint workflows, the state can bring greater oversight and efficiencies to managing these requests.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;strong>Better services for everyone&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;br>&#xa;&lt;span class=&quot;text-light&quot;>The sooner government agencies can approve proposals and contracts, the faster they can roll out new citizen services. Administrative directives need to be reviewed by as many as two dozen managers, while many expenses need approval from the governor’s office.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;Previously government offices spent so much time printing documents, routing them to offices, and waiting for signatures that approvals could take two weeks or longer. Now a contract can make its way up the chain of approvals and to the governor’s desk in just a few hours. “Using Adobe Sign as part of Hawaii’s eSign Services, we eliminate much of the time previously spent preparing and routing documents,” says Nacapuy. “State personnel can sign with just a few clicks, so we can we can focus on state business and roll out new services faster.”&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;Through an Adobe enterprise term license agreement (ETLA) for Adobe Sign and Adobe Creative Cloud for enterprise, the State of Hawaii can effectively deliver essential apps into the hands of staff who need it. Working with the ETLA helps the state realize significant cost-saving compared to purchasing solutions and software in a decentralized fashion. As an added benefit, the IT team gains tools that help deploy software across departments. Time that the IT team previously spent managing and tracking licenses is now refocused to continually refine the quality of citizen services.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <pullquote_534517093
+                jcr:created="{Date}2017-11-22T19:46:35.829Z"
+                jcr:createdBy="lsloane"
+                jcr:lastModified="{Date}2017-11-22T19:47:09.344Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/pullquote"
+                author="Todd Nacapuy"
+                fontstyle="italic"
+                quote="The HR department can send documents out for signatures to state employees, and track the document status for every signer."
+                title="Chief Information Officer, State of Hawaii"/>
+            <end_15082732530040
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_602895060"/>
+            <column_1396326381
+                jcr:created="{Date}2017-10-17T20:53:47.251Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-10-17T21:15:22.187Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="4"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:15:22.187Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_1396326381>
+            <text_1402160278
+                jcr:created="{Date}2017-10-17T21:04:40.611Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-22T19:46:14.166Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>“Compared to the total cost of software and solutions by departments acting separately in the past, the Adobe ETLA is helping us keep the total investment at or below historic figures while adding innovative new features, including electronic signatures, increased accessibility, and enhanced access to creative solutions,” says Nacapuy.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;Already a staple at most government agencies, Adobe Acrobat Pro DC is used daily by many employees to convert documents to PDF for more secure, streamlined collaboration and sharing. Acrobat Pro DC has also become instrumental as employees post more documents online in PDF that comply with Section 508 accessibility requirements in the Americans with Disabilities Act (ADA).&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;Within departments, streamlined access to current versions of Creative Cloud apps, such as Adobe Photoshop CC, InDesign CC, and Dreamweaver CC, enable personal information officers and other communications managers to create high-impact, visually engaging materials, without the aid of costly outside creative agencies. In the end, the government spends less and speeds the delivery of higherquality communications to citizens.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;“Adobe solutions offer a solid foundation that allow us to work smarter and solve problems in new ways,” says Nacapuy. “Through our strong partnership with Adobe, we’re transforming how the government works to provide citizens with faster, more effective services.”&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_77a9
+                jcr:created="{Date}2017-02-23T17:29:21.117Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-22T19:48:50.890Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>State of Hawaii&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Population: 1,400,000&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Employees: 80,000&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Honolulu, Hawaii&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://www.hawaii.gov&quot;>Visit website ›&lt;/a>&lt;/div>&#xa;"/>
+            <end_15082736272770
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1396326381"/>
+            <column_583802035
+                jcr:created="{Date}2017-11-04T00:01:09.453Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:01:24.099Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-04T00:01:24.099Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_583802035>
+            <horizontalrule_634136392
+                jcr:created="{Date}2017-11-04T00:01:30.682Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:01:30.682Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_15097536694730
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_583802035"/>
+            <column_7807
+                jcr:created="{Date}2017-02-23T17:21:19.125Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T18:30:55.827Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="2"
+                grid0="7"
+                grid1="3"
+                layout="2;grid-cols-7 grid-offset-3;grid-cols-3;"
+                multiplier="4"
+                offset0="3"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-02-23T18:30:55.827Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_7807>
+            <column_6904
+                jcr:created="{Date}2017-02-23T17:22:13.973Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:01:58.784Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-7;"
+                bgColor=" "
+                layout="1;grid-cols-7;"
+                layoutMode="structured"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-04T00:01:58.784Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_6904>
+            <text_39d8
+                jcr:created="{Date}2017-02-23T17:27:45.232Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-22T19:49:17.622Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: left;&quot;>&lt;span class=&quot;text-light&quot;>Solution at a Glance&amp;nbsp;&lt;/span>&lt;/h3>&#xa;"
+                textIsRich="true"/>
+            <end_14878705339800
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_6904"/>
+            <column_49d
+                jcr:created="{Date}2017-02-23T17:23:00.112Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:56:14.353Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of2;grid-span-1of2;"
+                layout="2;grid-span-1of2;grid-span-1of2;"
+                layoutMode="spatial"
+                multiplier="5"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-03T23:56:14.353Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_49d>
+            <text_1f25
+                jcr:created="{Date}2017-02-23T17:24:49.844Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-22T19:56:51.326Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>&lt;a href=&quot;https://acrobat.adobe.com/us/en/landing/tt/acrobat_index.html?WP=13&quot;>Adobe Document Cloud&lt;/a>&lt;/strong>&lt;br>&#xa;&lt;/div>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Adobe Sign&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Adobe Acrobat Pro DC&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <break_14878706021930
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_49d"/>
+            <text_b571
+                jcr:created="{Date}2017-02-23T17:26:44.047Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-22T20:00:26.273Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>&lt;a href=&quot;https://www.adobe.com/creativecloud.html&quot;>Adobe Creative Cloud&lt;/a>&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Creative Cloud for enterprise&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Acrobat Pro DC&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Dreamweaver CC&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe InDesign CC&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Photoshop CC&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Microsoft SharePoint&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14878705801220
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_49d"/>
+            <break_14878705074930
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_7807"/>
+            <end_14878704791310
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_7807"/>
+            <horizontalrule_1162472091
+                jcr:created="{Date}2017-11-04T00:02:41.125Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:02:41.125Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_1826107193
+                jcr:created="{Date}2017-11-04T00:04:51.784Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:05:31.407Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="2"
+                grid0="7"
+                grid1="3"
+                layout="2;grid-cols-7 grid-offset-3      ;grid-cols-3      ;"
+                multiplier="9"
+                offset0="3"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-04T00:05:31.407Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_1826107193>
+            <text_2fad
+                jcr:created="{Date}2017-02-23T17:32:56.391Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-22T21:58:08.199Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h5>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/dam/acom/en/customer-success/pdfs/state-of-hawaii-case-study.pdf&quot;>Download a PDF of this story ›&lt;/a>&lt;/span>&lt;/h5>&#xa;"
+                textIsRich="true"/>
+            <text_143692239
+                jcr:created="{Date}2017-11-22T21:54:39.124Z"
+                jcr:createdBy="lsloane"
+                jcr:lastModified="{Date}2017-11-22T21:55:35.832Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h5>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://youtu.be/QCWfKgUo7Ww&quot;>Watch the video ›&lt;/a>&lt;/span>&lt;/h5>&#xa;"/>
+            <break_15097538917980
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_1826107193"/>
+            <end_15097538917991
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1826107193"/>
+            <column_1705662858
+                jcr:created="{Date}2017-11-04T00:03:08.624Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:03:08.624Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-03-01T22:56:33.059Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_1705662858>
+            <end_15097537886380
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1705662858"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2017-12-06T21:58:51.341Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2017-12-06T21:58:51.341Z"
+                    jcr:lastModifiedBy="lsloane"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <tophero
+            jcr:lastModified="{Date}2017-02-23T18:39:56.965Z"
+            jcr:lastModifiedBy="wmyersta"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            color="hero2-theme-2"
+            effect="hero2-fx-frame-3"
+            height="hero2-size-4"
+            hideArticle="true"
+            hideCredits="true"
+            hideLink="true">
+            <image
+                jcr:lastModified="{Date}2017-02-23T18:39:56.965Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Customer showcase detail marquee"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </tophero>
+        <merchandisingbar jcr:primaryType="nt:unstructured">
+            <contactpod
+                jcr:lastModified="{Date}2017-02-23T18:38:23.969Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/contactpod"
+                backgroundColor="background-color:#131031"
+                ctaButtonOverride="http://apps.enterprise.adobe.com/go/70114000002JNwKAAW"
+                ctaButtonText="Contact us"
+                description="Find out how Adobe can help you and your business."
+                purchasePhoneNumberCall="+118777227088"
+                purchasePhoneNumberDisp="877-722-7088"
+                title="Want to know more?">
+                <contactlist
+                    jcr:primaryType="nt:unstructured"
+                    sort_mdv="[0,1,2,3]">
+                    <_x0030_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-twitter"
+                        socialLink="#"
+                        socialTitle="Follow us on Twitter"/>
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-facebook"
+                        socialLink="#"
+                        socialTitle="Like us on Facebook"/>
+                    <_x0032_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-googleplus"
+                        socialLink="#"
+                        socialTitle="Follow us on Google+"/>
+                    <_x0033_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-linkedin"
+                        socialLink="#"
+                        socialTitle="Follow us on LinkedIn"/>
+                </contactlist>
+            </contactpod>
+        </merchandisingbar>
+    </jcr:content>
+</jcr:root>

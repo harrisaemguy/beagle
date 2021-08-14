@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2015-10-21T05:55:26.502Z"
+        cq:lastModifiedBy="satikuma"
+        cq:lastReplicated="{Date}2015-10-21T05:55:32.559Z"
+        cq:lastReplicatedBy="satikuma"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fragmentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="nonmarketing"
+        jcr:uuid="5181dbfd-d650-4f8f-a884-3c70e2893dfc"
+        sling:resourceType="beagle/components/fragmentpage">
+        <textandimage
+            jcr:lastModified="{Date}2015-10-21T05:55:26.477Z"
+            jcr:lastModifiedBy="satikuma"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/textandimage"
+            align="right"
+            basicLayout="2;grid-cols-6;grid-cols-6;"
+            grid0="10"
+            grid1="2"
+            layout="2;grid-cols-10;grid-cols-2;"
+            layoutType="advanceLayout"
+            modalsize="426x240"
+            section="b"
+            target="_self"
+            text="&lt;div class=&quot;text-7-block&quot;>Downloading this trial product, I agree that Adobe may keep me informed via email about products and services. To opt out in the future, click the unsubscribe link in any marketing email you receive from us. &lt;a href=&quot;http://www.adobe.com/privacy/marketing.html&quot;>Learn more&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    type="free"/>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2015-10-21T05:55:26.477Z"
+                jcr:lastModifiedBy="satikuma"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt=" alt text"
+                imageRotate="0"/>
+        </textandimage>
+    </jcr:content>
+</jcr:root>

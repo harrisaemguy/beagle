@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2018-08-15T22:29:55.360Z"
+        cq:lastModifiedBy="golee"
+        cq:lastReplicated="{Date}2018-08-15T22:29:57.294Z"
+        cq:lastReplicatedBy="golee"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Designer ES4"
+        jcr:uuid="fac23eb0-6f9d-4517-93e2-ff53f17e66bd"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Download Livecycle designer tool | Adobe LiveCycle Enterprise Suite 4 "
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideMerchandisingBar="inherit"
+        hidePromoComponent="inherit"
+        marketSegmentRewrite="none"
+        marqueeStyle="newMarquee"
+        metaDescription="Adobe LiveCycle Designer ES4 software helps you easily author form and document templates that combine high-fidelity dynamic presentation with sophisticated XML data handling. "
+        modalSize="426x240"
+        stagelastReplicated="18-May-2017 22:07"
+        stagelastReplicatedBy="wmyersta"
+        stageLastReplicationAction="ActivatedtoStage"
+        tagsKeywords="adobe livecycle designer, livecycle designer, adobe livecycle download">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2016-11-13T07:49:48.010Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2016-11-13T07:49:48.010Z"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_2366
+                jcr:created="{Date}2016-11-04T07:12:39.701Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-04T07:12:57.340Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-04T07:12:57.340Z"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_2366>
+            <text_42ca
+                jcr:created="{Date}2016-11-04T07:13:02.726Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-04T07:14:00.304Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Create forms and documents with a comprehensive design tool.&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe® LiveCycle® Designer ES4 software helps you easily author form and document templates that combine high-fidelity dynamic presentation with sophisticated XML data handling. LiveCycle Designer ES4 lets you create form templates that can output to paper, PDF, and HTML5 without having to write scripts. Advanced layout capabilities let you preserve the appearance of imported PDF documents, while spell-check and customizable user dictionaries reduce the chance of errors.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <text_2fe1
+                jcr:created="{Date}2016-11-04T07:14:04.554Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-04T07:15:06.615Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>Create streamlined business logic&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Development teams can work collaboratively to create and preview templates, bind schema-compliant XML data to back-end systems, and ensure that forms and processes are working together efficiently. Action Builder simplifies the creation of common form behaviors. For forms requiring more complex business logic, LiveCycle Designer ES4 provides a scripting capability. Quickly find and correct errors by checking the syntax of FormCalc and JavaScript code.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <text_3d16
+                jcr:created="{Date}2016-11-04T07:15:12.649Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-04T07:15:48.661Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>Enjoy sophisticated data capture&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Employ a comprehensive set of data capture fields such as dynamic tables, barcodes, and comb fields. Integrate forms with core business systems by using advanced data binding to XML schemas, web services, databases, and XML data files.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <text_928c
+                jcr:created="{Date}2016-11-04T07:15:23.204Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-04T07:16:19.563Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>Improve efficiency with form fragments&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>You can quickly and easily create new forms by leveraging&amp;nbsp; form fragments, which are collections of fields or objects such as an address block. Form fragments also make it possible to rapidly update large form collections. Form fragments are stored in a file system or in the LiveCycle repository and are referenced by XML templates, so whenever a fragment is updated, the templates that reference it are automatically updated, saving significant development time. A Forms Manager application in LiveCycle Forms Pro ES4 adds support for metadata-driven searches, activating and deactivating form assets, preview, and the ability to manage dependencies across form assets.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <end_14782435597050
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_2366"/>
+            <column_b588
+                jcr:created="{Date}2016-11-04T07:20:11.764Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-04T07:22:11.797Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="1"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v1x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-04T07:22:11.797Z"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_b588>
+            <horizontalrule_cf13
+                jcr:created="{Date}2016-11-04T07:25:16.444Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-04T07:25:16.444Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_1ab2
+                jcr:created="{Date}2016-11-04T07:23:31.019Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-04T09:24:08.562Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-04T09:24:08.562Z"
+                        jcr:lastModifiedBy="rbedi"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_1ab2>
+            <text_1be2
+                jcr:created="{Date}2016-11-04T07:25:29.041Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-04T07:36:17.481Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;strong>Adobe LiveCycle ES4&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Find out more about Adobe LiveCycle ES4&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://apps.enterprise.adobe.com/go/701a0000000lijLAAQ&quot; target=&quot;_self&quot;>Contact us&amp;nbsp;›&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Sales: 800-685-3644&lt;/span>&lt;/div>&#xa;"/>
+            <break_14782442848100
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_1ab2"/>
+            <text_b477
+                jcr:created="{Date}2016-11-04T07:25:36.797Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-11T03:59:22.861Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;strong>Learn more&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/go/aemforms&quot;>Learn more about AEM forms ›&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://helpx.adobe.com/aem-forms/6-1/help-tutorials.html&quot; target=&quot;_self&quot;>Help documentation ›&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://www.adobe.com/marketing-cloud/enterprise-content-management/forms-management.html&quot; target=&quot;_self&quot;>Get support ›&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://apps.enterprise.adobe.com/go/701a0000000likBAAQ&quot; target=&quot;_self&quot;>Become an OEM partner ›&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14782442848111
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_1ab2"/>
+            <text_1ef3
+                jcr:created="{Date}2016-11-04T07:35:52.722Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-04T07:35:52.722Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Page tools&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;i class=&quot;icon-facebook&quot;>&lt;/i>&amp;nbsp;&lt;a href=&quot;http://www.facebook.com/sharer.php&quot;>Share on Facebook&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://twitter.com/&quot; style=&quot;font-style: normal; font-weight: 300;&quot;>&lt;i class=&quot;icon-twitter&quot;>&lt;/i>&lt;/a>&amp;nbsp;&lt;a href=&quot;http://twitter.com/&quot;>Share on Twitter&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;i class=&quot;icon-linkedin&quot;>&lt;/i>&amp;nbsp;&lt;a href=&quot;http://www.linkedin.com/&quot;>Share on&amp;nbsp;LinkedIn&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span class=&quot;text-light&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; line-height: 16px;&quot;>Share on Facebook&lt;/span>&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span class=&quot;text-light&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; line-height: 16px;&quot;>Share on Facebook&lt;/span>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14782442110310
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1ab2"/>
+            <end_14782440117690
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_b588"/>
+        </contentbody>
+        <tophero jcr:primaryType="nt:unstructured">
+            <cq:annotations jcr:primaryType="nt:unstructured">
+                <deactivated_page_per
+                    jcr:lastModified="{Date}2018-08-15T21:32:13.747Z"
+                    jcr:lastModifiedBy="karchie"
+                    jcr:primaryType="nt:unstructured"
+                    text="Removed buy now link"
+                    x="{Long}637"
+                    y="{Long}1249"/>
+            </cq:annotations>
+        </tophero>
+    </jcr:content>
+</jcr:root>

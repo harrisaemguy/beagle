@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2018-05-25T07:52:59.265Z"
+        cq:lastModifiedBy="mhasegaw"
+        cq:lastReplicated="{Date}2017-04-10T18:38:00.942Z"
+        cq:lastReplicatedBy="golee"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Font EULAs"
+        jcr:uuid="aa22c1d4-6534-4cca-aa3e-ab2447d2724a"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Font information, end user licensing agreements | Adobe Type"
+        disableGeoRouting="true"
+        distType="dist5"
+        enableBreadcrumb="true"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        gnavTheme="light"
+        hideInSectionNav="true"
+        hidePersonalizedHero="hide"
+        languageDirection="ltr"
+        marketSegmentRewrite="COM"
+        metaDescription="Information about Adobe Type fonts and end user licensing agreements (EULAs)."
+        pageTitle="Font EULAs"
+        seodescription=""
+        stagelastReplicated="29-Mar-2017 18:21"
+        stagelastReplicatedBy="wmyersta"
+        stageLastReplicationAction="ActivatedtoStage"
+        useH1Tags="pageTitle">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_126b
+                jcr:lastModified="{Date}2016-08-05T02:45:12.945-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-05T02:45:12.945-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_126b>
+            <table_241a
+                jcr:created="{Date}2016-08-05T03:14:16.504-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2017-04-10T18:37:45.541Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/table"
+                tableDataHTML="&lt;table width=&quot;100%&quot; class=&quot;stripe-grey-white-reverse creative data-table-row-em&quot;>&#xa;&lt;tbody>&lt;tr>&lt;td>Product&lt;/td>&#xa;&lt;td>Link to EULAs&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Adobe Western Fonts (5 seat)&lt;/td>&#xa;&lt;td>&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-chin-sim-07.11.11.pdf&quot;>Chinese Simplified&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-chin-trad-07.11.11.pdf&quot;>Chinese Traditional&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-dansk-07.11.11.pdf&quot;>Danish&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-nederlands-07.11.11.pdf&quot;>Dutch&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-suomi-07.11.11.pdf&quot;>Finnish&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-francais-07.11.11.pdf&quot;>French&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-deutsch-07.11.11.pdf&quot;>German&lt;/a>&amp;nbsp;|&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-intl-english-07.11.11.pdf&quot;>International English&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-italiano-07.11.11.pdf&quot;>Italian&lt;/a>&amp;nbsp;|&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-japanese-07.11.11.pdf&quot;>Japanese&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-korean-07.11.11.pdf&quot;>Korean&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-norsk-07.11.11.pdf&quot;>Norwegian&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-portugues-07.11.11.pdf&quot;>Portuguese&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-espanol-07.11.11.pdf&quot;>Spanish&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-svenska-07.11.11.pdf&quot; adhocenable=&quot;false&quot;>Swedish&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-us-english-07.11.11.pdf&quot;>US English&lt;/a>&amp;nbsp;&amp;nbsp;&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Adobe Far Eastern Fonts (1 seat)&lt;/td>&#xa;&lt;td>&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-1seat-chin-sim-07.11.11.pdf&quot;>Chinese Simplified&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-1seat-chin-trad-07.11.11.pdf&quot;>Chinese Traditional&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-1seat-dansk-07.11.11.pdf&quot;>Danish&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-1seat-nederlands-07.11.11.pdf&quot;>Dutch&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-1seat-suomi-07.11.11.pdf&quot;>Finnish&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-1seat-francais-07.11.11.pdf&quot;>French&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-1seat-deutsch-07.11.11.pdf&quot;>German&lt;/a>&amp;nbsp;|&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-1seat-intl-english-07.11.11.pdf&quot;>International English&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-1seat-italiano-07.11.11.pdf&quot;>Italian&lt;/a>&amp;nbsp;|&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-1seat-japanese-07.11.11.pdf&quot;>Japanese&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-1seat-korean-07.11.11.pdf&quot;>Korean&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-1seat-norsk-07.11.11.pdf&quot;>Norwegian&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-1seat-portugues-07.11.11.pdf&quot;>Portuguese&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-1seat-espanol-07.11.11.pdf&quot;>Spanish&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-1seat-svenska-07.11.11.pdf&quot;>Swedish&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-1seat-us-english-07.11.11.pdf&quot;>US English&lt;/a>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Adobe Font Folio 11 and Adobe Font Folio OpenType Edition&lt;br>&#xa;(20 seat)&lt;/td>&#xa;&lt;td>&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-20seat-chin_sim-07.11.11.pdf&quot;>Chinese Simplified&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-20seat-chin_trad-07.11.11.pdf&quot;>Chinese Traditional&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-20seat-dansk-07.11.11.pdf&quot;>Danish&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-20seat-nederlands-07.11.11.pdf&quot;>Dutch&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-20seat-suomi-07.11.11.pdf&quot;>Finnish&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-20seat-francais-07.11.11.pdf&quot;>French&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-20seat-deutsch-07.11.11.pdf&quot;>German&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-20seat-intl-english-07.11.11.pdf&quot;>International English&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-20seat-italiano-07.11.11.pdf&quot;>Italian&lt;/a>&amp;nbsp;|&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-20seat-japanese-07.11.11.pdf&quot;>Japanese&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-20seat-korean-07.11.11.pdf&quot;>Korean&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-20seat-norsk-07.11.11.pdf&quot;>Norwegian&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-20seat-portugues-07.11.11.pdf&quot;>Portuguese&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-20seat-espanol-07.11.11.pdf&quot;>Spanish&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-20seat-svenska-07.11.11.pdf&quot;>Swedish&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-20seat-us-english-07.11.11.pdf&quot;>US English&lt;/a>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Adobe Font Folio 11 and Adobe Font Folio OpenType Edition&lt;br>&#xa;(10 seat)&lt;/td>&#xa;&lt;td>&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-10seat-chin_sim-07.11.11.pdf&quot;>Chinese Simplified&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-10seat-chin-trad-07.11.11.pdf&quot;>Chinese Traditional&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-10seat-dansk-07.11.11.pdf&quot;>Dannish&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-10seat-nederlands-07.11.11.pdf&quot;>Dutch&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-10seat-suomi-07.11.11.pdf&quot;>Finnish&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-10seat-francais-07.11.11.pdf&quot;>French&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-10seat-deutsch-07.11.11.pdf&quot;>German&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-10seat-intl-english-07.11.11.pdf&quot;>International English&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-10seat-italiano-07.11.11.pdf&quot;>Italian&lt;/a>&amp;nbsp;|&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-10seat-japanese-07.11.11.pdf&quot;>Japanese&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-10seat-korean-07.11.11.pdf&quot;>Korean&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-10seat-norsk-07.11.11.pdf&quot;>Norwegian&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-10seat-portugues-07.11.11.pdf&quot;>Portuguese&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-10seat-espanol-07.11.11.pdf&quot;>Spanish&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-svenska-07.11.11.pdf&quot; adhocenable=&quot;false&quot;>Swedish&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-10seat-us-english-07.11.11.pdf&quot;>US English&lt;/a>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Adobe Font Folio 11 (5 seat)&lt;/td>&#xa;&lt;td>&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-chin-sim-07.11.11.pdf&quot;>Chinese Simplified&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-chin-trad-07.11.11.pdf&quot;>Chinese Traditional&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-dansk-07.11.11.pdf&quot;>Danish&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-nederlands-07.11.11.pdf&quot;>Dutch&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-suomi-07.11.11.pdf&quot;>Finnish&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-francais-07.11.11.pdf&quot;>French&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-deutsch-07.11.11.pdf&quot;>German&lt;/a>&amp;nbsp;|&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-intl-english-07.11.11.pdf&quot;>International English&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-italiano-07.11.11.pdf&quot;>Italian&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-japanese-07.11.11.pdf&quot;>Japanese&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-korean-07.11.11.pdf&quot;>Korean&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-norsk-07.11.11.pdf&quot;>Norwegian&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-portugues-07.11.11.pdf&quot;>Portuguese&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-espanol-07.11.11.pdf&quot;>Spanish&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-svenska-07.11.11.pdf&quot; adhocenable=&quot;false&quot;>Swedish&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-5seat-us-english-07.11.11.pdf&quot;>US English&lt;/a>&amp;nbsp;&amp;nbsp;&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Adobe Font Folio 9 (20 seat)&lt;/td>&#xa;&lt;td>&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-ff9-chin_sim-07.11.11.pdf&quot;>Chinese Simplified&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-ff9-chin_trad-07.11.11.pdf&quot;>Chinese Traditional&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-ff9-dansk-07.11.11.pdf&quot;>Danish&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-ff9-nederlands-07.11.11.pdf&quot;>Dutch&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-ff9-suomi-07.11.11.pdf&quot;>Finnish&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-ff9-francais-07.11.11.pdf&quot;>French&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-ff9-deutsch-07.11.11.pdf&quot;>German&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-ff9-intl-english-07.11.11.pdf&quot;>International English&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-ff9-italiano-07.11.11.pdf&quot;>Italian&lt;/a>&amp;nbsp;|&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-ff9-japanese-07.11.11.pdf&quot;>Japanese&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-ff9-korean-07.11.11.pdf&quot;>Korean&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-ff9-norsk-07.11.11.pdf&quot;>Norwegian&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-ff9-portugues-07.11.11.pdf&quot;>Portuguese&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-ff9-espanol-07.11.11.pdf&quot;>Spanish&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-ff9-svenska-07.11.11.pdf&quot;>Swedish&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/eula-ff9-us-english-07.11.11.pdf&quot;>US English&lt;/a>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Adobe Blank, Source Sans, Source Code, Source Serif,&amp;nbsp;Source Han Sans and Source Han Serif&lt;/td>&#xa;&lt;td>&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/eulas/open-font-license.pdf&quot;>Open Font License, Version 1.1 (US English)&lt;/a>&lt;/td>&#xa;&lt;/tr>&lt;/tbody>&lt;/table>"/>
+            <end_14544550461840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_126b"/>
+            <column_6b83
+                jcr:created="{Date}2016-08-05T02:43:53.285-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-05T02:44:51.304-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-05T02:44:51.304-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_6b83>
+            <horizontalrule_1e8f
+                jcr:created="{Date}2016-08-05T02:47:10.772-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-05T02:47:10.772-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_376a
+                jcr:created="{Date}2016-08-05T02:45:26.528-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-05T02:46:03.341-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-05T02:46:03.341-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_376a>
+            <text_3b09
+                jcr:created="{Date}2016-08-05T02:46:41.566-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-05T02:46:41.566-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Learning&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers.html&quot;>Adobe Type Designers&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-team.html&quot;>Adobe Type Team&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-specimens.html&quot;>Type specimens&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-references-tips.html&quot;>Type reference materials&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-originals.html&quot;>Adobe Originals&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/opentype.html&quot;>OpenType&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14703903633520
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_376a"/>
+            <text_4450
+                jcr:created="{Date}2016-08-05T02:46:44.178-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-05T02:46:44.178-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Resources&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blog.typekit.com/&quot;>Type &amp;amp; Typekit blog&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blogs.adobe.com/CCJKType/&quot;>CJK Type blog (Asian fonts)&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype.html&quot;>Developer information&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype/afdko.html&quot;>Font Development Kit&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/install-instructions.html&quot;>Font installation instructions&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14703903633531
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_376a"/>
+            <text_695f
+                jcr:created="{Date}2016-09-01T05:24:23.839Z"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-09-01T05:24:23.839Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Help&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing Center&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/creative-cloud-fonts.html&quot;>CC Bundled Fonts&amp;nbsp;FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://typekit.com/help&quot;>Web Font FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/products/fontfolio/faq.html&quot;>Font Folio FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://forums.adobe.com/community/typography_fonts&quot;>Adobe Type user forums&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14703903265360
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_376a"/>
+            <end_14703902332930
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_6b83"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2018-05-25T07:52:59.236Z"
+                jcr:lastModifiedBy="mhasegaw"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2018-05-25T07:52:59.236Z"
+                    jcr:lastModifiedBy="mhasegaw"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+    </jcr:content>
+</jcr:root>

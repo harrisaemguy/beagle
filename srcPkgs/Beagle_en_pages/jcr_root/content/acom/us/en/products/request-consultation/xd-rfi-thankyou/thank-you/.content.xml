@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-08-06T11:19:02.035Z"
+        cq:lastModifiedBy="handoo"
+        cq:lastReplicated="{Date}2018-06-26T18:46:16.373Z"
+        cq:lastReplicatedBy="derjones"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/onecolumnpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:uuid="4bcf55b5-7c0b-43e2-a40c-9b73078156e7"
+        sling:resourceType="beagle/components/onecolumnpage"
+        bodyClass="Blackwwhitetext"
+        browserTitle="Thank you | Adobe XD"
+        footerRequired="true"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        groupSectionNavItems="no"
+        headerRequired="true"
+        hideInSectionNav="true"
+        hidePersonalizedHero="hide"
+        isAMCOffersPage="true"
+        marketSegmentRewrite="COM"
+        metaDescription="Our team will contact you with more information."
+        navTitle="Thank you for your interest in Adobe XD"
+        noFollow="true"
+        noIndex="true"
+        removeFromHtmlSitemap="true"
+        removeFromSitemap="true"
+        removeFromXmlSitemap="true"
+        stagelastReplicated="15-Jun-2018 23:59"
+        stagelastReplicatedBy="vko"
+        stageLastReplicationAction="ActivatedtoStage"
+        useH1Tags="pageTitle">
+        <image
+            jcr:lastModified="{Date}2018-06-15T03:48:23.393Z"
+            jcr:lastModifiedBy="vko"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+        <tophero
+            jcr:lastModified="{Date}2018-06-15T03:44:27.912Z"
+            jcr:lastModifiedBy="vko"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            avoid="hero2-avoid-1"
+            color="hero2-theme-1"
+            fixedHeight="true"
+            height="hero2-size-5"
+            hideArticle="true"
+            hideCredits="true"
+            hideLink="true"
+            showFeaturedVideo="true">
+            <image
+                jcr:lastModified="{Date}2018-06-15T03:44:27.912Z"
+                jcr:lastModifiedBy="vko"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Thank you for your interest in Adobe XD."
+                fileReference="/content/dam/acom/en/products/request-consultation/xd-rfi-thankyou/xd-banner-thankyou-1440x445.jpg"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+            <article
+                jcr:lastModified="{Date}2018-06-15T03:43:51.665Z"
+                jcr:lastModifiedBy="vko"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hero/article"
+                articleAlignment="hero2-align-2"
+                text="&lt;p>Our team will contact you with more information.&lt;/p>&#xa;"
+                title="&lt;p>&lt;strong>Thank you for your interest in Adobe XD.&lt;/strong>&lt;br>&#xa;&lt;/p>&#xa;"
+                width="hero2-basis-0">
+                <titleImage
+                    jcr:lastModified="{Date}2018-06-15T03:43:51.665Z"
+                    jcr:lastModifiedBy="vko"
+                    jcr:primaryType="nt:unstructured"/>
+                <link
+                    jcr:primaryType="nt:unstructured"
+                    modalMode="VIDEO"
+                    size="1000x940"
+                    type="free">
+                    <image
+                        jcr:lastModified="{Date}2018-06-15T03:43:51.665Z"
+                        jcr:lastModifiedBy="vko"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </link>
+            </article>
+            <featuredvideo
+                jcr:lastModified="{Date}2018-06-15T23:17:12.779Z"
+                jcr:lastModifiedBy="derjones"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hero/featuredvideo"
+                creditsAlignment="hero2-align-3"
+                detail="&lt;p>Our team will contact you with more information.&lt;/p>&#xa;"
+                target="_self"
+                titleText="Thank you for your interest in Adobe XD.">
+                <image
+                    jcr:lastModified="{Date}2018-06-15T23:17:12.779Z"
+                    jcr:lastModifiedBy="derjones"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/image"
+                    alt=" "
+                    fileReference="/content/dam/acom/au/landing/ExperienceMarketing/spacer.gif"/>
+            </featuredvideo>
+        </tophero>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_97bb
+                jcr:created="{Date}2018-06-15T23:53:10.034Z"
+                jcr:createdBy="vko"
+                jcr:lastModified="{Date}2018-06-15T23:59:03.915Z"
+                jcr:lastModifiedBy="vko"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-16;"
+                bgColor="background-color:#000000;color:#FFFFFF"
+                columnCount="2"
+                desktopAlignment0="text-end"
+                desktopAlignment1="text-start"
+                grid0="8"
+                grid1="8"
+                layout="2;grid-cols-8  text-end  text-end-tablet  text-center-phone  grid-padded-t4x  ;grid-cols-8  text-start  text-start-tablet  text-center-phone  grid-padded-t5x  ;"
+                layoutMode="structured"
+                mobileAlignment0="text-center-phone"
+                mobileAlignment1="text-center-phone"
+                multiplier="9"
+                section="v"
+                showBorders="false"
+                tabletAlignment0="text-end-tablet"
+                tabletAlignment1="text-start-tablet"
+                topPadding0="4"
+                topPadding1="5">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2018-06-15T23:59:03.915Z"
+                        jcr:lastModifiedBy="vko"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_97bb>
+            <text_63c0
+                jcr:created="{Date}2018-06-15T23:53:35.809Z"
+                jcr:createdBy="vko"
+                jcr:lastModified="{Date}2018-06-15T23:56:00.521Z"
+                jcr:lastModifiedBy="vko"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-0-block&quot;>&lt;i class=&quot;adobe-icon-color-xd&quot;>&lt;/i>&lt;/div>&#xa;"/>
+            <break_15291068822130
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_97bb"/>
+            <text_a243
+                jcr:created="{Date}2018-06-15T23:54:48.547Z"
+                jcr:createdBy="vko"
+                jcr:lastModified="{Date}2018-06-15T23:56:20.242Z"
+                jcr:lastModifiedBy="vko"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-3-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe XD&lt;/span>&lt;/div>&#xa;"/>
+            <end_15291067900380
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_97bb"/>
+        </contentbody>
+        <customizedfooter
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="wcm/foundation/components/iparsys"/>
+    </jcr:content>
+</jcr:root>

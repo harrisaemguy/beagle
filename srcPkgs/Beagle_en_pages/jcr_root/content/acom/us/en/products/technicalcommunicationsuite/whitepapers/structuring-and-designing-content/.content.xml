@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2021-02-26T13:51:56.924Z"
+        cq:lastModifiedBy="21n52271"
+        cq:lastReplicated="{Date}2021-02-26T13:52:06.129Z"
+        cq:lastReplicatedBy="21n52271"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:tcs-cs,filters:tcs-cs/fm]"
+        cq:template="/apps/beagle/templates/customershowcasedetailpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Structuring and designing content"
+        jcr:uuid="9b88127c-bbbb-403b-bc0e-be24debe0c44"
+        sling:resourceType="beagle/components/customershowcasedetailpage">
+        <customershowcasecard
+            jcr:lastModified="{Date}2021-02-26T13:51:56.909Z"
+            jcr:lastModifiedBy="21n52271"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/customershowcasecard"
+            cardType="standard"
+            companyName="Back to School: Tips &amp; Tricks for Authors!"
+            creationDate="{Date}2019-11-22T13:59:00.000+05:30"
+            link1="https://www.adobe.com/content/dam/cc/us/en/products/framemaker/PDF/structuring_and_designing_content.pdf"
+            link1Target="_blank"
+            link1Text="Read more"
+            link2Target="_self"
+            orderDate="{Date}2019-11-20T14:00:00.000+05:30">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                    size="426x240"
+                    type="free">
+                    <social jcr:primaryType="nt:unstructured"/>
+                    <meta
+                        jcr:primaryType="nt:unstructured"
+                        type="website">
+                        <image
+                            jcr:lastModified="{Date}2021-02-26T13:51:56.909Z"
+                            jcr:lastModifiedBy="21n52271"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </meta>
+                    <tracking jcr:primaryType="nt:unstructured"/>
+                </video>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2021-02-26T13:51:56.909Z"
+                jcr:lastModifiedBy="21n52271"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Structuring and designing content"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/technicalcommunicationsuite_2019/images/Q419_structuring_and_designing_content_640×405.jpg"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </customershowcasecard>
+    </jcr:content>
+</jcr:root>

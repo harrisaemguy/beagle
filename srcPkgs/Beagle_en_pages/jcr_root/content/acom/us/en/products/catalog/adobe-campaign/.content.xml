@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2017-06-02T04:37:04.919Z"
+        cq:lastModifiedBy="golee"
+        cq:lastReplicated="{Date}2017-06-02T04:41:17.199Z"
+        cq:lastReplicatedBy="golee"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:product-catalog/ma/marketing,filters:product-catalog/pf/web]"
+        cq:template="/apps/beagle/templates/productcardpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:Title="Campaign"
+        jcr:title="Campaign"
+        jcr:uuid="0c820712-c69c-49e1-b347-20055df277e8"
+        sling:resourceType="beagle/components/productcardpage"
+        alignment="left"
+        browserTitle="Campaign"
+        cardDescription="Automate and personalize marketing to meet customer needs across channels."
+        cardIcon="adobe-icon-campaign"
+        cardIconLinkURL="/content/acom/us/en/marketing-cloud/campaign"
+        cardIcontarget="_self"
+        cardTitle="Campaign"
+        creationDate="{Date}2017-04-27T12:47:00.000-07:00"
+        distType="dist5"
+        freeTrialUrlLoggedInModalScrolling="no"
+        freeTrialUrlLoggedInModalSize="426x240"
+        freeTrialUrlLoggedInTarget="_self"
+        freeTrialUrlModalScrolling="no"
+        freeTrialUrlModalSize="426x240"
+        freeTrialUrlTarget="_self"
+        globalnavProfileTheme="default"
+        groupSectionNavItems="no"
+        hideInSectionNav="true"
+        hideMerchandisingBar="inherit"
+        hidePersonalizedHero="hide"
+        iconLinkURL="/content/acom/us/en/marketing-cloud/campaign-management"
+        metaDescription="Campaign"
+        noIndex="true"
+        orderDate="{Date}2017-05-01T17:00:00.000-07:00"
+        pageTitle="Campaign"
+        removeFromHtmlSitemap="true"
+        removeFromSitemap="true"
+        removeFromXmlSitemap="true"
+        tryLinkModalScrolling="no"
+        tryLinkModalSize="426x240"
+        tryLinkProductPlanModalScrolling="no"
+        tryLinkProductPlanModalSize="426x240"
+        tryLinkProductPlanTarget="_self"
+        tryLinkTarget="_self"
+        useH1Tags="pageTitle">
+        <sectionMore
+            jcr:primaryType="nt:unstructured"
+            linkModalScrolling="no"
+            linkModalSize="426x240"
+            linkTarget="_self"/>
+        <imagelayer jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2017-06-02T04:37:04.908Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2017-06-02T04:37:04.908Z"
+                    jcr:lastModifiedBy="golee"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <links
+            jcr:primaryType="nt:unstructured"
+            sort_mdv="0">
+            <_x0030_
+                jcr:primaryType="nt:unstructured"
+                cardLinktarget="_self"
+                cardLinkText="Learn more"
+                cardLinkType="buttonlink"
+                cardLinkURL="/content/acom/us/en/marketing-cloud/campaign.html?promoid=98SH4S9D&amp;mv=other"/>
+        </links>
+    </jcr:content>
+</jcr:root>

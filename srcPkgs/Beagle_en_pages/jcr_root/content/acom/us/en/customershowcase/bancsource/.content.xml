@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-10-11T11:18:03.017Z"
+        cq:lastModifiedBy="handoo"
+        cq:lastReplicated="{Date}2019-10-16T21:27:22.045Z"
+        cq:lastReplicatedBy="karchie"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:csIndustry/financialServices,filters:csProduct/cc/premierePro,filters:csProduct/other/adobeCaptivate,filters:csProduct/other,filters:csProduct/cc/cct]"
+        cq:template="/apps/beagle/templates/customershowcasedetailpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Bancsource"
+        jcr:uuid="8b0cb55d-c93f-44c1-a7bb-467f2b11e3f2"
+        sling:resourceType="beagle/components/customershowcasedetailpage"
+        noIndex="true"
+        removeFromHtmlSitemap="true"
+        removeFromSitemap="true"
+        removeFromXmlSitemap="true">
+        <customershowcasecard
+            cq:lastReplicated="{Date}2017-03-10T17:09:22.412Z"
+            cq:lastReplicatedBy="tmina"
+            cq:lastReplicationAction="Activate"
+            jcr:lastModified="{Date}2017-02-10T20:35:46.031Z"
+            jcr:lastModifiedBy="tmina"
+            jcr:mixinTypes="[cq:ReplicationStatus]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/customershowcasecard"
+            cardType="standard"
+            companyName="Bancsource"
+            creationDate="{Date}2016-12-14T11:09:00.000-06:00"
+            link1="/content/dam/acom/en/customer-success/pdfs/bancsource-case-study.pdf"
+            link1Target="_blank"
+            link1Text="Read the story"
+            link2Target="_self"
+            orderDate="{Date}2016-11-10T12:00:00.000-06:00">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                    size="426x240"
+                    type="free">
+                    <social jcr:primaryType="nt:unstructured"/>
+                    <meta jcr:primaryType="nt:unstructured">
+                        <image
+                            jcr:lastModified="{Date}2017-02-10T20:35:46.031Z"
+                            jcr:lastModifiedBy="tmina"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </meta>
+                    <tracking jcr:primaryType="nt:unstructured"/>
+                </video>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2017-02-10T20:35:46.031Z"
+                jcr:lastModifiedBy="tmina"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Bancsource"
+                fileReference="/content/dam/acom/en/customer-showcase/images/bancsource-660x348.png"
+                xcord="{Long}80"
+                ycord="{Long}21"/>
+        </customershowcasecard>
+    </jcr:content>
+</jcr:root>

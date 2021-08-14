@@ -1,0 +1,1113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-12-23T07:21:18.118Z"
+        cq:lastModifiedBy="handoo"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Adobe Customer Showcase"
+        jcr:uuid="ddc27ea7-3e90-4b66-984f-ec3374e3b404"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        billingFrequency="ANNUAL"
+        bodyClass="whiteBackground"
+        browserTitle="Adobe | Customer Showcase"
+        channel="adobe.com"
+        commitment="YEAR"
+        distType="dist5"
+        enableBreadcrumb="true"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        gnavTheme="dark"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        isMCPage="true"
+        marketSegmentRewrite="COM"
+        metaDescription="Adobe | Customer Showcase"
+        modalSize="426x240"
+        modelCode="INDIVIDUAL"
+        navTitle=" "
+        overrideBreadcrumbPath="/content/acom/us/en/customershowcase"
+        pageTitle="Adobe Customer Showcase"
+        pricePoint="REGULAR"
+        removeFromHtmlSitemap="true"
+        removeFromXmlSitemap="true"
+        stagelastReplicated="09-Nov-2017 23:51"
+        stagelastReplicatedBy="wmyersta"
+        stageLastReplicationAction="ActivatedtoStage"
+        subnavGradient="/etc/beagle/public/globalnav/themes/jcr:content/bgcolor_858009490"
+        topPadding="small-top-padding"
+        useH1Tags="pageTitle">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_951442349
+                jcr:created="{Date}2017-11-03T23:47:22.323Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-09T23:51:35.143Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                columnCount="1"
+                grid0="4"
+                layout="1;grid-cols-4 grid-offset-6      ;"
+                multiplier="3"
+                offset0="6"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-09T23:51:35.143Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_951442349>
+            <image_d6ac
+                jcr:created="{Date}2017-02-23T17:11:53.887Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-27T19:25:43.320Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Conde Nast"
+                fileReference="/content/dam/acom/en/customer-showcase/logo/westjet-240x100.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-10-16T19:47:59.121Z"
+                    jcr:lastModifiedBy="sale"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d6ac>
+            <end_15097528423370
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_951442349"/>
+            <column_403323371
+                jcr:created="{Date}2017-11-03T23:41:11.531Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:47:53.589Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-03T23:47:53.589Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_403323371>
+            <horizontalrule_1747206081
+                jcr:created="{Date}2017-11-03T23:44:09.184Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:44:09.184Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_15097528030730
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_403323371"/>
+            <column_e8e7
+                jcr:created="{Date}2017-04-04T20:12:05.215Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:48:09.441Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                grid0="7"
+                grid1="4"
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="3"
+                offset0="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-03T23:48:09.441Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_e8e7>
+            <text_d97c
+                jcr:created="{Date}2017-02-23T16:59:17.420Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-27T19:27:28.130Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>Challenges&lt;/strong>&lt;/div>&#xa;&lt;ul class=&quot;text-5-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Gain a clear view of how customers react to marketing across channels&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Increase revenue by encouraging more bookings through the website and app&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Get more teams using data for forecasting and decision making&lt;/span>&lt;br>&#xa;&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;strong>Key products used&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Marketing Cloud including the Adobe Analytics, Adobe Target, Adobe Media Optimizer, and Adobe Audience Manager solutionsAdobe Creative Cloud for enterprise&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14913367252261
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_e8e7"/>
+            <column_42770692
+                jcr:created="{Date}2017-11-03T23:45:33.893Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:46:43.056Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                grid0="7"
+                grid1="4"
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="9"
+                offset0="3"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-03T23:46:43.056Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_42770692>
+            <horizontalrule
+                jcr:created="{Date}2017-11-03T23:44:00.392Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:44:00.392Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_15097527339070
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_42770692"/>
+            <column_2de6
+                jcr:created="{Date}2017-02-23T16:57:01.644Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T16:57:18.746Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                section="v"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-02-23T16:57:18.746Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_2de6>
+            <text_86ac
+                jcr:created="{Date}2017-02-23T17:14:47.284Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-27T19:28:49.343Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&lt;span class=&quot;text-light&quot;>&lt;strong>Budget prices, luxury service.&lt;/strong>&lt;/span>&lt;br>&#xa;&lt;/h3>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>WestJet reaches more travelers with high-flying campaigns created with Adobe solutions.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <image_d5b3
+                jcr:created="{Date}2017-02-23T17:16:05.354Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-27T19:26:04.748Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Conde Nast articles"
+                fileReference="/content/dam/acom/us/en/customer-showcase/images/westjet-660x348.png">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-10-16T20:12:50.924Z"
+                    jcr:lastModifiedBy="sale"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d5b3>
+            <text_983818343
+                jcr:created="{Date}2017-11-03T23:48:58.346Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:50:29.663Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <horizontalrule_1353714344
+                jcr:created="{Date}2017-11-03T23:49:30.808Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:49:30.808Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_60af
+                jcr:created="{Date}2017-03-10T17:20:44.498Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:48:34.372Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-4-block&quot;>&lt;strong>RESULTS&lt;/strong>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <column_d5e4
+                jcr:created="{Date}2017-03-10T17:19:59.708Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-17T21:33:58.273Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of8;grid-span-7of8;"
+                layout="2;grid-span-1of8;grid-span-7of8;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:33:58.273Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_d5e4>
+            <image_82e1
+                jcr:created="{Date}2017-03-10T17:20:15.347Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-27T19:26:15.799Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Traffic Boost"
+                fileReference="/content/dam/acom/en/customer-showcase/icons/westjet-icon1-64x64.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-10-17T23:49:23.431Z"
+                    jcr:lastModifiedBy="sale"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_82e1>
+            <break_14891663997230
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_d5e4"/>
+            <text
+                jcr:created="{Date}2017-10-16T20:24:33.526Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-27T19:30:19.659Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>LESS TIME&lt;/strong> required to support SEM&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14891663997231
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_d5e4"/>
+            <column_45e0
+                jcr:created="{Date}2017-03-10T17:19:56.589Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-17T21:34:30.046Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of8;grid-span-7of8;"
+                layout="2;grid-span-1of8;grid-span-7of8;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:34:30.046Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_45e0>
+            <image_9fed
+                jcr:created="{Date}2017-03-10T17:20:11.711Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-27T19:26:23.102Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Broader Reach"
+                fileReference="/content/dam/acom/en/customer-showcase/icons/westjet-icon2-64x64.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-10-17T23:43:10.378Z"
+                    jcr:lastModifiedBy="sale"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_9fed>
+            <break_14891663966050
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_45e0"/>
+            <text_c974
+                jcr:created="{Date}2017-03-10T17:20:05.024Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-27T19:32:26.866Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>REDUCTION&amp;nbsp;&lt;/strong>in weekend campaign costs&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14891663966061
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_45e0"/>
+            <column_c8c6
+                jcr:created="{Date}2017-03-10T17:18:21.395Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-17T21:34:56.611Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of8;grid-span-7of8;"
+                layout="2;grid-span-1of8;grid-span-7of8;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:34:56.611Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_c8c6>
+            <image_d8a9
+                jcr:created="{Date}2017-03-10T17:18:52.678Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-27T19:26:27.426Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Seamless Integration"
+                fileReference="/content/dam/acom/en/customer-showcase/icons/westjet-icon3-64x64.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-10-17T23:39:15.197Z"
+                    jcr:lastModifiedBy="sale"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d8a9>
+            <break_14891663014120
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_c8c6"/>
+            <text_1940731405
+                jcr:created="{Date}2017-10-17T20:21:44.671Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-27T19:32:59.468Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>KNOW &lt;/strong>what customers want with cross-channel data&lt;/div>&#xa;"/>
+            <end_14891663014131
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_c8c6"/>
+            <column_30ec
+                jcr:created="{Date}2017-02-23T17:16:55.642Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-10-17T21:35:17.355Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of8;grid-span-7of8;"
+                layout="2;grid-span-1of8;grid-span-7of8;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:35:17.355Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_30ec>
+            <image_d8d6
+                jcr:created="{Date}2017-02-23T17:17:50.805Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-27T19:26:31.977Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Forward Looking"
+                fileReference="/content/dam/acom/en/customer-showcase/icons/westjet-icon4-64x64.png">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-10-17T20:25:39.153Z"
+                    jcr:lastModifiedBy="sale"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d8d6>
+            <break_14878702296900
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_30ec"/>
+            <text_846314396
+                jcr:created="{Date}2017-10-17T20:24:44.711Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-27T19:33:17.120Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Tailored content and retargeting &lt;strong>BOOST &lt;/strong>conversion&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14878702156510
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_30ec"/>
+            <text_893038935
+                jcr:created="{Date}2017-11-03T23:51:15.852Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:51:15.852Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <horizontalrule_1635904791
+                jcr:created="{Date}2017-11-03T23:51:16.024Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:51:16.024Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_4293
+                jcr:created="{Date}2017-02-23T17:19:06.983Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-27T19:35:26.866Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>The sky’s the limit&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;br>&#xa;&lt;span class=&quot;text-light&quot;>Travelers looking for a high-touch, low-fare airline need to go no further than WestJet. The travel leader was founded by people who believe that just because you pay less for your flight, you shouldn’t get less. Even as other airlines cut services and charge more, WestJet still aims to delight passengers with fun, relaxing experiences that exceed expectations. It’s no wonder WestJet quickly rose to become Canada’s second-largest airline.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;Over the past several years, WestJet has elevated its reputation for outstanding service and a community focus to reach global audiences with wildly creative campaigns, including annual Christmas videos. These heartwarming videos have become viral hits, logging tens of millions of views worldwide and helping WestJet reach record sales in December and beyond. For WestJet marketers, successful campaigns like these send a clear message: meaningful and creative digital experiences have a major impact on the brand and the bottom line.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <pullquote
+                jcr:created="{Date}2017-10-17T20:32:15.365Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-27T19:36:02.800Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/pullquote"
+                author="Jason Wiegand"
+                fontstyle="italic"
+                quote="With Adobe solutions, WestJet is reaching customers with relevant and compelling campaigns that help drive better conversion and improve the online guest experience."
+                title="Manager of Digital Analytics and Optimization, WestJet"/>
+            <end_14878690216470
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_2de6"/>
+            <column
+                jcr:created="{Date}2017-10-17T20:36:07.860Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-10-17T21:14:33.995Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="4"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:14:33.995Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column>
+            <text_606073231
+                jcr:created="{Date}2017-10-17T20:36:32.876Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-27T19:38:55.276Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>Always ready for take off&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;br>&#xa;&lt;span class=&quot;text-light&quot;>WestJet wanted to take its digital marketing higher and allow travelers to experience the outstanding service for which the airline is known, whether it’s their first time dealing with WestJet or their hundredth. Creative and digital marketing solutions from Adobe are integral to helping the company meet its ambitious customer service goals. With Adobe Creative Cloud and Adobe Marketing Cloud, WestJetgains an edge in reaching existing and new customers with campaigns filled with stunning visuals and tailored experiences.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;The WestJet team relies on Adobe Creative Cloud for easy access to Adobe Photoshop CC and Adobe Illustrator CC to develop rich media used in emails, banners, and websites. The creative assets are part of campaigns supported by several Adobe Marketing Cloud solutions—including Adobe Analytics, Target, Audience Manager, and Media Optimizer—to help ensure the highest-quality customer experiences and strongest returns. With the integrated Adobe digital marketing stack, WestJet teams have a complete view of actionable data.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;WestJet has long used market-leading Analytics for audience discovery and to understand performance across channels. After realizing it also needed to better understand audiences and offer more personalized experiences, the company adopted Target, Audience Manager, and Media Optimizer. With integrated Adobe Marketing Cloud solutions, WestJet can take advantage of in-depth analysis and automated processes to transform marketing strategies.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;“Analyzing customer behaviors is like studying a living process—it’s constantly changing,” explains Jason Wiegand, Manager of Digital Analytics and Optimization at WestJet. “There’s tremendous value in the integrated Adobe Marketing Cloud solutions. Using a unified Adobe platform, we have the tools to capture data streams and devise strategies to share our message of service and savings across channels.”&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;strong>Driving self-service bookings&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;br>&#xa;&lt;span class=&quot;text-light&quot;>The best travel deals can be found directly on WestJet’s website. Not only is self-service online booking fast and easy for customers, it’s also less costly for WestJet as it eliminates the expense of call centers or commissions to third-party agents. In addition, over time it provides WestJet with a wealth of first-party data.&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;Adobe Analytics and the Data Workbench capability bring together all of WestJet’s cross-channel marketing campaign data so marketers can gauge how the different experiences they provide impact their customers. From email and display to search and social media, every campaign is tagged to measure its success at driving online bookings.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;“Because we can see how successful our campaigns are, we know which ones are best at encouraging customers to book on our website instead of other channels,” says Ahmed Elemam, Senior Digital Analyst at WestJet. “Increasing online bookings can help us achieve greater savings that we can also pass on to customers.”&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;An advantage of standardizing on Analytics has been the ability to democratize analytical decision making by creating easy-to-use dashboards that provide managers with rapid insights into how specific site areas and campaigns are performing. “Our approach is to give teams faster, simpler access to data and eliminate barriers to making data-driven decisions,” adds Ahmed Eleman.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <pullquote_1470352324
+                jcr:created="{Date}2017-11-27T19:39:56.425Z"
+                jcr:createdBy="lsloane"
+                jcr:lastModified="{Date}2017-11-27T19:40:26.627Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/pullquote"
+                author="Jason Wiegand"
+                fontstyle="italic"
+                quote="Using a unified Adobe platform, we have the tools to capture data streams and devise strategies to share our message of service and&#xa;savings across channels."
+                title="Manager of Digital Analytics and Optimization, WestJet"/>
+            <end_15082725678780
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column"/>
+            <column_107594481
+                jcr:created="{Date}2017-10-17T20:40:52.905Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-10-17T21:14:43.806Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="4"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:14:43.806Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_107594481>
+            <text_1462718452
+                jcr:created="{Date}2017-10-17T20:41:05.854Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-27T19:41:33.001Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>Knowing your customers&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;br>&#xa;&lt;span class=&quot;text-light&quot;>For the creative marketing team at WestJet, just getting customers to the website isn’t enough. Making it easy for people to book flights or find the information they want is the key to bringing them back again and again. Using Adobe Marketing Cloud, WestJet is getting a better idea of what customers want, whether they’re on the website or using the WestJet mobile app.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;These insights are used to create and deliver more personalized messages, depending on who and where a customer is. Adobe Audience Manager combines behavioral data from Analytics with audience profiles to power the delivery of more effective experiences, such as retargeting messages. For example, if someone looks at a flight to Las Vegas, WestJet can display a banner ad for a Las Vegas hotel package the next time the customer visits the site. Once a flight is booked, WestJet can suggest that passengers with Econo or Flex fare tickets upgrade their flight with advanced seat selection, or send an email detailing the benefits of the rewards program.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;WestJet further tailors online experiences to give customers ads based on their locations. The digital team first creates multiple banners using Adobe Illustrator CC or Adobe Photoshop CC. With the geotargeting feature in Adobe Target, the team can then automatically identify a customer’s location and display the proper ad. Customers in Toronto may see a special promotional code for travel, while customers in Vancouver see vacation packages to California.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;“We have limited space on our web pages, and personalizing ads lets us get the best offer in front of every customer,” says Wiegand. “Using Adobe Creative Cloud and Marketing Cloud, we can quickly create and deliver banner ads for new campaigns.”&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;Adds Socrates Alvarez, Digital Analyst for WestJet, “In past tests, we found that relevant offers lead to increased conversions. We use Adobe Audience Manager and Target to automatically personalize the content we deliver to get the most out of every customer interaction.”&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <pullquote_1861982903
+                jcr:created="{Date}2017-10-17T20:42:46.525Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-27T19:42:18.073Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/pullquote"
+                author="Ahmed Elemam"
+                fontstyle="italic"
+                quote="Because we can see how successful our campaigns are, we know which ones are best at encouraging customers to book on our website instead of other channels."
+                title="Senior Digital Analyst, WestJet"/>
+            <end_15082728529200
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_107594481"/>
+            <column_602895060
+                jcr:created="{Date}2017-10-17T20:47:32.989Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-10-17T21:14:54.851Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="4"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:14:54.851Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_602895060>
+            <text_49029951
+                jcr:created="{Date}2017-10-17T20:48:04.267Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-11-27T19:43:03.941Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>Savings on the radar&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;Search engines like Google are still one of the primary ways that customers find WestJet online. An advanced learning algorithm in Adobe Media Optimizer allows WestJet to maximize its investment in search terms and help customers find WestJet easier. Combined with data from Adobe Analytics, WestJet has a clear view of search campaign performance.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;“Campaign reports often don’t tell the whole story,” says Karim Elemam, Senior Digital Analyst at WestJet. “If someone clicks on a link for flights to Toronto but books a flight to New York, we can’t really attribute that booking to the marketing campaign. Adobe Media Optimizer and Adobe Analytics work together to give us true cross-channel data so we know how our campaigns are performing and what we can change for even better returns. We reduced the time to support search engine marketing efforts by 40%, and overall costs dropped for our weekend campaigns by 14%.”&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;Using Media Optimizer and Analytics to determine accurate campaign performance, there is far less debate between WestJet and the agencies running its campaigns over results. WestJet can look at results every day, eliminating the need for weekly meetings with agencies, while clarifying which agencies are delivering campaigns with superior performance. As a result, WestJet has renegotiated terms with its agencies and reconfigured campaigns to deliver savings of one million dollars annually.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;Across the WestJet team, the use of reliable data is informing every strategy, as managers and executives alike see the value of accurate data in their work. “With Adobe solutions, WestJet is reaching customers with relevant and compelling campaigns that help us to drive better conversion, improve online guest experiences, and shift business directly to us from higher cost distribution channels and competitors,” says Wiegand.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_15082732530040
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_602895060"/>
+            <column_1396326381
+                jcr:created="{Date}2017-10-17T20:53:47.251Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-10-17T21:15:22.187Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="4"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-10-17T21:15:22.187Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_1396326381>
+            <text_77a9
+                jcr:created="{Date}2017-02-23T17:29:21.117Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-27T19:44:40.838Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;strong>WestJet Airlines&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Established in 1996&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Employees: 9,700&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Calgary, Canada&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://www.westjet.com&quot; target=&quot;_blank&quot;>Visit website ›&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <end_15082736272770
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1396326381"/>
+            <column_583802035
+                jcr:created="{Date}2017-11-04T00:01:09.453Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:01:24.099Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-04T00:01:24.099Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_583802035>
+            <horizontalrule_634136392
+                jcr:created="{Date}2017-11-04T00:01:30.682Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:01:30.682Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_15097536694730
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_583802035"/>
+            <column_7807
+                jcr:created="{Date}2017-02-23T17:21:19.125Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-23T18:30:55.827Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="2"
+                grid0="7"
+                grid1="3"
+                layout="2;grid-cols-7 grid-offset-3;grid-cols-3;"
+                multiplier="4"
+                offset0="3"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-02-23T18:30:55.827Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_7807>
+            <column_6904
+                jcr:created="{Date}2017-02-23T17:22:13.973Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:01:58.784Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-7;"
+                bgColor=" "
+                layout="1;grid-cols-7;"
+                layoutMode="structured"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-04T00:01:58.784Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_6904>
+            <text_39d8
+                jcr:created="{Date}2017-02-23T17:27:45.232Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-27T18:20:25.461Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: left;&quot;>&lt;span class=&quot;text-light&quot;>Solution at a Glance&amp;nbsp;&lt;/span>&lt;/h3>&#xa;"
+                textIsRich="true"/>
+            <end_14878705339800
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_6904"/>
+            <column_49d
+                jcr:created="{Date}2017-02-23T17:23:00.112Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-03T23:56:14.353Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of2;grid-span-1of2;"
+                layout="2;grid-span-1of2;grid-span-1of2;"
+                layoutMode="spatial"
+                multiplier="5"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-03T23:56:14.353Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_49d>
+            <text_1f25
+                jcr:created="{Date}2017-02-23T17:24:49.844Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-27T19:48:33.871Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>&lt;a href=&quot;http://www.adobe.com/experience-cloud.html&quot; target=&quot;_blank&quot;>Adobe Experience Cloud&lt;/a>&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Adobe Marketing Cloud, including the Adobe Analytics, Adobe Audience Manager, Adobe Media Optimizer, and Adobe Target solutions. Capabilities used include:&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Marketing reports and analytics&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Ad hoc analysis&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Data workbench&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Cross-device measurement&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Segmentation&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Search management&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Geotargeting&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <break_14878706021930
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_49d"/>
+            <text_b571
+                jcr:created="{Date}2017-02-23T17:26:44.047Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-27T19:50:03.829Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>&lt;a href=&quot;https://www.adobe.com/creativecloud.html&quot; target=&quot;_blank&quot;>Adobe Creative Cloud&lt;/a>&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Creative Cloud for enterprise&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Photoshop CC&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Illustrator CC&lt;/span>&lt;/div>&#xa;"/>
+            <end_14878705801220
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_49d"/>
+            <break_14878705074930
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_7807"/>
+            <end_14878704791310
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_7807"/>
+            <column_523c
+                jcr:created="{Date}2017-02-23T18:29:52.860Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:05:51.150Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="4"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-04T00:05:51.150Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_523c>
+            <horizontalrule_1162472091
+                jcr:created="{Date}2017-11-04T00:02:41.125Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:02:41.125Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_14878745928780
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_523c"/>
+            <column_1826107193
+                jcr:created="{Date}2017-11-04T00:04:51.784Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:05:31.407Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="2"
+                grid0="7"
+                grid1="3"
+                layout="2;grid-cols-7 grid-offset-3      ;grid-cols-3      ;"
+                multiplier="9"
+                offset0="3"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-04T00:05:31.407Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_1826107193>
+            <text_2fad
+                jcr:created="{Date}2017-02-23T17:32:56.391Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-27T19:50:41.413Z"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h5>&amp;nbsp;&lt;/h5>&#xa;&lt;h5>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/dam/acom/en/customer-success/pdfs/westjet-case-study.pdf&quot; target=&quot;_blank&quot;>Download a PDF of this story ›&lt;/a>&lt;/span>&lt;/h5>&#xa;"/>
+            <break_15097538917980
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_1826107193"/>
+            <end_15097538917991
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1826107193"/>
+            <column_1705662858
+                jcr:created="{Date}2017-11-04T00:03:08.624Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-04T00:03:08.624Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-03-01T22:56:33.059Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_1705662858>
+            <end_15097537886380
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1705662858"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2017-11-04T00:00:09.135Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2017-11-04T00:00:09.135Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <tophero
+            jcr:lastModified="{Date}2017-02-23T18:39:56.965Z"
+            jcr:lastModifiedBy="wmyersta"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            color="hero2-theme-2"
+            effect="hero2-fx-frame-3"
+            height="hero2-size-4"
+            hideArticle="true"
+            hideCredits="true"
+            hideLink="true">
+            <image
+                jcr:lastModified="{Date}2017-02-23T18:39:56.965Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Customer showcase detail marquee"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </tophero>
+        <merchandisingbar jcr:primaryType="nt:unstructured">
+            <contactpod
+                jcr:lastModified="{Date}2017-02-23T18:38:23.969Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/contactpod"
+                backgroundColor="background-color:#131031"
+                ctaButtonOverride="http://apps.enterprise.adobe.com/go/70114000002JNwKAAW"
+                ctaButtonText="Contact us"
+                description="Find out how Adobe can help you and your business."
+                purchasePhoneNumberCall="+118777227088"
+                purchasePhoneNumberDisp="877-722-7088"
+                title="Want to know more?">
+                <contactlist
+                    jcr:primaryType="nt:unstructured"
+                    sort_mdv="[0,1,2,3]">
+                    <_x0030_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-twitter"
+                        socialLink="#"
+                        socialTitle="Follow us on Twitter"/>
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-facebook"
+                        socialLink="#"
+                        socialTitle="Like us on Facebook"/>
+                    <_x0032_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-googleplus"
+                        socialLink="#"
+                        socialTitle="Follow us on Google+"/>
+                    <_x0033_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-linkedin"
+                        socialLink="#"
+                        socialTitle="Follow us on LinkedIn"/>
+                </contactlist>
+            </contactpod>
+        </merchandisingbar>
+    </jcr:content>
+</jcr:root>

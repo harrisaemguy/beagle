@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-10-11T11:19:21.179Z"
+        cq:lastModifiedBy="handoo"
+        cq:lastReplicated="{Date}2019-10-16T21:26:37.066Z"
+        cq:lastReplicatedBy="karchie"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:csProduct/cc/afterEffects,filters:csProduct/cc/dreamweaver,filters:csProduct/cc/stock,filters:csProduct/cc/photoshop,filters:csProduct/cc/indesign,filters:csProduct/cc/premierePro,filters:csIndustry/mediaEntertainment,filters:csProduct/cc/illustrator,filters:csProduct/cc,filters:csProduct/cc/cce,filters:csProduct/cc/creativeCloudLibraries]"
+        cq:template="/apps/beagle/templates/customershowcasedetailpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Media24 and Spree"
+        jcr:uuid="9d7c81b9-4243-4cd3-ad82-09dd571d1566"
+        sling:resourceType="beagle/components/customershowcasedetailpage"
+        noIndex="true"
+        removeFromHtmlSitemap="true"
+        removeFromSitemap="true"
+        removeFromXmlSitemap="true">
+        <customershowcasecard
+            jcr:lastModified="{Date}2017-02-24T19:40:52.274Z"
+            jcr:lastModifiedBy="tmina"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/customershowcasecard"
+            cardType="standard"
+            companyName="Media24 and Spree"
+            creationDate="{Date}2016-12-14T11:09:00.000-06:00"
+            detailPageLink="/content/acom/us/en/index"
+            includeCTAVideo2="true"
+            link1="/content/dam/acom/en/customer-success/pdfs/media24-spree-case-study.pdf"
+            link1Target="_blank"
+            link1Text="Read the story"
+            link2Target="_self"
+            link2Text="Watch the video"
+            orderDate="{Date}2016-05-23T11:48:00.000-05:00">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                    size="854x480"
+                    type="youtube"
+                    youTubeAutoPlay="true"
+                    youTubeUrl="NalcgTUWJo0">
+                    <social jcr:primaryType="nt:unstructured"/>
+                    <meta jcr:primaryType="nt:unstructured">
+                        <image
+                            jcr:lastModified="{Date}2017-02-24T19:40:52.274Z"
+                            jcr:lastModifiedBy="tmina"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </meta>
+                    <tracking jcr:primaryType="nt:unstructured"/>
+                </video>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2017-02-24T19:40:52.274Z"
+                jcr:lastModifiedBy="tmina"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Media24 and Spree"
+                fileReference="/content/dam/acom/en/customer-showcase/images/media24-spree-660x348.png"
+                xcord="{Long}40"
+                ycord="{Long}71"/>
+            <ctavideolink2
+                jcr:lastModified="{Date}2016-12-05T17:53:10.385-08:00"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                size="854x480"
+                type="youtube"
+                youTubeAutoPlay="true"
+                youTubeUrl="NalcgTUWJo0">
+                <social jcr:primaryType="nt:unstructured"/>
+                <meta jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-12-05T17:53:10.385-08:00"
+                        jcr:lastModifiedBy="lsloane"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </meta>
+                <tracking jcr:primaryType="nt:unstructured"/>
+            </ctavideolink2>
+        </customershowcasecard>
+    </jcr:content>
+</jcr:root>

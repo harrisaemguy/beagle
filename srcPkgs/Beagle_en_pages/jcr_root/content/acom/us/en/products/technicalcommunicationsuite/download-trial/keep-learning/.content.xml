@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-09-23T10:26:45.365Z"
+        cq:lastModifiedBy="21n57074"
+        cq:lastReplicated="{Date}2020-01-09T12:07:09.634Z"
+        cq:lastReplicatedBy="saugup"
+        cq:lastReplicationAction="Deactivate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:lockable,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:uuid="4fd6a603-67fb-4d15-a70c-46149a9b114a"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="center"
+        bodyClass="whiteBackground"
+        browserTitle="Training and learning resources | Adobe FrameMaker (2015 Release)"
+        disableOverviewLink="true"
+        distType="dist5"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        headingStyle="h1"
+        hideInSectionNav="true"
+        hideMerchandisingBar="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        isSectionNavParent="true"
+        marketSegmentRewrite="none"
+        metaDescription="Make the most of the Adobe FrameMaker using these training resources: whitepapers, videos and webinars."
+        modalSize="426x240"
+        stagelastReplicated="28-Aug-2015 00:17"
+        stagelastReplicatedBy="ribhat"
+        stageLastReplicationAction="ActivatedtoStage"
+        tagsKeywords="framemaker training, learn framemaker">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="35">
+            <image
+                jcr:lastModified="{Date}2016-09-23T09:15:54.989Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column
+                jcr:created="{Date}2015-07-29T16:59:31.902-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2015-07-29T17:00:15.204-07:00"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                grid0="8"
+                layout="1;grid-cols-10 grid-offset-3;"
+                offset0="4"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-07-29T17:00:15.204-07:00"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column>
+            <text_97254443
+                jcr:created="{Date}2015-07-29T17:04:22.229-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2016-09-23T10:16:23.340Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div style=&quot;text-align: center;&quot; class=&quot;text-2-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;i class=&quot;adobe-icon-fm&quot;>&lt;/i> Adobe FrameMaker (2015 Release) : Keep learning&lt;/span>&lt;/div>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h3>&#xa;&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-5&quot;>&lt;span class=&quot;text-light&quot;>Thank you for downloading&lt;/span>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <horizontalrule_182f
+                jcr:created="{Date}2016-09-23T10:23:56.748Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2016-09-23T10:23:56.748Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_14382143719110
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column"/>
+            <column_18f8
+                jcr:created="{Date}2016-09-23T09:20:58.478Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2016-09-23T09:21:26.107Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-23T09:21:26.107Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_18f8>
+            <text_159c
+                jcr:created="{Date}2016-09-23T09:22:50.476Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2016-09-23T10:25:02.979Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Get the most out of FrameMaker (2015 release)&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <column_38f5
+                jcr:created="{Date}2016-09-23T09:24:08.391Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2016-09-23T09:24:38.803Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-23T09:24:38.803Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_38f5>
+            <image_743a
+                jcr:created="{Date}2016-09-23T09:31:16.105Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2016-09-23T09:44:27.928Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Word to FrameMaker Basics"
+                fileReference="/content/dam/acom/en/products/framemaker/framemaker_2015/images/FM_Word2FM.jpg"
+                link="https://my.adobeconnect.com/wordtoframemaker/"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-09-23T09:44:27.928Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_743a>
+            <text_8e28
+                jcr:created="{Date}2016-09-23T09:44:55.011Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2016-09-23T09:45:48.273Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;strong>Word to FrameMaker Basics&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>Moving from Word to take&amp;nbsp;advantage of the powerful features in FrameMaker is easier than you&amp;nbsp;think.&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://my.adobeconnect.com/wordtoframemaker/&quot; target=&quot;_blank&quot;>Watch now&lt;/a>&lt;/div>&#xa;"/>
+            <break_14746226788170
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_38f5"/>
+            <image_aa41
+                jcr:created="{Date}2016-09-23T09:35:38.536Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2016-09-23T09:56:27.620Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Introduction to FrameMaker"
+                fileReference="/content/dam/acom/en/products/framemaker/framemaker_2015/images/FM_Intro2FM.jpg"
+                link="https://my.adobeconnect.com/introtoframemaker/"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-09-23T09:56:27.620Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_aa41>
+            <text_919c
+                jcr:created="{Date}2016-09-23T09:53:16.016Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2016-09-23T10:01:35.217Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;strong>Introduction to FrameMaker&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>Get introduced to FrameMaker, a powerful authoring and publishing solution that helps you work&amp;nbsp;faster and smarter&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://my.adobeconnect.com/introtoframemaker/&quot; target=&quot;_blank&quot;>Watch now&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14746226788171
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_38f5"/>
+            <image_6c18
+                jcr:created="{Date}2016-09-23T09:35:47.724Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2016-09-23T09:54:20.106Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Introduction to Structured FrameMaker"
+                fileReference="/content/dam/acom/en/products/framemaker/framemaker_2015/images/FM_StructredFM.jpg"
+                link="https://my.adobeconnect.com/structuredframemaker/"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-09-23T09:54:20.106Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_6c18>
+            <text_7e84
+                jcr:created="{Date}2016-09-23T10:02:00.732Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2016-09-23T10:08:50.664Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;strong>Introduction to Structured FrameMaker&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>Leverage the power of&amp;nbsp;structured XML/DITA authoring. Get familiar with structured authoring in FrameMaker&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://my.adobeconnect.com/structuredframemaker/&quot; target=&quot;_blank&quot;>Watch now&lt;/a>&lt;/div>&#xa;"/>
+            <break_14746226788182
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_38f5"/>
+            <image_a784
+                jcr:created="{Date}2016-09-23T09:41:19.260Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2016-09-23T10:10:24.977Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="XML/DITA Authoring in FrameMaker"
+                fileReference="/content/dam/acom/en/products/framemaker/framemaker_2015/images/FM_XML_Authroing.jpg"
+                link="https://my.adobeconnect.com/framemakerdita/"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-09-23T10:10:24.977Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_a784>
+            <text_df58
+                jcr:created="{Date}2016-09-23T10:10:52.414Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2016-09-23T10:11:50.786Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;strong>XML/DITA Authoring in FrameMaker&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>Explore the structured authoring environment and different views in FrameMaker&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://my.adobeconnect.com/framemakerdita/&quot; target=&quot;_blank&quot;>Watch now&lt;/a>&lt;/div>&#xa;"/>
+            <end_14746226484060
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_38f5"/>
+            <horizontalrule_9b84
+                jcr:created="{Date}2016-09-23T10:12:25.970Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2016-09-23T10:12:25.970Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_14746224584900
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_18f8"/>
+            <column_5dde
+                jcr:created="{Date}2016-09-23T10:14:27.998Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2016-09-23T10:15:15.490Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-23T10:15:15.490Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_5dde>
+            <text_4b5e
+                jcr:created="{Date}2016-09-23T10:16:43.952Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2016-09-23T10:17:39.530Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Make the most of the Adobe FrameMaker using the following Learning assets.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <column_d2e
+                jcr:created="{Date}2016-09-23T10:17:55.060Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2016-09-23T10:19:34.057Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-23T10:19:34.057Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_d2e>
+            <image
+                jcr:created="{Date}2015-07-29T17:00:58.619-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2015-09-24T12:46:31.440Z"
+                jcr:lastModifiedBy="ribhat"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Whitepapers FrameMaker"
+                fileReference="/content/dam/acom/en/trial-platform/images/TCS/Whitepapers_297x176.jpg"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+            </image>
+            <text
+                jcr:created="{Date}2015-07-29T17:01:16.085-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2015-09-24T11:04:53.613Z"
+                jcr:lastModifiedBy="ribhat"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;strong>Whitepapers&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>Want to know What? Or Why? Or How? Our free whitepapers will broaden your understanding.&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://offers.adobe.com/en/na/leap/landings/fm_whitepaper.html&quot; target=&quot;_blank&quot;>Learn more &lt;/a>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14746259740890
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_d2e"/>
+            <image_1858381482
+                jcr:created="{Date}2015-07-29T17:03:37.231-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2015-11-02T05:19:12.994Z"
+                jcr:lastModifiedBy="shk"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Training FrameMaker"
+                fileReference="/content/dam/acom/en/trial-platform/images/TCS/Training-Videos_297x176.jpg"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+            </image_1858381482>
+            <text_1531550104
+                jcr:created="{Date}2015-07-29T17:13:53.662-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2015-08-26T01:24:37.583-07:00"
+                jcr:lastModifiedBy="ribhat"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;strong>Training Videos&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>Learn at your own pace with our training videos and “show me” demos.&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a target=&quot;_blank&quot; href=&quot;http://tv.adobe.com/product/framemaker/show/recently-added&quot;>Learn more&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14746259740891
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_d2e"/>
+            <image_1701186344
+                jcr:created="{Date}2015-07-29T17:03:42.451-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2015-11-02T05:20:03.254Z"
+                jcr:lastModifiedBy="shk"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Webinars FrameMaker"
+                fileReference="/content/dam/acom/en/trial-platform/images/TCS/Webinars_297x176.jpg"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+            </image_1701186344>
+            <text_731478660
+                jcr:created="{Date}2015-07-29T17:13:56.979-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2016-09-23T10:26:00.516Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;strong>Webinars&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>Let our experts show you how to use your tools optimally. Join us for&amp;nbsp;free webinars.&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://meetus.adobeevents.com/technicalcommunication&quot; target=&quot;_blank&quot;>Browse webinars&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14746258750800
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_d2e"/>
+            <horizontalrule_364270885
+                jcr:created="{Date}2015-08-07T17:30:07.849-07:00"
+                jcr:createdBy="isola"
+                jcr:lastModified="{Date}2015-08-07T17:30:07.849-07:00"
+                jcr:lastModifiedBy="isola"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_1677853970
+                jcr:created="{Date}2015-08-07T15:43:02.016-07:00"
+                jcr:createdBy="isola"
+                jcr:lastModified="{Date}2015-11-02T06:28:54.751Z"
+                jcr:lastModifiedBy="satikuma"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div style=&quot;text-align: center;&quot; class=&quot;text-4-block&quot;>---Get Support---&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>&lt;a target=&quot;_blank&quot; href=&quot;https://helpx.adobe.com/tech-comm-suite/customer-support.html &quot;>Customer Support&lt;/a> |&amp;nbsp;&amp;nbsp;Minimize disruptions and maximize your investment with exceptional support.&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <horizontalrule
+                jcr:created="{Date}2015-08-07T15:52:47.601-07:00"
+                jcr:createdBy="isola"
+                jcr:lastModified="{Date}2015-08-07T15:52:47.601-07:00"
+                jcr:lastModifiedBy="isola"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_1714716485
+                jcr:created="{Date}2015-07-29T17:05:47.401-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2016-09-23T10:26:45.344Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-4-block&quot;>Interested in trying our related product?&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>&lt;a target=&quot;_blank&quot; href=&quot;/content/acom/us/en/products/robohelp/download-trial/try.html&quot;>RoboHelp (2015 Release)&lt;/a>&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>&lt;a target=&quot;_blank&quot; href=&quot;/content/acom/us/en/products/technicalcommunicationsuite/download-trial/try.html&quot;>Technical Communication Suite (2015 Release)&lt;/a>&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>&lt;a target=&quot;_blank&quot; href=&quot;/content/acom/us/en/products/framemakerxmlauthor/download-trial/try.html&quot;>FrameMaker XML Author (2015 Release)&lt;/a>&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>&lt;a target=&quot;_blank&quot; href=&quot;/content/acom/us/en/products/framemakerpublishingserver/download-trial/try.html&quot;>FrameMaker Server (2015 Release)&lt;/a>&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>&lt;a href=&quot;/content/acom/us/en/products/robohelp-server/download-trial/try.html&quot; target=&quot;_blank&quot;>RoboHelp Server 10&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-5-block&quot;>&lt;a target=&quot;_blank&quot; href=&quot;https://twitter.com/adobetcs &quot;>&amp;nbsp;&lt;/a>&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-2-block&quot;>&lt;a target=&quot;_blank&quot; href=&quot;https://www.facebook.com/adobetcs &quot;>&lt;i class=&quot;icon-facebook&quot;>&lt;/i>&lt;/a>&amp;nbsp;&lt;a target=&quot;_blank&quot; href=&quot;https://twitter.com/adobetcs &quot;> &lt;i class=&quot;icon-twitter&quot;>&lt;/i>&lt;/a>&amp;nbsp;&lt;a href=&quot;https://www.linkedin.com/groups?home=&amp;amp;gid=2381149&amp;amp;trk=anet_ug_hm &quot;> &lt;i class=&quot;icon-linkedin&quot;>&lt;/i>&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14746256680240
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5dde"/>
+        </contentbody>
+        <promobar jcr:primaryType="nt:unstructured">
+            <promo
+                jcr:lastModified="{Date}2015-07-22T16:53:38.251Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/promo"
+                ctaButtonOverride="https://creative.adobe.com/plans?promoid=KSPCN"
+                ctaButtonText="Choose a plan"
+                enablePriceDisplay="true"
+                icon="promo-icon adobe-icon-creativecloud"
+                marketSegmentRewrite="COM"
+                priceType="SUB_NEW"
+                product="creative_cloud"
+                productIntroText="Get the entire collection of creative apps and more for"
+                purchasePhoneCss="promo-phone">
+                <productInfo jcr:primaryType="nt:unstructured"/>
+                <free
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="https://creative.adobe.com/plans?promoid=KSPCN"
+                    ctaButtonText="Choose a plan"
+                    productIntroText="Get the entire collection of creative apps and more for"/>
+                <paid
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="http://max.adobe.com/?promoid=KTJLS"
+                    ctaButtonText="Learn more"
+                    productIntroText="Join us at Adobe MAX. The Creativity Conference. Oct. 3–7 in Los Angeles."/>
+            </promo>
+        </promobar>
+        <contentlayer
+            jcr:lastModified="{Date}2014-11-25T22:30:20.382Z"
+            jcr:lastModifiedBy="wmyersta"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/contentlayer"
+            horizontalAlign="1"
+            opacity="{Long}0"
+            rgb="FFFFFF"
+            textcolor="text-alt-color"
+            verticalAlign="2"
+            width="{Long}55">
+            <title jcr:primaryType="nt:unstructured"/>
+            <text
+                jcr:primaryType="nt:unstructured"
+                text="&lt;div class=&quot;text-0-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Make something great.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>Introducing all-new versions of your favorite desktop apps.&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2016-09-23T09:15:54.989Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <topofbodymbox
+            jcr:lastModified="{Date}2014-12-16T03:54:16.687Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="TopOfBody"/>
+        <bottomofbodymbox
+            jcr:lastModified="{Date}2014-12-16T03:54:30.562Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="BottomOfBody"/>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+    </jcr:content>
+</jcr:root>

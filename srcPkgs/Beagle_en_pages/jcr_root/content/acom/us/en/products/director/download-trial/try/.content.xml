@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2017-08-12T00:01:02.069Z"
+        cq:lastModifiedBy="golee"
+        cq:lastReplicated="{Date}2021-07-26T07:04:21.559Z"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicationAction="Deactivate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:uuid="5b46ea42-815a-4661-8aa2-7d2d02f6be27"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Try Director"
+        distType="dist5"
+        globalnavProfileTheme="default"
+        groupSectionNavItems="no"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        marketSegmentRewrite="COM"
+        metaDescription="Try Director - 30 day free trial"
+        modalSize="426x240"
+        topPadding="small-top-padding"
+        useH1Tags="pageTitle">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2017-08-12T00:01:02.055Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2017-08-12T00:01:02.055Z"
+                    jcr:lastModifiedBy="golee"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <downloadform_2d41
+                cq:cloudserviceconfigs="/etc/cloudservices/ipaasconnector/perpetualtrials"
+                jcr:created="{Date}2015-08-17T00:18:34.798-07:00"
+                jcr:createdBy="shk"
+                jcr:lastModified="{Date}2015-09-24T17:36:40.726Z"
+                jcr:lastModifiedBy="ribhat"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/trials/components/downloadform"
+                action="form.perpetual.action"
+                actionButton="submit"
+                bttnvalue="Sign up"
+                formwidth="45"
+                genericerrorpage="get-started.html"
+                thankyoupage="get-started.html">
+                <toptext
+                    jcr:primaryType="nt:unstructured"
+                    text="&lt;div class=&quot;text-2-block&quot; style=&quot;text-align: center;&quot;>&lt;i class=&quot;adobe-icon-color-di&quot;>&lt;/i> Adobe Director 12&lt;/div>&#xa;&lt;div class=&quot;text-2-block&quot; style=&quot;text-align: center;&quot;>Start your 30-day free trial&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-3-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-4-block&quot;>Help us provide you with the right experience and learning content&lt;/div>&#xa;"/>
+                <bottomtext jcr:primaryType="nt:unstructured"/>
+                <formfields
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/parsys">
+                    <select_ce1b
+                        cq:lastReplicated="{Date}2016-10-26T03:08:55.294Z"
+                        cq:lastReplicatedBy="admin"
+                        cq:lastReplicationAction="Activate"
+                        jcr:created="{Date}2015-08-18T04:14:42.970-07:00"
+                        jcr:createdBy="shk"
+                        jcr:lastModified="{Date}2015-09-24T17:38:29.021Z"
+                        jcr:lastModifiedBy="ribhat"
+                        jcr:mixinTypes="[cq:ReplicationStatus]"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/trials/components/select"
+                        configureFor="jobtitle"
+                        hideLabel="true"
+                        label="My Job Title "
+                        name="jobtitle"
+                        optionspath="/content/properties/us/en/formfieldvalues/jobtitle"
+                        requirederrormessage="Please Select a JobTitle"/>
+                    <select_a2b2
+                        cq:lastReplicated="{Date}2016-10-26T03:08:56.211Z"
+                        cq:lastReplicatedBy="admin"
+                        cq:lastReplicationAction="Activate"
+                        jcr:created="{Date}2015-08-17T00:20:49.514-07:00"
+                        jcr:createdBy="shk"
+                        jcr:lastModified="{Date}2015-09-07T23:53:56.083-07:00"
+                        jcr:lastModifiedBy="shk"
+                        jcr:mixinTypes="[cq:ReplicationStatus]"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/trials/components/select"
+                        configureFor="jobfunction"
+                        hideLabel="true"
+                        label="My Job Function "
+                        name="jobfunction"
+                        optionspath="/content/properties/us/en/formfieldvalues/jobfunction"
+                        requirederrormessage="Please select a primary occupation"/>
+                    <textfield_6ba2
+                        jcr:created="{Date}2015-08-17T00:20:59.978-07:00"
+                        jcr:createdBy="shk"
+                        jcr:lastModified="{Date}2015-09-07T23:54:22.719-07:00"
+                        jcr:lastModifiedBy="shk"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/trials/components/textfield"
+                        configureFor="orgname"
+                        hideLabel="true"
+                        invaliderrormessage="The Organization Name may only contain Letters, Numbers, Dashes."
+                        label="My Organization Name *"
+                        name="orgname"
+                        pattern="^[^,.?{}()\\[\\]]+$"
+                        placeholder="My Organization Name *"
+                        required="true"
+                        requirederrormessage="Please enter an organization name"/>
+                    <select_1372
+                        cq:lastReplicated="{Date}2016-10-26T03:08:57.324Z"
+                        cq:lastReplicatedBy="admin"
+                        cq:lastReplicationAction="Activate"
+                        jcr:created="{Date}2015-08-18T04:15:29.005-07:00"
+                        jcr:createdBy="shk"
+                        jcr:lastModified="{Date}2015-09-24T17:38:49.415Z"
+                        jcr:lastModifiedBy="ribhat"
+                        jcr:mixinTypes="[cq:ReplicationStatus]"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/trials/components/select"
+                        configureFor="orgsize"
+                        disableSorting="true"
+                        hideLabel="true"
+                        label="My Organization Size*"
+                        name="orgsize"
+                        optionspath="/content/properties/us/en/formfieldvalues/orgsize"
+                        parentReference="[,]"
+                        required="true"
+                        requirederrormessage="Please select the number of employees in your organization"/>
+                    <select_655f
+                        cq:lastReplicated="{Date}2016-10-26T03:08:58.428Z"
+                        cq:lastReplicatedBy="admin"
+                        cq:lastReplicationAction="Activate"
+                        jcr:created="{Date}2015-08-17T00:21:17.608-07:00"
+                        jcr:createdBy="shk"
+                        jcr:lastModified="{Date}2015-09-24T17:39:23.253Z"
+                        jcr:lastModifiedBy="ribhat"
+                        jcr:mixinTypes="[cq:ReplicationStatus]"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/trials/components/select"
+                        configureFor="country"
+                        disableSorting="true"
+                        hideLabel="true"
+                        label="My Country/Region*"
+                        name="country"
+                        optionspath="/content/properties/us/en/formfieldvalues/country"
+                        required="true"
+                        requirederrormessage="Please choose a Country/Region"/>
+                    <select_bfdc
+                        cq:lastReplicated="{Date}2016-10-26T03:08:59.318Z"
+                        cq:lastReplicatedBy="admin"
+                        cq:lastReplicationAction="Activate"
+                        jcr:created="{Date}2015-08-17T00:21:25.455-07:00"
+                        jcr:createdBy="shk"
+                        jcr:lastModified="{Date}2015-09-24T17:40:17.801Z"
+                        jcr:lastModifiedBy="ribhat"
+                        jcr:mixinTypes="[cq:ReplicationStatus]"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/trials/components/select"
+                        configureFor="state"
+                        dependentSelect="true"
+                        hideLabel="true"
+                        label="My State/Province*"
+                        name="state"
+                        optionspath="/content/properties/us/en/formfieldvalues/state"
+                        parentReference="country"
+                        required="true"
+                        requirederrormessage="Please choose a state or province"/>
+                    <textfield_748f
+                        jcr:created="{Date}2015-08-17T00:21:29.290-07:00"
+                        jcr:createdBy="shk"
+                        jcr:lastModified="{Date}2015-09-08T00:05:30.833-07:00"
+                        jcr:lastModifiedBy="shk"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/trials/components/textfield"
+                        configureFor="postalcode"
+                        hideLabel="true"
+                        invaliderrormessage="The Zip/Postalcode may only contain Letters, Numbers, Dashes."
+                        label="My Zip/Postal Code *"
+                        name="postalcode"
+                        pattern="^[^,.?{}()\\[\\]]+$"
+                        placeholder="My Zip/Postal Code * Ex : '00000' or '00000-0000'for US "
+                        required="true"
+                        requirederrormessage="Please Enter Zip/Postalcode"/>
+                    <textfield_2551
+                        jcr:created="{Date}2015-08-17T00:21:33.822-07:00"
+                        jcr:createdBy="shk"
+                        jcr:lastModified="{Date}2015-09-08T00:03:30.715-07:00"
+                        jcr:lastModifiedBy="shk"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/trials/components/textfield"
+                        configureFor="phonenumber"
+                        hideLabel="true"
+                        invaliderrormessage="Please Enter Valid Phone number Ex:110-001-0000  "
+                        label="My Phone Number *"
+                        name="phonenumber"
+                        pattern="^(\\+?[0-9]{1,3}\\s?)?\\(?([0-9]{3})\\)?[\\s-. ]?([0-9]{3})[\\s-. ]?([0-9]{4})$"
+                        placeholder="My Phone Number * Ex: 110-001-0000 "
+                        required="true"
+                        requirederrormessage="Please enter a valid phone number"/>
+                    <select_8bd6
+                        cq:lastReplicated="{Date}2016-10-26T03:09:00.601Z"
+                        cq:lastReplicatedBy="admin"
+                        cq:lastReplicationAction="Activate"
+                        jcr:created="{Date}2015-08-17T00:21:41.585-07:00"
+                        jcr:createdBy="shk"
+                        jcr:lastModified="{Date}2015-09-08T00:05:52.606-07:00"
+                        jcr:lastModifiedBy="shk"
+                        jcr:mixinTypes="[cq:ReplicationStatus]"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/trials/components/select"
+                        configureFor="industry"
+                        hideLabel="true"
+                        label="My Industry *"
+                        name="industry"
+                        optionspath="/content/properties/us/en/formfieldvalues/industry"
+                        required="true"
+                        requirederrormessage="Please Select an Industry"/>
+                    <select_f53c
+                        cq:lastReplicated="{Date}2016-10-26T03:09:01.748Z"
+                        cq:lastReplicatedBy="admin"
+                        cq:lastReplicationAction="Activate"
+                        jcr:created="{Date}2015-08-17T00:21:45.688-07:00"
+                        jcr:createdBy="shk"
+                        jcr:lastModified="{Date}2015-09-24T17:41:13.832Z"
+                        jcr:lastModifiedBy="ribhat"
+                        jcr:mixinTypes="[cq:ReplicationStatus]"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/trials/components/select"
+                        configureFor="estunitship"
+                        disableSorting="true"
+                        hideLabel="true"
+                        label="Number of employees in my company using this product"
+                        name="estunitship"
+                        optionspath="/content/properties/us/en/formfieldvalues/estunitship"
+                        requirederrormessage="Please select the number of employees using the product"/>
+                    <select_a6f5
+                        cq:lastReplicated="{Date}2016-10-26T03:09:02.583Z"
+                        cq:lastReplicatedBy="admin"
+                        cq:lastReplicationAction="Activate"
+                        jcr:created="{Date}2015-08-17T00:21:49.011-07:00"
+                        jcr:createdBy="shk"
+                        jcr:lastModified="{Date}2015-09-24T17:41:54.787Z"
+                        jcr:lastModifiedBy="ribhat"
+                        jcr:mixinTypes="[cq:ReplicationStatus]"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/trials/components/select"
+                        configureFor="timeframe"
+                        disableSorting="true"
+                        hideLabel="true"
+                        label="Timeframe to purchase this product"
+                        name="timeframe"
+                        optionspath="/content/properties/us/en/formfieldvalues/timeframe"
+                        requirederrormessage="Please select a timeframe"/>
+                    <productdownloadsku_a
+                        cq:lastReplicated="{Date}2016-10-26T03:09:03.708Z"
+                        cq:lastReplicatedBy="admin"
+                        cq:lastReplicationAction="Activate"
+                        jcr:created="{Date}2015-09-03T05:25:34.612-07:00"
+                        jcr:createdBy="krao"
+                        jcr:lastModified="{Date}2015-10-07T05:48:28.456Z"
+                        jcr:lastModifiedBy="shk"
+                        jcr:mixinTypes="[cq:ReplicationStatus]"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/trials/components/productdownloadsku"
+                        dlmpath="/products/download-trial/dlm.html"
+                        hideLabel="true"
+                        label="Download Adobe Director 12"
+                        name="productsku"
+                        optionspath="/content/properties/trials/products/adobe-director/version-12"
+                        required="true"
+                        requirederrormessage="Please select a bit for download"/>
+                </formfields>
+            </downloadform_2d41>
+            <column_7a14
+                jcr:created="{Date}2015-10-28T04:44:16.215Z"
+                jcr:createdBy="shk"
+                jcr:lastModified="{Date}2015-10-28T04:44:41.350Z"
+                jcr:lastModifiedBy="shk"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                layout="1;grid-cols-10 grid-offset-3;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-10-28T04:44:41.350Z"
+                        jcr:lastModifiedBy="shk"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_7a14>
+            <end_14460074562290
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_7a14"/>
+        </contentbody>
+        <card jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2017-08-12T00:01:02.055Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"/>
+        </card>
+    </jcr:content>
+</jcr:root>

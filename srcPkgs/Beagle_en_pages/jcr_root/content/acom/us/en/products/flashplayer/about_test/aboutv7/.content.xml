@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-11-24T11:03:13.274Z"
+        cq:lastModifiedBy="viktiwar"
+        cq:lastReplicated="{Date}2017-02-01T20:54:41.525Z"
+        cq:lastReplicatedBy="atrevino"
+        cq:lastReplicationAction="Deactivate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="About Flash Player"
+        jcr:uuid="f6230834-5711-4b78-ae55-c82f6bebfb35"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="About Flash Player"
+        disableOverviewLink="true"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideInSectionNav="true"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        manualChildren="true"
+        marketSegmentRewrite="none"
+        metaDescription="About Flash Player"
+        modalSize="426x240"
+        product="flash_player"
+        stagelastReplicated="06-Jan-2017 06:37"
+        stagelastReplicatedBy="kunsingh"
+        stageLastReplicationAction="ActivatedtoStage">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2016-11-24T11:03:13.217Z"
+                jcr:lastModifiedBy="viktiwar"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2016-11-24T11:03:13.217Z"
+                    jcr:lastModifiedBy="viktiwar"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_de4d
+                jcr:created="{Date}2016-09-02T05:23:11.248Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T05:23:22.697Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-02T05:23:22.697Z"
+                        jcr:lastModifiedBy="atrevino"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_de4d>
+            <text_a1e9
+                jcr:created="{Date}2016-09-02T05:17:27.487Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-06T23:51:34.265Z"
+                jcr:lastModifiedBy="isola"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h1 style=&quot;text-align: center;&quot;>Is your Adobe Flash Player up to date?&lt;/h1>&#xa;&lt;h4 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h4>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-4-block&quot;>&lt;span class=&quot;text-light&quot;>At Adobe, security is our top priority and keeping Flash Player up to date is a critical part of ensuring you have a safe browsing experience. \u001fThis page detects if your Flash Player is current. Here’s what we found:&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <end_14727937912570
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_de4d"/>
+            <column_47d1
+                jcr:created="{Date}2016-09-02T08:11:19.308Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T08:15:57.731Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor="background-color:#f5f5f5;color:#000000"
+                columnCount="2"
+                grid0="2"
+                grid1="2"
+                layout="2;grid-cols-2 grid-offset-6;grid-cols-2;"
+                multiplier="5"
+                offset0="6"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-02T08:15:57.731Z"
+                        jcr:lastModifiedBy="atrevino"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_47d1>
+            <text_bdb8
+                jcr:created="{Date}2016-09-02T08:14:53.102Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T08:17:20.062Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Your Flash Player&lt;br>&#xa; &lt;/span>&lt;strong>Not detected&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <text_8f5b
+                jcr:created="{Date}2016-09-02T08:14:53.346Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T08:17:28.506Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Latest Flash Player&lt;br>&#xa; &lt;strong>22.0.0.XYZ&lt;/strong>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14728039307040
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_47d1"/>
+            <text_1e98
+                jcr:created="{Date}2016-09-02T08:15:00.003Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T21:35:16.979Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Your Flash Player&lt;br>&#xa; Internet Explorer&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <text_1bf
+                jcr:created="{Date}2016-09-02T08:15:00.250Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T08:17:46.041Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Your operating system&lt;br>&#xa; Windows 10&lt;/span>&lt;/div>&#xa;"/>
+            <end_14728038793960
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_47d1"/>
+            <column_96c8
+                jcr:created="{Date}2016-09-02T05:43:45.915Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T05:51:05.006Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-02T05:51:05.006Z"
+                        jcr:lastModifiedBy="atrevino"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_96c8>
+            <text_3a46
+                jcr:created="{Date}2016-09-02T05:44:22.468Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T05:46:17.857Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Flash Player has not been found on your computer.&lt;/span>&lt;/div>&#xa;"/>
+            <standalonecta_45e3
+                jcr:created="{Date}2016-06-07T22:44:03.953Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2016-09-02T05:45:38.308Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/standalonecta"
+                ctabuttoncolor="merchpod-cta-button"
+                ctaType="{Boolean}true"
+                link="#"
+                linkText="Get Flash Player"
+                target="_self"/>
+            <end_14727950323420
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_96c8"/>
+            <column_3c1c
+                jcr:created="{Date}2016-09-02T05:49:12.112Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T05:50:26.616Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-02T05:50:26.616Z"
+                        jcr:lastModifiedBy="atrevino"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_3c1c>
+            <text_c9a0
+                jcr:created="{Date}2016-09-02T05:47:20.374Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-07T02:22:28.073Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Need help? &lt;a href=&quot;https://helpx.adobe.com/flash-player.html&quot;>Visit the Flash Player help page.&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Want Flash Player to update automatically? Read about &lt;a href=&quot;https://helpx.adobe.com/flash-player/kb/flash-player-background-updates.html&quot;>enabling background updates.&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <column_f4
+                jcr:created="{Date}2016-09-02T05:52:49.452Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T05:53:33.218Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10;"
+                bgColor=" "
+                layout="1;grid-cols-10;"
+                layoutMode="structured"
+                multiplier="3"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-02T05:53:33.218Z"
+                        jcr:lastModifiedBy="atrevino"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_f4>
+            <horizontalrule_19a
+                jcr:created="{Date}2016-09-02T05:52:22.700Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T05:52:22.700Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_14727955694680
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_f4"/>
+            <end_14727953521270
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_3c1c"/>
+            <column_f9a5
+                jcr:created="{Date}2016-09-21T18:21:18.344Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-21T18:21:18.344Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                columnCount="1"
+                grid0="8"
+                layout="1;grid-cols-8 grid-offset-4;"
+                multiplier="4"
+                offset0="4"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-05-27T18:31:06.548Z"
+                        jcr:lastModifiedBy="ENV74043"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_f9a5>
+            <text_a1e4
+                jcr:created="{Date}2016-09-21T18:12:13.435Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-21T18:12:13.435Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div style=&quot;text-align: center;&quot; class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Also from Adobe&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <image_f93f
+                jcr:created="{Date}2016-09-21T18:12:13.666Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-21T18:12:13.666Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Take it. Make it. "
+                fileReference="/content/dam/acom/en/products/elements-family/e14/images/ccpp_16Q2_HseAd_1536x560_B.jpg"
+                link="http://landing.adobe.com/en/na/products/creative-cloud/191127-elements-to-ccpp.html?promoid=KTPIO"/>
+            <end_14744820783660
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_f9a5"/>
+            <column_22c7
+                jcr:created="{Date}2016-09-02T05:08:13.121Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T05:54:30.160Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="4"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-02T05:54:30.160Z"
+                        jcr:lastModifiedBy="atrevino"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_22c7>
+            <column_70ea
+                jcr:created="{Date}2016-09-02T06:02:40.952Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T06:03:19.163Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10;"
+                bgColor=" "
+                layout="1;grid-cols-10;"
+                layoutMode="structured"
+                multiplier="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-02T06:03:19.163Z"
+                        jcr:lastModifiedBy="atrevino"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_70ea>
+            <text_55f1
+                jcr:created="{Date}2016-09-02T05:09:19.016Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T08:24:49.102Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h2 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>All current Flash Player versions&lt;/span>&lt;/h2>&#xa;"
+                textIsRich="true"/>
+            <end_14727961609670
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_70ea"/>
+            <column_b522
+                jcr:created="{Date}2016-09-02T16:40:45.002Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T16:49:05.849Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="3-s"
+                grid0="1of7"
+                grid1="5of7"
+                grid2="1of7"
+                layout="3;grid-span-1of7;grid-span-5of7;grid-span-1of7;"
+                layoutMode="structured"
+                multiplier="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-02T16:49:05.849Z"
+                        jcr:lastModifiedBy="atrevino"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_b522>
+            <text_551e
+                jcr:created="{Date}2016-09-02T06:39:38.259Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T06:39:38.259Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;a name=&quot;anchor&quot;>&lt;/a>&amp;nbsp;&lt;/div>&#xa;"/>
+            <break_14728344450210
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_b522"/>
+            <text_ab5d
+                jcr:created="{Date}2016-09-02T22:07:31.434Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T22:07:59.371Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-3-block&quot;>&lt;span class=&quot;text-light&quot;>Windows&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <table_613f
+                jcr:created="{Date}2016-09-02T21:28:35.302Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T21:33:27.825Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/table"
+                tableDataHTML="&lt;table class=&quot;data-table data-table-row-em-none data-table-col-em-none no-footer&quot; width=&quot;100%&quot;>&#xa;&lt;tbody>&lt;tr>&lt;td>&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;80%&quot; style=&quot;text-align: left;&quot;>&lt;strong>Browser&lt;/strong>&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>&lt;strong>Flash Player&lt;/strong>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td style=&quot;text-align: left;&quot;>Internet Explorer - Active X&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>22.0.0.210&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td style=&quot;text-align: left;&quot;>Internet Explorer (embedded - Windows 8.1) - ActiveX&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>22.0.0.209&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td style=&quot;text-align: left;&quot;>Edge (embedded - Windows 10) - ActiveX&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>22.0.0.209&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;80%&quot; style=&quot;text-align: left;&quot;>Firefox - NPAPI&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>22.0.0.209&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;80%&quot; style=&quot;text-align: left;&quot;>Chrome (embedded) - PPAPI&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>22.0.0.209&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;80&quot; style=&quot;text-align: left;&quot;>Opera, Chromium-based browsers - PPAPI&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>22.0.0.209&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td style=&quot;text-align: left;&quot; width=&quot;80&quot;>Firefox - NPAPI (Extended Support Release)&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>18.0.0.366&lt;/td>&#xa;&lt;/tr>&lt;/tbody>&lt;/table>"/>
+            <break_14728344450211
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_b522"/>
+            <end_14728344450222
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_b522"/>
+            <column_4d70
+                jcr:created="{Date}2016-09-02T16:43:54.304Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T16:43:54.304Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="3-s"
+                grid0="1of7"
+                grid1="5of7"
+                grid2="1of7"
+                layout="3;grid-span-1of7;grid-span-5of7;grid-span-1of7;"
+                layoutMode="structured"
+                multiplier="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-02-10T22:21:12.089Z"
+                        jcr:lastModifiedBy="peharris"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_4d70>
+            <text_6e0
+                jcr:created="{Date}2016-09-02T16:44:01.315Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T16:44:01.315Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;a name=&quot;anchor&quot;>&lt;/a>&amp;nbsp;&lt;/div>&#xa;"/>
+            <break_14728346343250
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_4d70"/>
+            <text_60c7
+                jcr:created="{Date}2016-09-02T07:28:26.845Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T21:28:10.023Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-3-block&quot;>&lt;span class=&quot;text-light&quot;>Macintosh OSX&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <table_5f76
+                jcr:created="{Date}2016-09-02T17:40:01.092Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T17:49:33.530Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/table"
+                tableDataHTML="&lt;table class=&quot;data-table data-table-row-em-none data-table-col-em-none no-footer&quot; width=&quot;100%&quot;>&#xa;&lt;tbody>&lt;tr>&lt;td>&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;80%&quot; style=&quot;text-align: left;&quot;>&lt;strong>Browser&lt;/strong>&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>&lt;strong>Flash Player&lt;/strong>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;80%&quot; style=&quot;text-align: left;&quot;>Firefox - NPAPI&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>22.0.0.209&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;80%&quot; style=&quot;text-align: left;&quot;>Chrome (embedded) - PPAPI&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>22.0.0.209&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;80&quot; style=&quot;text-align: left;&quot;>Opera, Chromium-based browsers - PPAPI&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>22.0.0.209&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td style=&quot;text-align: left;&quot; width=&quot;80&quot;>Firefox - NPAPI (Extended Support Release)&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>18.0.0.366&lt;/td>&#xa;&lt;/tr>&lt;/tbody>&lt;/table>"/>
+            <break_14728346343261
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_4d70"/>
+            <end_14728346343262
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_4d70"/>
+            <column_92eb
+                jcr:created="{Date}2016-09-02T16:43:45.738Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T16:43:45.738Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="3-s"
+                grid0="1of7"
+                grid1="5of7"
+                grid2="1of7"
+                layout="3;grid-span-1of7;grid-span-5of7;grid-span-1of7;"
+                layoutMode="structured"
+                multiplier="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-02-10T22:21:12.089Z"
+                        jcr:lastModifiedBy="peharris"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_92eb>
+            <text_2408
+                jcr:created="{Date}2016-09-02T16:44:03.716Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T16:44:03.716Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;a name=&quot;anchor&quot;>&lt;/a>&amp;nbsp;&lt;/div>&#xa;"/>
+            <break_14728346257580
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_92eb"/>
+            <text_9412
+                jcr:created="{Date}2016-09-02T07:44:05.981Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T07:46:45.170Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-3-block&quot;>&lt;span class=&quot;text-light&quot;>Linux&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <table_51a8
+                jcr:created="{Date}2016-09-02T17:49:40.578Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T17:50:15.986Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/table"
+                tableDataHTML="&lt;table class=&quot;data-table data-table-row-em-none data-table-col-em-none no-footer&quot; width=&quot;100%&quot;>&#xa;&lt;tbody>&lt;tr>&lt;td>&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;80%&quot; style=&quot;text-align: left;&quot;>&lt;strong>Browser&lt;/strong>&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>&lt;strong>Flash Player&lt;/strong>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;80%&quot; style=&quot;text-align: left;&quot;>Firefox - NPAPI&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>11.2.202.632&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;80%&quot; style=&quot;text-align: left;&quot;>Chrome (embedded) - PPAPI&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>22.0.0.209&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;80&quot; style=&quot;text-align: left;&quot;>Opera, Chromium-based browsers - PPAPI&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>22.0.0.209&lt;/td>&#xa;&lt;/tr>&lt;/tbody>&lt;/table>"/>
+            <break_14728346257591
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_92eb"/>
+            <end_14728346257592
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_92eb"/>
+            <column_58d
+                jcr:created="{Date}2016-09-02T16:43:51.126Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T16:43:51.126Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="3-s"
+                grid0="1of7"
+                grid1="5of7"
+                grid2="1of7"
+                layout="3;grid-span-1of7;grid-span-5of7;grid-span-1of7;"
+                layoutMode="structured"
+                multiplier="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-02-10T22:21:12.089Z"
+                        jcr:lastModifiedBy="peharris"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_58d>
+            <text_4c34
+                jcr:created="{Date}2016-09-02T16:44:06.254Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T16:44:06.254Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;a name=&quot;anchor&quot;>&lt;/a>&amp;nbsp;&lt;/div>&#xa;"/>
+            <break_14728346311460
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_58d"/>
+            <text_c305
+                jcr:created="{Date}2016-09-02T07:53:02.255Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T08:37:00.821Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-3-block&quot;>&lt;span class=&quot;text-light&quot;>Chrome Os&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <table_e5f8
+                jcr:created="{Date}2016-09-02T17:40:25.606Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T17:51:14.414Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/table"
+                tableDataHTML="&lt;table class=&quot;data-table data-table-row-em-none data-table-col-em-none no-footer&quot; width=&quot;100%&quot;>&#xa;&lt;tbody>&lt;tr>&lt;td>&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;80%&quot; style=&quot;text-align: left;&quot;>&lt;strong>Browser&lt;/strong>&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>&lt;strong>Flash Player&lt;/strong>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;80%&quot; style=&quot;text-align: left;&quot;>ChromeOS - PPAPI&lt;/td>&#xa;&lt;td style=&quot;text-align: center;&quot;>22.0.0.209&lt;/td>&#xa;&lt;/tr>&lt;/tbody>&lt;/table>"/>
+            <break_14728346311471
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_58d"/>
+            <end_14728346311482
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_58d"/>
+            <text_b03f
+                jcr:created="{Date}2016-09-02T07:53:02.960Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T07:53:02.960Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;a name=&quot;anchor&quot;>&lt;/a>&amp;nbsp;&lt;/div>&#xa;"/>
+            <text_1923
+                jcr:created="{Date}2016-09-02T05:59:13.703Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2016-09-02T06:02:01.342Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;a name=&quot;anchor&quot;>&lt;/a>&amp;nbsp;&lt;/div>&#xa;"/>
+            <end_14727928931280
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_22c7"/>
+        </contentbody>
+        <sectionNavItems
+            jcr:primaryType="nt:unstructured"
+            sort_mdv="[0,1]">
+            <_x0030_
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionLink"
+                link="http://www.adobe.com/products/flashplayer/tech-specs.html"
+                sectionNavTitle="Tech Specs"/>
+            <_x0031_
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionLink"
+                link="http://www.adobe.com/products/flashplayer/faq.html"
+                sectionNavTitle="FAQ"/>
+        </sectionNavItems>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-10-11T11:19:29.176Z"
+        cq:lastModifiedBy="handoo"
+        cq:lastReplicated="{Date}2019-10-16T21:32:11.550Z"
+        cq:lastReplicatedBy="karchie"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:csIndustry/nonProfit,filters:csProduct/ec,filters:csProduct/ac,filters:csProduct/mc/analytics,filters:csProduct/mc,filters:csProduct/mc/experienceManager,filters:csProduct/dc,filters:csProduct/dc/acrobatDC,filters:csProduct/cc/cce,filters:csProduct/cc/photoshop,filters:csProduct/cc/illustrator,filters:csProduct/cc/indesign,filters:csProduct/cc/premierePro,filters:csProduct/cc/afterEffects,filters:csProduct/cc/audition,filters:csProduct/cc/animate,filters:csProduct/cc/cham,filters:csProduct/other/as,filters:csProduct/other/ms]"
+        cq:template="/apps/beagle/templates/customershowcasedetailpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="National Center for Missing and Exploited Children"
+        jcr:uuid="50cb8a16-d779-493e-bf0f-7482f72de001"
+        sling:resourceType="beagle/components/customershowcasedetailpage"
+        removeFromHtmlSitemap="true"
+        removeFromXmlSitemap="true">
+        <customershowcasecard
+            jcr:lastModified="{Date}2019-06-19T17:53:23.910Z"
+            jcr:lastModifiedBy="tvaldez"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/customershowcasecard"
+            cardType="standard"
+            companyName="National Center for Missing and Exploited Children"
+            creationDate="{Date}2018-12-03T14:43:00.000-07:00"
+            includeCTAVideo2="true"
+            link1="/content/dam/acom/en/customer-success/pdfs/ncmec-case-study.pdf"
+            link1Target="_blank"
+            link1Text="Read the story"
+            link2Target="_self"
+            link2Text="Watch the video"
+            orderDate="{Date}2018-12-14T14:43:00.000-07:00">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                    size="854x480"
+                    type="youtube"
+                    youTubeAutoPlay="true"
+                    youTubeUrl="zgDVDmfyxE8">
+                    <social jcr:primaryType="nt:unstructured"/>
+                    <meta
+                        jcr:primaryType="nt:unstructured"
+                        type="website">
+                        <image
+                            jcr:lastModified="{Date}2019-06-19T17:53:23.910Z"
+                            jcr:lastModifiedBy="tvaldez"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </meta>
+                    <tracking jcr:primaryType="nt:unstructured"/>
+                </video>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2019-06-19T17:53:23.910Z"
+                jcr:lastModifiedBy="tvaldez"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="National Center for Missing and Exploited Children"
+                fileReference="/content/dam/acom/en/customer-showcase/images/ncmec-660x348.png"
+                xcord="{Long}55"
+                ycord="{Long}59"/>
+            <ctavideolink2
+                jcr:lastModified="{Date}2018-12-05T22:22:16.248Z"
+                jcr:lastModifiedBy="tvaldez"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                size="854x480"
+                type="youtube"
+                youTubeAutoPlay="true"
+                youTubeUrl="zgDVDmfyxE8">
+                <social jcr:primaryType="nt:unstructured"/>
+                <meta
+                    jcr:primaryType="nt:unstructured"
+                    type="website">
+                    <image
+                        jcr:lastModified="{Date}2018-12-05T22:22:16.248Z"
+                        jcr:lastModifiedBy="tvaldez"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </meta>
+                <tracking jcr:primaryType="nt:unstructured"/>
+            </ctavideolink2>
+        </customershowcasecard>
+    </jcr:content>
+</jcr:root>

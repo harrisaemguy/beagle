@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2017-03-23T11:20:02.815Z"
+        cq:lastModifiedBy="handoo"
+        cq:lastReplicated="{Date}2017-03-24T17:07:29.089Z"
+        cq:lastReplicatedBy="handoo"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Buying guide : Upgrades"
+        jcr:uuid="cdacdd39-13b8-4fe7-a90c-67cb173125bb"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Buying guide : Upgrades | Flash Builder Family"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideInSectionNav="true"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        marketSegmentRewrite="COM"
+        marqueeStyle="newMarquee"
+        metaDescription="Buying guide : Upgrades | Flash Builder Family"
+        modalSize="426x240"
+        navTitle="Buying guide : Upgrades"
+        pageTitle="Buying guide : Upgrades"
+        stagelastReplicated="06-Jan-2017 06:56"
+        stagelastReplicatedBy="kunsingh"
+        stageLastReplicationAction="ActivatedtoStage">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2016-12-04T17:16:18.019Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2016-12-04T17:16:18.019Z"
+                    jcr:lastModifiedBy="rbedi"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_720d
+                jcr:created="{Date}2016-11-25T08:17:15.222Z"
+                jcr:createdBy="debdas"
+                jcr:lastModified="{Date}2016-11-25T09:34:12.165Z"
+                jcr:lastModifiedBy="debdas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="6"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-25T09:34:12.165Z"
+                        jcr:lastModifiedBy="debdas"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_720d>
+            <text_771d
+                jcr:created="{Date}2016-11-25T08:19:03.637Z"
+                jcr:createdBy="debdas"
+                jcr:lastModified="{Date}2017-03-23T11:19:46.365Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;a href=&quot;/content/acom/us/en/products/flash-builder-standard/buying-guide.html&quot;>&lt;span class=&quot;text-light&quot;>Version comparison&lt;/span>&lt;/a>&amp;nbsp;| Upgrades&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Looking to upgrade?&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>See if you are eligible to upgrade to the latest version of Flash Builder Standard and Flash Builder Premium.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <table_b3ff
+                jcr:created="{Date}2016-11-25T08:20:17.124Z"
+                jcr:createdBy="debdas"
+                jcr:lastModified="{Date}2016-12-13T09:31:26.240Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/table"
+                tableDataHTML="&lt;table width=&quot;100%&quot; class=&quot;stripe-grey-white-reverse data-table-row-em&quot;>&#xa;&lt;tbody>&lt;tr>&lt;td>&lt;div class=&quot;text-6-block&quot;>You own&lt;/div>&#xa;&lt;/td>&#xa;&lt;td>Upgrade to Flash Builder 4.7 Standard&lt;/td>&#xa;&lt;td>Upgrade to Flash Builder 4.7 Premium&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>&lt;div class=&quot;text-6-block&quot;>Flash Builder 4 Standard&lt;/div>&#xa;&lt;/td>&#xa;&lt;td>&lt;div class=&quot;text-6-block&quot;>US$49&lt;/div>&#xa;&lt;/td>&#xa;&lt;td>US$499&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>&lt;div class=&quot;text-6-block&quot;>Flash Builder 4.5 or 4.6 Standard&lt;/div>&#xa;&lt;/td>&#xa;&lt;td>n/a&lt;/td>&#xa;&lt;td>US$499&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>&lt;div class=&quot;text-6-block&quot;>Flash Builder 4.7 Standard&lt;/div>&#xa;&lt;/td>&#xa;&lt;td>n/a&lt;/td>&#xa;&lt;td>US$499&lt;/td>&#xa;&lt;/tr>&lt;/tbody>&lt;/table>">
+                <cq:annotations jcr:primaryType="nt:unstructured"/>
+            </table_b3ff>
+            <end_14800618352270
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_720d"/>
+            <column_5183
+                jcr:created="{Date}2016-11-25T09:15:18.204Z"
+                jcr:createdBy="debdas"
+                jcr:lastModified="{Date}2016-11-25T09:29:05.883Z"
+                jcr:lastModifiedBy="debdas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="v"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-25T09:29:05.883Z"
+                        jcr:lastModifiedBy="debdas"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_5183>
+            <horizontalrule_d939
+                jcr:created="{Date}2016-11-25T09:31:49.597Z"
+                jcr:createdBy="debdas"
+                jcr:lastModified="{Date}2016-11-25T09:31:49.597Z"
+                jcr:lastModifiedBy="debdas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_bff5
+                jcr:created="{Date}2016-11-25T09:17:16.770Z"
+                jcr:createdBy="debdas"
+                jcr:lastModified="{Date}2016-11-25T09:35:37.995Z"
+                jcr:lastModifiedBy="debdas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-25T09:35:37.995Z"
+                        jcr:lastModifiedBy="debdas"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_bff5>
+            <text_a563
+                jcr:created="{Date}2016-12-05T05:20:15.269Z"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-12-05T05:20:15.269Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Learning&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/flex/testdrive.html&quot; target=&quot;_self&quot;>Flex Test Drive&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/flex/testdrivemobile.html&quot; target=&quot;_self&quot;>Flex Test Drive for Mobile&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/flex/tourdeflex.html&quot; target=&quot;_self&quot;>Explore what Flex can do&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/flex/videotraining&quot; target=&quot;_self&quot;>Free online Flex training&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/flashplatform/benefits/&quot; target=&quot;_self&quot;>Benefits of RIAs&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14800655014960
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_bff5"/>
+            <text_9bd7
+                jcr:created="{Date}2016-12-05T05:20:18.056Z"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-12-05T05:20:18.056Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Help&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/support/flashbuilder/&quot; target=&quot;_self&quot;>Help and support&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/flash-builder/documentation.html&quot; target=&quot;_self&quot;>Documentation&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://forums.adobe.com/community/flash_builder&quot; target=&quot;_self&quot;>User forums&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14800655014971
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_bff5"/>
+            <text_2ab
+                jcr:created="{Date}2016-12-05T05:20:20.372Z"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2017-03-23T11:20:02.806Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Resources&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://gaming.adobe.com&quot; target=&quot;_blank&quot;>Adobe Gaming&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/flex.html&quot; target=&quot;_self&quot;>Developer Center&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://flex.apache.org/&quot; target=&quot;_self&quot;>Flex.org&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/products/flex/related/&quot; target=&quot;_self&quot;>Ecosystem partners&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14800655014982
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_bff5"/>
+            <text_cef6
+                jcr:created="{Date}2016-11-25T09:20:52.419Z"
+                jcr:createdBy="debdas"
+                jcr:lastModified="{Date}2016-11-25T09:20:52.419Z"
+                jcr:lastModifiedBy="debdas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Page tools&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://www.facebook.com/sharer.php&quot;>&lt;span class=&quot;text-light&quot;>&lt;i class=&quot;icon-facebook&quot;>&lt;/i>&amp;nbsp;Share on Facebook&lt;/span>&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://twitter.com/&quot; style=&quot;font-style: normal; font-weight: 300;&quot;>&lt;i class=&quot;icon-twitter&quot;>&lt;/i>&amp;nbsp;Share on Twitter&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://www.linkedin.com/&quot;>&lt;span class=&quot;text-light&quot;>&lt;i class=&quot;icon-linkedin&quot;>&lt;/i>Share on LinkedIn&lt;/span>&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; line-height: 16px;&quot;>Share on Facebook&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; line-height: 16px;&quot;>Share on Facebook&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal;&quot;>Share on LinkedIn&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal;&quot;>Share on LinkedIn&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal;&quot;>Share on LinkedIn&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal;&quot;>Share on LinkedIn&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal;&quot;>Share on LinkedIn&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14800654367770
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_bff5"/>
+            <end_14800653182160
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5183"/>
+        </contentbody>
+    </jcr:content>
+</jcr:root>

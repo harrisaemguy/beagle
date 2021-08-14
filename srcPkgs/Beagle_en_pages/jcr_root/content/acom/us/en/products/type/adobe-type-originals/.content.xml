@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2018-10-23T05:29:50.730Z"
+        cq:lastModifiedBy="rbedi"
+        cq:lastReplicated="{Date}2018-10-23T05:51:22.810Z"
+        cq:lastReplicatedBy="rbedi"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Adobe Originals"
+        jcr:uuid="5abadff6-bb08-4016-bd39-731051aec41d"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Adobe Originals - extraordinary technical &amp; aesthetic quality | Adobe Type"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="light"
+        hideInSectionNav="true"
+        languageDirection="ltr"
+        metaDescription="Adobe Type Originals are a popular and integral part of the modern type landscape, designed to become timeless classics and feature a level of craftsmanship that only the world's best type designers can achieve."
+        pageTitle="Adobe Originals"
+        seodescription=""
+        tagsKeywords="adobe originals">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_126b
+                jcr:lastModified="{Date}2016-08-02T04:54:01.780-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-02T04:54:01.780-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_126b>
+            <text_df67
+                jcr:created="{Date}2016-08-02T05:37:06.505-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-02T05:37:57.227-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>To create typefaces of extraordinary technical and aesthetic quality: That was the original and enduring mandate of Adobe Originals. Now comprising over 100 families and thousands of individual fonts, Adobe Originals are a popular and integral part of the modern type landscape.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_9207c7fd-3e32-4682-b365-f0c815e2e45a
+                jcr:lastModified="{Date}2016-08-04T22:00:23.934-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>A brief history&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;TextMedium&quot;>&lt;span class=&quot;text-light&quot;>The Adobe Originals program began in 1989, when Sumner Stone hired&amp;nbsp;&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/carol-twombly.html&quot;>Carol Twombly&lt;/a>&amp;nbsp;and&amp;nbsp;&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/robert-slimbach.html&quot;>Robert Slimbach&lt;/a>&amp;nbsp;to create a new series of type families for Adobe. At the time, the desktop publishing revolution was in full swing, and designers had a growing need for high-quality digital fonts.&lt;/span>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <column_28c2
+                jcr:created="{Date}2016-08-02T04:43:51.062-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-02T05:41:35.001-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of3;grid-span-2of3;"
+                bgColor=" "
+                columnCount="2"
+                grid0="2"
+                grid1="10"
+                layout="2;grid-cols-2;grid-cols-10;"
+                layoutMode="spatial"
+                multiplier="3"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-02T05:41:35.001-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_28c2>
+            <ttt_0_2159802a-bf4c-46cc-ae23-7e6dad413222
+                jcr:lastModified="{Date}2016-08-02T05:29:33.910-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="adobe-caslon-drawing"
+                fileReference="/content/dam/acom/en/products/type/images/147x83/adobe-caslon-drawing.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-08-02T05:29:33.910-07:00"
+                    jcr:lastModifiedBy="ankshukl"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </ttt_0_2159802a-bf4c-46cc-ae23-7e6dad413222>
+            <break_14701382629310
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_28c2"/>
+            <ttt_b148d17c-5a8e-4b45-9333-2f233cbfddb3
+                jcr:lastModified="{Date}2016-08-02T03:40:13.102-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;TextMedium&quot;>&lt;span class=&quot;text-light&quot;>The first Adobe Originals arrived that year: Slimbach's Utopia and Adobe Garamond. A reinterpretation of the Roman types of Claude Garamond and the italics of Robert Granjon, Adobe Garamond captured the essence of its models while offering all the advantages of contemporary typography. Versatile and beautiful, it would provide a blueprint for the many updated classics Slimbach and Twombly would add to the collection over the coming decade.&lt;/span>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14701382310700
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_28c2"/>
+            <column_f1e7
+                jcr:created="{Date}2016-08-02T04:48:56.922-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-02T05:42:00.315-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of3;grid-span-2of3;"
+                bgColor=" "
+                columnCount="2"
+                grid0="2"
+                grid1="10"
+                layout="2;grid-cols-2;grid-cols-10;"
+                layoutMode="spatial"
+                multiplier="3"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-02T05:42:00.315-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_f1e7>
+            <ttt_2ae8b419-fc34-44d3-9f37-b02381671e2f
+                jcr:lastModified="{Date}2016-08-02T05:30:15.724-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="kazuraki-sample"
+                fileReference="/content/dam/acom/en/products/type/images/147x83/kazuraki-sample.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-08-02T05:30:15.724-07:00"
+                    jcr:lastModifiedBy="ankshukl"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </ttt_2ae8b419-fc34-44d3-9f37-b02381671e2f>
+            <break_14701385691840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_f1e7"/>
+            <ttt_0_99667de4-05df-4419-bcb9-a85c959532bc
+                jcr:lastModified="{Date}2016-08-04T22:02:15.178-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;TextMedium&quot;>&lt;span class=&quot;text-light&quot;>Of course, Slimbach and Twombly are not the only designers who have created Adobe Originals. The company has also commissioned typefaces from other award-winning designers, including &lt;a href=&quot;/content/acom/us/en/products/type/font-designers/richard-lipton.html&quot;>Richard Lipton&lt;/a>, &lt;a href=&quot;/content/acom/us/en/products/type/font-designers/jovica-veljovic.html&quot;>Jovica Veljovic,&lt;/a> and &lt;a href=&quot;/content/acom/us/en/products/type/font-designers/michael-harvey.html&quot;>Michael Harvey&lt;/a>. A special Adobe Originals program was even developed to provide Japanese-language fonts. Today, it includes the works of such designers as &lt;a href=&quot;/content/acom/us/en/products/type/font-designers/masahiko-kozuka.html&quot;>Masahiko Kozuka&lt;/a> and &lt;a href=&quot;/content/acom/us/en/products/type/font-designers/ryoko-nishizuka.html&quot;>Ryoko Nishizuka&lt;/a>.&lt;/span>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14701385691841
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_f1e7"/>
+            <text_0_cef60373-6162-4436-82d7-4b5934151fdb
+                jcr:lastModified="{Date}2016-08-02T04:26:30.609-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>What are Adobe Originals?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;span class=&quot;TextMedium&quot;>Not all typefaces produced by Adobe automatically become Adobe Originals. Three categories determine whether a design qualifies for the program.&lt;/span>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;span class=&quot;TextMedium&quot;>First is aesthetic quality. Adobe Originals are designed to become timeless classics and feature a level of craftsmanship that only the world's best type designers can achieve. Typically, they are not intended for short-term fame but for use over a number of decades. As a result, many Adobe Originals have achieved enduring popularity — Myriad, Minion, Trajan, Lithos, and Adobe Garamond are some notable examples.&lt;/span>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;span class=&quot;TextMedium&quot;>Second is technical excellence. Adobe's highly trained staff creates each glyph and parameter so that the font rasterizes as sharply and accurately as possible. They ensure that the layout information is what's best for the individual typeface design and that the font's tables are optimized for size and efficiency. Adobe engineers are also constantly striving to improve type technology, in conjunction with our designers. Over the years, Adobe defined the Type 1 font format, defined Expert supplemental sets, invented multiple master fonts, and worked with Microsoft to define OpenType®. Adobe went on to convert the thousands of fonts in our library to OpenType, with new glyphs and features.&lt;/span>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;span class=&quot;TextMedium&quot;>Third is richness in character sets and optical sizes. In addition to providing fonts for a wide variety of alphabets, Adobe Originals also take into account the fact that the human eye views type differently at different sizes. In the 1880s and earlier, designers created separate fonts — now called opticals — to deal with this problem. When font production became mechanized, however, many font manufacturers used a single master that was scaled to reach whatever size was needed.&lt;/span>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;span class=&quot;TextMedium&quot;>Unfortunately, typefaces manipulated in this way have a limited range at which they look their best. One that performs well at text sizes usually appears cramped at smaller sizes and heavy at larger ones. By contrast, many Adobe Originals feature sets of optically optimized designs, thus covering all the sizes that may be needed.&lt;/span>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_1_0b62f684-a475-4d9a-a0b3-4fd8ad01d58f
+                jcr:lastModified="{Date}2018-10-23T05:28:51.389Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>To the future&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;span class=&quot;TextMedium&quot;>Adobe Originals continues as a vibrant and evolving program. Nowadays, its focus lies in creating the most versatile text composition families available.&lt;/span>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;span class=&quot;TextMedium&quot;>Adobe plans to release many more Adobe Originals in the years to come. And while the program will continue to adapt as new formats, opportunities, and typographic needs emerge, its tradition of producing innovative and broadly useful typefaces will always remain the same.&lt;/span>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;span class=&quot;TextMedium&quot;>To learn more about the program and how it has evolved over the years, check out this&amp;nbsp;&lt;a href=&quot;http://blog.typekit.com/25-years-of-adobe-originals/&quot;>series of articles&lt;/a>&amp;nbsp;written by Tamye Riggs.&lt;/span>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14544550461840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_126b"/>
+            <column_5ad8
+                jcr:created="{Date}2016-08-02T05:34:25.294-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-03T04:28:09.781-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-03T04:28:09.781-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_5ad8>
+            <horizontalrule_a48a
+                jcr:created="{Date}2016-08-02T05:43:21.281-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-02T05:43:21.281-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_48d3
+                jcr:created="{Date}2016-08-02T05:35:45.762-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-02T05:35:45.762-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-07-29T03:25:33.888-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_48d3>
+            <text_95d9
+                jcr:created="{Date}2016-08-02T05:35:48.993-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-02T05:35:48.993-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Learning&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers.html&quot;>Adobe Type Designers&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-team.html&quot;>Adobe Type Team&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-specimens.html&quot;>Type specimens&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-references-tips.html&quot;>Type reference materials&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-originals.html&quot;>Adobe Originals&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/opentype.html&quot;>OpenType&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14701413457770
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_48d3"/>
+            <text_76d5
+                jcr:created="{Date}2016-08-02T05:35:51.386-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2018-10-23T05:29:50.724Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Resources&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://theblog.adobe.com/creativity/typography/&quot;>Typography blog&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blogs.adobe.com/CCJKType/&quot;>CJK Type blog (Asian fonts)&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype.html&quot;>Developer information&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype/afdko.html&quot;>Font Development Kit&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/install-instructions.html&quot;>Font installation instructions&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14701413457781
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_48d3"/>
+            <text_ccd1
+                jcr:created="{Date}2016-09-01T05:14:43.533Z"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-09-01T05:14:43.533Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Help&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing Center&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/creative-cloud-fonts.html&quot;>CC Bundled Fonts&amp;nbsp;FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://typekit.com/help&quot;>Web Font FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/products/fontfolio/faq.html&quot;>Font Folio FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://forums.adobe.com/community/typography_fonts&quot;>Adobe Type user forums&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14701413457792
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_48d3"/>
+            <end_14701412653050
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5ad8"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2016-08-22T02:47:57.774-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2016-08-22T02:47:57.774-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+    </jcr:content>
+</jcr:root>

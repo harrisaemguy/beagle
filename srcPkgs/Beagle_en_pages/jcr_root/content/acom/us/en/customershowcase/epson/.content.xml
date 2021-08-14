@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-11-08T06:55:31.057Z"
+        cq:lastModifiedBy="akumawat"
+        cq:lastReplicated="{Date}2019-11-08T07:08:08.142Z"
+        cq:lastReplicatedBy="akumawat"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:csIndustry/manufacturing,filters:csProduct/ec,filters:csProduct/mc/analytics,filters:csProduct/mc/target,filters:csProduct/other/as]"
+        cq:template="/apps/beagle/templates/customershowcasedetailpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Epson"
+        jcr:uuid="a23de466-c6aa-4fbd-9574-afa24fc6a49d"
+        sling:resourceType="beagle/components/customershowcasedetailpage"
+        removeFromHtmlSitemap="true"
+        removeFromXmlSitemap="true">
+        <customershowcasecard
+            jcr:lastModified="{Date}2019-11-08T06:55:31.041Z"
+            jcr:lastModifiedBy="akumawat"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/customershowcasecard"
+            cardType="featured"
+            companyName="Epson"
+            creationDate="{Date}2018-03-29T21:33:00.000+05:30"
+            link1="https://www.adobe.com/customer-success-stories/epson-case-study.html"
+            link1Target="_blank"
+            link1Text="Read the story"
+            link2Target="_self"
+            orderDate="{Date}2018-04-21T01:45:00.000+05:30">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                    size="426x240"
+                    type="free">
+                    <social jcr:primaryType="nt:unstructured"/>
+                    <meta
+                        jcr:primaryType="nt:unstructured"
+                        type="website">
+                        <image
+                            jcr:lastModified="{Date}2019-11-08T06:55:31.041Z"
+                            jcr:lastModifiedBy="akumawat"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </meta>
+                    <tracking jcr:primaryType="nt:unstructured"/>
+                </video>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2019-11-08T06:55:31.041Z"
+                jcr:lastModifiedBy="akumawat"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Epson"
+                fileReference="/content/dam/acom/en/customer-showcase/images/epson-660x348.png"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </customershowcasecard>
+    </jcr:content>
+</jcr:root>

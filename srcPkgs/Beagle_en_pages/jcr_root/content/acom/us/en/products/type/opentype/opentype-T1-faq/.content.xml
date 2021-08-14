@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2017-04-26T23:27:36.802Z"
+        cq:lastModifiedBy="golee"
+        cq:lastReplicated="{Date}2017-04-26T23:27:42.884Z"
+        cq:lastReplicatedBy="golee"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Type 1 to OpenType font conversion FAQ"
+        jcr:uuid="7ed79c53-0532-457a-a971-a284f97da4f1"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Migrating from Type 1 to OpenType Fonts | Adobe Type"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="light"
+        hideInSectionNav="true"
+        languageDirection="ltr"
+        metaDescription="Information on how to migrate from Type 1 (&quot;PostScript&quot;) fonts supplied by Adobe to the equivalent OpenType fonts."
+        pageTitle="Type 1 to OpenType font conversion FAQ"
+        seodescription="Read FAQ about migrating from Type 1 to OpenType."
+        stagelastReplicated="10-Mar-2017 20:22"
+        stagelastReplicatedBy="golee"
+        stageLastReplicationAction="ActivatedtoStage">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_126b
+                jcr:lastModified="{Date}2016-08-03T03:49:17.612-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-03T03:49:17.612-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_126b>
+            <text_0_8c24916b-b6d6-4b8b-b10f-de6038ccc7a5
+                jcr:lastModified="{Date}2017-03-29T17:42:45.085Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>This document is aimed at users who are migrating from Type 1 (&amp;quot;PostScript&amp;quot;) fonts supplied by Adobe to the equivalent OpenType fonts. It addresses common questions users may still have even after reading the OpenType User Guide and readme file (both available at &lt;a href=&quot;/content/acom/us/en/products/type/opentype.html&quot; title=&quot;http://www.adobe.com/type/opentype&quot;>http://www.adobe.com/type/opentype&lt;/a>)&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>There were many changes during the Type 1 era, then there were changes made in converting to OpenType (see also below). Keep in mind that the OpenType fonts in the Adobe Type Library have the &lt;strong>last&lt;/strong> Type 1 versions as their starting point. So if you are trying to tell how OpenType fonts will differ from their Type 1 counterparts, you may want to read both sections in case your Type 1 versions were not the latest revisions.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe makes no promises of compatibility between the old Type 1 fonts and the new OpenType fonts. That being said, most of Adobe's OpenType fonts started with the same outlines, widths and kerning as their Type 1 counterparts. The likelihood of reflow when replacing Type 1 fonts with OpenType equivalents depends on which fonts you are using, which characters you are using within those fonts, and what applications you are using them in. Read the &amp;quot;&lt;a href=&quot;/content/acom/us/en/products/type/opentype/opentype-T1-faq.html&quot;>changes made in converting the Adobe Type Library to OpenType&lt;/a>&amp;quot;&amp;nbsp;and the &amp;quot;&lt;a href=&quot;/content/acom/us/en/products/type/opentype/opentype-T1-faq.html#summary&quot;>summary of behavior changes and reflow issues&lt;/a>&amp;quot; below to understand more.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <horizontalrule_d680
+                jcr:created="{Date}2016-08-04T07:04:24.558-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-04T07:04:24.558-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <anchor_7f54
+                jcr:created="{Date}2016-08-03T03:26:53.842-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-04T07:00:51.891-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/anchor"
+                anchorName="type1-font-matches-openType"/>
+            <text_b32d767e-8111-4fad-a61b-887d53be22cc
+                jcr:lastModified="{Date}2016-08-08T04:22:38.027-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&lt;span class=&quot;text-light&quot;>Which Adobe Type 1 fonts match which OpenType fonts?&lt;/span>&lt;/h3>&#xa;&lt;h3>&amp;nbsp;&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>There are tables available at &lt;a href=&quot;/content/acom/us/en/products/type/opentype.html&quot; title=&quot;http://www.adobe.com/type/opentype&quot;>http://www.adobe.com/type/opentype&lt;/a>, linked on the right side of the page. One table covers only multiple master Type 1 fonts, and the other covers all other Type 1 fonts.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot; style=&quot;text-align: right;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <horizontalrule_e7be
+                jcr:created="{Date}2016-08-04T22:25:01.379-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-04T22:25:01.379-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <anchor_79ab
+                jcr:created="{Date}2016-08-03T03:28:41.192-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-03T03:28:57.506-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/anchor"
+                anchorName="changes-type1-era"/>
+            <column_2113
+                jcr:created="{Date}2016-08-05T01:10:52.832-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-05T01:10:52.832-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-3of4;grid-span-1of4;"
+                bgColor=" "
+                layout="2;grid-span-3of4;grid-span-1of4;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-05T00:33:45.267-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_2113>
+            <text_2c17
+                jcr:created="{Date}2016-08-05T01:10:56.633-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-08T04:27:44.848-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&lt;span class=&quot;text-light&quot;>What changed during the Type 1 era?&lt;/span>&lt;br>&#xa;&lt;/h3>&#xa;"
+                textIsRich="true"/>
+            <break_14703846528530
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_2113"/>
+            <text_ce11
+                jcr:created="{Date}2016-08-05T01:10:59.389-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-08T04:27:58.214-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: right;&quot;>&lt;a href=&quot;#top&quot;>&lt;span class=&quot;text-light&quot;>To the top&lt;/span>&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14703846528541
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_2113"/>
+            <text_1_12e51c32-2853-4d20-b34b-efbe52bc5c12
+                jcr:lastModified="{Date}2016-08-08T03:39:54.277-07:00"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>1) ITC Eras and Optima got significant revisions around 1993; the Type 1 versions from 1989-93 are not compatible with current software and operating systems.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>2) Other than that, even the earliest PostScript Type 1 fonts should be fine as far as Adobe is aware. In fact, there are a few fonts in the Adobe Type Library that were never updated in their Type 1 form after their initial release in the 1980s.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>With regards to designs and metrics, few Type 1 fonts had significant changes until the switch to OpenType. Prior to that, the major changes were:&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>3) Courier went through several major versions, with significant design changes in the outlines and stroke endings. Times and Helvetica also underwent major design revisions in the early 90s.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>4) For the fonts bundled with PostScript 3 output devices, there were a number of revisions, which include many common fonts. Where not all accented characters were kerned, those fonts had their kerning extended to add more kerning for accented characters. Additionally, all these fonts, plus any other fonts in the same retail packages, had the euro character added. Note that both of these changes were made to all Adobe alphabetic fonts as part of OpenType conversion, later on. Here is a list of the families/packages that had this change made while they were still in Type 1 format.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <column_e09c
+                jcr:created="{Date}2016-08-04T22:49:37.325-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-04T22:51:42.926-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-04T22:51:42.926-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_e09c>
+            <text_f49f
+                jcr:created="{Date}2016-08-04T22:51:57.325-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-04T23:05:14.311-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Albertus MT&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Antique Olive&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Bodoni (packages Bodoni 1 &amp;amp; 2)&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Carta&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Clarendon&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Cooper Black&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Copperplate Gothic&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Coronet&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Courier&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Eurostile&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Gill Sans (packages Gill Sans 1 &amp;amp; 2)&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Goudy (packages Goudy 1 &amp;amp; 2)&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14703763029420
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_e09c"/>
+            <text_7cad
+                jcr:created="{Date}2016-08-04T23:04:40.140-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-04T23:06:11.591-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Helvetica Condensed&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Helvetica Narrow (but this family was not converted, see above)&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Helvetica&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>ITC Avant Garde Gothic&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>ITC Bookman&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>ITC Lubalin Graph&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>ITC Mona Lisa&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>ITC Zapf Chancery&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>ITC Zapf Dingbats&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Joanna MT&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Letter Gothic&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14703763029431
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_e09c"/>
+            <text_3e7c
+                jcr:created="{Date}2016-08-04T23:04:44.873-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-04T23:08:04.399-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Marigold&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>New Century Schoolbook&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Optima&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Oxford&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Palatino&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Stempel Garamond&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Symbol&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Tekton&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Times&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Univers (packages Univers 1 &amp;amp; 2)&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Univers Condensed&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14703761773820
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_e09c"/>
+            <horizontalrule_2cc
+                jcr:created="{Date}2016-08-04T23:32:28.748-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-04T23:32:28.748-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <anchor_e6b8
+                jcr:created="{Date}2016-08-03T03:30:15.862-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-03T03:30:47.844-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/anchor"
+                anchorName="changes-in-openType-conversion"/>
+            <column_f0c5
+                jcr:created="{Date}2016-08-05T01:12:41.773-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-05T01:12:41.773-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-3of4;grid-span-1of4;"
+                bgColor=" "
+                layout="2;grid-span-3of4;grid-span-1of4;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-05T00:33:45.267-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_f0c5>
+            <text_daef
+                jcr:created="{Date}2016-08-05T01:12:45.798-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-08T04:24:58.823-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&lt;span class=&quot;text-light&quot;>What changes were made in the OpenType conversion?&lt;/span>&lt;br>&#xa;&lt;/h3>&#xa;"
+                textIsRich="true"/>
+            <break_14703847617990
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_f0c5"/>
+            <text_831
+                jcr:created="{Date}2016-08-05T01:26:04.010-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-08T04:28:18.325-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: right;&quot;>&lt;a href=&quot;#top&quot;>&lt;span class=&quot;text-light&quot;>To the top&lt;/span>&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14703847618001
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_f0c5"/>
+            <text_70f8
+                jcr:created="{Date}2016-08-04T23:10:59.352-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-08T03:42:37.843-07:00"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>With the switch to OpenType, Adobe made many more changes to the Adobe Type Library besides the ones already mentioned during the Type 1 era.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>1) Helvetica Narrow was not converted to OpenType. Why not? This font family was developed for use in printers when ROM space was very scarce, so it was created by mathematically squashing Helvetica by 18% (to 82% of the original width), a painful compromise which resulted in distorted letterforms and thin vertical strokes next to thicker horizontals.&lt;br>&#xa; For general use, Adobe recommends Helvetica Condensed instead, which was actually designed to be condensed, so that stroke widths are unchanged. If an exact match to Helvetica Narrow is needed, many programs, including Microsoft Word, InDesign and Illustrator, allow the user to horizontally scale a font to any desired percentage. One could use Helvetica LT Std and apply an 82% horizontal scale factor.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>2) all or almost all of Robert Slimbach's typefaces had revisions made to them. In most cases this meant re-spacing and re-kerning. In some cases there were significant design changes. The largest changes are noted here, along with a list of all the Slimbach typefaces which received any tweaks at all. Note that Slimbach's two designs for ITC did not get these sorts of modifications (ITC Slimbach and ITC Giovanni).&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>3) The biggest single change is the italic for Cronos Pro, which is very different from the old version (less cursive).&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>4) Minion Pro has been reworked from the previous Minion MM, though these differences are very subtle, they also include slight changes to the selection of instances; text changed from Type 1 Minion to Minion Pro will very likely reflow slightly.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>5) Utopia Standard had optical size variants added, and the &amp;quot;regular&amp;quot; design is not quite the same.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>6) The full list of families affected by noticeable changes in design or spacing are as follows:&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <column_a32f
+                jcr:created="{Date}2016-08-04T23:18:39.585-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-04T23:19:05.317-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-04T23:19:05.317-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_a32f>
+            <text_8564
+                jcr:created="{Date}2016-08-04T23:14:49.767-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-04T23:19:53.691-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Garamond&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Jenson&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14703779453370
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_a32f"/>
+            <text_bf00
+                jcr:created="{Date}2016-08-04T23:19:29.957-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-04T23:20:24.053-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>Caflisch Script&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Cronos&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14703779453371
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_a32f"/>
+            <text_376b
+                jcr:created="{Date}2016-08-04T23:19:37.695-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-04T23:20:51.994-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Kepler&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>MinionMyriadPoeticaSanvitoUtopia&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14703779195970
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_a32f"/>
+            <text_2_92bf09f3-efc2-48ae-b880-4a14c9db0c60
+                jcr:lastModified="{Date}2016-08-05T01:16:29.108-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div>&lt;span style=&quot;font-size: 31px; line-height: 33px;&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>7) Some other Adobe Originals had significant additions or modifications. In particular, Lithos Pro and Trajan Pro got real small caps to accompany their all-cap designs. Text entered in lower case will turn into these small caps if one switches from the Type 1 fonts to the OpenType versions. Text entered specifically as caps will remain the same.&lt;br>&#xa; All fonts with &amp;quot;Pro&amp;quot;&amp;nbsp;in their names had additional language support added. This will not cause issues moving from the old version to the new one, but of course if one takes text set using language support not present in the old fonts, and sets it in the old font, depending on the application being used, that text will either be missing (show notdefs) or fall back to some other font.&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>8) all alphabetic fonts had a euro added, if they didn't already have one (affected most fonts).&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>9) all alphabetic fonts had another 16 characters added, namely the 14 Mac &amp;quot;symbol substitution&amp;quot; characters, the litre and estimated symbols. &amp;quot;Symbol substitution&amp;quot;&amp;nbsp;describes a Mac-specific scheme whereby if a certain character was typed in a Type 1 font with StandardEncoding, both ATM&amp;nbsp;and the printer driver would get a generic glyph in the Times style from the Symbol font (it wasn't actually present in the original Type 1 font). In OpenType, instead of substituting a generic glyph from Symbol, the system infrastructure relies on a glyph being actually built into the font. Adobe's OpenType fonts all have font-specific versions of the former Symbol substitution glyphs, which have different widths than the glyphs from Symbol. The affected characters are as follows:&amp;nbsp;partialdiff, Delta (math), integral, pi (math), product (capital math pi), root, infinity, lozenge (diamond), summation (cap math Sigma), approxequal, ohm (capital math Omega), lessequal, greaterequal.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>10) all fonts that had accented characters which were unkerned had their kerning extended to deal with accented characters.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>11) if a typeface had supplemental fonts such as &amp;quot;expert sets,&amp;quot; swashes, or separate Cyrillic fonts, these were merged with the base fonts. The presence of such supplemental fonts can change behavior in typographically savvy apps, which will make use of more ligatures, or real small caps (instead of faking them). In such cases, several Type 1 fonts may equal a single OpenType font.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>12) Multiple master fonts were spun out into individual fonts for each former &amp;quot;instance&amp;quot; of the MM. In such cases, you have one MM font that equals a whole set of OpenType fonts.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>13) In cases where the original font was multiple master, and had additonal multiple master supplemental fonts, there is a complex many-to-many relationship between the original fonts and the OpenType fonts. Essentially, you have a set of fonts going in, and a set coming out, but they are divided up in an entirely different way.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot; style=&quot;text-align: right;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <horizontalrule_262b
+                jcr:created="{Date}2016-08-04T22:25:21.987-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-04T22:25:21.987-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <anchor_9bcf
+                jcr:created="{Date}2016-08-03T03:32:00.808-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-03T03:32:15.720-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/anchor"
+                anchorName="summary"/>
+            <column_4c48
+                jcr:created="{Date}2016-08-05T01:16:46.592-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-05T01:16:46.592-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-3of4;grid-span-1of4;"
+                bgColor=" "
+                layout="2;grid-span-3of4;grid-span-1of4;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-05T00:33:45.267-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_4c48>
+            <text_e227
+                jcr:created="{Date}2016-08-05T01:17:11.089-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-08T04:25:11.416-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&lt;span class=&quot;text-light&quot;>Summary of behavior changes and reflow issues&lt;/span>&lt;br>&#xa;&lt;/h3>&#xa;"
+                textIsRich="true"/>
+            <break_14703850066150
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_4c48"/>
+            <text_1d8
+                jcr:created="{Date}2016-08-05T01:17:37.046-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-08T04:29:32.192-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: right;&quot;>&lt;a href=&quot;#top&quot;>&lt;span class=&quot;text-light&quot;>To the top&lt;/span>&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14703850066151
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_4c48"/>
+            <text_3_bc9e94c0-ccb9-4a8e-bbf8-b2817e8ee22d
+                jcr:lastModified="{Date}2016-08-08T03:41:57.862-07:00"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>If all the following factors hold true, then you are unlikely to get significant reflow in moving from Adobe Type 1 fonts to their OpenType counterparts, though there are no guarantees of 100%&amp;nbsp;compatibility. (See above section for details on the reasons behind items 1 through 5.)&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;ol>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>you're using Adobe fonts, but not Adobe Originals&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>setting text in English&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>you're using non-accented characters&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>you're using only characters that were present in the previous fonts, and not using the former Symbol substitution characters&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>you're using applications (such as virtually all professional graphics applications) that base line spacing &lt;strong>solely&lt;/strong> on point size or leading, and don't use the bounding box of the font to determine standard line spacing&lt;/span>&lt;/li>&#xa;&lt;/ol>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>If you are using advanced applications that support OpenType layout features, the existence of the added typographic glyphs may contribute to changes in what is displayed. For example, the OpenType version of a font may have more &amp;quot;standard ligatures&amp;quot; than the Type 1 version. Since these ligatures are on by default in savvy applications, this can create differences (though the OpenType version will be better, typographically speaking).&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Similarly, there can be changes in the behavior of small caps between the Type 1 and OpenType versions of the font. With a Type 1 font, one had to switch to another font to get real small caps. If one simply used formatting in the application, the result would be 'faux' (fake) small caps, created by scaling the capitals. Faux small caps have stroke weights that are lighter than the rest of the font, and may be narrower in width. If one switches to an OpenType version of the same font, and it has real small caps merged into the font, and the application knows how to use them when they're available, the faux small caps will be switched for real ones. This is typographically preferable, but will likely result in wider text and possibly cause reflow.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Using office-level applications, reflow due to line spacing differences is more likely, thanks to item C5 above. The difference is because such applications typically use the font's bounding box to determine default line spacing. The added characters in the OpenType fonts can change the bounding box, especially in cases where the OpenType fonts merged what were formerly supplemental fonts in Type 1. The presence of swashes and/or ornaments in the OpenType font often accounts for the most serious line-spacing changes in office-level applications. NOTE: In applications where this is a problem, it can be reduced by setting the text using a specific point-based line spacing rather than the usual &amp;quot;single spacing&amp;quot; or &amp;quot;double spacing&amp;quot; kinds of options. If you can set the line spacing to a point-based value that is equal to the default line spacing, you should be able to preserve that line spacing when later switching to an OpenType font.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot; style=&quot;text-align: right;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14544550461840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_126b"/>
+            <column_b8cd
+                jcr:created="{Date}2016-08-03T03:32:26.687-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-03T05:43:27.002-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-03T05:43:27.002-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_b8cd>
+            <horizontalrule_9ea5
+                jcr:created="{Date}2016-08-03T03:49:41.776-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-03T03:49:41.776-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_932c
+                jcr:created="{Date}2016-08-03T03:34:38.288-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-03T03:36:27.666-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-03T03:36:27.666-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_932c>
+            <text_4b07
+                jcr:created="{Date}2016-08-03T03:38:19.929-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-03T03:38:19.929-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Learning&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers.html&quot;>Adobe Type Designers&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-team.html&quot;>Adobe Type Team&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-specimens.html&quot;>Type specimens&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-references-tips.html&quot;>Type reference materials&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-originals.html&quot;>Adobe Originals&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/opentype.html&quot;>OpenType&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14702205876750
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_932c"/>
+            <text_cd5b
+                jcr:created="{Date}2016-08-03T03:38:23.740-07:00"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-03T03:38:23.740-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Resources&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blog.typekit.com/&quot;>Type &amp;amp; Typekit blog&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blogs.adobe.com/CCJKType/&quot;>CJK Type blog (Asian fonts)&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype.html&quot;>Developer information&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype/afdko.html&quot;>Font Development Kit&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/install-instructions.html&quot;>Font installation instructions&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14702205876761
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_932c"/>
+            <text_b8e8
+                jcr:created="{Date}2016-09-01T05:41:08.009Z"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-09-01T05:41:08.009Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Help&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing Center&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/creative-cloud-fonts.html&quot;>CC Bundled Fonts&amp;nbsp;FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://typekit.com/help&quot;>Web Font FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/products/fontfolio/faq.html&quot;>Font Folio FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://forums.adobe.com/community/typography_fonts&quot;>Adobe Type user forums&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14702204782940
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_932c"/>
+            <column_4d28
+                jcr:created="{Date}2017-03-10T20:22:07.391Z"
+                jcr:createdBy="golee"
+                jcr:lastModified="{Date}2017-03-10T20:22:22.749Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                multiplier="6"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-03-10T20:22:22.749Z"
+                        jcr:lastModifiedBy="golee"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_4d28>
+            <text_5aa4
+                jcr:created="{Date}2017-03-10T20:22:30.427Z"
+                jcr:createdBy="golee"
+                jcr:lastModified="{Date}2017-04-26T23:27:36.796Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>More information&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/opentype/opentype-fonts-information.html&quot;>OpenType ReadMe&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/opentype/opentype-faq.html&quot;>OpenType FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/qna_japanese.pdf&quot; target=&quot;_blank&quot;>OpenType FAQ (Japanese)&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype.html&quot;>OpenType Developer Information&lt;br>&#xa;&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/PiFontInfo.pdf&quot; target=&quot;_blank&quot;>Pi Font Info&lt;/a>&lt;br>&#xa; &lt;a href=&quot;http://www.microsoft.com/typography/default.mspx&quot; target=&quot;_blank&quot;>Microsoft Typography&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14891773427620
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_4d28"/>
+            <break_14891773427631
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_4d28"/>
+            <end_14891773274030
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_4d28"/>
+            <end_14702203466920
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_b8cd"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2016-08-22T23:32:31.058-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2016-08-22T23:32:31.058-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-10-20T10:34:21.378Z"
+        cq:lastModifiedBy="21n57074"
+        cq:lastReplicated="{Date}2020-10-20T10:30:17.543Z"
+        cq:lastReplicatedBy="21n57074"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Whitepaper RFC"
+        jcr:uuid="23e8c630-37ce-401f-9be9-1baa81d1ffcf"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Adobe | Request for consultation"
+        distType="dist5"
+        faasFormPage="true"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideInSectionNav="true"
+        hideMerchandisingBar="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        marketSegmentRewrite="none"
+        metaDescription="Request for consultation"
+        modalSize="426x240"
+        pageTitle="Adobe Technical Communication Products and Solutions"
+        stagelastReplicated="23-Aug-2016 19:16"
+        stagelastReplicatedBy="wmyersta"
+        stageLastReplicationAction="ActivatedtoStage">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2016-08-10T12:55:22.717-07:00"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2016-08-10T12:55:22.717-07:00"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_5cb8
+                jcr:created="{Date}2016-02-10T00:16:07.323Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2020-10-20T10:24:08.504Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="6"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-10-20T10:24:08.504Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        fileReference="/content/dam/acom/en/subscription/DMANewsletter/Error.jpg"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_5cb8>
+            <text_a931
+                jcr:created="{Date}2016-02-10T00:17:00.565Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2020-10-20T10:25:58.328Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h2 style=&quot;text-align: center;&quot;>&lt;strong>Whitepaper Title&lt;/strong>&lt;/h2>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>Whitepaper short description- This space will be used for a short 2 line description of the whitepaper of similar length to give a sense of what the final layout will look like.&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14550633673320
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5cb8"/>
+            <column_dbfa
+                jcr:created="{Date}2016-02-10T00:19:38.369Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2016-02-22T23:36:13.722Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-02-22T23:36:13.722Z"
+                        jcr:lastModifiedBy="rikio"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_dbfa>
+            <faasform_7911
+                jcr:created="{Date}2016-02-10T00:20:42.894Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2020-10-20T10:34:21.370Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/faasform"
+                destinationURL="/content/acom/us/en/products/technicalcommunicationsuite/whitepaper-test/thank-you.html"
+                formLocale="en_us"
+                formSubType="2847"
+                formTemplate="12"
+                formType="2846"
+                intCampaignId="7011O000002dwbCQAQ"
+                modalID="false"
+                modalSize="426x240"
+                modalText="false"
+                modalTitle="false"
+                sku="3066"/>
+            <end_14550635884700
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_dbfa"/>
+        </contentbody>
+    </jcr:content>
+    <thank-you/>
+</jcr:root>

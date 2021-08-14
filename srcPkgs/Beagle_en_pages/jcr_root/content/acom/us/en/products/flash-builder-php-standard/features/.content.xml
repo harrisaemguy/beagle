@@ -1,0 +1,1880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-12-20T12:27:50.966Z"
+        cq:lastModifiedBy="kunsingh"
+        cq:lastReplicated="{Date}2017-03-24T17:06:59.381Z"
+        cq:lastReplicatedBy="handoo"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Features"
+        jcr:uuid="15a58745-f263-4a4c-a13b-5ea6edad824b"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="New Features | Adobe Font Folio"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideMerchandisingBar="inherit"
+        hidePromoComponent="inherit"
+        languageDirection="ltr"
+        marketSegmentRewrite="none"
+        marqueeStyle="newMarquee"
+        metaDescription="Get access to the latest features of Adobe Font Folio. With superior typefaces, OpenType flexibility and multilingual documents options."
+        modalSize="426x240"
+        pageTitle="Features"
+        seodescription=""
+        stagelastReplicated="06-Jan-2017 07:00"
+        stagelastReplicatedBy="kunsingh"
+        stageLastReplicationAction="ActivatedtoStage">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_126b
+                jcr:lastModified="{Date}2016-08-03T00:23:08.231-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-03T00:23:08.231-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_126b>
+            <column_dfda
+                jcr:created="{Date}2016-09-06T09:27:45.535Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-09-06T09:40:14.682Z"
+                jcr:lastModifiedBy="gurlkaur"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of2;grid-span-1of2;"
+                bgColor=" "
+                layout="2;grid-span-1of2;grid-span-1of2;"
+                layoutMode="spatial"
+                multiplier="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-06T09:40:14.682Z"
+                        jcr:lastModifiedBy="gurlkaur"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_dfda>
+            <text_a08f
+                jcr:created="{Date}2016-09-06T10:14:48.797Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-25T07:19:17.414Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Jump to:&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;#MobileApplication&quot; target=&quot;_self&quot;>Build mobile applications&lt;/a>&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;#CodeFaster&quot; target=&quot;_self&quot;>Code faster&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;#DesignDevelopWorkflow&quot;>Design-develop workflow&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;#LargeProjectDev&quot;>Large project development&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <anchor_802a
+                jcr:created="{Date}2016-09-06T09:49:12.317Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-24T10:15:35.424Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/anchor"
+                anchorName="MobileApplication"/>
+            <break_14731548146970
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_dfda"/>
+            <text_6f8b
+                jcr:created="{Date}2016-09-06T10:17:30.460Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-25T07:19:26.298Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;#ExpandedPlatformSupport&quot; target=&quot;_self&quot;>Expanded platform support&lt;/a>&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;#RichAppDesign&quot;>Rich application design&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;#PhpDev&quot; target=&quot;_self&quot;>PHP development&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14731548146971
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_dfda"/>
+            <horizontalrule_540f
+                jcr:created="{Date}2016-09-06T11:21:09.185Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-09-06T11:21:09.185Z"
+                jcr:lastModifiedBy="gurlkaur"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_da70
+                jcr:created="{Date}2016-08-05T00:27:02.499-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-05T00:27:43.918-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-2of3;grid-span-1of3;"
+                bgColor=" "
+                layout="2;grid-span-2of3;grid-span-1of3;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-05T00:27:43.918-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_da70>
+            <text_97c8
+                jcr:created="{Date}2016-08-05T00:28:03.894-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-11-24T10:37:34.109Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>Build mobile applications&lt;br>&#xa;&lt;/h4>&#xa;"
+                textIsRich="true"/>
+            <break_14703820639370
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_da70"/>
+            <text_e57b
+                jcr:created="{Date}2016-08-05T00:28:09.945-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-08T03:56:11.988-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: right;&quot;>&lt;a href=&quot;#top&quot;>&lt;span class=&quot;text-light&quot;>To the top&lt;/span>&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14703820225200
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_da70"/>
+            <text_3bf8
+                jcr:created="{Date}2016-11-24T10:37:55.401Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T23:31:53.490Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Use Adobe® Flash® Builder™ 4.5 software to build mobile Flex and ActionScript® applications for leading mobile platforms using a common codebase.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <column_5aed
+                jcr:created="{Date}2016-09-06T09:43:56.463Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-24T16:45:16.482Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-24T16:45:16.482Z"
+                        jcr:lastModifiedBy="handoo"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_5aed>
+            <image_8cbc
+                jcr:created="{Date}2016-11-24T17:39:37.587Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T07:57:50.885Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Mobile app development for multiple platforms"
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_mobile_app_dev_for_multpltfrms_147x83.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T07:57:50.885Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_8cbc>
+            <text_e417
+                jcr:created="{Date}2016-09-06T09:45:18.523Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-25T07:20:11.239Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Mobile app development for multiple platforms&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Build standalone&amp;nbsp;Flex/ActionScript® applications for one or more mobile platforms (Android™, BlackBerry®, or iOS). Design and Code views support mobile development using mobile-ready components.&lt;/span>&lt;/div>&#xa;"/>
+            <break_14731550364770
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_5aed"/>
+            <image_59a1
+                jcr:created="{Date}2016-11-24T17:39:26.408Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T07:58:08.095Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Mobile app debugging"
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_preview_debug_mobile_apps_147x83.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T07:58:08.095Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_59a1>
+            <text_2add
+                jcr:created="{Date}2016-09-06T09:46:05.230Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-25T07:20:28.993Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Mobile app debugging&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Debug and test applications on locally connected mobile devices or a mobile emulator.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14731550973660
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_5aed"/>
+            <image_4e73
+                jcr:created="{Date}2016-11-24T17:39:22.195Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T07:58:26.507Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Mobile application packaging and signing"
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_mobile_app_package_ship_147x83.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T07:58:26.507Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_4e73>
+            <text_b664
+                jcr:created="{Date}2016-09-06T09:46:17.894Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-25T07:20:37.561Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Mobile application packaging and signing&lt;/strong>&lt;br>&#xa; Deploy, package, and sign required resources as platform-specific installer files for upload to a mobile application distribution site or store.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14800059165030
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_5aed"/>
+            <image_92f9
+                jcr:created="{Date}2016-11-24T17:39:17.710Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T07:58:44.401Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Mobile apps for Android, BlackBerry Tablet OS, and iOS"
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_mobapps_android_ios_rim_147x83.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T07:58:44.401Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_92f9>
+            <text_f525
+                jcr:created="{Date}2016-11-24T16:51:07.505Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T07:20:44.624Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Mobile apps for Android, BlackBerry Tablet OS, and iOS&lt;/strong>&lt;br>&#xa; Benefit from new support for mobile application development and testing, enabling the use of a common codebase to build apps for Android™, BlackBerry® Tablet OS, and iOS while sharing code from web applications.&amp;nbsp;&lt;/span>&lt;/div>&#xa;"/>
+            <end_14731550364781
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5aed"/>
+            <anchor_a737
+                jcr:created="{Date}2016-09-06T09:54:11.012Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-24T22:54:03.043Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/anchor"
+                anchorName="CodeFaster"/>
+            <horizontalrule_7049
+                jcr:created="{Date}2016-08-04T07:14:29.982-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-04T07:14:29.982-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_92fe
+                jcr:created="{Date}2016-09-06T10:24:33.512Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-24T22:54:29.251Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-2of3;grid-span-1of3;"
+                bgColor=" "
+                layout="2;grid-span-2of3;grid-span-1of3;"
+                layoutMode="spatial"
+                multiplier="3"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-24T22:54:29.251Z"
+                        jcr:lastModifiedBy="handoo"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_92fe>
+            <text_e830
+                jcr:created="{Date}2016-09-06T10:24:58.790Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-24T16:54:08.445Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>Code faster&lt;br>&#xa;&lt;/h4>&#xa;"/>
+            <break_14731574735310
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_92fe"/>
+            <text_34d
+                jcr:created="{Date}2016-09-06T10:25:35.833Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-09-06T10:25:35.833Z"
+                jcr:lastModifiedBy="gurlkaur"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: right;&quot;>&lt;a href=&quot;#top&quot;>&lt;span class=&quot;text-light&quot;>To the top&lt;/span>&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14731574735321
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_92fe"/>
+            <text_91be
+                jcr:created="{Date}2016-11-24T17:29:14.398Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T23:32:04.044Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Accelerate coding using powerful, improved intelligent code editing.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <column_9e3e
+                jcr:created="{Date}2016-09-06T09:54:20.820Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-24T17:53:20.366Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                multiplier="8"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b8x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-24T17:53:20.366Z"
+                        jcr:lastModifiedBy="handoo"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_9e3e>
+            <image_d3d2
+                jcr:created="{Date}2016-11-24T17:38:52.519Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T07:59:05.447Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Metadata code completion"
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_meta_data_code_completion_147x83.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T07:59:05.447Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d3d2>
+            <text_24a4
+                jcr:created="{Date}2016-09-06T09:56:43.114Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-25T07:20:53.274Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Metadata code completion&lt;/strong>&lt;br>&#xa; Benefit from metadata code completion that enhances existing content assist functionality by &amp;nbsp;providing suggestions for both Adobe Flex® Software Development Kit&amp;nbsp;(SDK) and custom metadata tags.&amp;nbsp;&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14731556608360
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_9e3e"/>
+            <image_eb27
+                jcr:created="{Date}2016-11-24T17:39:01.396Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T07:59:25.791Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Code generation"
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_codegeneration_147x83.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T07:59:25.791Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_eb27>
+            <text_8489
+                jcr:created="{Date}2016-09-06T09:56:54.409Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-25T07:20:59.929Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Code generation&lt;/strong>&lt;br>&#xa; Use QuickAssist/Fix to rename and manipulate variables, generate getters/setters and event handlers, organize imports, and more. Use the override/implements feature to define methods from a superclass or interface.&amp;nbsp;&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14731556608371
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_9e3e"/>
+            <image_4714
+                jcr:created="{Date}2016-11-24T17:39:05.581Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T07:59:43.392Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Additional coding improvements"
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_additional_coding_improvements_147x83.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T07:59:43.392Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_4714>
+            <text_30f6
+                jcr:created="{Date}2016-09-06T09:56:59.547Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-25T07:21:05.376Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Additional coding improvements&lt;/strong>&lt;br>&#xa; Accelerate your coding with block selection and edit mode; next/previous subword navigation, code formatting of MXML documents; CSS class reference content assist, navigation, and refactoring, and more.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14800066380320
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_9e3e"/>
+            <image_eeac
+                jcr:created="{Date}2016-11-24T17:39:09.982Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T08:00:24.622Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Customizable Flash Builder "
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_customizable_flashbuilder_147x83.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T08:00:24.622Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_eeac>
+            <text_17df
+                jcr:created="{Date}2016-11-24T17:34:35.694Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T07:21:12.094Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Customizable Flash Builder &lt;/strong>&lt;br>&#xa; Customize how Flash Builder generates MXML/ActionScript code using code templates, specify trigger keys for content assist and auto-complete suggestions, and specify Flash Player versions for launch/debug.&amp;nbsp;&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14731556608382
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_9e3e"/>
+            <column_aa05
+                jcr:created="{Date}2016-11-24T17:36:36.544Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T17:53:50.442Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                multiplier="8"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b8x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-24T17:53:50.442Z"
+                        jcr:lastModifiedBy="handoo"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_aa05>
+            <image_ffcf
+                jcr:created="{Date}2016-11-24T17:39:50.783Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T08:00:43.520Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Powerful code editing"
+                fileReference="/content/dam/acom/us/en/contribute/fb4.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T08:00:43.520Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_ffcf>
+            <text_949c
+                jcr:created="{Date}2016-11-24T17:37:48.200Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T07:21:19.806Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Powerful code editing&lt;/strong>&lt;br>&#xa; Speed coding through syntax coloring, statement completion, code collapse, refactoring support, live highlighting of invalid references, and interactive &lt;br>&#xa; step-through debugging.&lt;/span>&lt;/div>&#xa;"/>
+            <break_14800090305510
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_aa05"/>
+            <image_9943
+                jcr:created="{Date}2016-11-24T17:39:56.459Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T08:00:58.441Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Refactoring and ASDoc support"
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_refactoring_AsDoc_support_147x83.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T08:00:58.441Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_9943>
+            <text_bdbb
+                jcr:created="{Date}2016-11-24T17:38:20.447Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T07:21:41.078Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Refactoring and ASDoc support&lt;/strong>&lt;br>&#xa; Quickly navigate through code or restructuring by renaming all references to a class, method, or variable thanks to refactoring support. Display comments in MXML and ActionScript editors using ASDoc.&lt;/span>&lt;/div>&#xa;"/>
+            <break_14800090305511
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_aa05"/>
+            <image_2504
+                jcr:created="{Date}2016-11-24T17:40:00.991Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T08:01:17.733Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Data-centric development"
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_data_centric_development_147x83.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T08:01:17.733Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_2504>
+            <text_948d
+                jcr:created="{Date}2016-11-24T17:38:05.360Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T07:21:35.937Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Data-centric development&lt;/strong>&lt;br>&#xa; Introspect Java, PHP, Adobe ColdFusion®, REST, and SOAP services to display methods and properties in the new Data/Service Explorer. Drag and drop to bind methods to user interface components.&lt;/span>&lt;/div>&#xa;"/>
+            <break_14800090305522
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_aa05"/>
+            <image_754f
+                jcr:created="{Date}2016-11-24T17:40:05.571Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T08:01:36.937Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Invalid reference live highlighting"
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_invalid_reference_live_highlighting_147x83.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T08:01:36.937Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_754f>
+            <text_8de
+                jcr:created="{Date}2016-11-24T17:37:52.315Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T07:21:49.087Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Invalid reference live highlighting&lt;/strong>&lt;br>&#xa; See references to invalid variables, methods, classes, and interfaces as you are typing in the code editor, and then use the Quick Assist/Fix features to generate stub code.&lt;/span>&lt;/div>&#xa;"/>
+            <end_14800089965800
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_aa05"/>
+            <column_8c21
+                jcr:created="{Date}2016-11-24T17:35:19.174Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T17:36:08.880Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-24T17:36:08.880Z"
+                        jcr:lastModifiedBy="handoo"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_8c21>
+            <image_ebe
+                jcr:created="{Date}2016-11-24T17:40:16.286Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T08:01:52.404Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Code templates"
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_code_templates_147x83.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T08:01:52.404Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_ebe>
+            <text_2588
+                jcr:created="{Date}2016-11-24T17:38:31.977Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T07:21:58.373Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Code templates&lt;/strong>&lt;br>&#xa; Use over 100 best-practice code templates (aka snippets) for ActionScript, MXML, and CSS. Review and insert templates using code assist. Create custom templates and import or export them for sharing within teams.&lt;/span>&lt;/div>&#xa;"/>
+            <break_14800089689330
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_8c21"/>
+            <image_d78
+                jcr:created="{Date}2016-11-24T17:40:20.875Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T08:02:08.924Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Integrated development and debugging"
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_integrated_development_and_debug_147x83.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T08:02:08.924Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d78>
+            <text_d376
+                jcr:created="{Date}2016-11-24T17:38:36.687Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T07:22:11.386Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Integrated development and debugging&lt;/strong>&lt;br>&#xa; Develop and debug Flash, Flex, and PHP application components in an integrated development environment.&lt;/span>&lt;/div>&#xa;"/>
+            <break_14800089689341
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_8c21"/>
+            <break_14800089689342
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_8c21"/>
+            <end_14800089192000
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_8c21"/>
+            <anchor_7545
+                jcr:created="{Date}2016-09-06T10:03:41.535Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-24T22:38:14.027Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/anchor"
+                anchorName="DesignDevelopWorkflow"/>
+            <horizontalrule_db07
+                jcr:created="{Date}2016-09-06T10:03:14.648Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-09-06T10:03:14.648Z"
+                jcr:lastModifiedBy="gurlkaur"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_d6a6
+                jcr:created="{Date}2016-09-06T10:26:20.675Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-24T22:54:59.203Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-2of3;grid-span-1of3;"
+                bgColor=" "
+                layout="2;grid-span-2of3;grid-span-1of3;"
+                layoutMode="spatial"
+                multiplier="3"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-24T22:54:59.203Z"
+                        jcr:lastModifiedBy="handoo"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_d6a6>
+            <text_859f
+                jcr:created="{Date}2016-09-06T10:26:53.576Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-24T17:40:42.605Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>Design-develop workflow&lt;br>&#xa;&lt;/h4>&#xa;"/>
+            <break_14731575806960
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_d6a6"/>
+            <text_a96b
+                jcr:created="{Date}2016-09-06T10:27:34.302Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-09-06T10:27:34.302Z"
+                jcr:lastModifiedBy="gurlkaur"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: right;&quot;>&lt;a href=&quot;#top&quot;>&lt;span class=&quot;text-light&quot;>To the top&lt;/span>&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14731575806971
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_d6a6"/>
+            <text_9bb6
+                jcr:created="{Date}2016-11-24T17:40:54.949Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T23:32:17.652Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Speed up development by working in parallel with designers using Adobe Flash Catalyst® software.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <column_7e67
+                jcr:created="{Date}2016-09-06T10:01:27.546Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-24T16:57:48.066Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-24T16:57:48.066Z"
+                        jcr:lastModifiedBy="handoo"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_7e67>
+            <image_7649
+                jcr:created="{Date}2016-11-24T17:41:04.588Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T08:03:06.405Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Bidirectional designer/developer workflow"
+                fileReference="/content/dam/acom/us/en/contribute/fb-features-bidirectional-workflow-147x83.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T08:03:06.405Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_7649>
+            <text_4009
+                jcr:created="{Date}2016-09-06T10:04:27.105Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-25T07:22:55.330Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Bidirectional designer/developer workflow&lt;/strong>&lt;br>&#xa; Take advantage of new support in Flash Builder 4.5 and Adobe Flash Catalyst® CS5.5 software that enables designers to open, make changes to, and save Flex projects that were either created or previously edited in Flash Builder.&amp;nbsp;&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14731560875620
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_7e67"/>
+            <image_69cc
+                jcr:created="{Date}2016-11-24T17:41:16.639Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T08:03:20.821Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Custom Spark components for designer skinning"
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_custom_spark_components_for_designer_skinning_14.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T08:03:20.821Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_69cc>
+            <text_6627
+                jcr:created="{Date}2016-09-06T10:04:39.685Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-25T07:23:02.202Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Custom Spark components for designer skinning&lt;/strong>&lt;br>&#xa; Rapidly prototype user interface elements and build component business logic by creating customSpark component classes. Then use Flash Catalyst to convert visual artwork and skin components.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14731560875631
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_7e67"/>
+            <image_dffd
+                jcr:created="{Date}2016-11-24T17:41:24.909Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T08:03:39.442Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Roundtrip editing in Flash Catalyst"
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_roundtrip_editing_in_FlashCatalyst_147x83.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T08:03:39.442Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_dffd>
+            <text_c6a2
+                jcr:created="{Date}2016-09-06T10:04:44.487Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-25T07:23:08.947Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Roundtrip editing in Flash Catalyst&lt;/strong>&lt;br>&#xa; Use the new edit in Flash Catalyst feature to quickly make changes to component skins. Changes made in Flash Catalyst CS5.5 are automatically reflected in Flash Builder.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14800066680920
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_7e67"/>
+            <end_14731560875632
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_7e67"/>
+            <anchor_1077
+                jcr:created="{Date}2016-09-06T10:07:32.519Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-24T22:38:43.953Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/anchor"
+                anchorName="LargeProjectDev"/>
+            <horizontalrule_27d5
+                jcr:created="{Date}2016-09-06T10:07:30.376Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-09-06T10:07:30.376Z"
+                jcr:lastModifiedBy="gurlkaur"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_ca81
+                jcr:created="{Date}2016-09-06T10:28:32.523Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-24T22:55:53.962Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-2of3;grid-span-1of3;"
+                bgColor=" "
+                layout="2;grid-span-2of3;grid-span-1of3;"
+                layoutMode="spatial"
+                multiplier="3"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-24T22:55:53.962Z"
+                        jcr:lastModifiedBy="handoo"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_ca81>
+            <text_a572
+                jcr:created="{Date}2016-09-06T10:28:41.137Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-24T17:41:48.089Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>Large project development&lt;br>&#xa;&lt;/h4>&#xa;"/>
+            <break_14731577125550
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_ca81"/>
+            <text_9f6f
+                jcr:created="{Date}2016-09-06T10:29:24.437Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-09-06T10:29:24.437Z"
+                jcr:lastModifiedBy="gurlkaur"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: right;&quot;>&lt;a href=&quot;#top&quot;>&lt;span class=&quot;text-light&quot;>To the top&lt;/span>&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14731577125561
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_ca81"/>
+            <text_66f4
+                jcr:created="{Date}2016-11-24T17:42:18.062Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T23:32:31.355Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Work with large projects more efficiently to speed development.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <column_32d3
+                jcr:created="{Date}2016-09-06T10:07:36.805Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-24T16:58:15.636Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-24T16:58:15.636Z"
+                        jcr:lastModifiedBy="handoo"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_32d3>
+            <image_9d3b
+                jcr:created="{Date}2016-11-24T17:42:07.769Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T08:04:04.213Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Design View improvements"
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_designviewimprovements_147x83.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T08:04:04.213Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_9d3b>
+            <text_1714
+                jcr:created="{Date}2016-09-06T10:09:39.859Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-25T07:23:17.384Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Design View improvements&lt;/strong>&lt;br>&#xa; Speed up development with Design View enhancements such as rendering improvements for complex projects, auto-collapse of data-binding expressions, warnings for incompatible SWCs, visual feedback for drag/drop operations, and improved performance.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14731564568270
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_32d3"/>
+            <image_377c
+                jcr:created="{Date}2016-11-24T17:42:12.039Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T08:04:20.138Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Improved large-application performance"
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_improved_performance_large_application_dev_147x8.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T08:04:20.138Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_377c>
+            <text_e471
+                jcr:created="{Date}2016-09-06T10:09:44.789Z"
+                jcr:createdBy="gurlkaur"
+                jcr:lastModified="{Date}2016-11-25T07:23:23.874Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Improved large-application performance&lt;/strong>&lt;br>&#xa; See up to a 65% reduction for refactoring operations on projects with a large number of dependent libraries, a significant reduction in memory used when profiling complex applications, and improved profiler responsiveness.&amp;nbsp;&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14731564568281
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_32d3"/>
+            <break_14800066956590
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_32d3"/>
+            <end_14731564568282
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_32d3"/>
+            <anchor_797a
+                jcr:created="{Date}2016-11-24T22:39:00.916Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T22:39:12.984Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/anchor"
+                anchorName="ExpandedPlatformSupport"/>
+            <horizontalrule_96dc
+                jcr:created="{Date}2016-11-24T17:54:13.034Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T17:54:13.034Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_624c
+                jcr:created="{Date}2016-11-24T17:54:25.380Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T22:56:36.147Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-2of3;grid-span-1of3;"
+                bgColor=" "
+                layout="2;grid-span-2of3;grid-span-1of3;"
+                layoutMode="spatial"
+                multiplier="3"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-24T22:56:36.147Z"
+                        jcr:lastModifiedBy="handoo"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_624c>
+            <text_49c0
+                jcr:created="{Date}2016-11-24T17:57:20.178Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T17:57:51.765Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>Expanded platform support&lt;br>&#xa;&lt;/h4>&#xa;"/>
+            <break_14800101008370
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_624c"/>
+            <text_defe
+                jcr:created="{Date}2016-11-24T17:57:28.711Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T17:57:28.711Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: right;&quot;>&lt;a href=&quot;#top&quot;>&lt;span class=&quot;text-light&quot;>To the top&lt;/span>&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14800100654200
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_624c"/>
+            <text_a464
+                jcr:created="{Date}2016-11-24T17:55:17.862Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T23:32:58.939Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Get the latest platform support in Flash Builder 4.5.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <column_5cb1
+                jcr:created="{Date}2016-11-24T17:55:40.872Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T17:56:21.704Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-24T17:56:21.704Z"
+                        jcr:lastModifiedBy="handoo"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_5cb1>
+            <image_95a3
+                jcr:created="{Date}2016-11-24T17:56:40.913Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T08:04:41.825Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Updated platform support"
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_updated_platform_support_147x83.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T08:04:41.825Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_95a3>
+            <text_2c26
+                jcr:created="{Date}2016-11-24T17:57:07.998Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T07:23:34.626Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Updated platform support&lt;/strong>&lt;br>&#xa; Take advantage of new platform support for Eclipse™ 3.6 (Helios) and the standard Eclipse for Java™ distribution; the Cocoa version of Eclipse on Mac OS X; and Adobe Flash Player 10.1, Adobe AIR 2.5, and Flex SDK 4.5.&lt;/span>&lt;/div>&#xa;"/>
+            <break_14800101817600
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_5cb1"/>
+            <image_dbab
+                jcr:created="{Date}2016-11-24T17:56:44.960Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T08:05:00.180Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="New Spark components"
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_new_spark_component_147x83.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T08:05:00.180Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_dbab>
+            <text_b23c
+                jcr:created="{Date}2016-11-24T17:57:01.109Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T07:23:47.849Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>New Spark components&lt;/strong>&lt;br>&#xa; Use powerful new Spark components in Flex SDK 4.5, including the new Spark Datagrid, Form, and Image controls for web/desktop applications.&lt;/span>&lt;/div>&#xa;"/>
+            <break_14800101817611
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_5cb1"/>
+            <image_7dcb
+                jcr:created="{Date}2016-11-24T17:56:48.940Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T08:05:17.094Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Desktop Adobe AIR applications"
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_desktop_air_app2_147x83.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T08:05:17.094Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_7dcb>
+            <text_8a85
+                jcr:created="{Date}2016-11-24T17:56:56.165Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T07:23:56.200Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Desktop Adobe AIR applications&lt;/strong>&lt;br>&#xa; Build, debug, package, and sign AIR applications. Adobe AIR lets you quickly develop rich Internet applications (RIAs) for the desktop with the same skills and codebase you use to build RIAs for the browser.&lt;/span>&lt;/div>&#xa;"/>
+            <break_14800101817622
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_5cb1"/>
+            <end_14800101409330
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5cb1"/>
+            <anchor_aec3
+                jcr:created="{Date}2016-11-24T22:39:21.736Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T22:40:53.656Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/anchor"
+                anchorName="RichAppDesign"/>
+            <horizontalrule_e285
+                jcr:created="{Date}2016-11-24T22:10:08.116Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T22:10:08.116Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_91d6
+                jcr:created="{Date}2016-11-24T22:10:12.647Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T22:57:08.557Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-2of3;grid-span-1of3;"
+                bgColor=" "
+                layout="2;grid-span-2of3;grid-span-1of3;"
+                layoutMode="spatial"
+                multiplier="3"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-24T22:57:08.557Z"
+                        jcr:lastModifiedBy="handoo"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_91d6>
+            <text_50bb
+                jcr:created="{Date}2016-11-24T22:12:48.899Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T22:17:50.698Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>Rich application design&lt;br>&#xa;&lt;/h4>&#xa;"/>
+            <break_14800254883890
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_91d6"/>
+            <text_b010
+                jcr:created="{Date}2016-11-24T22:13:11.097Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T22:13:11.097Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: right;&quot;>&lt;a href=&quot;#top&quot;>&lt;span class=&quot;text-light&quot;>To the top&lt;/span>&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14800254394290
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_91d6"/>
+            <text_5bbd
+                jcr:created="{Date}2016-11-24T22:10:31.227Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T23:33:14.759Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Lay out and customize expressive user interface behaviors and controls.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <column_543f
+                jcr:created="{Date}2016-11-24T22:10:39.384Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T22:12:29.316Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-24T22:12:29.316Z"
+                        jcr:lastModifiedBy="handoo"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_543f>
+            <image_7dac
+                jcr:created="{Date}2016-11-24T22:13:45.570Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T08:05:39.636Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Rich visual layout"
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_rich_visual_layout_147x83.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T08:05:39.636Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_7dac>
+            <text_1865
+                jcr:created="{Date}2016-11-24T22:14:12.962Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T07:24:41.256Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Rich visual layout&lt;/strong>&lt;br>&#xa; Visually design and preview user interface layout, appearance, and behavior using a rich library of built-in components. Extend the built-in Flex framework &lt;br>&#xa; components or create new ones as needed.&amp;nbsp;&lt;/span>&lt;/div>&#xa;"/>
+            <break_14800255493630
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_543f"/>
+            <image_8c50
+                jcr:created="{Date}2016-11-24T22:13:40.811Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T08:05:56.518Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Interactive data visualization"
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_interactive_data_visualization_147x83.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T08:05:56.518Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_8c50>
+            <text_a427
+                jcr:created="{Date}2016-11-24T22:14:07.648Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T07:24:48.632Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Interactive data visualization&lt;/strong>&lt;br>&#xa; Create data dashboards and interactive data analysis by dragging and dropping a chart type and linking it to a data source. Use the powerful Advanced Datagrid to enable users to explore complex data.&lt;/span>&lt;/div>&#xa;"/>
+            <break_14800255493641
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_543f"/>
+            <image_d12
+                jcr:created="{Date}2016-11-24T22:13:36.216Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T08:06:13.371Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Skinning and styling"
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_skinning_and_styling_147x83.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T08:06:13.371Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d12>
+            <text_ff72
+                jcr:created="{Date}2016-11-24T22:14:02.713Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T07:24:56.334Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Skinning and styling&lt;/strong>&lt;br>&#xa; Customize application appearance using CSS and graphical property editors. Set commonly used properties and preview the results in Design View. Browse themes and apply them to projects with the Theme Browser.&lt;/span>&lt;/div>&#xa;"/>
+            <break_14800255493642
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_543f"/>
+            <image_cf90
+                jcr:created="{Date}2016-11-24T22:13:30.994Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T08:06:29.939Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Superior user experience"
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_superior_user_experience_147x83.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T08:06:29.939Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_cf90>
+            <text_bdb4
+                jcr:created="{Date}2016-11-24T22:13:58.109Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T07:25:03.789Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Superior user experience&lt;/strong>&lt;br>&#xa; Differentiate your data-driven PHP applications with superior user experiences.&amp;nbsp;&lt;/span>&lt;/div>&#xa;"/>
+            <end_14800255190070
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_543f"/>
+            <anchor_8621
+                jcr:created="{Date}2016-11-24T22:39:48.536Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T22:41:12.019Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/anchor"
+                anchorName="PhpDev"/>
+            <horizontalrule_3f17
+                jcr:created="{Date}2016-11-24T22:11:03.586Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T22:11:03.586Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_6f62
+                jcr:created="{Date}2016-11-24T22:14:32.199Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T22:57:42.019Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-2of3;grid-span-1of3;"
+                bgColor=" "
+                layout="2;grid-span-2of3;grid-span-1of3;"
+                layoutMode="spatial"
+                multiplier="3"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-24T22:57:42.019Z"
+                        jcr:lastModifiedBy="handoo"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_6f62>
+            <text_8df8
+                jcr:created="{Date}2016-11-24T22:17:15.645Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T22:20:21.956Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>PHP development&lt;br>&#xa;&lt;/h4>&#xa;"/>
+            <break_14800256996960
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_6f62"/>
+            <text_3d99
+                jcr:created="{Date}2016-11-24T22:17:24.529Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T22:17:24.529Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: right;&quot;>&lt;a href=&quot;#top&quot;>&lt;span class=&quot;text-light&quot;>To the top&lt;/span>&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14800256722440
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_6f62"/>
+            <text_43db
+                jcr:created="{Date}2016-11-24T22:17:04.243Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T23:33:27.018Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Speed up development using Flash Builder with Zend Studio software thanks to integrated Flex/PHP tooling.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <column_4759
+                jcr:created="{Date}2016-11-24T22:15:27.959Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-24T22:16:14.769Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-24T22:16:14.769Z"
+                        jcr:lastModifiedBy="handoo"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_4759>
+            <image_2b7b
+                jcr:created="{Date}2016-11-24T22:16:30.549Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T08:06:51.842Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Integrated copy of Zend Studio 8"
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_integrated_copy_of_zendstudio_147x83.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T08:06:51.842Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_2b7b>
+            <text_fb9a
+                jcr:created="{Date}2016-11-24T22:16:56.338Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T07:25:14.722Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Integrated copy of Zend Studio 8&lt;/strong>&lt;br>&#xa; Create Flex/PHP projects using a wizard, introspect PHP classes, and debug using the integrated debugger. Develop, test, and debug faster, troubleshoot issues quickly and improve team collaboration.&lt;/span>&lt;/div>&#xa;"/>
+            <break_14800257748130
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_4759"/>
+            <image_2598
+                jcr:created="{Date}2016-11-24T22:16:34.927Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T08:07:10.474Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Quick problem finding and resolution"
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_quick_problem_finding_and_resolution_147x83.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T08:07:10.474Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_2598>
+            <text_1b6
+                jcr:created="{Date}2016-11-24T22:16:51.171Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T07:25:21.833Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Quick problem finding and resolution&lt;/strong>&lt;br>&#xa; Benefit from comprehensive PHP and JavaScript debugging, PHP profiling, built-in PHP unit testing, and Zend Server integration for seamless application monitoring and troubleshooting.&lt;/span>&lt;/div>&#xa;"/>
+            <break_14800257748141
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_4759"/>
+            <image_f7ab
+                jcr:created="{Date}2016-11-24T22:16:39.261Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T08:07:34.988Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="PHP developer collaboration"
+                fileReference="/content/dam/acom/us/en/contribute/fb_features_php_collaboration_147x83.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-25T08:07:34.988Z"
+                    jcr:lastModifiedBy="handoo"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_f7ab>
+            <text_6aa0
+                jcr:created="{Date}2016-11-24T22:16:46.330Z"
+                jcr:createdBy="handoo"
+                jcr:lastModified="{Date}2016-11-25T07:25:29.214Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>PHP developer collaboration&lt;/strong>&lt;br>&#xa; Improve collaboration between project members with the robust, team-oriented PHP development features in Zend Studio.&lt;/span>&lt;/div>&#xa;"/>
+            <break_14800257748152
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_4759"/>
+            <end_14800257280010
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_4759"/>
+            <end_14544550461840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_126b"/>
+            <column_4dd3
+                jcr:created="{Date}2016-09-05T19:43:01.077Z"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-09-05T19:43:01.077Z"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="1"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v1x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-01T08:07:47.749Z"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_4dd3>
+            <horizontalrule_49a4
+                jcr:created="{Date}2016-09-05T19:43:06.736Z"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-09-05T19:43:06.736Z"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_e7e4
+                jcr:created="{Date}2016-09-05T19:43:10.435Z"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-09-05T19:44:32.274Z"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-05T19:44:32.274Z"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_e7e4>
+            <text_be65
+                jcr:created="{Date}2016-09-06T07:59:44.108Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-24T22:25:37.826Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Learning&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/flex/testdrive.html&quot; target=&quot;_self&quot;>Flex Test Drive&lt;/a>&lt;br>&#xa;&lt;a href=&quot;http://www.adobe.com/devnet/flex/testdrivemobile.html&quot; target=&quot;_self&quot;>Flex Test Drive for Mobile&lt;/a> &lt;br>&#xa;&lt;a href=&quot;http://www.adobe.com/devnet/flex/tourdeflex.html&quot; target=&quot;_self&quot;>Explore what Flex can do&lt;/a>&lt;br>&#xa;&lt;a href=&quot;http://www.adobe.com/devnet/flex/videotraining/&quot; target=&quot;_self&quot;>Free online Flex training&lt;/a>&lt;br>&#xa;&lt;a href=&quot;http://www.adobe.com/flashplatform/benefits/&quot; target=&quot;_self&quot;>Benefits of RIAs&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14731046722900
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_e7e4"/>
+            <text_551e
+                jcr:created="{Date}2016-09-06T07:59:46.412Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-24T22:27:37.818Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Help&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/support/flashbuilder/&quot; target=&quot;_self&quot;>Help and support&lt;/a>&lt;br>&#xa; &lt;a href=&quot;http://www.adobe.com/devnet/flash-builder/documentation.html&quot; target=&quot;_self&quot;>Documentation&lt;/a>&lt;br>&#xa; &lt;a href=&quot;http://forums.adobe.com/community/flash_builder&quot; target=&quot;_self&quot;>User forums&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14731046722901
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_e7e4"/>
+            <text_64ce
+                jcr:created="{Date}2016-09-06T07:59:48.485Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-12-20T12:27:50.912Z"
+                jcr:lastModifiedBy="kunsingh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Resources&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://gaming.adobe.com/&quot; target=&quot;_blank&quot;>Adobe Gaming&lt;/a>&lt;br>&#xa; &lt;a href=&quot;http://www.adobe.com/devnet/flex.html&quot; target=&quot;_self&quot;>Developer Center&lt;/a>&lt;br>&#xa; &lt;a href=&quot;http://flex.apache.org/&quot; target=&quot;_blank&quot;>Flex.org&lt;/a>&lt;br>&#xa; &lt;a href=&quot;http://www.adobe.com/products/flex/related/&quot; target=&quot;_self&quot;>Ecosystem partners&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14731046722912
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_e7e4"/>
+            <text_178c
+                jcr:created="{Date}2016-09-05T19:43:26.254Z"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-11-25T07:15:18.681Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Follow us&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;i class=&quot;icon-facebook&quot;>&lt;/i>&lt;a href=&quot;http://www.facebook.com/sharer.php&quot; target=&quot;_blank&quot;>&lt;span class=&quot;text-light&quot;>Facebook&lt;/span>&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;i class=&quot;icon-linkedin&quot;>&lt;/i>&lt;a href=&quot;http://www.linkedin.com/&quot; target=&quot;_blank&quot;>&lt;span class=&quot;text-light&quot;>LinkedIn&lt;/span>&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://twitter.com/typekit&quot; style=&quot;font-style: normal; font-weight: 300;&quot;>&lt;i class=&quot;icon-twitter&quot;>&lt;/i>&lt;span class=&quot;text-light&quot;>Twitter&lt;/span>&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; line-height: 16px;&quot;>Share on Facebook&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; line-height: 16px;&quot;>Share on Facebook&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14731046722923
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_e7e4"/>
+            <end_14731045810880
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_4dd3"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2016-09-28T06:29:21.158Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2016-09-28T06:29:21.158Z"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-06-03T12:12:23.780Z"
+        cq:lastModifiedBy="21n57074"
+        cq:lastReplicated="{Date}2020-06-03T12:54:57.026Z"
+        cq:lastReplicatedBy="21n57074"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Learn More"
+        jcr:uuid="2a21e2c5-be5c-49f5-8a6b-6495a50a4867"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        applauncherTheme="light"
+        browserTitle="Adobe Technical Communication"
+        ctaButtonText="Contact Us"
+        distType="dist5"
+        enableCCRedirect="NA"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        hideInSectionNav="true"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        isSectionNavParent="true"
+        manualChildren="true"
+        marketSegmentRewrite="COM"
+        metaDescription="A unified content development experience for you. A consistent consumption experience for users. Easily author relevant, easily searchable content &amp; publish them across devices"
+        pageTitle="Adobe Technical Communication"
+        tagsKeywords="adobe tcs, tcs, techcomm suite, technical communication suite, content development toolkit, content development tool, content development, personalized content development, adobe technical communication suite, adobe tcs 2017, adobe tcs 2015, adobe technical communication suite 2017, adobe technical communication suite 2015, adobe techcomm suite 2015, adobe techcomm suite 2017"
+        topPadding="no-top-padding"
+        tryLink="/content/acom/us/en/products/technicalcommunicationsuite/tech-comm-dmb.html?s_osc=7011O000001z7AYQAY&amp;s_iid=7011O000001z7ATQAY"
+        tryLinkTarget="_blank"
+        useH1Tags="pageTitle">
+        <promobar jcr:primaryType="nt:unstructured">
+            <promo
+                jcr:lastModified="{Date}2020-05-20T17:56:46.151Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/promo"
+                billingFrequency="ANNUAL"
+                channel="adobe.com"
+                commitment="YEAR"
+                ctaButtonOverride="/content/acom/us/en/products/technicalcommunicationsuite/tech-comm-dmb?s_osc=7011O000001z7AYQAY &amp;s_iid=7011O000001z7ATQAY"
+                ctaButtonOverrideTarget="_blank"
+                ctaButtonText="Contact Us"
+                icon="none"
+                marketSegmentRewrite="COM"
+                modelCode="INDIVIDUAL"
+                pricePoint="REGULAR"
+                priceType="YEAR"
+                productIntroText="Let's talk about what Adobe Technical Communication solutions can do for your organization."
+                purchasePhoneCss="promo-phone"
+                purchasePhoneText="Purchase by Phone">
+                <free
+                    jcr:lastModified="{Date}2020-05-20T17:39:53.807Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="/content/acom/us/en/products/technicalcommunicationsuite/tech-comm-dmb?s_osc=7011O000001z7AYQAY &amp;s_iid=7011O000001z7ATQAY"
+                    ctaButtonOverrideTarget="_blank"
+                    ctaButtonText="Contact Us"
+                    productIntroText="Let's talk about what Adobe Technical Communication solutions can do for &lt;your organization>."/>
+                <paid
+                    jcr:lastModified="{Date}2020-05-20T17:40:43.832Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="/content/acom/us/en/products/technicalcommunicationsuite/tech-comm-dmb?s_osc=7011O000001z7AYQAY &amp;s_iid=7011O000001z7ATQAY"
+                    ctaButtonOverrideTarget="_blank"
+                    ctaButtonText="Contact Us"
+                    productIntroText="Let's talk about what Adobe Technical Communication solutions can do for your organization."/>
+                <productInfo jcr:primaryType="nt:unstructured"/>
+            </promo>
+        </promobar>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_5b08
+                jcr:created="{Date}2020-05-21T12:46:54.365Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-06-02T14:44:05.008Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-16;"
+                layout="1;grid-cols-16;"
+                section="v"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-06-02T14:44:05.008Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_5b08>
+            <hero_e25a
+                jcr:created="{Date}2020-05-21T12:53:38.207Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-27T18:37:38.409Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hero"
+                avoid="hero2-avoid-0"
+                height="hero2-size-3"
+                hideCredits="true"
+                hideLink="true">
+                <image
+                    jcr:lastModified="{Date}2020-05-27T18:37:38.409Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/image"
+                    alt="Adobe Tech Comm"
+                    fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/demand-base/marquee_demandbase.jpg"
+                    xcord="{Long}50"
+                    ycord="{Long}50"/>
+                <article
+                    jcr:lastModified="{Date}2020-06-02T06:22:12.619Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/hero/article"
+                    articleAlignment="hero2-align-3"
+                    title="&lt;p>&lt;strong>Author and publish intelligent technical content at your organization&lt;/strong>&lt;br>&#xa;&lt;/p>&#xa;">
+                    <titleImage
+                        jcr:lastModified="{Date}2020-06-02T06:22:12.619Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"/>
+                    <link
+                        jcr:primaryType="nt:unstructured"
+                        modalMode="VIDEO"
+                        size="426x240"
+                        type="free">
+                        <image
+                            jcr:lastModified="{Date}2020-06-02T06:22:12.619Z"
+                            jcr:lastModifiedBy="21n57074"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"
+                            xcord="{Long}50"
+                            ycord="{Long}50"/>
+                    </link>
+                </article>
+            </hero_e25a>
+            <end_15900652143830
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5b08"/>
+            <promopod_c25
+                jcr:created="{Date}2020-05-22T08:36:01.936Z"
+                jcr:createdBy="bgupta"
+                jcr:lastModified="{Date}2020-05-22T08:36:01.936Z"
+                jcr:lastModifiedBy="bgupta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/promopod"
+                showDraggedPromobar="{Boolean}true">
+                <promo
+                    jcr:lastModified="{Date}2020-06-03T11:55:48.855Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo"
+                    billingFrequency="MONTHLY"
+                    channel="adobe.com"
+                    commitment="YEAR"
+                    ctaButtonOverride="/content/acom/us/en/products/technicalcommunicationsuite/tech-comm-dmb.html?s_osc=7011O000001z7AYQAY&amp;s_iid=7011O000001z7ATQAY"
+                    ctaButtonOverrideTarget="_blank"
+                    ctaButtonText="Request a callback"
+                    hidePhoneSection="true"
+                    icon="none"
+                    isOfferingsProduct="true"
+                    marketSegmentRewrite="COM"
+                    modelCode="INDIVIDUAL"
+                    offeringsProduct="product-code-ATST"
+                    pricePoint="REGULAR"
+                    priceType="YEAR"
+                    productIntroText="Let's talk about what Adobe Technical Communication solutions can do for your organization."
+                    purchasePhoneCss="promo-phone"
+                    purchasePhoneText="Purchase by Phone"
+                    textColor="#FFFFFF">
+                    <productInfo jcr:primaryType="nt:unstructured"/>
+                </promo>
+                <free
+                    jcr:lastModified="{Date}2020-06-03T12:01:59.894Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="/content/acom/us/en/products/technicalcommunicationsuite/tech-comm-dmb.html?s_osc=7011O000001z7AYQAY&amp;s_iid=7011O000001z7ATQAY"
+                    ctaButtonOverrideTarget="_blank"
+                    ctaButtonText="Request a callback"
+                    fontSize="has-largeFont"
+                    productIntroText="Let's talk about what Adobe Technical Communication solutions can do for your organization."
+                    textColor="#FFFFFF"/>
+                <paid
+                    jcr:lastModified="{Date}2020-06-03T12:02:34.343Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="/content/acom/us/en/products/technicalcommunicationsuite/tech-comm-dmb.html?s_osc=7011O000001z7AYQAY&amp;s_iid=7011O000001z7ATQAY"
+                    ctaButtonOverrideTarget="_blank"
+                    ctaButtonText="Request a callback"
+                    fontSize="has-largeFont"
+                    productIntroText="Let's talk about what Adobe Technical Communication solutions can do for your organization."
+                    textColor="#FFFFFF"/>
+            </promopod_c25>
+            <column_73fc
+                jcr:created="{Date}2020-05-20T07:37:06.329Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-20T17:14:24.026Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                hideInMobile="true"
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-05-20T17:14:24.026Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_73fc>
+            <text_5bbf
+                jcr:created="{Date}2020-05-26T15:30:05.871Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-26T15:31:32.624Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Discover smarter and faster ways to work&lt;/span>&lt;/h3>&#xa;"/>
+            <text_5153
+                jcr:created="{Date}2020-05-26T15:30:48.780Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-06-01T14:48:11.249Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>With decades of market leadership in the digital content space, Adobe is uniquely positioned to provide cutting-edge solutions to enterprises for efficiently and effectively managing the end-to-end content&amp;nbsp;life-cycle of your technical, Online Help, Policies and procedures, knowledge-base and e-learning content.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <column_9154
+                jcr:created="{Date}2020-05-20T07:38:51.234Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-20T08:01:09.969Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of2;grid-span-1of2;"
+                bgColor=" "
+                layout="2;grid-span-1of2;grid-span-1of2;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-05-20T08:01:09.969Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_9154>
+            <image_d262
+                jcr:created="{Date}2020-05-20T07:47:23.462Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-27T16:10:46.288Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Adobe FrameMaker"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/demand-base/fm_demand_base.jpg"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-05-27T16:10:46.288Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d262>
+            <break_15899603644320
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_9154"/>
+            <text_30b7
+                jcr:created="{Date}2020-05-20T07:41:53.637Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-06-01T14:48:56.713Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h3>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h3>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Adobe FrameMaker&lt;/strong>&lt;/span>&lt;/h3>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Easily create, review and publish XML and non-XML technical documentation with the powerful capabilities of Adobe FrameMaker. Make content more immersive using online videos, images and other rich media. Collaborate seamlessly using Online Review. Publish from a single source to multiple channels, formats, and devices.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <end_15899603312380
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_9154"/>
+            <column_b326
+                jcr:created="{Date}2020-05-20T07:49:52.504Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-26T15:44:51.379Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of2;grid-span-1of2;"
+                bgColor=" "
+                layout="2;grid-span-1of2;grid-span-1of2;"
+                layoutMode="spatial"
+                multiplier="3"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-05-26T15:44:51.379Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_b326>
+            <text_6cb9
+                jcr:created="{Date}2020-05-20T07:52:41.812Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-06-01T14:52:09.305Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h3>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h3>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Adobe RoboHelp&lt;/strong>&lt;/span>&lt;/h3>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Create and deliver exceptional online Help, policy and procedure, and knowledgebase content with the modern and easy-to-use Adobe RoboHelp. Author Microcontent to fuel featured snippets in search results, and other touchpoints. Deliver personalized and immersive experiences using Dynamic Content Filters and rich media. Publish for a range of devices as Frameless Responsive HTML5, PDF, mobile app, and more.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <break_15899609925100
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_b326"/>
+            <image_461d
+                jcr:created="{Date}2020-05-20T07:52:35.603Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-27T16:12:05.157Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Adobe RoboHelp"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/demand-base/rh_demand_base.jpg"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-05-27T16:12:05.157Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_461d>
+            <end_15899609925101
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_b326"/>
+            <column_d7de
+                jcr:created="{Date}2020-05-20T07:54:13.525Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-26T15:40:24.488Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of2;grid-span-1of2;"
+                bgColor=" "
+                layout="2;grid-span-1of2;grid-span-1of2;"
+                layoutMode="spatial"
+                multiplier="3"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-05-26T15:40:24.488Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_d7de>
+            <image_edf6
+                jcr:created="{Date}2020-05-20T07:59:52.681Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-27T16:13:13.425Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Adobe Technical Communication Suite"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/demand-base/tcs_demand_base.jpg"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-05-27T16:13:13.425Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_edf6>
+            <break_15899612535320
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_d7de"/>
+            <text_b412
+                jcr:created="{Date}2020-05-20T07:58:48.024Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-06-01T15:01:14.302Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h3>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Adobe&amp;nbsp;Technical Communication Suite&lt;/strong>&lt;/span>&lt;/h3>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;strong>&lt;strong>&lt;span class=&quot;text-light&quot;>Transform your technical, eLearning, and business content into exceptional experiences with five cutting-edge solutions. Work on long, complex XML and non-XML documentation with Adobe FrameMaker. Deliver highly personalized Help, policy, and knowledgebase content with Adobe RoboHelp. Create responsive eLearning content with Adobe Captivate. Transform presentations for on-demand learning with Adobe Presenter. Collaborate in real time using shared PDF reviews with Adobe Acrobat*.&amp;nbsp;Choose the suite to avail savings of up to 60%&lt;sup>#&lt;/sup>.&lt;/span>&lt;/strong>&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <end_15899612535321
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_d7de"/>
+            <end_15899602263330
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_73fc"/>
+            <column_6e4d
+                jcr:created="{Date}2020-05-20T17:16:14.572Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-20T17:58:35.846Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                hideInDesktop="true"
+                hideInTablet="true"
+                layout="1;grid-cols-14 grid-offset-1;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-05-20T17:58:35.846Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_6e4d>
+            <column_e8d8
+                jcr:created="{Date}2020-05-20T17:19:25.318Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-20T17:19:52.360Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of2;grid-span-1of2;"
+                bgColor=" "
+                enablePaddingEachColumns="true"
+                layout="2;grid-span-1of2;grid-span-1of2;"
+                layoutMode="spatial"
+                multiplier="6"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-05-20T17:19:52.360Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_e8d8>
+            <image_10f
+                jcr:created="{Date}2020-05-20T17:21:34.671Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-27T16:14:38.529Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Adobe FrameMaker"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/demand-base/fm_demand_base.jpg"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-05-27T16:14:38.529Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_10f>
+            <break_15899951923750
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_e8d8"/>
+            <text_ef03
+                jcr:created="{Date}2020-05-20T17:21:43.848Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-26T15:34:59.549Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Adobe FrameMaker&lt;/strong>&lt;/span>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Easily create, review and publish XML and non-XML technical documentation with the powerful capabilities of Adobe FrameMaker. Make content more immersive using online videos, images and other rich media. Collaborate seamlessly using Online Review. Reach global audiences with easy translation of content. Publish from a single source to multiple channels, formats, and devices.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_15899951653320
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_e8d8"/>
+            <column_1b0c
+                jcr:created="{Date}2020-05-20T17:21:21.687Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-20T17:21:21.687Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of2;grid-span-1of2;"
+                bgColor=" "
+                enablePaddingEachColumns="true"
+                layout="2;grid-span-1of2;grid-span-1of2;"
+                layoutMode="spatial"
+                multiplier="6"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-05-20T17:19:52.360Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_1b0c>
+            <image_d98f
+                jcr:created="{Date}2020-05-20T17:22:09.949Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-27T16:15:06.992Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Adobe RoboHelp"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/demand-base/rh_demand_base.jpg"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-05-27T16:15:06.992Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_d98f>
+            <break_15899952817020
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_1b0c"/>
+            <text_97dc
+                jcr:created="{Date}2020-05-20T17:22:21.801Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-26T15:35:56.680Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Adobe RoboHelp&lt;/strong>&lt;/span>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Create and deliver exceptional Help, policy and procedure, and knowledgebase content. Fuel next-gen customer touchpoints like chatbots, featured snippets in search results and more with Microcontent. Deliver personalized and immersive experiences using Dynamic Content Filters and rich media. Publish for a range of devices as Frameless Responsive HTML5, PDF, mobile app, and more.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_15899952817021
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1b0c"/>
+            <column_a545
+                jcr:created="{Date}2020-05-20T17:21:25.679Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-20T17:21:25.679Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of2;grid-span-1of2;"
+                bgColor=" "
+                enablePaddingEachColumns="true"
+                layout="2;grid-span-1of2;grid-span-1of2;"
+                layoutMode="spatial"
+                multiplier="6"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-05-20T17:19:52.360Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_a545>
+            <image_bf62
+                jcr:created="{Date}2020-05-20T17:22:43.112Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-27T16:15:30.139Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Adobe Technical Communication Suite"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/demand-base/tcs_demand_base.jpg"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-05-27T16:15:30.139Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_bf62>
+            <break_15899952856950
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_a545"/>
+            <text_9a2d
+                jcr:created="{Date}2020-05-20T17:22:53.097Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-26T15:50:34.354Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Adobe&amp;nbsp;Technical Communication Suite&lt;/strong>&lt;/span>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Transform your technical, eLearning, and business content into exceptional experiences with five cutting-edge solutions. Work on long, complex XML and non-XML documentation with Adobe FrameMaker. Deliver highly personalized Help, policy, and knowledgebase content with Adobe RoboHelp. Create responsive eLearning content with Adobe Captivate. Transform presentations for on-demand learning with Adobe Presenter. Collaborate in real time using shared PDF reviews with Adobe Acrobat*. Choose the suite to avail savings of up to 60%&lt;sup>#&lt;/sup>.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>*Note: Adobe Acrobat desktop and online services is only available under subscription buying programs with Named User Licensing (NUL) deployment.&lt;br>&#xa; &lt;sup>#&lt;/sup>The full license of Adobe Technical Communication Suite is approximately 60% less expensive than buying all individual products separately.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_15899952856961
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_a545"/>
+            <end_15899949745850
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_6e4d"/>
+            <column_4a2a
+                jcr:created="{Date}2020-05-20T08:07:03.662Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-20T16:34:46.519Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor="background-color:#f5f5f5;color:#000000"
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="6"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-05-20T16:34:46.519Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_4a2a>
+            <text_7685
+                jcr:created="{Date}2020-05-20T16:33:45.353Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-26T15:51:51.728Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>See how customers are transforming content workflows with Adobe Technical Communication solutions&lt;/span>&lt;br>&#xa;&lt;/h3>&#xa;"/>
+            <column_1b1
+                jcr:created="{Date}2020-05-20T08:08:11.075Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-20T16:36:42.456Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                enablePaddingEachColumns="true"
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                multiplier="6"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-05-20T16:36:42.456Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_1b1>
+            <image_8ceb
+                jcr:created="{Date}2020-05-20T08:09:06.204Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-27T18:38:04.292Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Homag"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/demand-base/homag_case_study.jpg"
+                link="https://www.adobe.com/customer-success-stories/homag-group-case-study.html"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-05-27T18:38:04.292Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_8ceb>
+            <break_15899621094790
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_1b1"/>
+            <image_8eae
+                jcr:created="{Date}2020-05-20T08:14:26.337Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-27T18:38:16.267Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="IBM"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/demand-base/ibm_case_study_image.jpg"
+                link="https://www.adobe.com/customer-success-stories/ibm-case-study.html"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-05-27T18:38:16.267Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_8eae>
+            <break_15899621094791
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_1b1"/>
+            <image_7ddb
+                jcr:created="{Date}2020-05-20T08:14:32.607Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-27T18:38:31.631Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Mitel"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/demand-base/mittel_case_study_image.jpg"
+                link="https://www.adobe.com/content/dam/acom/en/customer-success/pdfs/mitel-case-study.pdf"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-05-27T18:38:31.631Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_7ddb>
+            <break_15899621094792
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_1b1"/>
+            <image_ce8e
+                jcr:created="{Date}2020-05-20T08:14:38.080Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-05-27T18:38:45.122Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Distech Control "
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/demand-base/distech_case_study_image.jpg"
+                link="https://www.adobe.com/content/dam/acom/en/customer-success/pdfs/distech-controls-case-study.pdf"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2020-05-27T18:38:45.122Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_ce8e>
+            <end_15899620910830
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1b1"/>
+            <end_15899620236690
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_4a2a"/>
+            <column_af84
+                jcr:created="{Date}2020-06-01T15:03:32.157Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-06-01T15:04:03.513Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                layout="1;grid-cols-14 grid-offset-1;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2020-06-01T15:04:03.513Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_af84>
+            <text_4a8b
+                jcr:created="{Date}2020-06-01T15:01:36.601Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2020-06-01T15:02:02.528Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-7-block&quot;>*Note: Adobe Acrobat desktop and online services is only available under subscription buying programs with Named User Licensing (NUL) deployment.&lt;br>&#xa;&lt;sup>#&lt;/sup>The full license of Adobe Technical Communication Suite is approximately 60% less expensive than buying all individual products separately.&lt;/div>&#xa;"/>
+            <end_15910238121760
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_af84"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2020-06-03T12:12:23.721Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2020-06-03T12:12:23.721Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <sectionNavItems
+            jcr:primaryType="nt:unstructured"
+            sort_mdv="[0,1,2]">
+            <_x0030_
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionLink"
+                link="/content/acom/us/en/products/framemaker"
+                sectionNavTitle="Adobe FrameMaker"
+                target="_blank"/>
+            <_x0031_
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionLink"
+                link="/content/acom/us/en/products/robohelp"
+                sectionNavTitle="Adobe RoboHelp"
+                target="_blank"/>
+            <_x0032_
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionLink"
+                link="/content/acom/us/en/products/technicalcommunicationsuite"
+                sectionNavTitle="Adobe Technical Communication Suite"
+                target="_self"/>
+        </sectionNavItems>
+        <tophero
+            jcr:lastModified="{Date}2020-05-20T18:07:58.273Z"
+            jcr:lastModifiedBy="21n57074"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            avoid="hero2-avoid-0"
+            height="hero2-size-2"
+            hideCredits="true"
+            hideLink="true"
+            removeTextShadow="true">
+            <image
+                jcr:lastModified="{Date}2020-05-20T18:07:58.273Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Adobe Technical Communication"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/demand-base/marquee_dmb.jpg"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+            <article
+                jcr:lastModified="{Date}2020-05-20T17:51:08.757Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hero/article"
+                articleAlignment="hero2-align-1"
+                title="&lt;p>Create and deliver intelligent technical documentation at your organization&lt;/p>&#xa;"
+                titleColor="color:#000000">
+                <titleImage
+                    jcr:lastModified="{Date}2020-05-20T17:51:08.757Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"/>
+                <link
+                    jcr:primaryType="nt:unstructured"
+                    modalMode="VIDEO"
+                    size="426x240"
+                    type="free">
+                    <image
+                        jcr:lastModified="{Date}2020-05-20T17:51:08.757Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </link>
+            </article>
+        </tophero>
+    </jcr:content>
+</jcr:root>

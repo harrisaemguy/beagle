@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <rep:policy/>
+    <jcr:content
+        cq:lastModified="{Date}2021-07-19T17:14:42.176Z"
+        cq:lastModifiedBy="ste52422"
+        cq:lastReplicated="{Date}2021-07-15T13:39:44.535Z"
+        cq:lastReplicatedBy="ste52422"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:lockable,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Get Started"
+        jcr:uuid="7e205a66-1ba7-4a77-9326-9e3f2e473ed5"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="center"
+        applauncherTheme="light"
+        bodyClass="whiteBackground"
+        browserTitle="Installation instructions | Adobe Photoshop Elements"
+        ctaButtonText="Buy now"
+        disableOverviewLink="true"
+        distType="dist5"
+        enableCCRedirect="NA"
+        enableManualChildrenDropdown="true"
+        enableSubnavDropdown="{Boolean}true"
+        freeTrial="Free Trial"
+        freeTrialUrl="/content/acom/us/en/products/elements-family/photoshop-elements/download-trial/try"
+        freeTrialUrlLoggedIn="/content/acom/us/en/products/elements-family/photoshop-elements/download-trial/try"
+        freeTrialUrlLoggedInModalScrolling="no"
+        freeTrialUrlLoggedInModalSize="426x240"
+        freeTrialUrlLoggedInTarget="_self"
+        freeTrialUrlModalScrolling="no"
+        freeTrialUrlModalSize="426x240"
+        freeTrialUrlTarget="_self"
+        globalnavExperience="acom/cc-mega-menu/photoshop-elements-localnav"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        globalnavTheme="/etc/beagle/public/globalnav/themes/jcr:content/bgcolor_676839809"
+        globalnavVersion="2"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        headingStyle="h1"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        iconModeAndroid="icon"
+        isSectionNavParent="true"
+        manualChildren="true"
+        marketSegmentRewrite="COM"
+        metaDescription="Follow these instructions to install your trial of Adobe Photoshop Elements."
+        navTitle="Adobe Photoshop Elements 2021"
+        pageTitle="Adobe Photoshop Elements 2021"
+        product="photoshop_elements"
+        sectionNavTitle="Download Trial: Get Started"
+        stagelastReplicated="22-Jun-2021 06:48"
+        stagelastReplicatedBy="divkaush"
+        stageLastReplicationAction="ActivatedtoStage"
+        subnavGradient="/etc/beagle/public/globalnav/themes/jcr:content/bgcolor_921826334"
+        tryLink="https://commerce.adobe.com/checkout?cli=creative&amp;co=US&amp;lang=en&amp;items%5B0%5D%5Bid%5D=0E7CB3243E6E8C657A8910EB9AB116DD&amp;items%5B0%5D%5Bcs%5D=0"
+        tryLinkModalScrolling="no"
+        tryLinkModalSize="426x240"
+        tryLinkProductPlanModalScrolling="no"
+        tryLinkProductPlanModalSize="426x240"
+        tryLinkProductPlanTarget="_self"
+        tryLinkTarget="_self"
+        useH1Tags="pageTitle">
+        <sectionMore
+            jcr:primaryType="nt:unstructured"
+            linkModalScrolling="no"
+            linkModalSize="426x240"
+            linkTarget="_self"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="35">
+            <image
+                jcr:lastModified="{Date}2021-01-04T19:57:01.216Z"
+                jcr:lastModifiedBy="ste52422"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column
+                jcr:created="{Date}2015-07-29T16:59:31.902-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2019-08-28T01:16:24.483Z"
+                jcr:lastModifiedBy="env10433"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor="background-color:#FFFFFF;color:#000000"
+                grid0="8"
+                layout="1;grid-cols-10 grid-offset-3;"
+                offset0="4"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2019-08-28T01:16:24.483Z"
+                        jcr:lastModifiedBy="env10433"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column>
+            <column_1802
+                jcr:created="{Date}2016-08-19T00:08:15.967Z"
+                jcr:createdBy="env74043"
+                jcr:lastModified="{Date}2016-08-19T00:19:47.121Z"
+                jcr:lastModifiedBy="env74043"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10;"
+                bgColor=" "
+                layout="1;grid-cols-10;"
+                layoutMode="structured"
+                multiplier="4"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-19T00:19:47.121Z"
+                        jcr:lastModifiedBy="env74043"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_1802>
+            <text_69e4
+                jcr:created="{Date}2016-08-18T00:52:04.088Z"
+                jcr:createdBy="env74043"
+                jcr:lastModified="{Date}2021-07-19T17:12:32.163Z"
+                jcr:lastModifiedBy="ste52422"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h2 style=&quot;text-align: center;&quot;>&lt;strong>&lt;span class=&quot;text-light&quot;>&lt;strong>Let's get started.&lt;/strong>&lt;/span>&lt;br>&#xa;&lt;/strong>&lt;/h2>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-4-block&quot;>&lt;span class=&quot;text-light&quot;>With tutorials and inspiration at your fingertips, it's easy to get up and running with Photoshop Elements 2022.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14715652959850
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1802"/>
+            <column_f82f
+                jcr:created="{Date}2016-08-18T00:52:38.715Z"
+                jcr:createdBy="env74043"
+                jcr:lastModified="{Date}2017-08-04T00:06:45.329Z"
+                jcr:lastModifiedBy="env14281"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                multiplier="4"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-08-04T00:06:45.329Z"
+                        jcr:lastModifiedBy="env14281"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_f82f>
+            <image_dea6
+                jcr:created="{Date}2020-08-24T21:27:13.190Z"
+                jcr:createdBy="ste52422"
+                jcr:lastModified="{Date}2020-08-24T22:14:40.919Z"
+                jcr:lastModifiedBy="ste52422"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Photoshop Elements user guide"
+                fileReference="/content/dam/acom/en/products/photoshop-elements/trials/1-PSEGetStarted.png"
+                modalsize="854x480"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="youtube"
+                        youTubeUrl="kyJ-Up_dZ8E"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2019-08-28T22:37:50.788Z"
+                    jcr:lastModifiedBy="env10433"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_dea6>
+            <text_ce4b
+                jcr:created="{Date}2016-08-18T00:53:56.610Z"
+                jcr:createdBy="env74043"
+                jcr:lastModified="{Date}2021-07-19T17:14:07.791Z"
+                jcr:lastModifiedBy="ste52422"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>See all the new features in Photoshop Elements 2022.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://www.adobe.com/products/photoshop-elements/features.html#marquee-video&quot; target=&quot;_self&quot; data-modal-size=&quot;854x480&quot;>Watch the video&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14714815735920
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_f82f"/>
+            <image_6fcb
+                jcr:created="{Date}2016-08-18T00:53:56.700Z"
+                jcr:createdBy="env74043"
+                jcr:lastModified="{Date}2020-08-24T22:14:44.198Z"
+                jcr:lastModifiedBy="ste52422"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Photoshop Elements user guide"
+                fileReference="/content/dam/acom/en/products/photoshop-elements/trials/2-PSEGetStarted.png"
+                modalsize="854x480"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="youtube"
+                        youTubeUrl="kyJ-Up_dZ8E"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2019-08-28T22:37:50.788Z"
+                    jcr:lastModifiedBy="env10433"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_6fcb>
+            <text_2c12
+                jcr:created="{Date}2016-08-18T00:53:56.805Z"
+                jcr:createdBy="env74043"
+                jcr:lastModified="{Date}2020-10-07T05:57:24.367Z"
+                jcr:lastModifiedBy="ste45441"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Find everything you need to get started.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;strong>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://helpx.adobe.com/photoshop-elements/user-guide.html&quot; target=&quot;_blank&quot;>See&amp;nbsp;the User Guide ›&lt;/a>&lt;/span>&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14714815735921
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_f82f"/>
+            <image_6561
+                jcr:created="{Date}2016-08-18T00:53:56.904Z"
+                jcr:createdBy="env74043"
+                jcr:lastModified="{Date}2020-08-26T17:26:20.217Z"
+                jcr:lastModifiedBy="ste52422"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Photoshop Elements home screen"
+                fileReference="/content/dam/acom/en/products/photoshop-elements/trials/3-PSETry.png"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2019-08-28T22:38:06.891Z"
+                    jcr:lastModifiedBy="env10433"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_6561>
+            <text_a93b
+                jcr:created="{Date}2016-08-18T00:53:57.002Z"
+                jcr:createdBy="env74043"
+                jcr:lastModified="{Date}2021-07-19T17:13:21.397Z"
+                jcr:lastModifiedBy="ste52422"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Hit the ground running with the helpful Home screen, and see what’s new in the product.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14714815587240
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_f82f"/>
+            <column_8c76
+                jcr:created="{Date}2016-08-18T22:45:45.725Z"
+                jcr:createdBy="env74043"
+                jcr:lastModified="{Date}2017-08-04T00:06:13.767Z"
+                jcr:lastModifiedBy="env14281"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10;"
+                bgColor=" "
+                layout="1;grid-cols-10;"
+                layoutMode="structured"
+                section="v"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-08-04T00:06:13.767Z"
+                        jcr:lastModifiedBy="env14281"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_8c76>
+            <horizontalrule_1254
+                jcr:created="{Date}2016-08-18T22:45:40.390Z"
+                jcr:createdBy="env74043"
+                jcr:lastModified="{Date}2016-08-18T22:45:40.390Z"
+                jcr:lastModifiedBy="env74043"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_14715603457420
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_8c76"/>
+            <column_d47c
+                jcr:created="{Date}2016-08-19T00:21:55.500Z"
+                jcr:createdBy="env74043"
+                jcr:lastModified="{Date}2016-08-19T00:26:51.973Z"
+                jcr:lastModifiedBy="env74043"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10;"
+                bgColor=" "
+                layout="1;grid-cols-10;"
+                layoutMode="structured"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-19T00:26:51.973Z"
+                        jcr:lastModifiedBy="env74043"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_d47c>
+            <text_97254443
+                jcr:created="{Date}2015-07-29T17:04:22.229-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2016-08-18T01:02:35.407Z"
+                jcr:lastModifiedBy="env74043"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>When your download is complete, please follow these&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;> instructions to&amp;nbsp;install the trial product.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14715661155180
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_d47c"/>
+            <column_1943157328
+                jcr:created="{Date}2015-07-29T17:00:26.078-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2016-08-19T00:26:35.409Z"
+                jcr:lastModifiedBy="env74043"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of2;grid-span-1of2;"
+                bgColor=" "
+                columnCount="4-s"
+                grid0="1of10"
+                grid1="2of5"
+                grid2="1of10"
+                grid3="2of5"
+                layout="4;grid-span-1of10;grid-span-2of5;grid-span-1of10;grid-span-2of5;"
+                layoutMode="spatial"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-19T00:26:35.409Z"
+                        jcr:lastModifiedBy="env74043"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_1943157328>
+            <image
+                jcr:created="{Date}2015-07-29T17:00:58.619-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2016-08-18T01:04:33.585Z"
+                jcr:lastModifiedBy="env74043"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Windows instructions"
+                fileReference="/content/dam/acom/en/products/elements-family/images/E15-win-150x150.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+            </image>
+            <break_14382144394120
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_1943157328"/>
+            <text
+                jcr:created="{Date}2015-07-29T17:01:16.085-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2021-07-19T17:14:27.906Z"
+                jcr:lastModifiedBy="ste52422"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Install Photoshop Elements 2022 for Windows&lt;/div>&#xa;&lt;ul class=&quot;text-5-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Wait for your download to complete.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Navigate to your downloads folder.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Double-click the&amp;nbsp;PhotoshopElements_2022_LS30_win64.exe file that you just&lt;/span> &lt;span class=&quot;text-light&quot;>downloaded.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Follow the on-screen instructions.&lt;/span>&lt;br>&#xa;&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Note:&amp;nbsp;Please remain connected to the Internet until the application installs completely on your system.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                textIsRich="true">
+                <cq:annotations jcr:primaryType="nt:unstructured"/>
+            </text>
+            <break_14715605336340
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_1943157328"/>
+            <image_1858381482
+                jcr:created="{Date}2015-07-29T17:03:37.231-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2016-08-18T01:04:36.904Z"
+                jcr:lastModifiedBy="env74043"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Mac Instruction"
+                fileReference="/content/dam/acom/en/products/elements-family/images/E15-mac-150x150.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+            </image_1858381482>
+            <break_14715605336351
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_1943157328"/>
+            <text_1095817264
+                jcr:created="{Date}2015-07-29T17:01:40.483-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2021-07-19T17:14:42.165Z"
+                jcr:lastModifiedBy="ste52422"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Install Photoshop Elements 2022 for Mac&lt;/div>&#xa;&lt;ul class=&quot;text-5-block&quot;>&#xa;&lt;li>&lt;strong>&lt;strong>&lt;span class=&quot;text-light&quot;>Wait for your download to complete.&lt;/span>&lt;/strong>&lt;/strong>&lt;/li>&#xa;&lt;li>&lt;strong>&lt;strong>&lt;span class=&quot;text-light&quot;>Navigate to your downloads folder.&lt;/span>&lt;/strong>&lt;/strong>&lt;/li>&#xa;&lt;li>&lt;strong>&lt;strong>&lt;span class=&quot;text-light&quot;>Double-click the&amp;nbsp;PhotoshopElements_2022_WWEFDJ.dmg file that you just downloaded.&lt;/span>&lt;/strong>&lt;/strong>&lt;/li>&#xa;&lt;li>&lt;strong>&lt;strong>&lt;span class=&quot;text-light&quot;>In the window that opens, double-click the file &lt;em>Photoshop Elements 2022&lt;/em>.&lt;br>&#xa; &lt;/span>&lt;/strong>&lt;/strong>&lt;/li>&#xa;&lt;li>&lt;strong>&lt;strong>&lt;span class=&quot;text-light&quot;>Follow the on-screen instructions.&lt;br>&#xa; &lt;/span>&lt;/strong>&lt;/strong>&lt;/li>&#xa;&lt;li>&lt;strong>&lt;strong>&lt;span class=&quot;text-light&quot;>Note:&amp;nbsp;Please remain connected to the Internet until the application installs completely on your system.&lt;/span>&lt;/strong>&lt;/strong>&lt;br>&#xa;&lt;/li>&#xa;&lt;/ul>&#xa;"
+                textIsRich="true">
+                <cq:annotations jcr:primaryType="nt:unstructured"/>
+            </text_1095817264>
+            <end_14382144260910
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1943157328"/>
+            <horizontalrule_f272
+                jcr:created="{Date}2015-09-17T22:12:27.271Z"
+                jcr:createdBy="env74043"
+                jcr:lastModified="{Date}2015-09-17T22:12:27.271Z"
+                jcr:lastModifiedBy="env74043"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_1714716485
+                jcr:created="{Date}2015-07-29T17:05:47.401-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2020-10-07T05:58:36.978Z"
+                jcr:lastModifiedBy="ste45441"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div style=&quot;text-align: center;&quot; class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-5-block&quot;>&lt;span style=&quot;font-style: normal;&quot;>Need help?&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>If you experience issues,&lt;/span> &lt;span class=&quot;text-light&quot;>&lt;a data-installer-link=&quot;true&quot; href=&quot;/content/acom/us/en/products/elements-family/photoshop-elements/download-trial/try.html&quot; target=&quot;_self&quot;>try restarting the download&lt;/a>.&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Have questions? Visit &lt;a target=&quot;_blank&quot; href=&quot;https://helpx.adobe.com/photoshop-elements.html&quot;>Support&lt;/a> for help.&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>Also interested in video editing?&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/elements-family/premiere-elements/download-trial/try.html&quot; target=&quot;_self&quot;>Start your Premiere Elements free trial now&lt;/a>.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;https://www.facebook.com/PhotoshopElements&quot; target=&quot;_blank&quot;>&lt;i class=&quot;icon-facebook&quot;>&lt;/i>&amp;nbsp;&amp;nbsp;&lt;/a>&lt;a href=&quot;https://twitter.com/adobeelements&quot; target=&quot;_blank&quot;>&lt;i class=&quot;icon-twitter&quot;>&lt;/i>&amp;nbsp;&amp;nbsp;&lt;/a>&lt;a target=&quot;_blank&quot; href=&quot;https://www.pinterest.com/AdobeElements/&quot;>&lt;i class=&quot;icon-pinterest&quot;>&lt;/i>&lt;/a>&lt;a target=&quot;_blank&quot; href=&quot;https://www.youtube.com/user/photoshopelements&quot;>&lt;i class=&quot;icon-youtube&quot;>&lt;/i>&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <hiddenfield_e5d3
+                jcr:created="{Date}2015-09-02T23:37:21.732-07:00"
+                jcr:createdBy="shk"
+                jcr:lastModified="{Date}2015-09-02T23:41:42.653-07:00"
+                jcr:lastModifiedBy="shk"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/trials/components/hiddenfield"
+                name="ptThankyouPage"
+                value="photoshop-elements"/>
+            <end_14382143719110
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column"/>
+        </contentbody>
+        <promobar jcr:primaryType="nt:unstructured">
+            <promo
+                jcr:lastModified="{Date}2015-07-22T16:53:38.251Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/promo"
+                ctaButtonOverride="https://creative.adobe.com/plans?promoid=KSPCN"
+                ctaButtonText="Choose a plan"
+                enablePriceDisplay="true"
+                icon="promo-icon adobe-icon-creativecloud"
+                marketSegmentRewrite="COM"
+                priceType="SUB_NEW"
+                product="creative_cloud"
+                productIntroText="Get the entire collection of creative apps and more for"
+                purchasePhoneCss="promo-phone">
+                <productInfo jcr:primaryType="nt:unstructured"/>
+                <free
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="https://creative.adobe.com/plans?promoid=KSPCN"
+                    ctaButtonText="Choose a plan"
+                    productIntroText="Get the entire collection of creative apps and more for"/>
+                <paid
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="http://max.adobe.com/?promoid=KTJLS"
+                    ctaButtonText="Learn more"
+                    productIntroText="Join us at Adobe MAX. The Creativity Conference. Oct. 3–7 in Los Angeles."/>
+            </promo>
+        </promobar>
+        <contentlayer
+            jcr:lastModified="{Date}2014-11-25T22:30:20.382Z"
+            jcr:lastModifiedBy="wmyersta"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/contentlayer"
+            horizontalAlign="1"
+            opacity="{Long}0"
+            rgb="FFFFFF"
+            textcolor="text-alt-color"
+            verticalAlign="2"
+            width="{Long}55">
+            <title jcr:primaryType="nt:unstructured"/>
+            <text
+                jcr:primaryType="nt:unstructured"
+                text="&lt;div class=&quot;text-0-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Make something great.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>Introducing all-new versions of your favorite desktop apps.&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2021-01-04T19:57:01.216Z"
+                    jcr:lastModifiedBy="ste52422"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <topofbodymbox
+            jcr:lastModified="{Date}2014-12-16T03:54:16.687Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="TopOfBody"/>
+        <bottomofbodymbox
+            jcr:lastModified="{Date}2014-12-16T03:54:30.562Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="BottomOfBody"/>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <card jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2017-08-04T00:20:35.420Z"
+                jcr:lastModifiedBy="env14281"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"/>
+        </card>
+        <overrideSubnavDropdownItems
+            jcr:primaryType="nt:unstructured"
+            sort_mdv="[0,1,2,3]">
+            <_x0030_
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionLink"
+                link="/content/acom/us/en/products/elements-family.html"
+                sectionNavTitle="Elements Family"
+                target="_self"/>
+            <_x0031_
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionLink"
+                link="/content/cc/us/en/products/photoshop-elements.html"
+                sectionNavTitle="Photoshop Elements"
+                target="_self"/>
+            <_x0032_
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionLink"
+                link="/content/cc/us/en/products/premiere-elements.html"
+                sectionNavTitle="Premiere Elements"
+                target="_self"/>
+            <_x0033_
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionLink"
+                link="/content/cc/us/en/products/photoshop-elements.html"
+                sectionNavTitle="Photoshop Elements &amp; Premiere Elements"
+                target="_self"/>
+        </overrideSubnavDropdownItems>
+        <sectionNavItems
+            jcr:primaryType="nt:unstructured"
+            sort_mdv="[0,1,2,3,4]">
+            <_x0030_
+                jcr:lastModified="{Date}2020-10-07T15:46:42.932Z"
+                jcr:lastModifiedBy="ste52422"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionnavdropdown"
+                link="https://www.adobe.com/products/photoshop-elements/features.html"
+                sectionNavTitle="Features"
+                target="_self">
+                <manualChildren
+                    jcr:primaryType="nt:unstructured"
+                    sort_mdv="[0,1,2,3,4,5,6]">
+                    <_x0030_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/sectionLink"
+                        link="https://www.adobe.com/products/photoshop-elements/whats-new.html"
+                        sectionNavTitle="What's New"
+                        target="_self"/>
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/sectionLink"
+                        link="https://www.adobe.com/products/photoshop-elements/features.html"
+                        sectionNavTitle="All Features"
+                        target="_self"/>
+                    <_x0032_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/sectionLink"
+                        link="https://www.adobe.com/products/photoshop-elements/features.html#get-started"
+                        sectionNavTitle="Getting Started"
+                        target="_self"/>
+                    <_x0033_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/sectionLink"
+                        link="https://www.adobe.com/products/photoshop-elements/features.html#intelligent"
+                        sectionNavTitle="Intelligent Editing"
+                        target="_self"/>
+                    <_x0034_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/sectionLink"
+                        link="https://www.adobe.com/products/photoshop-elements/features.html#step-by-step"
+                        sectionNavTitle="Guided Edits"
+                        target="_self"/>
+                    <_x0035_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/sectionLink"
+                        link="https://www.adobe.com/products/photoshop-elements/features.html#create-share"
+                        sectionNavTitle="Create &amp; Share"
+                        target="_self"/>
+                    <_x0036_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/sectionLink"
+                        link="https://www.adobe.com/products/photoshop-elements/features.html#organization"
+                        sectionNavTitle="Effortless Organization"
+                        target="_self"/>
+                </manualChildren>
+            </_x0030_>
+            <_x0031_
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionLink"
+                link="https://www.adobe.com/products/photoshop-elements/reviews-awards.html"
+                sectionNavTitle="Reviews"
+                target="_self"/>
+            <_x0032_
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionLink"
+                link="https://www.adobe.com/products/photoshop-elements/buying-guide.html"
+                sectionNavTitle="Buying Guide"
+                target="_self"/>
+            <_x0033_
+                jcr:lastModified="{Date}2020-10-07T17:20:12.804Z"
+                jcr:lastModifiedBy="ste45441"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionnavdropdown"
+                link="https://helpx.adobe.com/support/photoshop-elements.html"
+                sectionNavTitle="Support"
+                target="_blank">
+                <manualChildren
+                    jcr:primaryType="nt:unstructured"
+                    sort_mdv="[0,1]">
+                    <_x0030_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/sectionLink"
+                        link="https://helpx.adobe.com/support/photoshop-elements.html"
+                        sectionNavTitle="Support"
+                        target="_blank"/>
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/sectionLink"
+                        link="https://www.adobe.com/products/photoshop-elements/faq.html"
+                        sectionNavTitle="FAQ"
+                        target="_self"/>
+                </manualChildren>
+            </_x0033_>
+            <_x0034_
+                jcr:lastModified="{Date}2020-10-07T15:44:29.422Z"
+                jcr:lastModifiedBy="ste52422"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionnavdropdown"
+                link="https://www.adobe.com/products/elements-family.html"
+                sectionNavTitle="Elements Family"
+                target="_self">
+                <manualChildren
+                    jcr:primaryType="nt:unstructured"
+                    sort_mdv="[2,3,1]">
+                    <_x0032_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/sectionLink"
+                        link="https://www.adobe.com/products/photoshop-premiere-elements.html"
+                        sectionNavTitle="Elements Family Bundle 2021"
+                        target="_self"/>
+                    <_x0033_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/sectionLink"
+                        link="https://www.adobe.com/products/photoshop-elements.html"
+                        sectionNavTitle="Adobe Photoshop Elements 2021"
+                        target="_self"/>
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/sectionLink"
+                        link="https://www.adobe.com/products/premiere-elements.html"
+                        sectionNavTitle="Adobe Premiere Elements 2021"
+                        target="_self"/>
+                </manualChildren>
+            </_x0034_>
+        </sectionNavItems>
+    </jcr:content>
+</jcr:root>

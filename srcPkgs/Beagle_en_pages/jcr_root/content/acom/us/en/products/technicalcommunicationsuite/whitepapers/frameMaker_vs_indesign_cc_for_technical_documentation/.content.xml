@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2021-02-26T11:54:22.488Z"
+        cq:lastModifiedBy="21n52271"
+        cq:lastReplicated="{Date}2021-02-26T12:55:11.908Z"
+        cq:lastReplicatedBy="21n52271"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:tcs-cs,filters:tcs-cs/fm]"
+        cq:template="/apps/beagle/templates/customershowcasedetailpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="FrameMaker 2019 vs InDesign – For Technical Documentation"
+        jcr:uuid="97adf5b8-a46e-4968-b2e7-8ea1d0638a8e"
+        sling:resourceType="beagle/components/customershowcasedetailpage">
+        <customershowcasecard
+            jcr:lastModified="{Date}2021-02-26T11:54:22.474Z"
+            jcr:lastModifiedBy="21n52271"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/customershowcasecard"
+            cardType="featured"
+            companyName="FrameMaker 2019 vs InDesign – For Technical Documentation"
+            creationDate="{Date}2018-08-19T17:13:00.000+05:30"
+            link1="https://www.adobe.com/products/framemaker/whitepaper-framemaker-vs-indesign.html"
+            link1Target="_blank"
+            link1Text="Read more"
+            link2Target="_self"
+            orderDate="{Date}2018-08-09T22:01:00.000+05:30">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                    size="426x240"
+                    type="free">
+                    <social jcr:primaryType="nt:unstructured"/>
+                    <meta
+                        jcr:primaryType="nt:unstructured"
+                        type="website">
+                        <image
+                            jcr:lastModified="{Date}2021-02-26T11:54:22.474Z"
+                            jcr:lastModifiedBy="21n52271"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </meta>
+                    <tracking jcr:primaryType="nt:unstructured"/>
+                </video>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2021-02-26T11:54:22.474Z"
+                jcr:lastModifiedBy="21n52271"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="FrameMaker 2019 vs InDesign – For Technical Documentation"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/technicalcommunicationsuite_2019/images/frameMaker_vs_indesign_cc_for_technical_documentation.png"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </customershowcasecard>
+    </jcr:content>
+</jcr:root>

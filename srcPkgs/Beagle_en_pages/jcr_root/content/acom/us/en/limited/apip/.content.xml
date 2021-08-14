@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2017-12-07T18:46:50.752Z"
+        cq:lastModifiedBy="dwilbank"
+        cq:lastReplicated="{Date}2017-12-07T18:47:02.323Z"
+        cq:lastReplicatedBy="dwilbank"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Adobe Product Improvement Program"
+        jcr:uuid="f07f5da1-89f5-4d25-9794-ac70cfcf63fb"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        billingFrequency="ANNUAL"
+        browserTitle="Adobe Product Improvement Program"
+        channel="adobe.com"
+        commitment="YEAR"
+        disableGeoRouting="true"
+        distType="dist5"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        hideMerchandisingBar="inherit"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="inherit"
+        marketSegmentRewrite="COM"
+        metaDescription="Adobe Product Improvement Program"
+        modalSize="426x240"
+        modelCode="INDIVIDUAL"
+        pricePoint="REGULAR"
+        stagelastReplicated="28-Nov-2017 23:09"
+        stagelastReplicatedBy="dwilbank"
+        stageLastReplicationAction="ActivatedtoStage"
+        topPadding="Default (Top Padding - 7 rem)"
+        useH1Tags="pageTitle">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2017-11-28T22:45:58.194Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2017-11-28T22:45:58.194Z"
+                    jcr:lastModifiedBy="dwilbank"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_be3c
+                jcr:created="{Date}2017-11-28T22:46:12.621Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-11-28T22:46:30.073Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="9"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-28T22:46:30.073Z"
+                        jcr:lastModifiedBy="dwilbank"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_be3c>
+            <text_a136
+                jcr:created="{Date}2017-11-28T22:46:50.835Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-11-28T22:47:40.833Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>The Adobe Product Improvement Program is designed to understand and anticipate customer needs in order to deliver world-class products and solutions. Participation is voluntary, and no personal information is collected.&lt;/span>&lt;/div>&#xa;"/>
+            <text_b57
+                jcr:created="{Date}2017-11-28T22:47:46.220Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-12-07T18:46:50.748Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;a href=&quot;https://www.adobe.com/special/misc/mobile_app_usage_faq.html&quot;>Adobe Product Improvement Program for Mobile ›&lt;/a>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"/>
+            <text_3263
+                jcr:created="{Date}2017-11-28T22:51:48.451Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-11-28T23:07:05.006Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>What information is collected?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>System information, such as operating system, processor, and memory installed&lt;/span>&lt;/div>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Browser type and version&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Adobe product information such as version&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Adobe feature usage such as menu options or buttons selected&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Please note that Adobe does require some information for&amp;nbsp;Activation&amp;nbsp;purposes.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <horizontalrule_ead6
+                jcr:created="{Date}2017-11-28T23:05:25.295Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-11-28T23:05:25.295Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_bfc4
+                jcr:created="{Date}2017-11-28T22:53:44.950Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-11-28T23:07:14.405Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>What products are currently participating?&lt;/div>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>CS: CS5, CS5.5, CS6 desktop apps&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>CC Most pre-2014 release CC desktop apps, Muse CC (2014 release) 32-bit version.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Adobe Acrobat Standard/Pro and Adobe Reader versions 9, X, XI&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Adobe Photoshop Elements and Adobe Premiere Elements, Elements Organizer&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Adobe Captivate&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>You can easily check if a product is participating by choosing Help. If you see Adobe Product Improvement Program, that product is participating in the program.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Please note this program does not apply to the 2014 release of Creative Cloud desktop apps, To learn more about information collection related to these products,&amp;nbsp;&lt;a href=&quot;http://www.adobe.com/go/cc_personalize&quot;>click here&lt;/a>.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <horizontalrule_3541
+                jcr:created="{Date}2017-11-28T23:05:37.747Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-11-28T23:05:37.747Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_5eb9
+                jcr:created="{Date}2017-11-28T22:55:42.933Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-11-28T23:07:22.629Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>How will Adobe use the information?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Information collected will be used to develop new features and improve Adobe products.&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <horizontalrule_3611
+                jcr:created="{Date}2017-11-28T23:05:43.517Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-11-28T23:05:43.517Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_3fae
+                jcr:created="{Date}2017-11-28T22:56:11.766Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-11-28T23:07:29.294Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>How is my privacy protected?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe takes many precautions in protecting the information that is collected and transmitted. You can learn more about how we handle user information by reviewing&amp;nbsp;&lt;a href=&quot;/content/acom/us/en/privacy.html&quot;>Adobe’s Privacy Policy&lt;/a>.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Since no personally identifiable information is collected, the anonymous data will not be meaningful to anyone outside of Adobe.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <horizontalrule_ad46
+                jcr:created="{Date}2017-11-28T23:05:52.389Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-11-28T23:05:52.389Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_9fcf
+                jcr:created="{Date}2017-11-28T22:57:00.561Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-11-28T23:07:35.084Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>How does it work?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>You choose to participate and allow Adobe to send usage data, associated with an anonymous user ID from your computer to Adobe. Participation requires a small configuration file will be downloaded to your computer from time to time. The purpose of the file is to update the configuration of the data that is collected. If you are offline at any time, the data will be sent the next time you are online. This will not impact performance.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Additionally, for some Adobe products, you may receive a request within the product to participate in a brief two-question anonymous survey asking for feedback. Participation is optional, and separate from your participation the Adobe Product Improvement Program. Survey data will be returned directly to Adobe’s secure database for analysis by the responsible product team.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <horizontalrule_c221
+                jcr:created="{Date}2017-11-28T23:05:56.666Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-11-28T23:05:56.666Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_d813
+                jcr:created="{Date}2017-11-28T22:57:46.356Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-11-28T23:07:42.501Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>How do I participate?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>After Adobe products are installed, you will be presented with a dialog box asking if you would like to participate in the program. If you do not recall responding to this dialog box, follow these instructions:&lt;/span>&lt;/div>&#xa;&lt;ol>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Launch your Adobe product.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Choose Help &amp;gt; Adobe Product Improvement Program.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>When the dialog box appears select either &amp;quot;Participate,&amp;quot;&amp;quot;Allow&amp;quot; or &amp;quot;Yes,&amp;quot; depending on the choice offered.&lt;/span>&lt;/li>&#xa;&lt;/ol>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"/>
+            <horizontalrule_fd9c
+                jcr:created="{Date}2017-11-28T23:06:00.708Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-11-28T23:06:00.708Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_a6cc
+                jcr:created="{Date}2017-11-28T22:58:55.773Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-11-28T23:07:49.528Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>What if I change my mind?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>To stop participating,&lt;/span>&lt;/div>&#xa;&lt;ol class=&quot;text-6-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Choose Help &amp;gt; Adobe Product Improvement Program.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Select either &amp;quot;Do Not Participate,&amp;quot;&amp;quot;Don&amp;#39;t Allow&amp;quot; or &amp;quot;No,&amp;quot; depending on the choice offered.&lt;/span>&lt;/li>&#xa;&lt;/ol>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>To join the program,&lt;/span>&lt;/div>&#xa;&lt;ol class=&quot;text-6-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Choose Help &amp;gt; Adobe Product Improvement Program.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Select either &amp;quot;Participate,&amp;quot;&amp;quot;Allow&amp;quot; or &amp;quot;Yes,&amp;quot; depending on the choice offered.&lt;/span>&lt;/li>&#xa;&lt;/ol>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"/>
+            <horizontalrule_777b
+                jcr:created="{Date}2017-11-28T23:06:05.271Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-11-28T23:06:05.271Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_4517
+                jcr:created="{Date}2017-11-28T23:00:14.934Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-11-28T23:07:55.925Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>Will I receive spam if I participate in the program?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>You will not receive any e-mail from Adobe regarding this program, regardless of whether you participate. We do not collect personal identifiable information as part of this program that will be used to identify you or contact you.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <horizontalrule_fc94
+                jcr:created="{Date}2017-11-28T23:06:09.391Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-11-28T23:06:09.391Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_70d7
+                jcr:created="{Date}2017-11-28T23:00:57.797Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-11-28T23:08:02.041Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>Do I need an Internet connection?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>An Internet connection is required to participate in this program. However, you do not need to be connected all the time. When an Internet connection becomes available, the information is automatically transmitted with minimal impact to your connection.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <horizontalrule_f62d
+                jcr:created="{Date}2017-11-28T23:06:14.734Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-11-28T23:06:14.734Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_50ba
+                jcr:created="{Date}2017-11-28T23:01:40.356Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-11-28T23:08:08.215Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>Can I see the data that is collected before it is sent to Adobe?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>No, the information cannot be displayed. This program is designed to work for millions of users without affecting their product use, so the data is sent automatically only after the product is closed. The data is also encoded so that it can be processed efficiently.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <horizontalrule_d5a8
+                jcr:created="{Date}2017-11-28T23:06:17.848Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-11-28T23:06:17.848Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_eac4
+                jcr:created="{Date}2017-11-28T23:02:14.821Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-11-28T23:08:59.597Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>How long does the program last?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Information is collected as long as you use the product version for which you have agreed to participate or until you decide to stop participating in the program&lt;/span>.&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <horizontalrule_b83c
+                jcr:created="{Date}2017-11-28T23:06:20.897Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-11-28T23:06:20.897Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_44e4
+                jcr:created="{Date}2017-11-28T23:02:59.737Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2017-11-28T23:03:29.246Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>After I agreed to participate in the program, you asked questions about my job. Why?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>The optional demographic information helps us understand features used in your particular job, industry, and company size, so we can develop better workflows and features to suit your needs.&lt;/span>&lt;/div>&#xa;"/>
+            <end_15119091726240
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_be3c"/>
+        </contentbody>
+    </jcr:content>
+</jcr:root>

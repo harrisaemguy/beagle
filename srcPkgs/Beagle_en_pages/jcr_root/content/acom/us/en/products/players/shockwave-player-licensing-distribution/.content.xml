@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2017-03-08T10:50:38.000Z"
+        cq:lastModifiedBy="viktiwar"
+        cq:lastReplicated="{Date}2017-03-14T09:41:29.186Z"
+        cq:lastReplicatedBy="viktiwar"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:language="en"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Adobe Shockwave Player Licensing"
+        jcr:uuid="c2bb33a0-7ff6-405e-a419-466c193fbbd0"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Adobe Shockwave Player Licensing | Adobe"
+        distType="dist5"
+        expirationText="&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideInBreadcrumb="true"
+        hideInSectionNav="true"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        marketSegmentRewrite="none"
+        metaDescription="Adobe Shockwave Player Licensing"
+        modalSize="426x240"
+        navTitle="Adobe Shockwave Player Licensing"
+        noFollow="true"
+        noIndex="true"
+        pageTitle="Adobe Shockwave Player Licensing"
+        siteCatalystFamilyName="Adobe Flash runtimes"
+        stagelastReplicated="08-Mar-2017 10:51"
+        stagelastReplicatedBy="viktiwar"
+        stageLastReplicationAction="ActivatedtoStage"
+        useH1Tags="pageTitle">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="10">
+            <image
+                jcr:lastModified="{Date}2017-02-24T09:10:50.119Z"
+                jcr:lastModifiedBy="sacdhing"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2017-02-24T09:10:50.119Z"
+                    jcr:lastModifiedBy="sacdhing"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_9ca9
+                jcr:created="{Date}2015-11-24T10:22:53.036Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2015-11-24T10:31:48.900Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="4"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-11-24T10:31:48.900Z"
+                        jcr:lastModifiedBy="loewy"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_9ca9>
+            <column_4f9c
+                jcr:created="{Date}2015-11-24T13:20:01.376Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2015-12-03T14:52:37.326Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="2"
+                grid0="8"
+                grid1="4"
+                grid2="4"
+                layout="2;grid-cols-8;grid-cols-4 grid-offset-2;"
+                layoutMode="structured"
+                multiplier="3"
+                offset1="2"
+                offset2="2"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-12-03T14:52:37.326Z"
+                        jcr:lastModifiedBy="loewy"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_4f9c>
+            <text_97e1
+                jcr:created="{Date}2015-11-24T12:21:25.293Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2017-03-08T10:50:37.991Z"
+                jcr:lastModifiedBy="viktiwar"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>Distribute Adobe® Shockwave Player®&lt;/h4>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>The Adobe Shockwave Player is available for limited distribution under special license. The license includes distribution within a company or organizational intranet, on fixed media such as a CD/DVD or with a bundled software product. Distribution via an externally-facing internet site is prohibited.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Shockwave Player on Mac will no longer be actively developed. You can download the last updated version from this &lt;a href=&quot;https://get.adobe.com/shockwave/&quot; target=&quot;_blank&quot;>page&lt;/a>. For more information, see &lt;a href=&quot;https://blogs.adobe.com/creativecloud/the-future-of-adobe-contribute-director-and-shockwave/&quot; target=&quot;_blank&quot;>blog&lt;/a>.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Read our&amp;nbsp;&lt;a href=&quot;http://www.adobe.com/products/players/distribution-faq.html&quot; target=&quot;_self&quot;>FAQ&lt;/a>&amp;nbsp;for answers to common questions about Web Player licensing.&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14483712014020
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_4f9c"/>
+            <text_ec69
+                jcr:created="{Date}2015-11-24T12:17:05.509Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2015-11-24T12:19:52.399Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;i class=&quot;adobe-icon-color-creativecloud-app&quot;>&lt;/i>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a target=&quot;_self&quot; href=&quot;https://creative.adobe.com/&quot;>Log in to Creative Cloud&lt;/a>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <text_b2b8
+                jcr:created="{Date}2017-02-24T09:46:46.684Z"
+                jcr:createdBy="sacdhing"
+                jcr:lastModified="{Date}2017-02-24T09:48:18.153Z"
+                jcr:lastModifiedBy="sacdhing"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;a target=&quot;_self&quot; href=&quot;http://www.adobe.com/go/getshockwave/&quot;>Download Adobe Shockwave Player&lt;/a>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <end_14483712014042
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_4f9c"/>
+            <horizontalrule_5dbb
+                jcr:created="{Date}2015-11-24T13:25:55.179Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2015-11-24T13:25:55.179Z"
+                jcr:lastModifiedBy="loewy"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_6d6a
+                jcr:created="{Date}2015-11-24T13:29:33.163Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2016-11-25T13:35:50.784Z"
+                jcr:lastModifiedBy="bshrivas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>&lt;strong>&lt;br>&#xa; &lt;/strong>License Overview&lt;br>&#xa;&amp;nbsp;&lt;/h4>&#xa;"
+                textIsRich="true"/>
+            <text_4c9c
+                jcr:created="{Date}2016-06-15T18:11:57.727Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-24T09:37:06.276Z"
+                jcr:lastModifiedBy="sacdhing"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>You may post Adobe Shockwave Player on company intranet sites or local networks. You may also distribute the Players on a CD, DVD, or any other physical media within the terms and conditions of the electronic Player Distribution License Agreement.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Here is a brief summary of the rights granted by this license:&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Licensee is permitted to distribute Adobe Web Players to multiple clients in a closed intranet environment.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Licensee is permitted to distribute Adobe Web Players to multiple end-users by including the Player installers on CDs, DVDs or other physical media.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Usage of Adobe Web Players is only permitted for supported platforms; usage rights on non-PC devices or embedded systems are not granted by this license.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Licensee must use the installers as-is without modification.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Licensees, at their discretion, are entitled to display the Flash Enabled and/or Shockwave logos on products or intranet sites according to the Style Guide.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/products/clients/all_dist_agreement.html&quot; target=&quot;_self&quot;>View the full license text in a printable format&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <horizontalrule_84bf
+                jcr:created="{Date}2017-02-24T09:36:11.390Z"
+                jcr:createdBy="sacdhing"
+                jcr:lastModified="{Date}2017-02-24T09:36:11.390Z"
+                jcr:lastModifiedBy="sacdhing"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_e1ce
+                jcr:created="{Date}2015-11-24T13:46:28.414Z"
+                jcr:createdBy="loewy"
+                jcr:lastModified="{Date}2016-11-25T13:35:29.000Z"
+                jcr:lastModifiedBy="bshrivas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>&lt;strong>&lt;br>&#xa; &lt;/strong>Apply for a License&lt;br>&#xa;&amp;nbsp;&lt;/h4>&#xa;"
+                textIsRich="true"/>
+            <text_6bed
+                jcr:created="{Date}2016-06-15T18:16:19.713Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-24T09:36:44.771Z"
+                jcr:lastModifiedBy="sacdhing"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>The application will take a few minutes to complete and will require you to provide general information about your intended usage. At the end, you will be provided with a link to the installers by email.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <standalonecta_9a2
+                jcr:created="{Date}2016-06-15T20:54:39.049Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-24T09:38:09.921Z"
+                jcr:lastModifiedBy="sacdhing"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/standalonecta"
+                ctabuttoncolor="merchpod-cta-button"
+                ctaType="{Boolean}true"
+                link="http://www.adobe.com/go/sw_apply_dist/"
+                linkText="Apply to distribute Shockwave Player"
+                target="_self"/>
+            <end_14483605730770
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_9ca9"/>
+        </contentbody>
+    </jcr:content>
+</jcr:root>

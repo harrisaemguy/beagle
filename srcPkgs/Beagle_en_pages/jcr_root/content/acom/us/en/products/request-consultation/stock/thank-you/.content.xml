@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2017-08-15T21:22:24.538Z"
+        cq:lastModifiedBy="wmyersta"
+        cq:template="/apps/beagle/templates/onecolumnpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:uuid="1b04527c-4d55-4239-b80a-3e8fe76865e4"
+        sling:resourceType="beagle/components/onecolumnpage"
+        bodyClass="blackBackground"
+        browserTitle="Seven years as a Leader in Web Content Management Platforms."
+        footerRequired="true"
+        globalnavProfileTheme="default"
+        groupSectionNavItems="no"
+        headerRequired="true"
+        hideInSectionNav="true"
+        hidePersonalizedHero="hide"
+        isAMCOffersPage="true"
+        marketSegmentRewrite="COM"
+        metaDescription="Seven years as a Leader in Web Content Management Platforms."
+        navTitle="Seven years as a Leader in Web Content Management Platforms."
+        noFollow="true"
+        noIndex="true"
+        removeFromHtmlSitemap="true"
+        removeFromSitemap="true"
+        removeFromXmlSitemap="true"
+        stagelastReplicated="01-Jun-2017 16:54"
+        stagelastReplicatedBy="peharris"
+        stageLastReplicationAction="ActivatedtoStage">
+        <image
+            jcr:lastModified="{Date}2017-07-31T19:16:01.701Z"
+            jcr:lastModifiedBy="atrevino"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+        <tophero
+            jcr:lastModified="{Date}2017-07-27T18:27:58.445Z"
+            jcr:lastModifiedBy="atrevino"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            avoid="hero2-avoid-1"
+            color="hero2-theme-1"
+            fixedHeight="true"
+            height="hero2-size-5"
+            hideCredits="true"
+            hideLink="true">
+            <image
+                jcr:lastModified="{Date}2017-07-27T18:27:58.445Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Once again, we’re happy to be named a Leader in Data Management Platforms."
+                fileReference="/content/dam/acom/en/modal-offers/images/161225094_WCM_MQ_Q3_lp_marquee_1440x300.jpg"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+            <article
+                jcr:lastModified="{Date}2017-07-27T18:29:42.801Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hero/article"
+                articleAlignment="hero2-align-1"
+                title="&lt;p>Seven years as a Leader in Web Content Management Platforms.&lt;br>&#xa;&lt;/p>&#xa;"
+                width="hero2-basis-0">
+                <titleImage
+                    jcr:lastModified="{Date}2017-07-27T18:29:42.801Z"
+                    jcr:lastModifiedBy="atrevino"
+                    jcr:primaryType="nt:unstructured"/>
+                <link
+                    jcr:primaryType="nt:unstructured"
+                    modalMode="VIDEO"
+                    size="1000x940"
+                    type="free">
+                    <image
+                        jcr:lastModified="{Date}2017-07-27T18:29:42.801Z"
+                        jcr:lastModifiedBy="atrevino"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </link>
+            </article>
+        </tophero>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_aa29
+                jcr:created="{Date}2016-10-27T08:18:10.333Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2016-12-14T20:50:06.589Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor="background-color:#000000;color:#aaa"
+                columnCount="2"
+                grid0="8"
+                grid1="6"
+                layout="2;grid-cols-8 grid-offset-1;grid-cols-6;"
+                multiplier="8"
+                offset0="1"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v8x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-12-14T20:50:06.589Z"
+                        jcr:lastModifiedBy="peharris"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_aa29>
+            <text_fb03
+                jcr:created="{Date}2016-12-02T16:43:12.159Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2017-02-17T17:28:48.901Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot;>&lt;span class=&quot;text-light&quot;>Your materials are ready.&lt;/span>&lt;/div>&#xa;"/>
+            <text_1e5
+                jcr:created="{Date}2017-07-14T17:09:43.147Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2017-07-27T21:42:35.010Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-4-block&quot;>&lt;em>&lt;a href=&quot;http://www.gartner.com/reprints/?id=1-47P0GRD&amp;amp;ct=170726&amp;amp;st=sb&quot; target=&quot;_blank&quot;>Gartner Magic Quadrant for Web Content Management 2017.&lt;/a>&lt;/em>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14798545230780
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_aa29"/>
+            <text_a50b
+                jcr:created="{Date}2016-12-02T19:24:31.182Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2017-05-31T19:14:43.151Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot;>Want to know more? Let&amp;#39;s talk.&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <standalonecta_f44f
+                jcr:created="{Date}2016-12-02T19:22:08.269Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2017-05-31T19:15:36.560Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/standalonecta"
+                ctabuttonalign="text-start"
+                ctabuttoncolor="merchpod-cta-button"
+                ctaType="{Boolean}true"
+                link="/content/acom/us/en/products/request-consultation/experience-cloud"
+                linkText="Request a demo"
+                target="_blank"/>
+            <text_3635
+                jcr:created="{Date}2016-12-02T19:23:01.549Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2016-12-14T20:24:10.711Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>or call 1-800-87ADOBE&lt;/div>&#xa;"/>
+            <end_14775562903380
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_aa29"/>
+        </contentbody>
+        <customizedfooter
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="wcm/foundation/components/iparsys"/>
+    </jcr:content>
+</jcr:root>

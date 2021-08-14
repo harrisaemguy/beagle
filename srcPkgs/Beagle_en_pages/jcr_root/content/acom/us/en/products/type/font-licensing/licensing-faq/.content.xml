@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-05-03T16:43:47.100Z"
+        cq:lastModifiedBy="cchapman"
+        cq:lastReplicated="{Date}2019-05-03T16:46:50.555Z"
+        cq:lastReplicatedBy="cchapman"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Licensing FAQ"
+        jcr:uuid="f20e4b1c-bfad-4807-b627-4ef49ffc9153"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Font licensing center | Adobe Type"
+        disableGeoRouting="true"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="light"
+        hidePersonalizedHero="hide"
+        languageDirection="ltr"
+        marqueeStyle="newMarquee"
+        metaDescription="FAQs and information about font licensing in Adobe Type."
+        pageTitle="Licensing FAQ"
+        seodescription="The Adobe Font Center provides font licensing, font permissions, and other legal information about Adobe fonts."
+        stagelastReplicated="23-Nov-2016 10:55"
+        stagelastReplicatedBy="rbedi"
+        stageLastReplicationAction="ActivatedtoStage"
+        useH1Tags="pageTitle">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_126b
+                jcr:lastModified="{Date}2016-08-02T04:10:03.861-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-02T04:10:03.861-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_126b>
+            <ttt_f5a5f57f-ca3d-45aa-8cf2-8645eca742b9
+                jcr:lastModified="{Date}2016-08-03T02:52:40.808-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>This FAQ provides answers to common font licensing questions and issues applicable only to Adobe’s general font licensing customs and practices.&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Fonts from other foundries come with their own font End-User License Agreement (EULA) which is the sole legal authority for determining how you are permitted to use the font.&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>If you’re using a Typekit subscription to sync fonts to your computer or add them to a website, refer to the &lt;a href=&quot;https://helpx.adobe.com/typekit/using/font-licensing.html&quot;>Typekit Font Licensing page&lt;/a>.&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_9ed4
+                jcr:created="{Date}2016-08-01T05:44:22.649-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-01T06:05:17.614-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q.&amp;nbsp;What is an Adobe-owned font?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A: Some fonts available in current or past Adobe Type products, such&amp;nbsp;&lt;a href=&quot;http://www.adobe.com/products/fontfolio.html&quot;>Adobe Font Folio&lt;/a>&amp;nbsp;or the Adobe Type Library, are sub-licensed from third party foundries and not actually owned by Adobe. Adobe currently owns about 100 typeface families, comprising about 1000 individual fonts.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_ab8a
+                jcr:created="{Date}2016-08-01T05:46:42.961-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-01T06:03:14.185-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q. Can I use Adobe fonts for commercial projects and client work?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A: Yes, Adobe's standard&amp;nbsp;&lt;a href=&quot;http://www.adobe.com/products/type/font-licensing/end-user-licensing-agreements.html&quot;>font licensing agreement (EULA)&lt;/a>&amp;nbsp;allows for both personal and commercial use, sales, and distribution of designs and documents which are created using the font software. This may include printed materials, logos, and rendered content like photographs, film, video and bitmap graphics.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>If distributed, the design should not contain the original font, but can be converted to vector outlines, rasterized, or subsetted and embedded in an electronic document like a PDF or eBook.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_3cd4
+                jcr:created="{Date}2016-08-01T05:46:53.428-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-01T05:50:13.841-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q. Can I use the fonts to create a logo or other images?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A: Yes, you use the fonts in any desktop program (such as Adobe Photoshop) to create images, which you can then use for any purpose. This would include generating a PDF, EPS file, or bitmapped file such as a JPEG or PNG.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_d928
+                jcr:created="{Date}2016-08-01T05:46:58.824-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-01T05:51:04.242-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q. Can I copyright a logo or design I’ve made with Adobe fonts?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A: Yes, you may copyright any logo or design you have created with Adobe fonts.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_5705
+                jcr:created="{Date}2016-08-01T05:47:28.593-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-01T05:51:53.608-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q. Can I register a logo I’ve made with Adobe fonts as a trademark?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A: Yes, you may register the logo you created with Adobe fonts as a trademark.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_e2fb
+                jcr:created="{Date}2016-08-01T05:47:37.737-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-03T03:59:33.274-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q. Can I use an Adobe font on the web?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A: Yes, but only with an&amp;nbsp;&lt;a href=&quot;http://www.typekit.com/&quot;>Adobe Typekit&lt;/a>&amp;nbsp;subscription. Typekit provides secure web font hosting for anyone who wants to use great fonts on their websites.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>Fonts remain protected on the Typekit servers and are dynamically delivered to browsers in the appropriate format to ensure an optimal and consistent typographic experience. Typekit offers user-friendly integration with CSS and HTML code, and other optimizations, like font subsetting.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>Browse the Adobe fonts available on the Typekit from&amp;nbsp;&lt;a href=&quot;https://typekit.com/foundries/adobe&quot;>Adobe’s foundry page&lt;/a>. Learn more about&amp;nbsp;&lt;a href=&quot;https://helpx.adobe.com/typekit/using/what-is-typekit.html&quot;>how Typekit works&lt;/a>.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_6c93
+                jcr:created="{Date}2016-08-01T05:47:40.100-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-02T01:47:33.578-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q. Why doesn’t Adobe allow its fonts to be used with @font-face?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A: When a font is used on the web with @font-face, it is made available on a server for a browser to download and use. Doing so exposes the font to both piracy and unintentional misuse. Services like Typekit provide extra layers of protection for fonts to help reduce those risks.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_53cc
+                jcr:created="{Date}2016-08-01T05:47:42.737-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-11-23T10:55:21.789Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q. Where can I find information on Adobe Font Folio?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A: For Font Folio questions, please review the&amp;nbsp;&lt;a href=&quot;/content/acom/us/en/products/fontfolio/faq.html&quot;>Font Folio FAQ&lt;/a>.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_9663
+                jcr:created="{Date}2016-08-01T05:47:45.364-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-01T06:00:51.513-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q. Can I use Adobe fonts with sIFR or Cufón?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A: Scalable Inman Flash Replacement (&lt;a href=&quot;http://en.wikipedia.org/wiki/Sifr&quot;>sIFR&lt;/a>) and&amp;nbsp;&lt;a href=&quot;http://cufon.shoqolate.com/&quot;>Cufón&amp;nbsp;&lt;/a>are techniques that use Adobe Flash and SVG, respectively, to dynamically replace plain HTML text with a specific font.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>You can use Adobe-owned fonts with sIFR and Cufón, but you may not redistribute the Flash or SVG files.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>Also, we recommend using Typekit to style your text with web fonts instead of using sIFR or Cufón. The latter both replace or overlay HTML text with fonts rendered with other technologies, which interferes with processes that use the text information, such as copying and searching. &amp;nbsp;Typekit styles your source text with web font files, providing the same visual effect without losing the accessibility of real text.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14544550461840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_126b"/>
+            <column_ca1
+                jcr:created="{Date}2016-07-29T03:23:56.964-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-03T04:00:27.735-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-03T04:00:27.735-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_ca1>
+            <horizontalrule_ba17
+                jcr:created="{Date}2016-08-01T06:11:14.663-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-01T06:11:14.663-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_ac51
+                jcr:created="{Date}2016-07-29T03:23:59.947-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-07-29T03:25:33.888-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-07-29T03:25:33.888-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_ac51>
+            <text_260b
+                jcr:created="{Date}2016-07-29T03:24:02.584-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-04T02:55:08.973-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Learning&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers.html&quot;>Adobe Type Designers&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-team.html&quot;>Adobe Type Team&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-specimens.html&quot;>Type specimens&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-references-tips.html&quot;>Type reference materials&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-originals.html&quot;>Adobe Originals&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/opentype.html&quot;>OpenType&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14697879338970
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_ac51"/>
+            <text_b7ba
+                jcr:created="{Date}2016-07-29T03:24:04.484-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-07-29T03:24:04.484-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Resources&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blog.typekit.com/&quot;>Type &amp;amp; Typekit blog&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blogs.adobe.com/CCJKType/&quot;>CJK Type blog (Asian fonts)&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype.html&quot;>Developer information&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype/afdko.html&quot;>Font Development Kit&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/install-instructions.html&quot;>Font installation instructions&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14697879338981
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_ac51"/>
+            <text_c27c
+                jcr:created="{Date}2016-09-01T05:22:01.935Z"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-09-01T05:22:01.935Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Help&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing Center&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/creative-cloud-fonts.html&quot;>CC Bundled Fonts&amp;nbsp;FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://typekit.com/help&quot;>Web Font FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/products/fontfolio/faq.html&quot;>Font Folio FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://forums.adobe.com/community/typography_fonts&quot;>Adobe Type user forums&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14697879338982
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_ac51"/>
+            <text_905c
+                jcr:created="{Date}2016-07-29T03:37:08.009-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-07-29T03:37:17.128-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&amp;nbsp;&amp;nbsp;&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <end_14697878369710
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_ca1"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2017-02-09T01:28:26.436Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2017-02-09T01:28:26.436Z"
+                    jcr:lastModifiedBy="karchie"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+    </jcr:content>
+</jcr:root>

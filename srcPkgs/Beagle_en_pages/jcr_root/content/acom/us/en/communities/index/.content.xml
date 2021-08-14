@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-11-25T14:49:12.961Z"
+        cq:lastModifiedBy="ankshukl"
+        cq:lastReplicated="{Date}2016-12-15T00:39:51.999Z"
+        cq:lastReplicatedBy="vko"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:uuid="aeaf0934-5622-495c-882d-9c0617c90eec"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="blackBackground"
+        browserTitle="Welcome to Adobe Communities"
+        distType="dist5"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideMerchandisingBar="inherit"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="inherit"
+        marketSegmentRewrite="none"
+        marqueeStyle="newMarquee"
+        metaDescription="Join the largest community network of creative people. Discuss product and solutions with Adobe experts. Get Involved Today!"
+        modalSize="426x240"
+        pageTitle="Adobe Communities"
+        stagelastReplicated="23-Nov-2016 15:52"
+        stagelastReplicatedBy="rbedi"
+        stageLastReplicationAction="ActivatedtoStage"
+        tagsKeywords="adobe community">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2016-11-23T14:19:54.443Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2016-11-23T14:19:54.443Z"
+                    jcr:lastModifiedBy="rbedi"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_258e
+                jcr:created="{Date}2016-08-25T06:38:30.037Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-25T07:34:15.609Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-25T07:34:15.609Z"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_258e>
+            <column_cc81
+                jcr:created="{Date}2016-08-25T06:39:57.554Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-25T06:57:06.382Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of2;grid-span-1of2;"
+                bgColor=" "
+                layout="2;grid-span-1of2;grid-span-1of2;"
+                layoutMode="spatial"
+                multiplier="5"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-25T06:57:06.382Z"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_cc81>
+            <text_7456
+                jcr:created="{Date}2016-08-25T06:40:22.195Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-25T07:28:49.022Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Adobe User Groups&amp;nbsp;&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/communities/user-groups.html&quot; target=&quot;_blank&quot;>Find a user group near you&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>&lt;a href=&quot;https://forums.adobe.com&quot; target=&quot;_blank&quot;>Adobe Forums&lt;/a>&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Meet, ask, and follow community experts or become an MVP (Most Valuable Participant) by sharing your expertise with the community.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>&lt;a href=&quot;http://www.adobe.com/training.html&quot;>Adobe Certified Experts&lt;/a>&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Becoming an Adobe Certified Expert (ACE) shows that you've demonstarted marked proficiency with one or more Adobe software products.&lt;/span>&lt;/div>&#xa;&lt;h3>&amp;nbsp;&lt;/h3>&#xa;"/>
+            <break_14721072156920
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_cc81"/>
+            <text_57a5
+                jcr:created="{Date}2016-08-25T06:46:37.650Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-09-08T10:11:48.224Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>&lt;a href=&quot;http://edex.adobe.com&quot; target=&quot;_blank&quot;>Adobe Education Exchange&lt;/a>&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Join the largest community of creative educators in the world on the Adobe Education Exchange.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>&lt;a href=&quot;https://edex.adobe.com/campus-leader&quot; target=&quot;_blank&quot;>Adobe Campus Leader Program&lt;/a>&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Apply to join other exceptional and creative educators to lead and inspire your peers, share ideas and collaborate.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>&lt;a href=&quot;http://acrobatusers.com/&quot; target=&quot;_blank&quot;>Acrobat User Community&lt;/a>&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>The Acrobat User Community is a global resource for users of Acrobat and PDF, with free eseminars, tips, tutorials, video, and discussions forums.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://help-forums.adobe.com/&quot;>&lt;strong>Adobe Marketing&amp;nbsp;Cloud Community&lt;/strong>&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Learn about our suite of digital experience solutions, talk&amp;nbsp;with other customers, exchange examples, share experiences and get help from&amp;nbsp;the Adobe experts.&lt;/span>&lt;/div>&#xa;"/>
+            <end_14721071975590
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_cc81"/>
+            <text_c450
+                jcr:created="{Date}2016-08-25T06:55:01.570Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-09-12T09:50:01.028Z"
+                jcr:lastModifiedBy="bgupta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h5>&lt;span class=&quot;text-light&quot;>&lt;strong>MORE COMMUNITY RESOURCES&lt;/strong>&lt;/span>&lt;/h5>&#xa;"/>
+            <horizontalrule_3a9b
+                jcr:created="{Date}2016-08-25T06:55:43.297Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-08-25T06:55:43.297Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_24f
+                jcr:created="{Date}2016-08-25T06:58:01.923Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2020-11-25T14:49:12.956Z"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;strong>&lt;a href=&quot;http://www.adobe.com/cfusion/exchange/index.cfm&quot; target=&quot;_blank&quot;>Adobe Marketplace and Exchange Classic&lt;/a>&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Explore the Adobe Marketplace, a central resource for finding tools, services, and innovations that supplement and extend your Adobe products. Download hundreds of easy-to-install extensions, time-saving functions, code and more from Adobe Exchange Classic.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>&lt;a href=&quot;http://feeds.adobe.com/&quot; target=&quot;_blank&quot;>Blog Aggregator&lt;/a>&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Read and search Adobe-related blogs and RSS feeds and even create your own customized search-based feeds.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>&lt;a href=&quot;http://www.adobe.com/designcenter.html&quot; target=&quot;_blank&quot;>Adobe Design Center&lt;/a>&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Explore feature stories, get inspired by fellow designers, and find out more about your favorite Adobe software.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>&amp;nbsp;&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>&lt;a href=&quot;http://www.adobe.com/devnet.html&quot; target=&quot;_blank&quot;>Adobe Developer Connection&lt;/a>&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Get the latest developer information and extend your knowledge with articles, tutorials, code samples, downloads, and sample applications.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>&lt;a href=&quot;https://www.adobe.com/cfusion/partnerportal/index.cfm?event=aboutPartnerships&amp;amp;loc=en_us&amp;amp;showmytab=tab_trainers&quot; target=&quot;_blank&quot;>Adobe Training Provider Program&lt;/a>&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>The Training Provider Program is designed for commercial business and individuals who provide training on Adobe products.&lt;/span>&lt;/div>&#xa;"/>
+            <end_14721071100410
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_258e"/>
+        </contentbody>
+        <tophero
+            jcr:lastModified="{Date}2016-11-23T11:38:53.768Z"
+            jcr:lastModifiedBy="rbedi"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            avoid="hero2-avoid-1"
+            color="hero2-theme-1"
+            effect="hero2-fx-frame-1"
+            height="hero2-size-2"
+            hideArticle="true"
+            hideCredits="true"
+            hideLink="true">
+            <image
+                jcr:lastModified="{Date}2016-11-23T11:38:53.768Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Communities"
+                fileReference="/content/dam/acom/en/products/communities/Communities-header-2.jpg"
+                xcord="{Long}5"
+                ycord="{Long}27"/>
+        </tophero>
+    </jcr:content>
+</jcr:root>

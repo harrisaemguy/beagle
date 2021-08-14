@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-09-18T09:15:11.088Z"
+        cq:lastModifiedBy="handoo"
+        cq:lastReplicated="{Date}2018-06-05T23:57:13.376Z"
+        cq:lastReplicatedBy="gewittig"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/onecolumnpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Add Adobe Stock to Illustrator"
+        jcr:uuid="8d129789-6437-408c-b0d6-9aa3ecf020cc"
+        sling:resourceType="beagle/components/onecolumnpage"
+        browserTitle="Add Adobe Stock to Illustrator"
+        hideInSectionNav="true"
+        metaDescription=" "
+        stagelastReplicated="15-Nov-2016 09:48"
+        stagelastReplicatedBy="urawat"
+        stageLastReplicationAction="ActivatedtoStage">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_2a6
+                jcr:created="{Date}2016-05-20T19:09:49.131Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2016-06-21T18:31:02.676Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-16;"
+                bgColor=" "
+                layout="1;grid-cols-16;"
+                section="t"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-06-21T18:31:02.676Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_2a6>
+            <image_db7f
+                jcr:created="{Date}2016-06-21T18:29:39.855Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2016-06-21T18:30:19.005Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Add Adobe Stock to Illustrator and get 10 free images"
+                fileReference="/content/dam/acom/en/products/illustrator/images/modal-images/ai-stock-add-799x357.jpg"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+            </image_db7f>
+            <end_14637713891430
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_2a6"/>
+            <column_1fee
+                jcr:created="{Date}2016-06-21T19:00:40.932Z"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2016-06-21T19:07:27.577Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="6"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-06-21T19:07:27.577Z"
+                        jcr:lastModifiedBy="gewittig"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_1fee>
+            <text_34fc
+                jcr:created="{Date}2016-04-07T14:08:30.148-07:00"
+                jcr:createdBy="zeng"
+                jcr:lastModified="{Date}2016-11-15T09:25:10.734Z"
+                jcr:lastModifiedBy="urawat"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>Add&amp;nbsp;Adobe Stock to Illustrator and get 10 free images.&lt;/h3>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Adobe Stock gives you access to over 60 million images, graphics, and videos available right inside Illustrator. Try a free month and download up to 10-high res images.&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14665356409380
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1fee"/>
+            <merchandisingbar_df6
+                jcr:created="{Date}2016-06-06T12:38:45.931-07:00"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2016-06-06T12:39:26.350-07:00"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/merchandisingbar"
+                hidePhoneSection="true"
+                purchasePhoneCss="merchpod-phone-item-label"
+                purchasePhoneText="Purchase by Phone"
+                standaloneMerchBar="{Boolean}true">
+                <merchandising
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/parsys">
+                    <start
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/parsys/column"
+                        layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3"/>
+                    <break_14652419663730
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/parsys/column"
+                        columnType="break"
+                        correspondingStart="start"/>
+                    <merchandising_d91e
+                        jcr:created="{Date}2016-06-21T18:57:28.618Z"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2017-06-26T20:38:43.180Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/merchandising"
+                        backgroundImg="image-off"
+                        ctaButtonOverride="https://commerce.adobe.com/checkout/email/?cli=creative&amp;co=US&amp;lang=en&amp;items%5B0%5D%5Bid%5D=43538F47236C326E137A08307BFA70F2&amp;items%5B0%5D%5Bcs%5D=0&amp;mv=other"
+                        ctaButtonPosition="above"
+                        ctaButtonText="Try for free"
+                        ctaLinkTarget="_self"
+                        marketSegmentRewrite="COM"
+                        merchbackgroundcolor="background-color-off"
+                        merchborder="border-on"
+                        merchradius="radius-on"
+                        merchshadow="shadow-off"
+                        overrideEnable="true"
+                        prefixTitleTextCOM="&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;strong>Your first month is free.&lt;/strong>&lt;/div>&#xa;"
+                        priceOverrideCOM="29.99"
+                        priceType="YEAR"
+                        product="ccm-single-apps-illustrator-stock"
+                        showCTAButton="true"
+                        tryLink="https://creative.adobe.com/join/single_app/year/illustrator"
+                        tryText="No thanks">
+                        <productInfo jcr:primaryType="nt:unstructured"/>
+                        <imagelayer jcr:primaryType="nt:unstructured">
+                            <image
+                                jcr:lastModified="{Date}2017-06-26T20:38:43.180Z"
+                                jcr:lastModifiedBy="wmyersta"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="beagle/components/image"
+                                alt="&amp;nbsp;"/>
+                        </imagelayer>
+                    </merchandising_d91e>
+                    <break_14652419663731
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/parsys/column"
+                        columnType="break"
+                        correspondingStart="start"/>
+                    <end_14652419663742
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/parsys/column"
+                        columnType="end"
+                        correspondingStart="start"/>
+                </merchandising>
+            </merchandisingbar_df6>
+        </contentbody>
+        <image
+            jcr:lastModified="{Date}2016-06-21T20:19:54.293Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

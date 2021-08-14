@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2017-08-11T23:52:48.735Z"
+        cq:lastModifiedBy="golee"
+        cq:lastReplicated="{Date}2015-09-22T18:51:21.541Z"
+        cq:lastReplicatedBy="peharris"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:language="en"
+        jcr:mixinTypes="[mix:lockable,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Showcase"
+        jcr:uuid="d5ebac17-1a88-44a8-8867-d32b5517c1cf"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Mobile apps marketing, success stories | Adobe Digital Publishing Solution"
+        ctaButtonText="Request a demo"
+        distType="dist5"
+        enableBreadcrumb="true"
+        enablePageTitle="true"
+        globalnavProfileTheme="default"
+        groupSectionNavItems="no"
+        groupSectionNavTitle="Showcase"
+        hideInBreadcrumb="true"
+        hideMerchandisingBar="show"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        isMCPage="true"
+        livePersonSiteId="89901003"
+        marketSegmentRewrite="COM"
+        metaDescription="Adobe Digital Publishing Solution helps businesses deliver mobile experiences with content-centric apps. Read customer success stories."
+        modalSize="426x240"
+        navTitle="Showcase"
+        noLoggedInChange="true"
+        pageTitle="Showcase"
+        product="digital_publishingsuite"
+        sectionNavTitle="Showcase"
+        tagsKeywords="mobile apps, mobile app marketing, mobile app platform, mobile app publishing"
+        thumbMode="{Boolean}false"
+        topPadding="small-top-padding"
+        tryLink="http://apps.enterprise.adobe.com/go/70114000002JNwKAAW"
+        useH1Tags="pageTitle">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="55">
+            <image
+                jcr:lastModified="{Date}2017-08-11T23:52:48.711Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer
+            jcr:lastModified="{Date}2015-05-22T17:18:30.700Z"
+            jcr:lastModifiedBy="axi13715"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/contentlayer"
+            horizontalAlign="1"
+            opacity="{Long}0"
+            rgb="FFFFFF"
+            verticalAlign="2"
+            width="{Long}40">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2017-08-11T23:52:48.711Z"
+                    jcr:lastModifiedBy="golee"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+            <title jcr:primaryType="nt:unstructured"/>
+            <text
+                jcr:primaryType="nt:unstructured"
+                text="&lt;h1 style=&quot;text-align: center;&quot;>&lt;strong>It pays to be beautiful.&lt;/strong>&lt;/h1>&#xa;&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Create stunning mobile apps with business impact.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+        </contentlayer>
+        <promobar jcr:primaryType="nt:unstructured">
+            <promo
+                jcr:lastModified="{Date}2015-02-03T21:03:27.637Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/promo"
+                ctaButtonText="Request a demo"
+                icon="promo-icon adobe-icon-marketing-cloud"
+                marketSegmentRewrite="COM"
+                priceType="SUB_NEW"
+                product="web_experience_management"
+                productIntroText="Find out how Adobe Experience Manager can help your business."
+                purchasePhoneCss="promo-phone"
+                purchasePhoneNumberCall="+18777227088"
+                purchasePhoneNumberDisp="877.722.7088"
+                purchasePhoneText="call">
+                <free
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonText="Request a demo"
+                    productIntroText="Find out how Adobe Experience Manager can help your business."/>
+                <paid
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="/content/acom/us/en/marketing-cloud"
+                    ctaButtonText="Request a demo"
+                    productIntroText="Find out how Adobe Experience Manager can help your business."/>
+            </promo>
+        </promobar>
+        <mmarquee
+            jcr:lastModified="{Date}2015-05-22T17:10:19.846Z"
+            jcr:lastModifiedBy="axi13715"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mmarquee"
+            text="&lt;h1 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h1>&#xa;&lt;h1 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h1>&#xa;&lt;h1 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h1>&#xa;&lt;h1 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h1>&#xa;&lt;h1 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h1>&#xa;&lt;h1 style=&quot;text-align: center;&quot;>&lt;strong>It pays to be beautiful.&lt;/strong>&lt;/h1>&#xa;&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>Create stunning mobile apps with business impact.&lt;/div>&#xa;">
+            <contentlayer jcr:primaryType="nt:unstructured"/>
+            <listing jcr:primaryType="nt:unstructured"/>
+        </mmarquee>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_f693
+                jcr:created="{Date}2015-05-22T17:37:33.784Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-22T17:38:28.070Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="1"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t1x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-05-22T17:38:28.070Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_f693>
+            <horizontalrule_9af4
+                jcr:created="{Date}2015-05-22T17:38:02.737Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-22T17:38:02.737Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_14323162538170
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_f693"/>
+            <column_9b8a
+                jcr:created="{Date}2015-05-22T17:33:05.340Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-26T19:01:36.070Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="7"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v7x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-05-26T19:01:36.070Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_9b8a>
+            <text_b78
+                jcr:created="{Date}2015-05-22T17:33:34.719Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-22T17:34:41.116Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>Big things are happening on small screens.&lt;/h3>&#xa;"/>
+            <text_e85a
+                jcr:created="{Date}2015-05-22T17:34:44.701Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-02T20:46:20.422Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Engaging customers. Empowering sales teams. Inspiring employees and students. Organizations are using Adobe Digital Publishing Solution to create amazing apps that tackle business challenges of all kinds, in every industry.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <end_14323159853770
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_9b8a"/>
+            <column_66dc
+                jcr:created="{Date}2015-06-19T16:32:46.965Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-19T16:33:35.577Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor="background-color:#191e22;color:#FFFFFF"
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="9"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-06-19T16:33:35.577Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        fileReference="/content/dam/acom/en/products/publish/images/dps-showcase-angies-list-marquee-1440x415.jpg"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_66dc>
+            <column_7345
+                jcr:created="{Date}2015-06-19T16:34:31.845Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-19T16:34:45.945Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnCount="1"
+                grid0="7"
+                layout="1;grid-cols-7;"
+                layoutMode="structured"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-06-19T16:34:45.945Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_7345>
+            <text_8df0
+                jcr:created="{Date}2015-06-19T16:34:53.677Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-19T16:34:53.677Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;img src=&quot;/content/dam/acom/en/products/publish/images/dps-showcase-logo-angies-list-155x37.png&quot;>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <text_344
+                jcr:created="{Date}2015-06-19T16:34:58.136Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-19T16:34:58.136Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&lt;span class=&quot;text-light&quot;>Angie’s List members come home for inspiration.&lt;/span>&lt;br>&#xa;&lt;/h3>&#xa;"/>
+            <text_2645
+                jcr:created="{Date}2015-06-19T16:35:02.775Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-19T16:35:02.775Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>The local service marketplace leader needed a product that would evolve \u0003with its mobile strategy. Digital Publishing Solution (DPS) powered the transition from a digital replica \u0003of its monthly print magazine to an interactive app experience that updates \u0003weekly. The renovation project paid for itself, with 670% audience growth \u0003and 75% of readers engaging again within two weeks.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <text_508b
+                jcr:created="{Date}2015-06-19T16:35:08.697Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-19T17:38:44.314Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blogs.adobe.com/digitalpublishing/2015/05/angies-list-sees-670-increase-in-readership-with-transition-to-weekly-format.html?promoid=KSXSH&quot; target=&quot;_blank&quot;>Learn more ›&lt;/a>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a data-modal-size=&quot;854x480&quot; target=&quot;_blank&quot; href=&quot;http://wwwimages.adobe.com/content/dam/acom/en/products/publish/pdfs/dps-showcase-angies-list-infographic.pdf&quot;>See infographic&amp;nbsp;›&lt;/a>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a data-modal-size=&quot;854x480&quot; href=&quot;https://video.tv.adobe.com/v/3036/?autoplay=true&quot; target=&quot;modal-frame&quot;>Watch video&amp;nbsp;›&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14347316720230
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_7345"/>
+            <end_14347315670750
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_66dc"/>
+            <column_eeae
+                jcr:created="{Date}2015-06-19T16:35:19.092Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-19T16:35:30.014Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-06-19T16:35:30.014Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_eeae>
+            <end_14347317191630
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_eeae"/>
+            <column_b593
+                jcr:created="{Date}2015-06-10T21:32:57.938Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-10T21:35:10.668Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor="background-color:#191e22;color:#FFFFFF"
+                grid0="8"
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="9"
+                offset0="6"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-06-10T21:35:10.668Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        fileReference="/content/dam/acom/en/products/publish/images/dps-showcase-rei-marquee-1440x415.jpg"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_b593>
+            <column_a86a
+                jcr:created="{Date}2015-06-10T21:35:17.527Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-10T21:35:37.274Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnCount="1"
+                grid0="8"
+                layout="1;grid-cols-8 grid-offset-6;"
+                layoutMode="structured"
+                multiplier="2"
+                offset0="6"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-06-10T21:35:37.274Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_a86a>
+            <text_dfe0
+                jcr:created="{Date}2015-06-10T21:35:45.054Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-10T21:35:45.054Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;img src=&quot;/content/dam/acom/en/products/publish/images/dps-showcase-logo-rei-80x48.png&quot;>&lt;/p>&#xa;"/>
+            <text_e702
+                jcr:created="{Date}2015-06-10T21:35:50.548Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-10T21:35:50.548Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>REI training app ensures every store has a perfect view.&lt;br>&#xa;&lt;/h3>&#xa;"/>
+            <text_52e1
+                jcr:created="{Date}2015-06-10T21:35:56.479Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-11T00:50:11.244Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>To ensure their store displays look picture perfect, the outdoor retailer uses \u0003a training app to share visual merchandising guidelines with employees. REI \u0003designers found creating the app a breeze, and it had a mountain of business impact. All employees said they valued the app and 66% said it made them more efficient.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_623b
+                jcr:created="{Date}2015-06-10T21:36:02.165Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-23T19:42:24.247Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a target=&quot;_blank&quot; href=&quot;http://blogs.adobe.com/digitalpublishing/2015/06/rei-working-with-adobe-dps.html&quot;>Learn more ›&lt;/a>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a data-modal-size=&quot;854x480&quot; target=&quot;_blank&quot; href=&quot;http://wwwimages.adobe.com/content/dam/acom/en/products/publish/pdfs/dps-showcase-rei-infographic.pdf&quot;>See infographic&amp;nbsp;›&lt;/a>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a target=&quot;modal-frame&quot; href=&quot;https://video.tv.adobe.com/v/3035/?autoplay=true&quot; data-modal-size=&quot;854x480&quot;>Watch video&amp;nbsp;›&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14339721175800
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_a86a"/>
+            <end_14339719779970
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_b593"/>
+            <column_b495
+                jcr:created="{Date}2015-06-10T21:36:57.239Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-10T21:37:06.151Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-06-10T21:37:06.151Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_b495>
+            <end_14339722172930
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_b495"/>
+            <column_fded
+                jcr:created="{Date}2015-05-08T20:45:50.211Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2015-06-19T16:35:42.644Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor="background-color:#191e22;color:#FFFFFF"
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="9"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-06-19T16:35:42.644Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        fileReference="/content/dam/acom/en/products/publish/images/dps-showcase-audi-marquee-1440x415.jpg"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_fded>
+            <column_ecfd
+                jcr:created="{Date}2015-05-22T17:49:54.312Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-10T21:32:46.976Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnCount="1"
+                grid0="7"
+                layout="1;grid-cols-7;"
+                layoutMode="structured"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-06-10T21:32:46.976Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_ecfd>
+            <text_1146
+                jcr:created="{Date}2015-05-26T18:39:19.992Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-19T16:35:53.362Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;img src=&quot;/content/dam/acom/en/products/publish/images/dps-showcase-logo-audi-78x59.png&quot;>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <text_6d2f
+                jcr:created="{Date}2015-05-22T17:48:22.019Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-19T16:36:05.941Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&lt;span class=&quot;text-light&quot;>Audi’s library app drives loyalty and leads.&lt;/span>&lt;br>&#xa;&lt;/h3>&#xa;"/>
+            <text_556
+                jcr:created="{Date}2015-05-22T17:48:39.955Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-19T16:42:48.791Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Progressive design and engineering are in Audi’s DNA. So the automaker’s \u0003library app gives their tech-savvy customers an engaging brand experience \u0003that helps drive sales with a 3% click-through rate. And 91% of those clicks \u0003bring customers closer to a purchase, as they configure their dream car, \u0003search inventory, and request a quote.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <text_889c
+                jcr:created="{Date}2015-05-22T17:54:17.981Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-23T19:42:59.795Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blogs.adobe.com/digitalpublishing/2015/06/audis-app-deepens-brand-loyalty-while-generating-strong-sales-leads.html?promoid=KSXSM&quot; target=&quot;_blank&quot;>Learn more ›&lt;/a>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a data-modal-size=&quot;854x480&quot; target=&quot;_blank&quot; href=&quot;http://wwwimages.adobe.com/content/dam/acom/en/products/publish/pdfs/dps-showcase-audi-infographic.pdf&quot;>See infographic&amp;nbsp;›&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14323169943320
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_ecfd"/>
+            <end_14311179502510
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_fded"/>
+            <column_c0ed
+                jcr:created="{Date}2015-05-22T20:27:01.474Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2015-05-22T20:28:22.457Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-05-22T20:28:22.457Z"
+                        jcr:lastModifiedBy="rikio"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_c0ed>
+            <end_14323264215050
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_c0ed"/>
+            <column_a876
+                jcr:created="{Date}2015-05-26T18:29:07.288Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-26T18:29:43.948Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor="background-color:#191e22;color:#FFFFFF"
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="9"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-05-26T18:29:43.948Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        fileReference="/content/dam/acom/en/products/publish/images/dps-showcase-unc-marquee-1440x415.jpg"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_a876>
+            <column_fa
+                jcr:created="{Date}2015-05-26T18:29:49.146Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-26T18:44:49.358Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnCount="1"
+                grid0="7"
+                layout="1;grid-cols-7 grid-offset-7;"
+                layoutMode="structured"
+                multiplier="2"
+                offset0="7"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-05-26T18:44:49.358Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_fa>
+            <text_5121
+                jcr:created="{Date}2015-05-26T18:43:25.260Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-09-22T18:44:53.859Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;img src=&quot;/content/dam/acom/en/products/publish/images/41619.en.dps.logo.unc-business-school-white.158x49.png&quot;>&lt;/p>&#xa;"/>
+            <text_f5c4
+                jcr:created="{Date}2015-05-26T18:30:08.534Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-26T18:30:25.464Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>Business school masters its digital brand.&lt;br>&#xa;&lt;/h3>&#xa;"/>
+            <text_78e9
+                jcr:created="{Date}2015-05-26T18:30:12.860Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-09-22T18:48:53.795Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>To engage students, alumni and faculty schooled in the digital age, UNC Kenan-Flagler Business School embraced mobile and replaced pricy print pieces with easy-to-create apps. It took just four weeks for designers to create a recruitment app for MBA students. And the work paid off with high marks — student applications increased by 28%.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <text_3428
+                jcr:created="{Date}2015-05-26T18:30:17.953Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-09T22:08:53.118Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://video.tv.adobe.com/v/2968/?autoplay=true&quot; target=&quot;modal-frame&quot; data-modal-size=&quot;854x480&quot;>Watch video ›&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <end_14326649891780
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_fa"/>
+            <end_14326649473170
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_a876"/>
+            <column_c0e1
+                jcr:created="{Date}2015-05-26T18:30:48.904Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-26T18:30:58.268Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-05-26T18:30:58.268Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_c0e1>
+            <end_14326650489440
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_c0e1"/>
+            <column_bb75
+                jcr:created="{Date}2015-05-26T18:31:20.647Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-26T18:31:52.982Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor="background-color:#191e22;color:#FFFFFF"
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="9"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-05-26T18:31:52.982Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        fileReference="/content/dam/acom/en/products/publish/images/dps-showcase-exxon-mobil-marquee-1440x415.jpg"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_bb75>
+            <column_bf56
+                jcr:created="{Date}2015-05-26T18:31:58.564Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-26T18:45:54.804Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnCount="1"
+                grid0="8"
+                layout="1;grid-cols-8;"
+                layoutMode="structured"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-05-26T18:45:54.804Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_bf56>
+            <text_1d6d
+                jcr:created="{Date}2015-05-26T18:43:35.376Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-26T18:43:41.144Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;img src=&quot;/content/dam/acom/en/products/publish/images/dps-showcase-logo-exxon-mobil-138x36.png&quot;>&lt;/p>&#xa;"/>
+            <text_ee85
+                jcr:created="{Date}2015-05-26T18:32:17.797Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-11T00:46:22.677Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>Recruitment app fuels the search for top talent.&lt;br>&#xa;&lt;/h3>&#xa;"/>
+            <text_5637
+                jcr:created="{Date}2015-05-26T18:32:21.288Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-11T00:37:35.578Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>To give job candidates a feel for what it’s like to work at a company that values innovation, ExxonMobil created a recruitment app. Since no coding was required, it took just three months to create — which saved barrels of time and expense. And the app has energized candidates, who spend more than 14 minutes engaging each day.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <text_5740
+                jcr:created="{Date}2015-05-26T18:32:25.430Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-23T19:43:38.377Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a target=&quot;_blank&quot; href=&quot;http://blogs.adobe.com/digitalpublishing/2015/04/exxonmobil-aims-to-attract-top-talent-with-working-at-exxonmobil-app.html?promoid=KSXSO&quot;>Learn more ›&lt;/a>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a data-modal-size=&quot;854x480&quot; target=&quot;_blank&quot; href=&quot;http://wwwimages.adobe.com/content/dam/acom/en/products/publish/pdfs/dps-showcase-exxon-mobil-infographic.pdf&quot;>See infographic ›&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <end_14326651186010
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_bf56"/>
+            <end_14326650806800
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_bb75"/>
+            <column_5ba5
+                jcr:created="{Date}2015-05-26T18:32:55.433Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-26T18:33:06.293Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-05-26T18:33:06.293Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_5ba5>
+            <end_14326651754740
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5ba5"/>
+            <column_dd54
+                jcr:created="{Date}2015-05-26T18:33:46.045Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-26T18:33:56.972Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor="background-color:#191e22;color:#FFFFFF"
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="9"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-05-26T18:33:56.972Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        fileReference="/content/dam/acom/en/products/publish/images/dps-showcase-stryker-marquee-1440x415.jpg"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_dd54>
+            <column_71bc
+                jcr:created="{Date}2015-05-26T18:34:03.084Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-26T18:44:34.616Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnCount="1"
+                grid0="7"
+                layout="1;grid-cols-7 grid-offset-7;"
+                layoutMode="structured"
+                multiplier="2"
+                offset0="7"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-05-26T18:44:34.616Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_71bc>
+            <text_8927
+                jcr:created="{Date}2015-05-26T18:43:47.143Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-26T18:43:51.583Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;img src=&quot;/content/dam/acom/en/products/publish/images/dps-showcase-logo-stryker-107x36.png&quot;>&lt;/p>&#xa;"/>
+            <text_83ab
+                jcr:created="{Date}2015-05-26T18:34:20.613Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-26T18:34:37.028Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>Stryker apps are the backbone of sales support.&lt;br>&#xa;&lt;/h3>&#xa;"/>
+            <text_bb32
+                jcr:created="{Date}2015-05-26T18:34:24.565Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-11T00:32:22.875Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>This leading medical technology firm gave its sales reps a more compelling way \u0003to engage busy physicians. Sales enablement apps now bring surgical products and \u0003techniques to life. The company moved away from expensive custom development, and in just two years achieved a 78% usage rate and a 56% reduction in print costs.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <text_3fb5
+                jcr:created="{Date}2015-05-26T18:34:28.784Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-09T22:09:15.385Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blogs.adobe.com/digitalpublishing/2013/06/stryker-orthopaedics-distribute-apps-internally.html?promoid=KSXSQ&quot; target=&quot;_blank&quot;>Learn more ›&lt;/a>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://video.tv.adobe.com/v/2969/?autoplay=true&quot; target=&quot;modal-frame&quot; data-modal-size=&quot;854x480&quot;>Watch video ›&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <end_14326652431230
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_71bc"/>
+            <end_14326652260840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_dd54"/>
+            <column_e748
+                jcr:created="{Date}2015-05-26T18:47:00.742Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-09T22:31:19.523Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                columnCount="2"
+                grid0="4"
+                grid1="4"
+                layout="2;grid-cols-4 grid-offset-3;grid-cols-4 grid-offset-1;"
+                multiplier="9"
+                offset0="3"
+                offset1="1"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-06-09T22:31:19.523Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_e748>
+            <text_8b94
+                jcr:created="{Date}2015-05-26T18:56:03.101Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-26T19:00:17.517Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/p>&#xa;&lt;p style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/p>&#xa;&lt;p style=&quot;text-align: center;&quot;>&lt;img src=&quot;/content/dam/acom/en/products/publish/images/dps-showcase-logo-fast-company-243x92.png&quot;>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <text_36ab
+                jcr:created="{Date}2015-05-26T18:48:43.506Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-28T19:44:34.057Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>The innovative media brand found fresh content and flexible publishing drove a 400% increase \u0003in monthly return visits.&lt;/span>&lt;/div>&#xa;"/>
+            <text_7f1b
+                jcr:created="{Date}2015-05-26T18:49:00.512Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-29T17:27:52.399Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blogs.adobe.com/digitalpublishing/2015/03/new-fast-company-app-scores-five-stars.html?promoid=KSXSR&quot; target=&quot;_blank&quot;>Learn more ›&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14326660788520
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_e748"/>
+            <text_c382
+                jcr:created="{Date}2015-05-26T18:56:13.829Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-26T19:00:21.370Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/p>&#xa;&lt;p style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/p>&#xa;&lt;p style=&quot;text-align: center;&quot;>&lt;img src=&quot;/content/dam/acom/en/products/publish/images/dps-showcase-logo-padi-210x92.png&quot;>&lt;/p>&#xa;"/>
+            <text_ea4
+                jcr:created="{Date}2015-05-26T18:49:33.287Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-11T00:31:02.769Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div style=&quot;text-align: center;&quot; class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>“The ability to do all of this work in-house has been monumental. We completed app production quickly and affordably.” — Karl Shreeves, technical development executive&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <text_4570
+                jcr:created="{Date}2015-05-26T18:49:36.614Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-11T17:43:24.047Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/p>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a target=&quot;_blank&quot; href=&quot;http://blogs.adobe.com/digitalpublishing/2015/06/diving-deep-with-padi-and-adobe-dps.html?promoid=KSXSS&quot;>Learn more ›&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14326660207850
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_e748"/>
+            <column_7a27
+                jcr:created="{Date}2015-05-26T18:50:05.603Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-26T18:59:58.471Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnCount="2"
+                grid0="4"
+                grid1="4"
+                layout="2;grid-cols-4 grid-offset-3;grid-cols-4 grid-offset-1;"
+                multiplier="9"
+                offset0="3"
+                offset1="1"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-05-26T18:59:58.471Z"
+                        jcr:lastModifiedBy="axi13715"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_7a27>
+            <text_faaf
+                jcr:created="{Date}2015-05-26T18:59:20.694Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-26T18:59:26.160Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&lt;img src=&quot;/content/dam/acom/en/products/publish/images/dps-showcase-logo-celebrity-cruises-218x110.png&quot;>&lt;/p>&#xa;"/>
+            <text_39dc
+                jcr:created="{Date}2015-05-26T18:50:27.003Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-11T00:23:36.733Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div style=&quot;text-align: center;&quot; class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>“This app has made our onboard sales team exponentially more productive while improving the booking experience for our guests.” — W. Alejandro Polanco, manager, Mobile &amp;amp; Web Engagement&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <text_2623
+                jcr:created="{Date}2015-05-26T18:50:30.210Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-29T17:28:10.967Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://blogs.adobe.com/digitalpublishing/2015/02/adobe-dps-makes-onboard-bookings-smooth-sailing-for-celebrity-cruises.html?promoid=KSXST&quot; target=&quot;_blank&quot;>Learn more ›&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <break_14326662210790
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_7a27"/>
+            <text_d69
+                jcr:created="{Date}2015-05-26T18:59:30.510Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-26T18:59:36.619Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&lt;img src=&quot;/content/dam/acom/en/products/publish/images/dps-showcase-logo-buffalo-bills-289x110.png&quot;>&lt;/p>&#xa;"/>
+            <text_4f5
+                jcr:created="{Date}2015-05-26T18:50:32.741Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-06-11T00:28:54.683Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>The Buffalo Bills’ award-winning app scored with fans and doubled audience size with its real-time statistics, breaking news and game previews.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <text_29c4
+                jcr:created="{Date}2015-05-26T18:50:35.369Z"
+                jcr:createdBy="axi13715"
+                jcr:lastModified="{Date}2015-05-29T17:28:22.608Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blogs.adobe.com/digitalpublishing/2015/03/buffalo-bills-touch-doubles-audience-size-and-wins-microsoft-surface-as-title-sponsor.html?promoid=KSXSU&quot; target=&quot;_blank&quot;>Learn more ›&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <end_14326662056640
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_7a27"/>
+        </contentbody>
+        <sectionNavItems
+            jcr:primaryType="nt:unstructured"
+            sort_mdv="0"/>
+        <bottomofbodymbox
+            jcr:lastModified="{Date}2015-03-09T20:19:23.776Z"
+            jcr:lastModifiedBy="peharris"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="BottomOfBody"/>
+        <topofbodymbox
+            jcr:lastModified="{Date}2015-03-09T20:19:35.463Z"
+            jcr:lastModifiedBy="peharris"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="TopOfBody"/>
+        <doubleclick
+            jcr:lastModified="{Date}2015-03-20T16:42:45.805Z"
+            jcr:lastModifiedBy="peharris"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/doubleclick"
+            comSnippetSource="https://1295336.fls.doubleclick.net/activityi;src=1295336;type=digit786;cat=digit146"/>
+        <merchandisingbar
+            jcr:lastModified="{Date}2015-05-22T17:21:40.813Z"
+            jcr:lastModifiedBy="axi13715"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/merchandisingbar"
+            hidePhoneSection="true"
+            purchasePhoneCss="merchpod-phone-item-label"
+            purchasePhoneText="Purchase by Phone">
+            <contactpod
+                jcr:lastModified="{Date}2015-07-28T20:49:31.652Z"
+                jcr:lastModifiedBy="axi13715"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/contactpod"
+                backgroundColor="background-color:#131031"
+                ctaButtonOverride="http://apps.enterprise.adobe.com/go/701a0000002IhGxAAK?promoid=KKUGC"
+                ctaButtonText="Contact us"
+                description="Find out how DPS can help you achieve your business goals."
+                purchasePhoneNumberDisp="800-945-9131"
+                title="Want to know more?">
+                <contactlist
+                    jcr:primaryType="nt:unstructured"
+                    sort_mdv="[1,2,3]">
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-twitter"
+                        socialLink="https://twitter.com/AdobeDigitalPub"
+                        socialTitle="Follow us on Twitter"/>
+                    <_x0032_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-facebook"
+                        socialLink="https://www.facebook.com/adobedigitalpub"
+                        socialTitle="Like us on Facebook"/>
+                    <_x0033_
+                        jcr:primaryType="nt:unstructured"
+                        socialIcon="icon-linkedin"
+                        socialLink="https://www.linkedin.com/company/adobe-digital-publishing-solution"
+                        socialTitle="Follow us on LinkedIn"/>
+                </contactlist>
+            </contactpod>
+            <merchandising
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys">
+                <start
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/parsys/column"
+                    layout="2;grid-span-1of2;grid-span-1of2"/>
+                <break_14323153008470
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/parsys/column"
+                    columnType="break"
+                    correspondingStart="start"/>
+                <end_14323153008471
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/parsys/column"
+                    columnType="end"
+                    correspondingStart="start"/>
+            </merchandising>
+        </merchandisingbar>
+        <sources jcr:primaryType="nt:unstructured"/>
+        <card jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2017-08-11T23:52:48.711Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"/>
+        </card>
+    </jcr:content>
+</jcr:root>

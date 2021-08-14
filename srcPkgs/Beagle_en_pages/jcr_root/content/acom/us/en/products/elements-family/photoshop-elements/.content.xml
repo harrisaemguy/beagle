@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content/>
+    <features/>
+    <tech-specs/>
+    <reviews-awards/>
+    <faq/>
+    <buying-guide/>
+    <download-trial/>
+    <prints-gifts/>
+    <try-elements/>
+    <buy-elements/>
+    <elements-promo/>
+    <promo/>
+    <whats-new/>
+</jcr:root>

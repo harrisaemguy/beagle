@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-06-12T14:05:50.222Z"
+        cq:lastModifiedBy="handoo"
+        cq:lastReplicated="{Date}2020-08-13T23:16:41.340Z"
+        cq:lastReplicatedBy="vko"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:product-catalog/pf/desktop,filters:product-catalog/cd/video-audio]"
+        cq:template="/apps/beagle/templates/productcardpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:Title="After Effects"
+        jcr:title="After Effects"
+        jcr:uuid="9bf0b9e3-5396-4c56-9ac1-0a1873c3358f"
+        sling:resourceType="beagle/components/productcardpage"
+        alignment="left"
+        applauncherTheme="light"
+        billingFrequency="MONTHLY"
+        browserTitle="After Effects"
+        cardDescription="Create motion graphics and visual effects for film, TV, video, and web."
+        cardIcon="adobe-icon-color-ae"
+        cardIconLinkURL="/content/acom/us/en/products/aftereffects"
+        cardIcontarget="_self"
+        cardTitle="After Effects"
+        channel="adobe.com"
+        commitment="YEAR"
+        creationDate="{Date}2018-03-29T08:52:00.000-07:00"
+        distType="dist5"
+        freeTrialUrlLoggedInModalScrolling="no"
+        freeTrialUrlLoggedInModalSize="426x240"
+        freeTrialUrlLoggedInTarget="_self"
+        freeTrialUrlModalScrolling="no"
+        freeTrialUrlModalSize="426x240"
+        freeTrialUrlTarget="_self"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        groupSectionNavItems="no"
+        hideInSectionNav="true"
+        hideMerchandisingBar="inherit"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="inherit"
+        iconLinkURL="/content/acom/us/en/products/aftereffects"
+        isOfferingsProduct="true"
+        marketSegmentRewrite="COM"
+        metaDescription="After Effects"
+        modalSize="426x240"
+        modelCode="INDIVIDUAL"
+        noIndex="true"
+        offeringsProduct="product-code-AEFT"
+        orderDate="{Date}2017-05-10T22:52:00.000-07:00"
+        pageTitle="After Effects"
+        pricePoint="REGULAR"
+        removeFromHtmlSitemap="true"
+        removeFromSitemap="true"
+        removeFromXmlSitemap="true"
+        stagelastReplicated="11-Jun-2020 19:49"
+        stagelastReplicatedBy="golee"
+        stageLastReplicationAction="ActivatedtoStage"
+        tryLinkModalScrolling="no"
+        tryLinkModalSize="426x240"
+        tryLinkProductPlanModalScrolling="no"
+        tryLinkProductPlanModalSize="426x240"
+        tryLinkProductPlanTarget="_self"
+        tryLinkTarget="_self"
+        useH1Tags="pageTitle">
+        <sectionMore
+            jcr:primaryType="nt:unstructured"
+            linkModalScrolling="no"
+            linkModalSize="426x240"
+            linkTarget="_self"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2020-06-11T19:27:35.010Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2020-06-11T19:27:35.010Z"
+                    jcr:lastModifiedBy="golee"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <links
+            jcr:primaryType="nt:unstructured"
+            sort_mdv="[0,1]">
+            <_x0030_
+                jcr:primaryType="nt:unstructured"
+                cardLinktarget="_self"
+                cardLinkText="Buy now"
+                cardLinkType="buttonlink"
+                cardLinkURL="https://commerce.adobe.com/checkout/email/?items%5B0%5D%5Bcs%5D=0&amp;items%5B0%5D%5Bid%5D=E85DE6CDAA9C40FB8553B52564B2176A&amp;cli=creative&amp;co=US&amp;lang=en"
+                mv="other"
+                promoId="2XBSC4R3"/>
+            <_x0031_
+                jcr:primaryType="nt:unstructured"
+                cardLinktarget="_self"
+                cardLinkText="Start free trial"
+                cardLinkType="textlink"
+                cardLinkURL="#mini-plans-web-cta-after-effects-card"/>
+        </links>
+    </jcr:content>
+</jcr:root>

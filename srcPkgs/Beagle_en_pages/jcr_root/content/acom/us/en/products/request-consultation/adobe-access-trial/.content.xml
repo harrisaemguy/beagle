@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-02-25T20:24:46.150Z"
+        cq:lastModifiedBy="rikio"
+        cq:lastReplicated="{Date}2016-03-01T21:10:03.217Z"
+        cq:lastReplicatedBy="rikio"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Adobe Access trial registration form"
+        jcr:uuid="b1fe3067-43f1-4672-ae83-bb89ac1b240b"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Adobe | Adobe Access trial registration form"
+        faasFormPage="true"
+        groupSectionNavItems="no"
+        hideInSectionNav="true"
+        hideMerchandisingBar="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        marketSegmentRewrite="none"
+        metaDescription="Adobe Access trial registration form"
+        modalSize="426x240"
+        pageTitle="Adobe Access"
+        stagelastReplicated="25-Feb-2016 20:24"
+        stagelastReplicatedBy="rikio"
+        stageLastReplicationAction="ActivatedtoStage">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2016-02-10T21:59:05.221Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2016-02-10T21:59:05.221Z"
+                    jcr:lastModifiedBy="rikio"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_5cb8
+                jcr:created="{Date}2016-02-10T00:16:07.323Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2016-02-22T23:20:38.242Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-02-22T23:20:38.242Z"
+                        jcr:lastModifiedBy="rikio"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_5cb8>
+            <text_a931
+                jcr:created="{Date}2016-02-10T00:17:00.565Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2016-02-10T18:29:13.963Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>&lt;strong>Are you looking to try before you buy?&lt;/strong>&lt;/h4>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;br>&#xa;Adobe Access SDK is available as a trial version, allowing full access to features for 90 days. Trials include a temporary certificate and are limited to a single CPU (4 cores). Trial licenses are only valid for internal testing purposes. For those organizations seeking longer-term test deployment along with Adobe support, an evaluation license is also available. A low cost option, the Evaluation license Includes full email support from Adobe and is valid for one year. Please fill out the form below to request for a 90 day trial.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14550633673320
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5cb8"/>
+            <column_dbfa
+                jcr:created="{Date}2016-02-10T00:19:38.369Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2016-02-25T20:24:46.128Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                columnCount="1"
+                grid0="8"
+                layout="1;grid-cols-8 grid-offset-4;"
+                multiplier="6"
+                offset0="4"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-02-25T20:24:46.128Z"
+                        jcr:lastModifiedBy="rikio"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_dbfa>
+            <faasform_7911
+                jcr:created="{Date}2016-02-10T00:20:42.894Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2016-02-10T18:04:07.498Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/faasform"
+                destinationURL="/content/acom/us/en/products/request-consultation/adobe-access-trial-thankyou"
+                formLocale="1"
+                formSubType="2851"
+                formTemplate="39"
+                formType="2846"
+                intCampaignId="701a0000000lh7ZAAQ"
+                modalID="false"
+                modalSize="426x240"
+                modalText="false"
+                modalTitle="false"
+                sku="8"/>
+            <end_14550635884700
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_dbfa"/>
+        </contentbody>
+    </jcr:content>
+</jcr:root>

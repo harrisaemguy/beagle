@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-11-13T07:53:08.182Z"
+        cq:lastModifiedBy="dvirmani"
+        cq:lastReplicated="{Date}2016-11-15T22:29:22.961Z"
+        cq:lastReplicatedBy="atrevino"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Modules : Protect"
+        jcr:uuid="c2a4c281-80f0-47d0-b6fd-8bf27deeaddc"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="DRM and digital signature modules | Adobe LiveCycle Enterprise Suite 4"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideInSectionNav="true"
+        hideMerchandisingBar="inherit"
+        hidePromoComponent="hide"
+        languageDirection="ltr"
+        marketSegmentRewrite="none"
+        marqueeStyle="newMarquee"
+        metaDescription="Protect the integrity and privacy of sensitive information no matter where it travels. Improve your regulatory compliance posture and client satisfaction in a single step."
+        modalSize="426x240"
+        pageTitle="Modules : Protect"
+        seodescription=""
+        stagelastReplicated="15-Nov-2016 22:29"
+        stagelastReplicatedBy="atrevino"
+        stageLastReplicationAction="ActivatedtoStage"
+        tagsKeywords="adobe livecycle drm">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_126b
+                jcr:lastModified="{Date}2016-08-03T00:23:08.231-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-03T00:23:08.231-07:00"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_126b>
+            <text_84f3
+                jcr:created="{Date}2016-10-19T08:11:29.704Z"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-10-19T11:01:52.002Z"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe® LiveCycle® Enterprise Suite 4 is a document and form platform that helps you capture&amp;nbsp;and process information, deliver personalized communications, and protect and track&amp;nbsp;sensitive information. Leverage and extend your enterprise investments in back-end systems by choosing the modules you need to improve operational efficiency and deliver intuitive user experiences.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;h4>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/livecycle/modules.html&quot;>Capture&lt;/a>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;/content/acom/us/en/products/livecycle/modules-displayTab2.html&quot;>Communicate&lt;/a>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Protect&lt;/span>&lt;/h4>&#xa;&lt;h4>&amp;nbsp;&lt;/h4>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Protect the integrity and privacy of sensitive information no matter where it travels. Improve your regulatory compliance posture and client satisfaction in a single step.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <horizontalrule_3d4f
+                jcr:created="{Date}2016-10-19T09:48:43.644Z"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-10-19T09:48:43.644Z"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_d2b6
+                jcr:created="{Date}2016-10-19T09:54:09.577Z"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-10-19T09:54:36.166Z"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-cols-6;grid-cols-6;"
+                bgColor=" "
+                layout="2;grid-cols-6;grid-cols-6;"
+                layoutMode="structured"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-10-19T09:54:36.166Z"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_d2b6>
+            <text_ad4e
+                jcr:created="{Date}2016-10-19T09:49:12.372Z"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-10-19T11:02:52.338Z"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Jump to:&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;#RightsMgmt&quot;>LiveCycle Rights Management ES4&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14768708761790
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_d2b6"/>
+            <text_4ed3
+                jcr:created="{Date}2016-10-19T09:55:25.731Z"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-10-19T11:12:09.102Z"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;#DigiSig&quot;>LiveCycle Digital Signatures ES4&lt;/a>&lt;br>&#xa; &lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14768708495900
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_d2b6"/>
+            <horizontalrule_fa0
+                jcr:created="{Date}2016-08-04T07:14:04.352-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-04T07:14:04.352-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <anchor_8a7b
+                jcr:created="{Date}2016-10-19T10:10:31.142Z"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-10-19T11:11:42.170Z"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/anchor"
+                anchorName="RightsMgmt"/>
+            <text_9c69a5fb-6606-4785-a72c-34580ca17023
+                jcr:lastModified="{Date}2016-11-11T11:02:32.119Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>LiveCycle Rights Management ES4&lt;br>&#xa;&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe LiveCycle Rights Management ES4 helps lower the risk of sensitive information falling into the wrong hands. Dynamic policies let you protect critical information, improve your regulatory compliance posture, and extend the collaboration sphere for critical communications inside and outside the firewall and into the mobile realm. Persistent security ensures documents remain protected, whether users are online or offline.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;strong>Key capabilities&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>● &amp;nbsp; &amp;nbsp;Proactively protect sensitive information in PDF, Microsoft Office, and other documents from being leaked outside the organization.&lt;br>&#xa; ● &amp;nbsp; &amp;nbsp;Restrict confidential information internally to certain individuals.&lt;br>&#xa; ● &amp;nbsp; &amp;nbsp;Revise usage rights or revoke access to documents at any time, even after they have been distributed.&lt;/span>&lt;br>&#xa;&lt;span class=&quot;text-light&quot;>● &amp;nbsp; &amp;nbsp;Monitor the use of protected files through detailed audit logs.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/go/lc_rtsmgt&quot;>Download the Rights Management portfolio&amp;nbsp;›&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;/content/acom/us/en/products/livecycle/rightsmanagement/extension/downloads.html&quot;>&lt;span class=&quot;text-light&quot;>Download the Adobe&amp;nbsp;Rights Management Extension for Microsoft Office&amp;nbsp;›&lt;/span>&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot; style=&quot;text-align: right;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>LiveCycle Forms Standard and Forms Pro ES4&lt;br>&#xa;&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;strong>LiveCycle Forms Standard and Forms Pro ES4&lt;/strong>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <horizontalrule_573b
+                jcr:created="{Date}2016-10-19T10:18:32.171Z"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-10-19T10:18:32.171Z"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <anchor_de99
+                jcr:created="{Date}2016-10-19T10:10:06.390Z"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-10-19T11:12:14.989Z"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/anchor"
+                anchorName="DigiSig"/>
+            <column_da70
+                jcr:created="{Date}2016-08-05T00:27:02.499-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-05T00:27:43.918-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-2of3;grid-span-1of3;"
+                bgColor=" "
+                layout="2;grid-span-2of3;grid-span-1of3;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-05T00:27:43.918-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_da70>
+            <text_97c8
+                jcr:created="{Date}2016-08-05T00:28:03.894-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-10-19T11:07:00.241Z"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>LiveCycle&amp;nbsp;Digital Signatures ES4&lt;br>&#xa;&lt;/h3>&#xa;"
+                textIsRich="true"/>
+            <break_14703820639370
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_da70"/>
+            <text_e57b
+                jcr:created="{Date}2016-08-05T00:28:09.945-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-08T03:56:11.988-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: right;&quot;>&lt;a href=&quot;#top&quot;>&lt;span class=&quot;text-light&quot;>To the top&lt;/span>&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14703820225200
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_da70"/>
+            <text_1_6af9f373-1945-43a8-9bdc-46037511e512
+                jcr:lastModified="{Date}2016-10-19T11:08:41.462Z"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe LiveCycle Digital Signatures ES4 lets you create automated workflows with electronic signatures, allowing your organization to reduce paper-based processes and costs while improving compliance, trust, and user satisfaction.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Key capabilities&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>● &amp;nbsp; &amp;nbsp;Publish &amp;quot;certified&amp;quot; documents that prove authenticity for recipients.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>● &amp;nbsp; &amp;nbsp;Digitally sign documents for long-term archiving.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>● &amp;nbsp; &amp;nbsp;Leverage existing public key infrastructure (PKI) investments.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>● &amp;nbsp; &amp;nbsp;Validate the authenticity and integrity of the content as well as the signer's digital identity.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/go/lc_digitalsignatures&quot;>Download the Digital Signatures portfolio&amp;nbsp;›&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot; style=&quot;text-align: right;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>How much does Font Folio 11.1 cost?&lt;br>&#xa;&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>How much does Font Folio 11.1 cost?&lt;br>&#xa;&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(51, 51, 51); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 600; line-height: 16px;&quot;>How much does Font Folio 11.1 cost?&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(51, 51, 51); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 600; line-height: 16px;&quot;>How much does Font Folio 11.1 cost?&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 600; line-height: 16px;&quot;>How do I order Font Folio 11.1?&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 600; line-height: 16px;&quot;>I own a previous version of Font Folio. How much does it cost to upgrade to Font Folio 11.1?&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <horizontalrule_486b
+                jcr:created="{Date}2016-10-19T10:17:07.279Z"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-10-19T10:17:07.279Z"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <end_14544550461840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_126b"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2016-11-13T07:53:08.158Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2016-11-13T07:53:08.158Z"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+    </jcr:content>
+</jcr:root>

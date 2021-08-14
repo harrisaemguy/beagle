@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/etc/designs/showcase"
+        cq:lastModified="{Date}2021-06-14T12:56:27.625Z"
+        cq:lastModifiedBy="21n52271"
+        cq:lastReplicated="{Date}2021-07-02T06:33:12.016Z"
+        cq:lastReplicatedBy="21n52271"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/showcaselandingpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Whitepapers"
+        jcr:uuid="ede950d8-c39f-46a0-b02a-82573eb72aa4"
+        sling:resourceType="beagle/components/showcaselandingpage"
+        applauncherTheme="light"
+        browserTitle="Adobe Technical Communication Suite - Whitepapers"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        hideInSectionNav="true"
+        landingType="showcase"
+        metaDescription="Download and read whitepapers to know what's new and changing in the world of technical, eLearning and business content creation.&#xa;"
+        tagsKeywords="technical communication whitepapers, technical communication articles, techcomm articles, techcomm whitepapers, technical writing whitepapers, technical writing articles, technical authoring articles, technical authoring whitepapers"
+        useH1Tags="pageTitle">
+        <cardlanding
+            jcr:lastModified="{Date}2021-06-14T12:56:27.620Z"
+            jcr:lastModifiedBy="21n52271"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/cardlanding"
+            clearText="Clear filters"
+            featuredTitle="Featured whitepapers"
+            filterLogic="or"
+            hideText="Close"
+            noResponseMsg="No results matched your search options. Please change your search options to broaden your search and try again."
+            page="Page"
+            pageNext="Next"
+            pagePrev="Prev"
+            searchPlaceHolder="Search all white papers"
+            serverErrorMsg="We’re sorry, but a system error occurred. Please try again."
+            showText="Filters"
+            sortByDate="Date"
+            sortByName="Name"
+            tagCategoriesBottom="[filters:tcs-in]"
+            tagCategoriesTop="[filters:tcs-cs]">
+            <filterConfigItems
+                jcr:primaryType="nt:unstructured"
+                sort_mdv="[0,1]"/>
+        </cardlanding>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+    <schneider-electric-case-study/>
+    <ibm-case-study/>
+    <all-nippon-airways-case-study/>
+    <yamaha-case-study/>
+    <roche-diagnostics-case-study/>
+    <alstom-case-study/>
+    <larcier-group-case-study/>
+    <iar-systems-case-study/>
+    <yamagata-case-study/>
+    <hacon-case-study/>
+    <major-medical-device-case-study/>
+    <europe-airpost-case-study/>
+    <iconlogic-case-study/>
+    <marcia-riefer-johnston-case-study/>
+    <idbs-case-study/>
+    <fdm-software-case-study/>
+    <tss-software-corp-case-study/>
+    <jcdecaux-case-study/>
+    <afnor-case-study/>
+    <rockley-group-case-study/>
+    <novell-case-study/>
+    <algonquin-college-case-study/>
+    <tanner-corporate-services-case-study/>
+    <altera-case-study/>
+    <hyland-case-study/>
+    <misys-case-study/>
+    <airlinecert-case-study/>
+    <readsoft-case-study/>
+    <foodshield-case-study/>
+    <optionmonster-case-study/>
+    <divx-inc-case-study/>
+    <otto-bihler-case-study/>
+    <harris-case-study/>
+    <mitel-case-study/>
+    <actifio-case-study/>
+    <distech-controls-case-study/>
+    <logopak-zindel-case-study/>
+    <meet_the_growing_demand_for_content_in_right-to-left_languages/>
+    <adobe_tech_comm_survey_2017-2018_findings/>
+    <separation_of_content_and_form/>
+    <tech_challenges_surfing_and_diving_deep/>
+    <probing_our_future/>
+    <personalized_dynamic_content/>
+    <the_hitchhikers_guide_to_xml_authoring/>
+    <key_findings_from_adobe_techcomm_worldwide_survey_2016/>
+    <reduce_translation_and_publishing_costs_in_technical_documentation/>
+    <framemaker_vs_ms_word_for_technical_documentation/>
+    <frameMaker_vs_indesign_cc_for_technical_documentation/>
+    <enterprise_migration_to_frameMaker_from_ms_word_for_technical_documentation/>
+    <top_reasons_to_choose_framemaker_over_ms_word_for_technical_documentation/>
+    <easily_create_android_and_ios_mobile_apps/>
+    <make_content_discovery_faster_and_more_relevant/>
+    <personalized_dynamic_content0/>
+    <multiscreen_help_authoring/>
+    <interactions_with_user_defined_variables/>
+    <key_trends_in_software_user_assistance_part/>
+    <key_trends_in_software_user_assistance/>
+    <top_reasons_to_structure_your_content/>
+    <structuring-and-designing-content/>
+    <improving_your_help_content/>
+    <adobe_tech_comm_survey_2020_findings/>
+</jcr:root>

@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2021-06-11T11:16:08.676Z"
+        cq:lastModifiedBy="21n42737"
+        cq:lastReplicated="{Date}2021-06-11T11:16:22.334Z"
+        cq:lastReplicatedBy="21n42737"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:lockable,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Adobe Captivate"
+        jcr:uuid="3aa9c6fb-3148-4c06-b3a5-5a797a59afd2"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="center"
+        applauncherTheme="light"
+        bodyClass="whiteBackground"
+        browserTitle="Installation instructions | Adobe Captivate"
+        disableOverviewLink="true"
+        distType="dist5"
+        enableCCRedirect="NA"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        headingStyle="h1"
+        hideInSectionNav="true"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        marketSegmentRewrite="COM"
+        metaDescription="Follow these instructions to install your trial of  Adobe Captivate (2017 release)."
+        noFollow="true"
+        noIndex="true"
+        pageTitle="Adobe Captivate"
+        product="captivate"
+        stagelastReplicated="11-Jun-2021 11:16"
+        stagelastReplicatedBy="21n42737"
+        stageLastReplicationAction="ActivatedtoStage"
+        useH1Tags="pageTitle">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="35">
+            <image
+                jcr:lastModified="{Date}2021-06-11T11:16:08.628Z"
+                jcr:lastModifiedBy="21n42737"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column
+                jcr:created="{Date}2015-07-29T16:59:31.902-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-03T04:16:09.839Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-16;"
+                bgColor=" "
+                grid0="8"
+                layout="1;grid-cols-16;"
+                offset0="4"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-04-03T04:16:09.839Z"
+                        jcr:lastModifiedBy="nedas"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column>
+            <text_97254443
+                jcr:created="{Date}2015-07-29T17:04:22.229-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-03T04:22:39.674Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div style=&quot;text-align: center;&quot; class=&quot;text-2-block&quot;>&lt;span class=&quot;text-light&quot;>Welcome to Adobe Captivate&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <horizontalrule_f4a1
+                jcr:created="{Date}2017-04-03T04:16:31.593Z"
+                jcr:createdBy="nedas"
+                jcr:lastModified="{Date}2017-04-03T04:16:31.593Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_8762
+                jcr:created="{Date}2017-04-03T04:14:58.701Z"
+                jcr:createdBy="nedas"
+                jcr:lastModified="{Date}2017-04-03T04:25:10.080Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                layout="1;grid-cols-14 grid-offset-1;"
+                layoutMode="structured"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-04-03T04:25:10.080Z"
+                        jcr:lastModifiedBy="nedas"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_8762>
+            <text_276a
+                jcr:created="{Date}2017-04-03T04:23:32.209Z"
+                jcr:createdBy="nedas"
+                jcr:lastModified="{Date}2019-06-19T11:38:47.713Z"
+                jcr:lastModifiedBy="debdas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Thank you for accepting the invitation. It’s great to see you here with the rest of your team. Let’s get started so you can get down to business. Please follow these instructions to install your product.&amp;nbsp;&lt;/span>&lt;/div>&#xa;"/>
+            <end_14911928987200
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_8762"/>
+            <end_14382143719110
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column"/>
+            <column_2ca5
+                jcr:created="{Date}2016-09-23T07:25:15.999Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2016-09-23T07:31:57.986Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-23T07:31:57.986Z"
+                        jcr:lastModifiedBy="21n57074"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_2ca5>
+            <text_66c8
+                jcr:created="{Date}2017-04-03T04:28:27.698Z"
+                jcr:createdBy="nedas"
+                jcr:lastModified="{Date}2018-08-02T10:06:31.907Z"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot;>&lt;span class=&quot;text-light&quot;>Step 1 – Download Adobe Captivate (Select available platform below)&lt;/span>&lt;/div> &lt;div class=&quot;text-4-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div> &lt;div class=&quot;text-4-block&quot;>&lt;span class=&quot;text-light&quot;>Step 2 – Download additional Adobe Captivate assets to create great looking eLearning content.&lt;/span>&lt;/div> &lt;ul> &lt;div class=&quot;text-5-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://www.adobe.com/go/Cp2019_win_assets_installer&quot; target=&quot;_blank&quot;>Assets for Windows&amp;nbsp;&lt;/a>&lt;/span>&lt;/div> &lt;div class=&quot;text-5-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://www.adobe.com/go/Cp2019_mac_assets_installer&quot; target=&quot;_blank&quot;>Assets for Mac&lt;/a>&lt;/span>&lt;/div> &lt;div class=&quot;text-5-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>NeoSpeech&lt;sup>TM&lt;/sup> text –to-speech &lt;a href=&quot;https://www.adobe.com/go/Cp2019_win64_voices_installer&quot; target=&quot;_blank&quot;>Voices for Windows 64 bit&lt;br>  &lt;/a>&lt;/span>&lt;/div> &lt;div class=&quot;text-5-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>NeoSpeech&lt;/span>&lt;sup style=&quot;font-style: normal; font-weight: 300;&quot;>TM&lt;/sup>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;> text –to-speech &lt;/span>&lt;a href=&quot;https://www.adobe.com/go/Cp2019_mac_voices_installer&quot; target=&quot;_blank&quot; style=&quot;font-style: normal; font-weight: 300;&quot;>Voices for Mac bit&lt;/a>&lt;/div> &lt;/ul> &lt;p>&lt;strong>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/strong>&lt;/p> &lt;div class=&quot;text-4-block&quot;>&lt;span class=&quot;text-light&quot;>Step 3 – Use your Adobe ID to Sign in&lt;/span>&lt;/div> &lt;div class=&quot;text-4-block&quot;>&amp;nbsp;&lt;/div>"/>
+            <column_c355
+                jcr:created="{Date}2017-04-10T12:23:38.358Z"
+                jcr:createdBy="nedas"
+                jcr:lastModified="{Date}2018-07-17T04:28:05.621Z"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-cols-4;grid-cols-4;grid-cols-4;"
+                bgColor=" "
+                layout="3;grid-cols-4;grid-cols-4;grid-cols-4;"
+                layoutMode="structured"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2018-07-17T04:28:05.621Z"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_c355>
+            <standalonecta_36fc
+                jcr:created="{Date}2017-04-03T04:35:34.691Z"
+                jcr:createdBy="nedas"
+                jcr:lastModified="{Date}2020-12-07T10:59:41.137Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/standalonecta"
+                ctabuttonalign="text-center"
+                ctabuttoncolor="merchpod-cta-button"
+                ctaType="{Boolean}true"
+                link="https://www.adobe.com/go/captivate-vip-download"
+                linkText="Download for Windows-64"
+                target="_self"/>
+            <break_14918270406720
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_c355"/>
+            <standalonecta_9fa5
+                jcr:created="{Date}2017-05-03T09:16:40.072Z"
+                jcr:createdBy="nedas"
+                jcr:lastModified="{Date}2020-12-07T11:00:04.829Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/standalonecta"
+                ctabuttonalign="text-start"
+                ctabuttoncolor="merchpod-cta-button"
+                ctaType="{Boolean}true"
+                link="https://www.adobe.com/go/captivate-vip-download-mac"
+                linkText="Download for Mac"
+                target="_self"/>
+            <break_15318016856330
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_c355"/>
+            <end_14918270183710
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_c355"/>
+            <end_14746155160110
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_2ca5"/>
+            <horizontalrule_8f9a
+                jcr:created="{Date}2017-04-03T06:59:47.852Z"
+                jcr:createdBy="nedas"
+                jcr:lastModified="{Date}2017-04-03T06:59:47.852Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_5b7a
+                jcr:created="{Date}2019-06-21T10:23:39.645Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2019-06-21T10:23:51.793Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                layout="1;grid-cols-14 grid-offset-1;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2019-06-21T10:23:51.793Z"
+                        jcr:lastModifiedBy="shresinh"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_5b7a>
+            <text_1eba
+                jcr:created="{Date}2019-06-21T10:24:04.106Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2019-06-21T10:24:44.086Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>Get Help. Get Trained.&lt;/h3>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Reach out to us for 24x5 support on Adobe Captivate.&amp;nbsp;Register for 50+ Free webinars or enroll into Adobe Captivate Certificate Program.&lt;/span>&lt;/div>&#xa;"/>
+            <end_15611126196550
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5b7a"/>
+            <column_59e1
+                jcr:created="{Date}2016-12-06T16:00:29.587Z"
+                jcr:createdBy="21n57074"
+                jcr:lastModified="{Date}2019-06-18T10:26:12.871Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-16;"
+                bgColor="background-color:#000000;color:#FFFFFF"
+                layout="1;grid-cols-16;"
+                multiplier="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2019-06-18T10:26:12.871Z"
+                        jcr:lastModifiedBy="shresinh"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        fileReference="/content/dam/acom/sea/products/creativecloud/images/apac-reassurance-bg-1440x600.jpg"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_59e1>
+            <column_a363
+                jcr:created="{Date}2019-06-18T10:19:59.945Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2019-06-18T10:19:59.945Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                columnCount="4-s"
+                grid0="1of4"
+                grid1="1of4"
+                grid2="1of4"
+                grid3="1of4"
+                horizontalPadding0="2"
+                horizontalPadding1="2"
+                horizontalPadding2="2"
+                horizontalPadding3="2"
+                layout="4;grid-span-1of4       text-cell-2x;grid-span-1of4       text-cell-2x;grid-span-1of4       text-cell-2x;grid-span-1of4       text-cell-2x;"
+                layoutMode="spatial"
+                multiplier="3"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2019-06-10T09:04:56.063Z"
+                        jcr:lastModifiedBy="debdas"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_a363>
+            <image_bb48
+                jcr:created="{Date}2019-06-18T10:20:40.381Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2019-11-08T05:44:50.846Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="24x5 Support"
+                fileReference="/content/dam/acom/en/products/captivate/Captivate_JuneRelease2019/FinalImages/June6_2019/RevisedHomepage_Images/200pxPadding/Icons-03.png"
+                link="mailto:CaptivateHelp@adobe.com"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2019-11-08T05:44:50.846Z"
+                    jcr:lastModifiedBy="shresinh"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_bb48>
+            <text_2a59
+                jcr:created="{Date}2019-06-18T10:20:41.067Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2019-06-18T10:20:41.067Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>24x5 Support&lt;/span>&lt;/div>&#xa;"/>
+            <break_15608531999540
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_a363"/>
+            <image_3a7a
+                jcr:created="{Date}2019-06-18T10:20:41.712Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2019-06-18T10:20:41.712Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Adobe eLearning Community"
+                fileReference="/content/dam/acom/en/products/captivate/Captivate_JuneRelease2019/FinalImages/June6_2019/RevisedHomepage_Images/200pxPadding/Icons-04.png"
+                link="https://elearning.adobe.com/"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2019-06-08T13:10:42.666Z"
+                    jcr:lastModifiedBy="shresinh"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_3a7a>
+            <text_651f
+                jcr:created="{Date}2019-06-18T10:20:42.397Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2019-06-18T10:20:42.397Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Adobe elearning Community&lt;/span>&lt;/div>&#xa;"/>
+            <break_15608531999551
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_a363"/>
+            <image_6477
+                jcr:created="{Date}2019-06-18T10:20:43.064Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2019-06-18T10:20:43.064Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Webinars"
+                fileReference="/content/dam/acom/en/products/captivate/Captivate_JuneRelease2019/FinalImages/June6_2019/RevisedHomepage_Images/200pxPadding/Icons-01.png"
+                link="https://meetus.adobeevents.com/elearning/"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2019-06-08T13:11:19.373Z"
+                    jcr:lastModifiedBy="shresinh"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_6477>
+            <text_42db
+                jcr:created="{Date}2019-06-18T10:20:43.715Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2019-06-18T10:20:43.715Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Attend 50+ Free Webinars&lt;/span>&lt;/div>&#xa;"/>
+            <break_15608531999552
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_a363"/>
+            <image_b914
+                jcr:created="{Date}2019-06-18T10:20:44.417Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2019-06-18T10:20:44.417Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Adobe Captivate Specialist"
+                fileReference="/content/dam/acom/en/products/captivate/Captivate_JuneRelease2019/FinalImages/June6_2019/RevisedHomepage_Images/200pxPadding/Icons-02.png"
+                link="/content/acom/us/en/products/captivate/certificate.html"
+                modalsize="426x240"
+                target="_blank">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2019-06-08T13:13:04.549Z"
+                    jcr:lastModifiedBy="shresinh"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_b914>
+            <text_10f0
+                jcr:created="{Date}2019-06-18T10:20:45.080Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2019-06-18T10:20:45.080Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Adobe Captivate Specialist Certificate Program&lt;/span>&lt;/div>&#xa;"/>
+            <end_15608531999563
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_a363"/>
+            <end_14810400296080
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_59e1"/>
+            <hiddenfield_42b2
+                jcr:created="{Date}2015-09-02T23:09:50.816-07:00"
+                jcr:createdBy="shk"
+                jcr:lastModified="{Date}2015-09-02T23:10:12.973-07:00"
+                jcr:lastModifiedBy="shk"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/trials/components/hiddenfield"
+                name="ptThankyouPage"
+                value="framemaker"/>
+            <horizontalrule_31d2
+                jcr:created="{Date}2017-04-03T06:59:07.230Z"
+                jcr:createdBy="nedas"
+                jcr:lastModified="{Date}2017-04-03T06:59:07.230Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+        </contentbody>
+        <promobar jcr:primaryType="nt:unstructured">
+            <promo
+                jcr:lastModified="{Date}2015-07-22T16:53:38.251Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/promo"
+                ctaButtonOverride="https://creative.adobe.com/plans?promoid=KSPCN"
+                ctaButtonText="Choose a plan"
+                enablePriceDisplay="true"
+                icon="promo-icon adobe-icon-creativecloud"
+                marketSegmentRewrite="COM"
+                priceType="SUB_NEW"
+                product="creative_cloud"
+                productIntroText="Get the entire collection of creative apps and more for"
+                purchasePhoneCss="promo-phone">
+                <productInfo jcr:primaryType="nt:unstructured"/>
+                <free
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="https://creative.adobe.com/plans?promoid=KSPCN"
+                    ctaButtonText="Choose a plan"
+                    productIntroText="Get the entire collection of creative apps and more for"/>
+                <paid
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="http://max.adobe.com/?promoid=KTJLS"
+                    ctaButtonText="Learn more"
+                    productIntroText="Join us at Adobe MAX. The Creativity Conference. Oct. 3–7 in Los Angeles."/>
+            </promo>
+        </promobar>
+        <contentlayer
+            jcr:lastModified="{Date}2014-11-25T22:30:20.382Z"
+            jcr:lastModifiedBy="wmyersta"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/contentlayer"
+            horizontalAlign="1"
+            opacity="{Long}0"
+            rgb="FFFFFF"
+            textcolor="text-alt-color"
+            verticalAlign="2"
+            width="{Long}55">
+            <title jcr:primaryType="nt:unstructured"/>
+            <text
+                jcr:primaryType="nt:unstructured"
+                text="&lt;div class=&quot;text-0-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Make something great.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>Introducing all-new versions of your favorite desktop apps.&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2021-06-11T11:16:08.628Z"
+                    jcr:lastModifiedBy="21n42737"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <topofbodymbox
+            jcr:lastModified="{Date}2014-12-16T03:54:16.687Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="TopOfBody"/>
+        <bottomofbodymbox
+            jcr:lastModified="{Date}2014-12-16T03:54:30.562Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="BottomOfBody"/>
+        <credits jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

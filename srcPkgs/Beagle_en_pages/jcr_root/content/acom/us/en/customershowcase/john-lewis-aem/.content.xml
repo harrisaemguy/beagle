@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-10-11T11:19:06.641Z"
+        cq:lastModifiedBy="handoo"
+        cq:lastReplicated="{Date}2019-10-16T21:28:06.095Z"
+        cq:lastReplicatedBy="karchie"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:csProduct/mc,filters:csProduct/mc/experienceManager,filters:csIndustry/retail]"
+        cq:template="/apps/beagle/templates/customershowcasedetailpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="John Lewis"
+        jcr:uuid="95ac3b31-bb86-4726-8b39-2d365eda830c"
+        sling:resourceType="beagle/components/customershowcasedetailpage"
+        noIndex="true"
+        removeFromHtmlSitemap="true"
+        removeFromSitemap="true"
+        removeFromXmlSitemap="true">
+        <customershowcasecard
+            cq:lastReplicated="{Date}2017-03-10T19:01:50.096Z"
+            cq:lastReplicatedBy="tmina"
+            cq:lastReplicationAction="Activate"
+            jcr:lastModified="{Date}2016-12-13T11:06:18.702-08:00"
+            jcr:lastModifiedBy="cafukui"
+            jcr:mixinTypes="[cq:ReplicationStatus]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/customershowcasecard"
+            cardType="standard"
+            companyName="John Lewis"
+            creationDate="{Date}2016-12-08T10:51:00.000-08:00"
+            includeCTAVideo2="true"
+            link1="/content/dam/acom/en/customer-success/pdfs/john-lewis-aem-case-study.pdf"
+            link1Target="_blank"
+            link1Text="Read the story"
+            link2Target="_self"
+            link2Text="Watch the video"
+            orderDate="{Date}2014-09-05T10:53:00.000-07:00">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    adobeTvNewAutoPlay="true"
+                    adobeTvNewQuality="6"
+                    adobeTvNewUrl="8297"
+                    freeFormUrl="http://tv.adobe.com/watch/adobe-marketing-cloud/john-lewis-uk-retail-icon-caters-to-crosschannel-customers-with-compelling-experiences-using-adobe-experience-manager/"
+                    size="1000x940"
+                    type="adobetvnew"/>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2016-12-13T11:06:18.702-08:00"
+                jcr:lastModifiedBy="cafukui"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="John Lewis"
+                fileReference="/content/dam/acom/en/customer-showcase/images/john-lewis-aem-660x348.png"
+                xcord="{Long}93"
+                ycord="{Long}50"/>
+            <ctavideolink2
+                jcr:lastModified="{Date}2016-12-13T11:06:46.126-08:00"
+                jcr:lastModifiedBy="cafukui"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                adobeTvNewAutoPlay="true"
+                adobeTvNewQuality="6"
+                adobeTvNewUrl="8297"
+                freeFormUrl="http://tv.adobe.com/watch/adobe-marketing-cloud/john-lewis-uk-retail-icon-caters-to-crosschannel-customers-with-compelling-experiences-using-adobe-experience-manager/"
+                size="1000x940"
+                type="adobetvnew">
+                <social jcr:primaryType="nt:unstructured"/>
+                <meta jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-12-13T11:06:46.126-08:00"
+                        jcr:lastModifiedBy="cafukui"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </meta>
+                <tracking jcr:primaryType="nt:unstructured"/>
+            </ctavideolink2>
+        </customershowcasecard>
+    </jcr:content>
+</jcr:root>

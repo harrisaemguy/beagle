@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-02-28T11:39:26.355Z"
+        cq:lastModifiedBy="vinjain"
+        cq:lastReplicated="{Date}2020-02-28T11:39:31.644Z"
+        cq:lastReplicatedBy="vinjain"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:lockable,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="What’s New"
+        jcr:uuid="3260e853-55c8-4e27-8d2e-232323e98f50"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        applauncherTheme="light"
+        browserTitle="New features summary | Adobe Team Projects"
+        distType="dist5"
+        enableCCRedirect="NA"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        headingStyle="h1"
+        hideInNav="true"
+        hideMerchandisingBar="inherit"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        marketSegmentRewrite="COM"
+        metaDescription="Adobe Team Projects is all about smoother workflows between Adobe Premiere Pro and After Effects. Includes support for Adobe Dynamic Link and integration with Adobe Media Encoder for ease of rendering."
+        modalSize="426x240"
+        navTitle="What’s New"
+        product="creative_cloud"
+        stagelastReplicated="18-Apr-2019 22:00"
+        stagelastReplicatedBy="tek74568"
+        stageLastReplicationAction="ActivatedtoStage"
+        useH1Tags="pageTitle">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <image
+            jcr:lastModified="{Date}2014-09-04T19:27:20.239-07:00"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <calendar_57fd
+                jcr:created="{Date}2014-08-21T11:57:26.161-07:00"
+                jcr:createdBy="gewittig"
+                jcr:lastModified="{Date}2016-02-19T05:36:35.146Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/calendar">
+                <featuregroup_fbdf
+                    jcr:created="{Date}2019-03-05T01:51:17.210Z"
+                    jcr:createdBy="moussa"
+                    jcr:lastModified="{Date}2019-03-05T01:51:31.415Z"
+                    jcr:lastModifiedBy="moussa"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/calendar/featuregroup"
+                    date="{Date}2019-04-02T21:35:00.000-07:00"
+                    title="Team Projects">
+                    <feature_eab
+                        jcr:created="{Date}2018-08-17T04:35:04.973Z"
+                        jcr:createdBy="vko"
+                        jcr:lastModified="{Date}2019-03-05T01:52:15.385Z"
+                        jcr:lastModifiedBy="moussa"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        downloadLinkTarget="_self"
+                        learnMoreLinkTarget="_self"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Asynchronous media loading lets you work while your project continues loading in the background.&lt;/span>&lt;br>&#xa;&lt;/p>&#xa;"
+                        title="After Effects experience improvements"/>
+                    <feature_88c5
+                        jcr:created="{Date}2019-03-05T01:51:48.564Z"
+                        jcr:createdBy="moussa"
+                        jcr:lastModified="{Date}2019-03-05T01:52:32.547Z"
+                        jcr:lastModifiedBy="moussa"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        downloadLinkTarget="_self"
+                        learnMoreLinkTarget="_self"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Search and filter by project name in the Manage Team Projects dialogue.&amp;nbsp;&lt;/span>&lt;br>&#xa;&lt;/p>&#xa;"
+                        title="User experience improvement"/>
+                </featuregroup_fbdf>
+                <featuregroup_d9fd
+                    jcr:created="{Date}2018-08-15T22:30:52.471Z"
+                    jcr:createdBy="vko"
+                    jcr:lastModified="{Date}2018-08-17T04:35:40.990Z"
+                    jcr:lastModifiedBy="vko"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/calendar/featuregroup"
+                    date="{Date}2018-10-15T21:35:39.000-07:00"
+                    title="Team Projects">
+                    <feature_eab
+                        jcr:created="{Date}2018-08-17T04:35:04.973Z"
+                        jcr:createdBy="vko"
+                        jcr:lastModified="{Date}2018-09-06T22:33:09.307Z"
+                        jcr:lastModifiedBy="derjones"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        downloadLinkTarget="_self"
+                        learnMoreLinkTarget="_self"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Save time by inviting collaborators to a team project using groups synced from your organization’s directory instead of typing individual addresses.&lt;/span>&lt;br>&#xa;&lt;/p>&#xa;"
+                        title="Improved invitations"/>
+                </featuregroup_d9fd>
+                <featuregroup_a124
+                    jcr:created="{Date}2018-03-26T19:39:54.012Z"
+                    jcr:createdBy="vko"
+                    jcr:lastModified="{Date}2018-03-26T19:40:12.756Z"
+                    jcr:lastModifiedBy="vko"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/calendar/featuregroup"
+                    date="{Date}2018-04-03T12:40:06.000-07:00"
+                    title="Team Projects">
+                    <feature_d61
+                        jcr:created="{Date}2018-03-26T19:40:18.229Z"
+                        jcr:createdBy="vko"
+                        jcr:lastModified="{Date}2018-03-26T19:40:45.197Z"
+                        jcr:lastModifiedBy="vko"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        downloadLinkTarget="_self"
+                        learnMoreLinkTarget="_self"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>New features improve real-time team collaboration. See who is online and has a project open, who has shared changes, and who made changes that conflict with what you’re working on.&lt;/span>&lt;br>&#xa;&lt;/p>&#xa;"
+                        title="Online presence improvements"/>
+                    <feature_53bd
+                        jcr:created="{Date}2018-03-26T19:40:47.702Z"
+                        jcr:createdBy="vko"
+                        jcr:lastModified="{Date}2019-03-08T01:42:10.768Z"
+                        jcr:lastModifiedBy="moussa"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        downloadLinkTarget="_self"
+                        learnMoreLinkTarget="_self"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Embed linked projects within a Team Project. You can also import a local Adobe Premiere Pro project as a shared project.&lt;/span>&lt;br>&#xa;&lt;/p>&#xa;"
+                        title="Better project management"/>
+                    <feature_ef2a
+                        jcr:created="{Date}2018-03-26T19:40:49.223Z"
+                        jcr:createdBy="vko"
+                        jcr:lastModified="{Date}2018-03-26T19:41:18.968Z"
+                        jcr:lastModifiedBy="vko"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        downloadLinkTarget="_self"
+                        learnMoreLinkTarget="_self"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>See read-only historic versions of Team Projects in order to retrieve assets to add to a current Team Project.&lt;/span>&lt;br>&#xa;&lt;/p>&#xa;"
+                        title="View historic versions"/>
+                    <feature_5a3b
+                        jcr:created="{Date}2018-03-26T19:40:50.414Z"
+                        jcr:createdBy="vko"
+                        jcr:lastModified="{Date}2018-03-26T19:41:34.704Z"
+                        jcr:lastModifiedBy="vko"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        downloadLinkTarget="_self"
+                        learnMoreLinkTarget="_self"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>A new asset status badge gives you a visual reminder of unresolved conflicts.&lt;/span>&lt;br>&#xa;&lt;/p>&#xa;"
+                        title="Show conflicts"/>
+                </featuregroup_a124>
+                <featuregroup_a0bb
+                    jcr:created="{Date}2017-08-30T19:02:57.798Z"
+                    jcr:createdBy="golee"
+                    jcr:lastModified="{Date}2017-09-14T01:15:26.802Z"
+                    jcr:lastModifiedBy="golee"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/calendar/featuregroup"
+                    date="{Date}2017-10-18T13:09:00.000-07:00"
+                    title="Team Projects">
+                    <feature_a22a
+                        jcr:created="{Date}2017-01-31T21:11:55.652Z"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2017-08-30T19:03:42.505Z"
+                        jcr:lastModifiedBy="golee"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        downloadLinkTarget="_self"
+                        learnMoreLinkTarget="_self"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Check when auto-saves of your edits were made. Easily revert to a previous auto-save or create a new team project from an auto-save.&lt;/span>&lt;br>&#xa;&lt;/p>&#xa;"
+                        title="Access to auto-saves"/>
+                    <feature_6e5a
+                        jcr:created="{Date}2017-01-31T21:10:47.194Z"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2017-08-30T19:04:05.379Z"
+                        jcr:lastModifiedBy="golee"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        downloadLinkTarget="_self"
+                        learnMoreLinkTarget="_self"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Improved asset status badges alert you when edits are made by team members even before changes are shared. Periodic reminders to share changes keep all team members up to date. And shared versions are now easier to access.&lt;/span>&lt;br>&#xa;&lt;/p>&#xa;"
+                        title="Experience improvements"/>
+                    <feature_8d09
+                        jcr:created="{Date}2017-01-31T21:18:20.713Z"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2019-03-08T01:42:17.977Z"
+                        jcr:lastModifiedBy="moussa"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        downloadLinkTarget="_self"
+                        learnMoreLinkTarget="_self"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Open, access, and work on multiple Adobe Premiere Pro projects and Team Projects simultaneously. Jump between episodes or scenes organized as separate projects, edit and copy portions of one project into another, and more.&lt;/span>&lt;/p>&#xa;"
+                        title="Support for multiple open projects"/>
+                </featuregroup_a0bb>
+                <featuregroup_31e4
+                    jcr:created="{Date}2017-01-31T21:08:51.163Z"
+                    jcr:createdBy="gewittig"
+                    jcr:lastModified="{Date}2017-09-14T01:15:38.596Z"
+                    jcr:lastModifiedBy="golee"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/calendar/featuregroup"
+                    date="{Date}2017-04-19T13:09:00.000-07:00"
+                    title="Team Projects (Beta) v. 0.2.0">
+                    <feature_a22a
+                        jcr:created="{Date}2017-01-31T21:11:55.652Z"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2019-03-08T01:42:39.401Z"
+                        jcr:lastModifiedBy="moussa"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        downloadLinkTarget="_self"
+                        learnMoreLinkTarget="_self"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Team Projects (Beta) is now available through the latest versions of Adobe Premiere Pro, Prelude, After Effects, and Media Encoder.&lt;/span>&lt;br>&#xa;&lt;/p>&#xa;"
+                        textIsRich="true"
+                        title="Works with the latest Creative Cloud apps"/>
+                    <feature_6e5a
+                        jcr:created="{Date}2017-01-31T21:10:47.194Z"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2017-10-22T23:21:30.988Z"
+                        jcr:lastModifiedBy="patters"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        downloadLinkTarget="_self"
+                        learnMoreLinkTarget="_self"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Collaborate better across applications. Adobe Dynamic Link allows files to be shared across After Effects and Premiere Pro without rerendering.&lt;/span>&lt;br>&#xa;&lt;/p>&#xa;"
+                        title="Support for Dynamic Link"/>
+                    <feature_8d09
+                        jcr:created="{Date}2017-01-31T21:18:20.713Z"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2020-02-28T11:39:26.348Z"
+                        jcr:lastModifiedBy="vinjain"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        downloadLinkTarget="_self"
+                        learnMoreLinkTarget="_self"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Access these easy-to-customize &lt;a href=&quot;/content/acom/us/en/creativecloud/tools/motion-graphics-software.html?promoid=KZ6STZL8&amp;amp;mv=other&quot;>motion graphics templates&lt;/a> from anywhere.&lt;/span>&lt;/p>&#xa;"
+                        title="Support for After Effects Motion Graphics templates"/>
+                    <feature_ecbe
+                        jcr:created="{Date}2017-01-31T21:20:07.531Z"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2017-10-22T23:22:01.268Z"
+                        jcr:lastModifiedBy="patters"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        downloadLinkTarget="_self"
+                        learnMoreLinkTarget="_self"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Output media in a unified way across all Team Project client applications with Adobe Media Encoder.&lt;/span>&lt;/p>&#xa;"
+                        title="Integration with Media Encoder"/>
+                    <feature_a6aa
+                        jcr:created="{Date}2017-01-31T21:20:34.565Z"
+                        jcr:createdBy="gewittig"
+                        jcr:lastModified="{Date}2017-03-10T01:37:26.044Z"
+                        jcr:lastModifiedBy="golee"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/calendar/feature"
+                        downloadLinkTarget="_self"
+                        learnMoreLinkTarget="_self"
+                        text="&lt;p>&lt;span class=&quot;text-light&quot;>Get an alert when another collaborator is editing the same sequence or asset to minimize conflicts.&amp;nbsp;&lt;/span>&lt;/p>&#xa;"
+                        title="Visual cues when collaborators are editing"/>
+                </featuregroup_31e4>
+                <intro
+                    jcr:lastModified="{Date}2017-09-14T01:15:15.283Z"
+                    jcr:lastModifiedBy="golee"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/text"
+                    text="&lt;h2 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;/span>What’s new in Team Projects&amp;nbsp;&lt;/h2>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>We’re rolling out regular updates, so check back to see the latest additions. &amp;nbsp;&amp;nbsp; &lt;br>&#xa; &lt;/span>&lt;/div>&#xa;"
+                    textIsRich="true"/>
+            </calendar_57fd>
+        </contentbody>
+        <topofbodymbox
+            jcr:lastModified="{Date}2014-10-13T16:47:38.262Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="TopOfBody"/>
+        <bottomofbodymbox
+            jcr:lastModified="{Date}2014-10-13T16:50:07.977Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="BottomOfBody"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2019-03-08T01:41:47.226Z"
+                jcr:lastModifiedBy="moussa"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2019-03-08T01:41:47.226Z"
+                    jcr:lastModifiedBy="moussa"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+    </jcr:content>
+</jcr:root>

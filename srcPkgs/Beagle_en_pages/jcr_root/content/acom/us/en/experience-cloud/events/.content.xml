@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-03-21T21:10:13.754Z"
+        cq:lastModifiedBy="peharris"
+        cq:lastReplicated="{Date}2020-06-16T07:30:02.505Z"
+        cq:lastReplicatedBy="handoo"
+        cq:lastReplicationAction="Deactivate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:language="en"
+        jcr:mixinTypes="[mix:lockable,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Events"
+        jcr:uuid="9cd3fa0c-9305-4469-9481-bedb18541347"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="MarketingCloud"
+        browserTitle="Digital marketing conferences and events | Adobe"
+        ctaButtonText="Request demo"
+        distType="dist5"
+        enableBreadcrumb="true"
+        faasFormPage="true"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideInSectionNav="true"
+        hideMerchandisingBar="inherit"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        isMCPage="true"
+        livePersonSiteId="89901003"
+        lpUnit="lead-us"
+        marketSegmentRewrite="COM"
+        marqueeStyle="newMarquee"
+        metaDescription="Join premier learning and networking events and conferences for digital marketing professionals to get the latest insights from the world’s leading experts."
+        modalSize="426x240"
+        navTitle="Events"
+        overrideBreadcrumbPath="/content/acom/us/en/experience-cloud"
+        pageTitle="Adobe Experience Cloud"
+        product="experience-cloud"
+        stagelastReplicated="08-Mar-2018 22:39"
+        stagelastReplicatedBy="peharris"
+        stageLastReplicationAction="ActivatedtoStage"
+        tagsKeywords="adobe conferences, adobe events, marketing conferences, marketing events, digital marketing conferences, digital conference, digital marketing events"
+        tryLink="/content/acom/us/en/marketing-cloud"
+        useH1Tags="pageTitle">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="10">
+            <image
+                jcr:lastModified="{Date}2018-02-27T22:00:49.196Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2018-02-27T22:00:49.196Z"
+                    jcr:lastModifiedBy="golee"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <promobar jcr:primaryType="nt:unstructured">
+            <promo
+                jcr:lastModified="{Date}2015-02-02T22:27:12.749Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/promo"
+                ctaButtonText="Request a demo"
+                icon="promo-icon adobe-icon-marketing-cloud"
+                marketSegmentRewrite="COM"
+                priceType="SUB_NEW"
+                product="adobe-analytics"
+                productIntroText="Find out how Adobe Analytics can help your business."
+                purchasePhoneCss="promo-phone"
+                purchasePhoneNumberCall="+18777227088"
+                purchasePhoneNumberDisp="877.722.7088"
+                purchasePhoneText="call">
+                <free
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonText="Request a demo"
+                    productIntroText="Find out how Adobe Analytics can help your business."/>
+                <paid
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="/content/acom/us/en/marketing-cloud"
+                    ctaButtonText="Request a demo"
+                    productIntroText="Find out how Adobe Analytics can help your business."/>
+            </promo>
+        </promobar>
+        <mmarquee
+            jcr:lastModified="{Date}2015-02-02T22:31:18.061Z"
+            jcr:lastModifiedBy="peharris"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mmarquee"
+            text="&lt;h1 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h1>&#xa;&lt;h1 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h1>&#xa;&lt;h1 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h1>&#xa;&lt;h1 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h1>&#xa;&lt;h1 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h1>&#xa;&lt;h1 style=&quot;text-align: center;&quot;>&lt;strong>Now being a know-it-all is actually a good thing.&lt;/strong>&lt;/h1>&#xa;&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Know everything that your customers are doing and what to do about it.&lt;/span>&lt;/div>&#xa;"/>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_363755842
+                jcr:created="{Date}2016-02-29T18:40:11.077-08:00"
+                jcr:createdBy="vko"
+                jcr:lastModified="{Date}2017-02-01T22:00:24.498Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor="background-color:#131031;color:#FFFFFF"
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="9"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-02-01T22:00:24.498Z"
+                        jcr:lastModifiedBy="atrevino"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_363755842>
+            <text_1762184950
+                jcr:created="{Date}2016-02-29T18:40:22.718-08:00"
+                jcr:createdBy="vko"
+                jcr:lastModified="{Date}2019-03-21T21:10:13.743Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>Adobe Summit | The Digital Marketing Conference&lt;br>&#xa;March 24–28, 2019—Las Vegas&lt;/h3>&#xa;"
+                textIsRich="true"/>
+            <text_fce9
+                jcr:created="{Date}2017-02-01T21:41:02.943Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2018-03-14T18:13:59.416Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Experience the premier event for digital marketing professionals — more than 250 sessions, inspiring keynote speakers, in-depth training, and networking opportunities.&lt;br>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <standalonecta_e8e5
+                jcr:created="{Date}2017-02-01T21:59:19.696Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2017-02-01T23:27:01.596Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/standalonecta"
+                ctabuttonalign="text-center"
+                ctabuttoncolor="merchpod-cta-button"
+                ctaType="{Boolean}true"
+                link="http://summit.adobe.com/"
+                linkText="Registration info"
+                target="_blank"/>
+            <end_14568000111200
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_363755842"/>
+            <hoveritem_6032
+                jcr:created="{Date}2017-02-01T22:50:43.461Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2017-02-01T22:50:43.461Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hovercontainer/hoveritem"/>
+            <hoveritem_b086
+                jcr:created="{Date}2017-02-01T22:50:50.374Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2017-02-01T22:50:50.374Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hovercontainer/hoveritem"/>
+            <column_d8c7
+                jcr:created="{Date}2018-03-08T22:35:57.209Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-08T22:35:57.209Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor="background-color:#f5f5f5;color:#000000"
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-05-21T22:07:04.099Z"
+                        jcr:lastModifiedBy="alu"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_d8c7>
+            <text_4164
+                jcr:created="{Date}2018-03-08T22:36:43.564Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-08T22:36:43.564Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Live, online, or on demand. Get connected.&lt;/span>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <column_3d24
+                jcr:created="{Date}2018-03-08T22:38:25.779Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-08T22:38:25.779Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                multiplier="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-05-11T08:04:05.489Z"
+                        jcr:lastModifiedBy="loewy"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_3d24>
+            <image_fb8b
+                jcr:created="{Date}2018-03-08T22:36:43.710Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-08T22:36:43.710Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Adobe Creative Cloud"
+                fileReference="/content/dam/acom/en/aboutadobe/images/creative-cloud-icon-140x80.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+            </image_fb8b>
+            <text_55ad
+                jcr:created="{Date}2018-03-08T22:38:48.344Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-08T22:38:48.344Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4 style=&quot;text-align: center;&quot;>Adobe Creative Cloud&lt;/h4>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Get inspired by talented creative professionals and discover new ways to create across desktop and mobile.&lt;/span>&lt;br>&#xa;&lt;a href=&quot;http://creativecloud.adobeevents.com/&quot; target=&quot;_blank&quot;>Find events ›&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_15205487057910
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_3d24"/>
+            <image_1bd1
+                jcr:created="{Date}2018-03-08T22:36:43.857Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-08T22:36:43.857Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Adobe Marketing Cloud"
+                fileReference="/content/dam/acom/en/aboutadobe/images/experience-cloud-icon-140x80.png">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-11-20T20:55:45.708Z"
+                    jcr:lastModifiedBy="dwilbank"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_1bd1>
+            <text_9728
+                jcr:created="{Date}2018-03-08T22:36:44.016Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-08T22:36:44.016Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4 style=&quot;text-align: center;&quot;>Adobe Experience Cloud &amp;nbsp;&lt;/h4>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Stay at the forefront of marketing trends and learn new strategies to distinguish your brand in the digital world.&lt;/span>&lt;br>&#xa;&lt;a target=&quot;_self&quot; href=&quot;https://enterprise.adobeevents.com/experience-cloud&quot;>Find events ›&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_15205487057911
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_3d24"/>
+            <image_e526
+                jcr:created="{Date}2018-03-08T22:36:44.164Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-08T22:36:44.164Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:mixinTypes="[cq:ReplicationStatus]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Adobe Document Cloud"
+                fileReference="/content/dam/acom/en/aboutadobe/images/document-cloud-icon-140x80.png">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+            </image_e526>
+            <text_bef
+                jcr:created="{Date}2018-03-08T22:36:44.326Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-08T22:36:44.326Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4 style=&quot;text-align: center;&quot;>Adobe Document Cloud&lt;/h4>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Revolutionizing the way the world works with documents. Find out what’s new in Adobe Acrobat DC.&lt;/span>&lt;br>&#xa;&lt;a href=&quot;http://blogs.adobe.com/documentcloud/events/&quot; target=&quot;_blank&quot;>Check out the blog ›&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_15205487057912
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_3d24"/>
+            <horizontalrule_a8a2
+                jcr:created="{Date}2018-03-08T22:36:44.604Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-08T22:36:44.604Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_30dc
+                jcr:created="{Date}2018-03-08T22:36:18.542Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-08T22:36:18.542Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                multiplier="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-07-07T21:47:15.623Z"
+                        jcr:lastModifiedBy="alu"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_30dc>
+            <image_1d67
+                jcr:created="{Date}2018-03-08T22:36:44.764Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-08T22:36:44.764Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="99U Conference"
+                fileReference="/content/dam/acom/en/aboutadobe/images/99u-icon-140x80.png">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+            </image_1d67>
+            <text_e817
+                jcr:created="{Date}2018-03-08T22:36:44.914Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-08T22:36:44.914Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4 style=&quot;text-align: center;&quot;>99U Conference&amp;nbsp;&lt;/h4>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Get the latest insights on making your ideas happen. View past talks and gear up for 99U 2018.&lt;/span>&lt;br>&#xa;&lt;a target=&quot;_blank&quot; href=&quot;http://conference.99u.com/&quot;>Watch ›&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_15205485785510
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_30dc"/>
+            <image_ca56
+                jcr:created="{Date}2018-03-08T22:36:45.061Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-08T22:36:45.061Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:mixinTypes="[cq:ReplicationStatus]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="eLearning &amp; technical communication"
+                fileReference="/content/dam/acom/en/aboutadobe/images/es-ts-icon-140x80.png">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+            </image_ca56>
+            <text_3caa
+                jcr:created="{Date}2018-03-08T22:36:45.208Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-08T22:36:45.208Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4 style=&quot;text-align: center;&quot;>eLearning &amp;amp; technical communication&lt;/h4>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Stay up to date with what’s happening in technical publishing and eLearning.&lt;/span>&lt;a target=&quot;_blank&quot; href=&quot;http://meetus.adobeevents.com&quot;>&lt;br>&#xa; Find events ›&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_15205485785521
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_30dc"/>
+            <image_7d49
+                jcr:created="{Date}2018-03-08T22:36:45.355Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-08T22:36:45.355Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Adobe Connect"
+                fileReference="/content/dam/acom/en/aboutadobe/images/connect-icon-140x80.png">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+            </image_7d49>
+            <text_b06e
+                jcr:created="{Date}2018-03-08T22:36:45.508Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2018-03-08T22:36:45.508Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4 style=&quot;text-align: center;&quot;>Adobe Connect&lt;/h4>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Sign up for a daily session or on-demand webinar to learn the ins and outs of Adobe Connect for online meetings and training.&lt;/span>&lt;br>&#xa;&lt;a href=&quot;https://events-ar.adobeconnect.com/content/connect/c1/655548740/en/events/catalog.html?campaign_id=adobewebsite&quot; target=&quot;_blank&quot;>Find events ›&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_15205485785522
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_30dc"/>
+            <end_15205485572170
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_d8c7"/>
+            <column_378e
+                jcr:created="{Date}2015-02-03T21:45:40.826Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2017-02-01T22:38:29.667Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor="background-color:#FFFFFF;color:#000000"
+                columnCount="1"
+                grid0="12"
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="9"
+                offset0="2"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-02-01T22:38:29.667Z"
+                        jcr:lastModifiedBy="atrevino"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_378e>
+            <text_d216
+                jcr:created="{Date}2015-02-03T22:04:13.723Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2017-02-01T23:02:54.099Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-3-block&quot; style=&quot;text-align: center;&quot;>Solve today’s toughest business problems.&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Read our digital marketing use cases.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <end_14229999408350
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_378e"/>
+            <column_1241726314
+                jcr:created="{Date}2016-03-16T17:10:59.155-07:00"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2017-02-01T22:39:03.154Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor="background-color:#FFFFFF;color:#000000"
+                columnCount="3"
+                grid0="4"
+                grid1="4"
+                grid2="4"
+                grid3="3"
+                layout="3;grid-cols-4 grid-offset-2;grid-cols-4;grid-cols-4;"
+                multiplier="9"
+                offset0="2"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b9x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-02-01T22:39:03.154Z"
+                        jcr:lastModifiedBy="atrevino"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_1241726314>
+            <image_a607
+                jcr:created="{Date}2017-02-01T22:58:28.617Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2017-02-01T22:59:16.801Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Build a solid digital foundation."
+                fileReference="/content/dam/acom/en/marketing-cloud/use-cases/images/54658.en.uc.feature.digital-foundation.440x230.png"
+                link="/content/acom/us/en/marketing-cloud/customer-experience/digital-foundation"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-02-01T22:59:16.801Z"
+                    jcr:lastModifiedBy="atrevino"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_a607>
+            <text_8e6a
+                jcr:created="{Date}2017-02-01T22:58:28.718Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2017-02-01T22:59:30.853Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/marketing-cloud/customer-experience/digital-foundation.html&quot;>Build a solid digital foundation ›&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14581734810410
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_1241726314"/>
+            <image_4516
+                jcr:created="{Date}2017-02-01T22:56:23.322Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2017-02-02T00:51:06.129Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Get a 360-degree view of customers."
+                fileReference="/content/dam/acom/en/marketing-cloud/data-driven-marketing/marketing-attribution/54658.en.uc.feature.whole-customer.440x230.png"
+                link="/content/acom/us/en/marketing-cloud/data-driven-marketing/customer-intelligence"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-02-02T00:51:06.129Z"
+                    jcr:lastModifiedBy="atrevino"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_4516>
+            <text_e457
+                jcr:created="{Date}2017-02-01T22:56:23.421Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2017-02-02T00:51:21.060Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/marketing-cloud/data-driven-marketing/customer-intelligence.html&quot;>Get a 360-degree view of customers ›&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14660243030520
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_1241726314"/>
+            <image_31cf
+                jcr:created="{Date}2017-02-01T22:58:06.084Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2017-02-01T23:00:13.385Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Master content across channels."
+                fileReference="/content/dam/acom/en/marketing-cloud/use-cases/images/54658.en.uc.feature.content-marketing.440x230.png"
+                link="/content/acom/us/en/marketing-cloud/customer-experience/content-marketing"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-02-01T23:00:13.385Z"
+                    jcr:lastModifiedBy="atrevino"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_31cf>
+            <text_f795
+                jcr:created="{Date}2017-02-01T22:58:06.170Z"
+                jcr:createdBy="atrevino"
+                jcr:lastModified="{Date}2017-02-01T23:00:27.244Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/marketing-cloud/customer-experience/content-marketing.html&quot;>Master content across channels ›&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14581734592160
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1241726314"/>
+            <faasform_510
+                jcr:created="{Date}2016-08-04T22:14:01.614Z"
+                jcr:createdBy="vko"
+                jcr:lastModified="{Date}2017-04-10T21:33:40.438Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/faasform"
+                destinationURL="/content/acom/us/en/products/request-consultation/thankyou"
+                formLocale="en_us"
+                formSubType="2851"
+                formTemplate="40"
+                formType="2846"
+                intCampaignId="70114000002XYvIAAW"
+                modalID="amc-rfi"
+                modalSize="1000x940"
+                modalTitle="See what Adobe Experience Cloud can do for you."
+                onsiteCampaignId="70114000002XYdTAAW"
+                openInModal="true"/>
+        </contentbody>
+        <sources jcr:primaryType="nt:unstructured"/>
+        <topofbodymbox
+            jcr:lastModified="{Date}2015-03-09T20:21:44.247Z"
+            jcr:lastModifiedBy="peharris"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="TopOfBody"/>
+        <bottomofbodymbox
+            jcr:lastModified="{Date}2015-03-09T20:21:58.975Z"
+            jcr:lastModifiedBy="peharris"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="BottomOfBody"/>
+        <doubleclick
+            jcr:lastModified="{Date}2015-03-20T16:46:21.853Z"
+            jcr:lastModifiedBy="peharris"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/doubleclick"
+            comSnippetSource="https://1295336.fls.doubleclick.net/activityi;src=1295336;type=digit786;cat=digit003"/>
+        <merchandisingbar jcr:primaryType="nt:unstructured"/>
+        <tophero
+            jcr:lastModified="{Date}2018-03-08T22:25:27.075Z"
+            jcr:lastModifiedBy="peharris"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            avoid="hero2-avoid-1"
+            color="hero2-theme-1"
+            effect="hero2-fx-shade-1"
+            height="hero2-size-2"
+            hideArticle="true"
+            hideCredits="true"
+            hideLink="true">
+            <image
+                jcr:lastModified="{Date}2018-03-08T22:25:27.075Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="SUMMIT"
+                fileReference="/content/dam/acom/fr/solutions/digital-marketing/events/images/other/49460e.en.summit-2018-banner2.1200x665.jpg"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+            <article
+                jcr:lastModified="{Date}2017-02-01T21:48:59.027Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hero/article"
+                articleAlignment="hero2-align-2"
+                width="hero2-basis-1">
+                <titleImage
+                    jcr:lastModified="{Date}2017-02-01T21:48:59.027Z"
+                    jcr:lastModifiedBy="atrevino"
+                    jcr:primaryType="nt:unstructured"/>
+                <link
+                    jcr:primaryType="nt:unstructured"
+                    modalMode="VIDEO"
+                    size="426x240"
+                    type="free">
+                    <image
+                        jcr:lastModified="{Date}2017-02-01T21:48:59.027Z"
+                        jcr:lastModifiedBy="atrevino"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </link>
+            </article>
+            <credits
+                jcr:lastModified="{Date}2015-09-21T21:17:56.512Z"
+                jcr:lastModifiedBy="peharris"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hero/credits"
+                authorName="Sebastian Onufszak"
+                creditsAlignment="hero2-align-3"
+                preposition="by"
+                target="_blank"
+                title="Cross Channel"
+                titleLink="https://www.behance.net/onufszak"
+                width="hero2-basis-0"/>
+        </tophero>
+        <modalcontent
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys"/>
+        <card jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2017-08-29T16:50:13.034Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"/>
+        </card>
+    </jcr:content>
+</jcr:root>

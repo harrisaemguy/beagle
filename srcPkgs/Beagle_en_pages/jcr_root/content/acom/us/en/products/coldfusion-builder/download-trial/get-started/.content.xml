@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-10-06T06:48:39.738Z"
+        cq:lastModifiedBy="shresinh"
+        cq:lastReplicated="{Date}2021-03-26T07:28:27.325Z"
+        cq:lastReplicatedBy="bgupta"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:lockable,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:uuid="b6c6a9d5-22c9-4c87-b2b9-895182c13646"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="center"
+        bodyClass="whiteBackground"
+        browserTitle="Training and tutorials | Learn how to use Adobe Coldfusion Builder 3  "
+        disableOverviewLink="true"
+        distType="dist5"
+        enableCCRedirect="NA"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        groupSectionNavItems="no"
+        headingStyle="h1"
+        hideInSectionNav="true"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        livePersonHide="hide"
+        marketSegmentRewrite="COM"
+        metaDescription="Make the most of the Adobe Coldfusion Builder with these tutorials and learning resources.."
+        modalSize="426x240"
+        stagelastReplicated="04-Jul-2018 11:30"
+        stagelastReplicatedBy="ankshukl"
+        stageLastReplicationAction="ActivatedtoStage"
+        tagsKeywords="adobe coldfusion builder training, coldfusion builder training, adobe coldfusion builder tutorials,coldfusion tutorials, how to use coldfusion builder learn coldfusion builder"
+        useH1Tags="pageTitle">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="35">
+            <image
+                jcr:lastModified="{Date}2018-06-19T13:43:44.416Z"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column
+                jcr:created="{Date}2015-07-29T16:59:31.902-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2015-07-29T17:00:15.204-07:00"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                grid0="8"
+                layout="1;grid-cols-10 grid-offset-3;"
+                offset0="4"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-07-29T17:00:15.204-07:00"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column>
+            <text_97254443
+                jcr:created="{Date}2015-07-29T17:04:22.229-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2018-06-18T04:55:09.081Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-2-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;i class=&quot;adobe-icon-cf-builder&quot;>&lt;/i> Adobe ColdFusion Builder: Keep learning&lt;/span>&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Rapidly build and deploy scalable, high-performing web and mobile applications.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Learn more with these tutorials.&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <column_1943157328
+                jcr:created="{Date}2015-07-29T17:00:26.078-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2018-06-18T05:21:12.455Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                multiplier="3"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2018-06-18T05:21:12.455Z"
+                        jcr:lastModifiedBy="shresinh"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_1943157328>
+            <image
+                jcr:created="{Date}2015-07-29T17:00:58.619-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2018-06-19T08:06:38.034Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="What is Coldfusion Builder"
+                fileReference="/content/dam/acom/en/products/coldfusion/Images/trypage-1.png"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2018-06-19T08:06:38.034Z"
+                    jcr:lastModifiedBy="shresinh"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image>
+            <text
+                jcr:created="{Date}2015-07-29T17:01:16.085-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2020-04-19T12:16:54.970Z"
+                jcr:lastModifiedBy="bgupta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;strong>What is new in ColdFusion Builder?&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Learn about the new features in ColdFusion Builder&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a target=&quot;_blank&quot; href=&quot;/content/acom/us/en/products/coldfusion-builder/features.html&quot;>Learn more&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14382144394120
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_1943157328"/>
+            <image_1858381482
+                jcr:created="{Date}2015-07-29T17:03:37.231-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2018-06-19T08:06:46.514Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Tutorial video"
+                fileReference="/content/dam/acom/en/products/coldfusion/Images/trypage-2.png"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2018-06-19T08:06:46.514Z"
+                    jcr:lastModifiedBy="shresinh"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_1858381482>
+            <text_1531550104
+                jcr:created="{Date}2015-07-29T17:13:53.662-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2018-06-19T10:20:15.178Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;strong>Mobile Features&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Leverage your existing CFML skills to develop mobile apps.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a target=&quot;_blank&quot; href=&quot;http://tv.adobe.com/watch/adobe-coldfusion-11/what-is-new-in-adobe-coldfusion-11/&quot;>Learn more&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14382144394131
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_1943157328"/>
+            <image_1701186344
+                jcr:created="{Date}2015-07-29T17:03:42.451-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2018-06-19T08:06:54.485Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Debugging your mobile applications from Builder"
+                fileReference="/content/dam/acom/en/products/coldfusion/Images/trypage-3.png"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2018-06-19T08:06:54.485Z"
+                    jcr:lastModifiedBy="shresinh"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_1701186344>
+            <text_731478660
+                jcr:created="{Date}2015-07-29T17:13:56.979-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2018-06-19T10:20:20.182Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;strong>Debugging your mobile applications from Builder&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Learn how to use the unique workflow to test, debug and deploy mobile applications.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;http://tv.adobe.com/watch/adobe-coldfusion-11/mobile-debug-workflow-in-adobe-coldfusion-11/&quot; target=&quot;_blank&quot;>Learn more&lt;/a>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14382144260910
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1943157328"/>
+            <horizontalrule_21f9
+                jcr:created="{Date}2018-06-18T05:24:22.896Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2018-06-18T05:24:22.896Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_1677853970
+                jcr:created="{Date}2015-08-07T15:43:02.016-07:00"
+                jcr:createdBy="isola"
+                jcr:lastModified="{Date}2018-07-03T13:44:04.031Z"
+                jcr:lastModifiedBy="shasriva"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;strong>Get started&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>&lt;a href=&quot;https://helpx.adobe.com/coldfusion/kb/product-inquiries-cold-fusion.html&quot; target=&quot;_blank&quot;>&lt;span class=&quot;text-light&quot;>Contact support&lt;/span>&lt;/a>&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Minimize disruptions and maximize your investment with exceptional support.&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>If you experience issues, &lt;a target=&quot;_self&quot; href=&quot;/content/acom/us/en/downloads.html&quot; data-installer-link=&quot;true&quot;>try restarting the download.&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a target=&quot;_blank&quot; href=&quot;http://www.adobe.com/devnet/coldfusion.html?view=gettingstarted&quot;>Get Started&lt;/a> with Adobe ColdFusion&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/coldfusion/articles/build-your-first-mobile-app.html&quot; target=&quot;_blank&quot;>Build your first mobile application&lt;/a> with Adobe ColdFusion Builder&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://forums.adobe.com/community/coldfusion&quot; target=&quot;_blank&quot;>Adobe ColdFusion Forums&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <horizontalrule_d67b
+                jcr:created="{Date}2018-06-18T05:24:25.379Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2018-06-18T05:24:25.379Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <hiddenfield_aa1
+                jcr:created="{Date}2015-09-24T10:35:58.314Z"
+                jcr:createdBy="shk"
+                jcr:lastModified="{Date}2015-09-24T10:36:28.393Z"
+                jcr:lastModifiedBy="shk"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/trials/components/hiddenfield"
+                name="ptThankyouPage"
+                value="coldfusion-builder"/>
+            <text_1714716485
+                jcr:created="{Date}2015-07-29T17:05:47.401-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2018-07-03T09:51:50.385Z"
+                jcr:lastModifiedBy="handoo"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div style=&quot;text-align: center;&quot; class=&quot;text-5-block&quot;>&lt;strong>Interested in trying our related product?&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div style=&quot;text-align: center;&quot; class=&quot;text-5-block&quot;>&lt;a href=&quot;/content/acom/us/en/products/coldfusion/download-trial/try.html&quot;>&lt;span class=&quot;text-light&quot;>Adobe ColdFusion&amp;nbsp;Server&lt;/span>&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14382143719110
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column"/>
+            <column_a075
+                jcr:created="{Date}2018-06-18T05:03:42.499Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2018-06-18T05:25:58.550Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor="background-color:#f5f5f5;color:#000000"
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="2"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2018-06-18T05:25:58.550Z"
+                        jcr:lastModifiedBy="shresinh"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_a075>
+            <text_6482
+                jcr:created="{Date}2018-06-18T05:24:54.448Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2018-06-18T05:25:46.378Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>Get involved&lt;/h3>&#xa;"/>
+            <horizontalrule_2f10
+                jcr:created="{Date}2018-06-18T05:25:16.561Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2018-06-18T05:25:16.561Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_463
+                jcr:created="{Date}2018-06-18T05:04:21.833Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2018-06-18T05:26:23.937Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2018-06-18T05:26:23.937Z"
+                        jcr:lastModifiedBy="shresinh"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_463>
+            <image_bea7
+                jcr:created="{Date}2018-06-18T05:15:24.843Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2018-06-18T05:18:54.302Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Community"
+                fileReference="/content/dam/acom/en/products/coldfusion/Images/community.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2018-06-18T05:15:46.930Z"
+                    jcr:lastModifiedBy="shresinh"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_bea7>
+            <text_b754
+                jcr:created="{Date}2018-06-18T05:07:54.097Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2018-06-18T05:11:47.562Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Interact with the best in ColdFusion.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://coldfusion.adobe.com/&quot;>ColdFusion Community Portal&amp;nbsp;›&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_15292982791310
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_463"/>
+            <image_4821
+                jcr:created="{Date}2018-06-18T05:15:28.921Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2018-06-18T05:19:03.710Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Youtube"
+                fileReference="/content/dam/acom/en/products/coldfusion/Images/youtube.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2018-06-18T05:16:02.172Z"
+                    jcr:lastModifiedBy="shresinh"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_4821>
+            <text_6351
+                jcr:created="{Date}2018-06-18T05:09:48.429Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2018-06-18T05:12:50.630Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Invaluable tutorials to help you become a ColdFusion maestro.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://www.youtube.com/channel/UCCUMP7Nr8Oa0_BPpD8MUgAQ&quot;>ColdFusion Youtube&amp;nbsp;›&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_15292982791321
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_463"/>
+            <image_769f
+                jcr:created="{Date}2018-06-18T05:15:31.574Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2018-06-18T05:19:20.182Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="CF Summit"
+                fileReference="/content/dam/acom/en/products/coldfusion/Images/cfsummit.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2018-06-18T05:16:13.651Z"
+                    jcr:lastModifiedBy="shresinh"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_769f>
+            <text_66e9
+                jcr:created="{Date}2018-06-18T05:10:18.379Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2020-10-06T06:48:39.729Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>The annual convergence of the best in rapid application development.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://cfsummit.adobeevents.com/&quot;>ColdFusion Summit 2020 ›&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_15292982791322
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_463"/>
+            <image_8e20
+                jcr:created="{Date}2018-06-18T05:15:33.977Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2018-06-18T05:19:39.233Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="FB-TW"
+                fileReference="/content/dam/acom/en/products/coldfusion/Images/fbtw.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2018-06-18T05:16:24.656Z"
+                    jcr:lastModifiedBy="shresinh"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_8e20>
+            <text_f50f
+                jcr:created="{Date}2018-06-18T05:10:44.513Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2018-06-18T05:13:31.580Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Join the conversation.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://www.facebook.com/AdobeColdFusion&quot;>Facebook&amp;nbsp;›&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://twitter.com/coldfusion&quot;>Twitter ›&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <end_15292982618400
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_463"/>
+            <end_15292982225060
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_a075"/>
+        </contentbody>
+        <promobar jcr:primaryType="nt:unstructured">
+            <promo
+                jcr:lastModified="{Date}2015-07-22T16:53:38.251Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/promo"
+                ctaButtonOverride="https://creative.adobe.com/plans?promoid=KSPCN"
+                ctaButtonText="Choose a plan"
+                enablePriceDisplay="true"
+                icon="promo-icon adobe-icon-creativecloud"
+                marketSegmentRewrite="COM"
+                priceType="SUB_NEW"
+                product="creative_cloud"
+                productIntroText="Get the entire collection of creative apps and more for"
+                purchasePhoneCss="promo-phone">
+                <productInfo jcr:primaryType="nt:unstructured"/>
+                <free
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="https://creative.adobe.com/plans?promoid=KSPCN"
+                    ctaButtonText="Choose a plan"
+                    productIntroText="Get the entire collection of creative apps and more for"/>
+                <paid
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="http://max.adobe.com/?promoid=KTJLS"
+                    ctaButtonText="Learn more"
+                    productIntroText="Join us at Adobe MAX. The Creativity Conference. Oct. 3–7 in Los Angeles."/>
+            </promo>
+        </promobar>
+        <contentlayer
+            jcr:lastModified="{Date}2014-11-25T22:30:20.382Z"
+            jcr:lastModifiedBy="wmyersta"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/contentlayer"
+            horizontalAlign="1"
+            opacity="{Long}0"
+            rgb="FFFFFF"
+            textcolor="text-alt-color"
+            verticalAlign="2"
+            width="{Long}55">
+            <title jcr:primaryType="nt:unstructured"/>
+            <text
+                jcr:primaryType="nt:unstructured"
+                text="&lt;div class=&quot;text-0-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Make something great.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>Introducing all-new versions of your favorite desktop apps.&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2018-06-19T13:43:44.416Z"
+                    jcr:lastModifiedBy="ankshukl"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <topofbodymbox
+            jcr:lastModified="{Date}2014-12-16T03:54:16.687Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="TopOfBody"/>
+        <bottomofbodymbox
+            jcr:lastModified="{Date}2014-12-16T03:54:30.562Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="BottomOfBody"/>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+    </jcr:content>
+</jcr:root>

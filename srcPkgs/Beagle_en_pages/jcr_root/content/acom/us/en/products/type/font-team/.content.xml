@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-10-29T19:38:06.550Z"
+        cq:lastModifiedBy="vko"
+        cq:lastReplicated="{Date}2019-10-29T19:38:14.143Z"
+        cq:lastReplicatedBy="vko"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Adobe Type Team"
+        jcr:uuid="30fa651c-48f4-493c-93db-8cb3d799be6d"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Font team | Adobe Type"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="light"
+        hideInSectionNav="true"
+        languageDirection="ltr"
+        metaDescription="Meet Adobe's font team, professionals designers behind Adobe Type fonts."
+        pageTitle="Type Team"
+        seodescription="Meet designers who are behind Adobe Font types.">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_e74b
+                jcr:created="{Date}2016-08-08T21:43:40.334-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-08T22:28:21.269-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="2"
+                grid0="6"
+                grid1="6"
+                layout="2;grid-cols-6 grid-offset-2;grid-cols-6;"
+                multiplier="5"
+                offset0="2"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-08T22:28:21.269-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_e74b>
+            <column_f661
+                jcr:created="{Date}2016-08-08T21:46:52.873-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-08T22:29:52.606-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of3;grid-span-2of3;"
+                bgColor=" "
+                layout="2;grid-span-1of3;grid-span-2of3;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-08T22:29:52.606-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_f661>
+            <image_4d50
+                jcr:created="{Date}2017-04-07T20:45:34.089Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-07T20:59:50.687Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Dan Rhatigan"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/dan-rhatigan-138x138.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-04-07T20:59:50.687Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_4d50>
+            <break_14707180510320
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_f661"/>
+            <text_2705
+                jcr:created="{Date}2017-04-07T20:45:40.172Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-07T20:49:30.440Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Dan Rhatigan&lt;br>&#xa; Sr. Manager&lt;/span>&lt;/div>&#xa;&lt;a href=&quot;https://twitter.com/ultrasparky&quot; target=&quot;_blank&quot;>&lt;img height=&quot;20&quot; src=&quot;/content/dam/acom/en/products/type/font-designers/images/twitter-40.png&quot;>&lt;/a>&#xa;"
+                textIsRich="true"/>
+            <end_14707180128850
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_f661"/>
+            <column_ac30
+                jcr:created="{Date}2016-08-08T22:00:44.185-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-08T22:31:56.145-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of3;grid-span-2of3;"
+                bgColor=" "
+                layout="2;grid-span-1of3;grid-span-2of3;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-08T22:31:56.145-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_ac30>
+            <ttt_4_deaa49af-0c1d-4746-9269-0c5e99aedee1
+                jcr:lastModified="{Date}2016-08-08T22:45:31.813-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Frank Grießhammer"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/frank-griesshammer-138x138.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-08-08T22:45:31.813-07:00"
+                    jcr:lastModifiedBy="ankshukl"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </ttt_4_deaa49af-0c1d-4746-9269-0c5e99aedee1>
+            <break_14707188442020
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_ac30"/>
+            <ttt_9_508b30a5-2ee1-4a64-a879-38bf1fb65a0b
+                jcr:lastModified="{Date}2016-08-09T21:49:08.348-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.about.me/frankrolf&quot; target=&quot;_blank&quot;>Frank Grießhammer&lt;/a>&lt;br>&#xa;Type design and production&lt;/span>&lt;/div>&#xa;&lt;p>&lt;a href=&quot;http://www.about.me/frankrolf&quot; target=&quot;_blank&quot;>&lt;img height=&quot;20&quot; src=&quot;/content/dam/acom/en/products/type/font-designers/images/about.me-40.png&quot;>&lt;/a>&amp;nbsp;&lt;a href=&quot;https://twitter.com/kioskfonts&quot; target=&quot;_blank&quot;>&lt;img height=&quot;20&quot; src=&quot;/content/dam/acom/en/products/type/font-designers/images/twitter-40.png&quot;>&lt;/a>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <end_14707188442031
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_ac30"/>
+            <column_5612
+                jcr:created="{Date}2016-08-08T22:01:09.073-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-08T22:32:42.165-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of3;grid-span-2of3;"
+                bgColor=" "
+                layout="2;grid-span-1of3;grid-span-2of3;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-08T22:32:42.165-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_5612>
+            <ttt_12_9c30c73b-b5fa-458f-ba79-4e306c65df84
+                jcr:lastModified="{Date}2016-08-08T22:46:56.963-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Masataka Hattori"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/mastaka-hattori-138x138.jpeg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-08-08T22:46:56.963-07:00"
+                    jcr:lastModifiedBy="ankshukl"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </ttt_12_9c30c73b-b5fa-458f-ba79-4e306c65df84>
+            <break_14707188690890
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_5612"/>
+            <ttt_12_2a6e43e9-835d-4efa-863b-9194b95729a7
+                jcr:lastModified="{Date}2017-04-07T20:51:26.621Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Masataka Hattori&lt;br>&#xa; Sr Designer&lt;br>&#xa;Japanese team&lt;/span>&lt;/div>&#xa;&lt;p style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 11.818181991577148px;&quot;>&amp;nbsp;&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <end_14707188690901
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5612"/>
+            <column_6acf
+                jcr:created="{Date}2016-08-08T22:01:52.105-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2017-04-10T21:52:12.374Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of3;grid-span-2of3;"
+                bgColor=" "
+                layout="2;grid-span-1of3;grid-span-2of3;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-04-10T21:52:12.374Z"
+                        jcr:lastModifiedBy="golee"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_6acf>
+            <ttt_7_366c09c7-4d58-4bb0-be8e-1e7d2c97abe5
+                jcr:lastModified="{Date}2016-08-08T22:45:09.140-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Paul Hunt"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/paul-hunt-alt.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-08-08T22:45:09.140-07:00"
+                    jcr:lastModifiedBy="ankshukl"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </ttt_7_366c09c7-4d58-4bb0-be8e-1e7d2c97abe5>
+            <break_14707189121220
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_6acf"/>
+            <ttt_7_b009b224-f6ee-470c-9635-9a42ae109d24
+                jcr:lastModified="{Date}2016-08-09T21:47:12.699-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/products/type/font-designers/paul-hunt.html&quot;>Paul Hunt&lt;/a>&lt;br>&#xa;Type design and production&lt;/span>&lt;/div>&#xa;&lt;p>&lt;a href=&quot;https://github.com/pauldhunt&quot; target=&quot;_blank&quot;>&lt;img height=&quot;20&quot; src=&quot;/content/dam/acom/en/products/type/font-designers/images/github-40.png&quot;>&lt;/a>&amp;nbsp;&lt;a href=&quot;https://twitter.com/pauldhunt&quot; target=&quot;_blank&quot;>&lt;img height=&quot;20&quot; src=&quot;/content/dam/acom/en/products/type/font-designers/images/twitter-40.png&quot;>&lt;/a>&lt;a href=&quot;https://twitter.com/pauldhunt&quot;>&lt;/a>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <end_14707189121231
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_6acf"/>
+            <column_8c30
+                jcr:created="{Date}2017-04-07T20:56:41.122Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-07T20:56:41.122Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of3;grid-span-2of3;"
+                bgColor=" "
+                layout="2;grid-span-1of3;grid-span-2of3;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-08T22:33:53.714-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_8c30>
+            <ttt_3_1fdafa93-0cb0-4cb3-82dd-fbe4f71ca88d
+                jcr:lastModified="{Date}2016-08-08T22:39:06.005-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Robert Slimbach"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/robert-slimbach.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-08-08T22:39:06.005-07:00"
+                    jcr:lastModifiedBy="ankshukl"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </ttt_3_1fdafa93-0cb0-4cb3-82dd-fbe4f71ca88d>
+            <break_14915986011330
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_8c30"/>
+            <ttt_1_b9e1a445-1f8f-4c3b-90a2-1338e2f5ab5f
+                jcr:lastModified="{Date}2016-08-09T21:43:51.448-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/products/type/font-designers/robert-slimbach.html&quot;>Robert Slimbach&lt;/a>&lt;br>&#xa;Principal Type Designer&lt;/span>&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <end_14915986011331
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_8c30"/>
+            <break_14707178980300
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_e74b"/>
+            <column_dfdb
+                jcr:created="{Date}2016-08-08T21:59:07.924-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-08T22:30:15.635-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of3;grid-span-2of3;"
+                bgColor=" "
+                layout="2;grid-span-1of3;grid-span-2of3;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-08T22:30:15.635-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_dfdb>
+            <image_baf9
+                jcr:created="{Date}2017-04-10T21:37:43.411Z"
+                jcr:createdBy="golee"
+                jcr:lastModified="{Date}2017-04-10T21:37:43.411Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Ernie March"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/ernie-march-138x138.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-08-08T22:45:55.162-07:00"
+                    jcr:lastModifiedBy="ankshukl"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_baf9>
+            <break_14707187479390
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_dfdb"/>
+            <text_8d3
+                jcr:created="{Date}2017-04-10T21:37:43.631Z"
+                jcr:createdBy="golee"
+                jcr:lastModified="{Date}2017-04-10T21:37:43.631Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://about.me/ernie.march&quot; target=&quot;_blank&quot;>Ernie March&lt;/a>&lt;br>&#xa;&lt;/span>&lt;span style=&quot;font-style: normal; font-weight: 300;&quot;>Sr Quality Engineer&lt;/span>&lt;/div>&#xa;&lt;p>&lt;a href=&quot;http://about.me/ernie.march&quot; target=&quot;_blank&quot;>&lt;img height=&quot;20&quot; src=&quot;/content/dam/acom/en/products/type/font-designers/images/about.me-40.png&quot;>&lt;/a>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <end_14707187479391
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_dfdb"/>
+            <column_fee9
+                jcr:created="{Date}2016-08-08T22:02:06.554-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-08T22:33:06.472-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of3;grid-span-2of3;"
+                bgColor=" "
+                layout="2;grid-span-1of3;grid-span-2of3;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-08T22:33:06.472-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_fee9>
+            <ttt_8_6697ad33-df03-4df0-a32f-35e034029dd8
+                jcr:lastModified="{Date}2016-08-08T22:44:49.304-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Miguel Sousa"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/miguel-sousa-138x138.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-08-08T22:44:49.304-07:00"
+                    jcr:lastModifiedBy="ankshukl"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </ttt_8_6697ad33-df03-4df0-a32f-35e034029dd8>
+            <break_14707189265730
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_fee9"/>
+            <ttt_8_153d212a-bb95-4a84-b75e-958a5ef397f2
+                jcr:lastModified="{Date}2016-08-09T21:48:03.161-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.linkedin.com/in/miguelsousa/&quot; target=&quot;_blank&quot;>Miguel Sousa&lt;/a>&lt;br>&#xa; Manager&lt;br>&#xa; Western font development&lt;/span>&lt;/div>&#xa;&lt;p>&lt;a height=&quot;20&quot; href=&quot;http://www.linkedin.com/in/miguelsousa/&quot; target=&quot;_blank&quot;>&lt;img height=&quot;20&quot; src=&quot;/content/dam/acom/en/products/type/font-designers/images/linkedin-40.png&quot;>&lt;/a>&amp;nbsp;&lt;a height=&quot;20&quot; href=&quot;https://twitter.com/forcebold&quot; target=&quot;_blank&quot;>&lt;img height=&quot;20&quot; src=&quot;/content/dam/acom/en/products/type/font-designers/images/twitter-40.png&quot;>&lt;/a>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <end_14707189265741
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_fee9"/>
+            <column_1e39
+                jcr:created="{Date}2016-08-08T22:02:12.406-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2017-04-10T21:52:24.669Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of3;grid-span-2of3;"
+                bgColor=" "
+                layout="2;grid-span-1of3;grid-span-2of3;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-04-10T21:52:24.669Z"
+                        jcr:lastModifiedBy="golee"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_1e39>
+            <ttt_6_3a5089a7-d1df-4d7d-a138-15c7524f9093
+                jcr:lastModified="{Date}2016-08-08T22:44:26.238-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Read Roberts"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/read-roberts-138x138.jpeg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-08-08T22:44:26.238-07:00"
+                    jcr:lastModifiedBy="ankshukl"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </ttt_6_3a5089a7-d1df-4d7d-a138-15c7524f9093>
+            <break_14707189324310
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_1e39"/>
+            <ttt_5_3a62e8d1-07d1-4c15-90b5-48e05f3d4323
+                jcr:lastModified="{Date}2016-08-09T21:46:42.865-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.linkedin.com/pub/read-roberts/47/762/38b/&quot; target=&quot;_blank&quot;>Read Roberts&lt;/a>&lt;br>&#xa;Sr Computer Scientist&lt;br>&#xa;Tools for font development and testing&lt;/span>&lt;/div>&#xa;&lt;p>&lt;a href=&quot;http://www.linkedin.com/pub/read-roberts/47/762/38b/&quot; target=&quot;_blank&quot;>&lt;img height=&quot;20&quot; src=&quot;/content/dam/acom/en/products/type/font-designers/images/linkedin-40.png&quot;>&lt;/a>&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <end_14707189324321
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1e39"/>
+            <column_36a8
+                jcr:created="{Date}2017-04-07T20:51:33.890Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-07T20:51:33.890Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of3;grid-span-2of3;"
+                bgColor=" "
+                layout="2;grid-span-1of3;grid-span-2of3;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-08T22:33:30.181-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_36a8>
+            <ttt_11_61187343-03e9-4de5-9d1c-260b1c5c05e4
+                jcr:lastModified="{Date}2016-08-08T22:46:38.411-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Ryoko Nishizuka"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/ryoko-nishizuka.jpg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-08-08T22:46:38.411-07:00"
+                    jcr:lastModifiedBy="ankshukl"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </ttt_11_61187343-03e9-4de5-9d1c-260b1c5c05e4>
+            <break_14915982939050
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_36a8"/>
+            <ttt_11_6e03a376-3f02-4cfa-9eee-5da7adfeb6f2
+                jcr:lastModified="{Date}2017-04-07T20:51:18.682Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/products/type/font-designers/ryoko-nishizuka.html&quot; target=&quot;_blank&quot;>Ryoko Nishizuka&lt;/a>&lt;br>&#xa; Sr Designer&lt;br>&#xa;Japanese team&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14915982939061
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_36a8"/>
+            <column_14f8
+                jcr:created="{Date}2019-10-29T19:37:53.337Z"
+                jcr:createdBy="vko"
+                jcr:lastModified="{Date}2019-10-29T19:37:53.337Z"
+                jcr:lastModifiedBy="vko"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of3;grid-span-2of3;"
+                bgColor=" "
+                layout="2;grid-span-1of3;grid-span-2of3;"
+                layoutMode="spatial"
+                multiplier="2"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-08T22:33:53.714-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_14f8>
+            <image_17b3
+                jcr:created="{Date}2017-04-07T20:59:21.090Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-07T20:59:33.680Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Taro Yamamoto"
+                fileReference="/content/dam/acom/en/products/type/font-designers/images/taro-yamamoto-138x138.jpeg">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video jcr:primaryType="nt:unstructured"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-04-07T20:59:33.680Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_17b3>
+            <break_15723778733540
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_14f8"/>
+            <text_4ad3
+                jcr:created="{Date}2017-04-07T20:51:40.930Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-04-07T20:57:04.744Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Taro Yamamoto&lt;br>&#xa; Sr Manager&lt;br>&#xa; Japanese team&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_15723778733541
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_14f8"/>
+            <end_14707178203690
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_e74b"/>
+            <column_f1a3
+                jcr:created="{Date}2016-08-08T22:12:15.839-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-08T22:27:35.637-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="2"
+                grid0="6"
+                grid1="6"
+                layout="2;grid-cols-6 grid-offset-2;grid-cols-6;"
+                multiplier="5"
+                offset0="2"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-08T22:27:35.637-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_f1a3>
+            <break_14707198878260
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_f1a3"/>
+            <end_14707198878281
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_f1a3"/>
+            <column_8b2a
+                jcr:created="{Date}2016-08-08T22:35:00.471-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-08T22:35:00.471-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-05T04:15:44.140-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_8b2a>
+            <horizontalrule_fb0b
+                jcr:created="{Date}2016-08-08T22:35:04.819-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-08T22:35:04.819-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_967b
+                jcr:created="{Date}2016-08-08T22:35:06.884-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-08T22:36:17.704-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-08T22:36:17.704-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_967b>
+            <text_8e20
+                jcr:created="{Date}2016-08-08T22:35:09.761-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-08T22:35:09.761-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Learning&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers.html&quot;>Adobe Type Designers&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-team.html&quot;>Adobe Type Team&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-specimens.html&quot;>Type specimens&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-references-tips.html&quot;>Type reference materials&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-originals.html&quot;>Adobe Originals&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/opentype.html&quot;>OpenType&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14707209777340
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_967b"/>
+            <text_4332
+                jcr:created="{Date}2016-08-08T22:35:11.180-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-08T22:35:11.180-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Resources&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blog.typekit.com/&quot;>Type &amp;amp; Typekit blog&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blogs.adobe.com/CCJKType/&quot;>CJK Type blog (Asian fonts)&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype.html&quot;>Developer information&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype/afdko.html&quot;>Font Development Kit&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/install-instructions.html&quot;>Font installation instructions&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14707209777351
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_967b"/>
+            <text_b5ed
+                jcr:created="{Date}2016-09-01T04:44:41.901Z"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-09-01T04:44:41.901Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Help&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing Center&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/creative-cloud-fonts.html&quot;>CC Bundled Fonts&amp;nbsp;FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://typekit.com/help&quot;>Web Font FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/products/fontfolio/faq.html&quot;>Font Folio FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://forums.adobe.com/community/typography_fonts&quot;>Adobe Type user forums&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14707209777352
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_967b"/>
+            <end_14707209004970
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_8b2a"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2016-08-22T23:52:08.675-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2016-08-22T23:52:08.675-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+    </jcr:content>
+</jcr:root>

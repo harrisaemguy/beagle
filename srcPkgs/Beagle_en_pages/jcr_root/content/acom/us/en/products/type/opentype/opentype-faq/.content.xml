@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2017-04-26T23:26:58.588Z"
+        cq:lastModifiedBy="golee"
+        cq:lastReplicated="{Date}2017-04-26T23:27:42.884Z"
+        cq:lastReplicatedBy="golee"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="OpenType FAQ"
+        jcr:uuid="8e6f6804-05c6-4b5c-9d9e-7e1e99d00e8b"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="OpenType Features &amp; FAQs | Adobe Type"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="light"
+        languageDirection="ltr"
+        marqueeStyle="newMarquee"
+        metaDescription="What is an opentype font? Here is information about specification and features of adobe opentype fonts."
+        pageTitle="OpenType FAQ"
+        seodescription="The Adobe Font Center provides font licensing, font permissions, and other legal information about Adobe fonts."
+        stagelastReplicated="10-Mar-2017 20:22"
+        stagelastReplicatedBy="golee"
+        stageLastReplicationAction="ActivatedtoStage"
+        tagsKeywords="opentype features, what is opentype, opentype specification">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_126b
+                jcr:lastModified="{Date}2016-08-02T04:14:08.599-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-02T04:14:08.599-07:00"
+                        jcr:lastModifiedBy="ashahab"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_126b>
+            <ttt_f5a5f57f-ca3d-45aa-8cf2-8645eca742b9
+                jcr:lastModified="{Date}2016-08-02T22:02:49.898-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>This FAQ provides answers to common questions about OpenType® fonts. If you have a question that is not addressed here, please &lt;a href=&quot;mailto:type-questions@adobe.com?subject=Question not in FAQ&quot; target=&quot;_self&quot;>contact us&lt;/a>.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_9ed4
+                jcr:created="{Date}2016-08-01T05:44:22.649-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-02T02:13:28.340-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q.&amp;nbsp;What is OpenType font format, and how does it relate to Type 1 and TrueType?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A:The OpenType format is a superset of the existing TrueType and Adobe®&amp;nbsp;PostScript®&amp;nbsp;Type 1 font formats. It enables improved cross-platform document portability, rich linguistic support, powerful typographic capabilities, and simplified font management requirements.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>OpenType, as jointly defined by Microsoft and Adobe Systems, is technically an extension of Microsoft's TrueType Open format, which can contain either PostScript font outlines (.otf) or TrueType font outlines (.ttf). OpenType .otf fonts are recognized and rendered on-screen by a PostScript rasterizer, such as Adobe Type Manager®&amp;nbsp;(ATM®), which is either installed as an add-on system software component or built directly into the operating system. Macintosh OS X, Microsoft Windows® 2000, Windows XP, and all later Windows operating systems that have built in support for OpenType and Type 1 fonts. OpenType fonts peacefully co-exist with current font formats and can be used in the same document alongside Type 1 and TrueType fonts.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_ab8a
+                jcr:created="{Date}2016-08-01T05:46:42.961-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-02T02:23:01.310-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q.&amp;nbsp;What are the advantages of OpenType?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A:OpenType offers several compelling advantages:&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A single, cross-platform font file that can be used on both Macintosh and Windows platforms&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A nearly unlimited character set based on the international Unicode encoding standard for rich linguistic support&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>Advanced typographic capabilities related to glyph positioning and glyph substitution that allow for the inclusion of numerous alternate glyphs — such as old-style figures, small capitals and swashes — in one font file&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A compact font outline data structure for smaller font file sizes&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>OpenType is natively supported in&amp;nbsp;Windows 2000, Windows&amp;nbsp; XP and later Windows operating systems and the Macintosh OSX operating system&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>OpenType advanced typographic features are supported in Adobe InDesign®&amp;nbsp;CS all versions,&amp;nbsp;Adobe Illustrator®&amp;nbsp;CS all versions, Adobe Photoshop®&amp;nbsp;CS all versions, as well as many non-Adobe applications&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_3cd4
+                jcr:created="{Date}2016-08-01T05:46:53.428-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-02T02:26:30.004-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q.&amp;nbsp;What compression technologies are incorporated in OpenType?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A:&amp;nbsp;All OpenType fonts with PostScript outlines (.otf) use Compact Font Format (CFF, or Type 2) for considerable size reduction. Although CFF is not strictly compression, since the outlines do not have to be decompressed to be rendered, the result is still more compact than Type 1. Adobe’s OpenType fonts also use subroutinization for additional size reduction. OpenType fonts with TrueType outlines (.ttf) have the option of using compression technology licensed by Microsoft.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_d928
+                jcr:created="{Date}2016-08-01T05:46:58.824-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-02T02:27:47.501-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q.&amp;nbsp;Why are there two kinds of OpenType fonts?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A:&amp;nbsp;The OpenType format is the result of merging two existing formats — Type 1 and TrueType fonts — so it is important to retain the advantages of both.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_4cf5
+                jcr:created="{Date}2016-08-02T03:07:17.562-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-02T03:09:18.959-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q: Does Microsoft Windows include a PostScript Type 1 rasterizer?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A:&amp;nbsp;Starting with Windows 2000 and Windows XP, Microsoft operating systems include a built-in Adobe PostScript font rasterizer. These operating systems provide native support for OpenType (with either PostScript or TrueType outlines), Type 1, and TrueType.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_5705
+                jcr:created="{Date}2016-08-01T05:47:28.593-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-02T02:30:37.626-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q.&amp;nbsp;Can I still use my Type 1 or TrueType fonts if I use OpenType?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A:&amp;nbsp;You can continue working as you always have. OpenType works seamlessly alongside both TrueType and Type 1 fonts. OpenType fonts simply provide more power, since they offer extended language support and advanced typographic features on platforms and applications that support extended OpenType capabilities.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_e2fb
+                jcr:created="{Date}2016-08-01T05:47:37.737-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-02T02:33:16.932-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q.&amp;nbsp;What does OpenType support mean? If I’m using an operating system that supports OpenType, can I use OpenType features in all my applications?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A:&amp;nbsp;OpenType support consists of three types: basic OpenType support (the fonts work like any other fonts); Unicode support (access to extended language character sets); and OpenType layout support (support for advanced typographic features). Some operating systems (or operating system extensions) can provide support for one or more of these, but support for Unicode and layout features requires that an application be programmed to provide this functionality.&amp;nbsp;&lt;a href=&quot;http://www.adobe.com/products/indesign/&quot; target=&quot;_self&quot;>Adobe InDesign&lt;/a>&amp;nbsp;(all versions),&amp;nbsp;&lt;a href=&quot;http://www.adobe.com/products/illustrator.html&quot; target=&quot;_self&quot;>Adobe Illustrator&lt;/a>&amp;nbsp;and&amp;nbsp;&lt;a href=&quot;http://www.adobe.com/products/photoshop/&quot; target=&quot;_self&quot;>Adobe Photoshop 6.0&lt;/a>and later support OpenType advanced typographic features.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_6c93
+                jcr:created="{Date}2016-08-01T05:47:40.100-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-02T02:35:36.451-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q.&amp;nbsp;Is OpenType restricted to Western/Roman fonts?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A:&amp;nbsp;No. OpenType is based on the Unicode encoding standard, which can support virtually any or all world languages.&amp;nbsp;Adobe has released several Japanese OpenType fonts, as well OpenType fonts that support Arabic, Chinese, Cyrillic, Devanagari, Greek, Gurmukhi, Hebrew, Korean and Thai.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_53cc
+                jcr:created="{Date}2016-08-01T05:47:42.737-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-02T02:39:52.998-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q.&amp;nbsp;As a font developer, how can I find out more about OpenType?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A:&amp;nbsp;Several developer resources are available on the Adobe Solutions Network, including the&amp;nbsp;&lt;a href=&quot;http://partners.adobe.com/asn/developer/typeforum/opentype.html&quot; target=&quot;_self&quot;>OpenType section&lt;/a>&amp;nbsp;in the Type Technology Forum and the&amp;nbsp;&lt;a href=&quot;http://partners.adobe.com/asn/developer/opentype/main.html&quot;>OpenType specification&lt;/a>. Font developers interested in tools can also&amp;nbsp;&lt;a href=&quot;mailto:type-questions@adobe.com?subject=Question%20about%20in%20OpenType%20Tools&quot;>contact us&lt;/a>.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_64ce
+                jcr:created="{Date}2016-08-02T02:42:16.175-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-02T02:44:56.433-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q.&amp;nbsp;Why did Adobe and Microsoft decide to co-develop a new font format?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A:&amp;nbsp;The decision to work together came from a desire to provide the best solution for customers, and to provide an environment for future joint innovations. Both companies agree that merging the Type 1 and TrueType formats is the best solution for customers, because both font standards can now be supported seamlessly on both Windows and Macintosh platforms. Both outline formats have their advantages, and merging the handling of fonts allows each company to concentrate on bringing more advanced features to their customers.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_3ab3
+                jcr:created="{Date}2016-08-02T02:43:38.284-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-02T02:45:34.388-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q.&amp;nbsp;What technologies are Adobe and Microsoft cross-licensing?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A:&amp;nbsp;Both companies have licensed their respective font rasterizers, font production tools, and conversion software. One direct result of this is native support for Type 1 and OpenType fonts in Windows 2000.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_ca79
+                jcr:created="{Date}2016-08-02T02:43:42.463-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-02T02:46:10.564-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q.&amp;nbsp;Do other vendors support OpenType?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A:&amp;nbsp;Yes. Virtually all font developers release fonts in OpenType as their default today.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_58a8
+                jcr:created="{Date}2016-08-02T02:43:48.455-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-02T02:46:50.655-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q.&amp;nbsp;My OpenType font has real small caps, superiors, and/or subscripts, but when I use this feature in a particular application, I get simulated glyphs. Why?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A:&amp;nbsp;The application is designed to create simulated glyphs for non-OpenType fonts. Either the application doesn't support OpenType layout and substitution features, or it doesn't support the particular feature you're trying to use. Contact the application vendor to let the company know you want this feature to be supported in a future version.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_7bb0
+                jcr:created="{Date}2016-08-02T02:43:54.861-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-02T02:47:31.069-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q.&amp;nbsp;My OpenType font includes non-Latin characters (Central European, Greek, and Cyrillic). Why can’t I access these characters in my application or operating system?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A:&amp;nbsp;Extended language support can be present in the fonts, but it is dependent on Unicode support within the operating system and/or application.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_6d0a
+                jcr:created="{Date}2016-08-02T02:44:17.596-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-02T03:00:48.367-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Q.&amp;nbsp;Can I use OpenType fonts over a network?&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>A:&amp;nbsp;Yes. As long as your computer is set up to use OpenType fonts, and the server is accessible to your computer, you can use them over a network as well. In addition, the same OpenType fonts can be used on both Macintosh and Windows systems that are connected to the network. However, you should check the terms of your font license agreement to make sure that you are licensed to use the fonts over a network, and that you are not exceeding the number of users permitted by the license.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14544550461840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_126b"/>
+            <column_ca1
+                jcr:created="{Date}2016-07-29T03:23:56.964-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-08-03T04:27:44.820-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-03T04:27:44.820-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_ca1>
+            <horizontalrule_a4ef
+                jcr:created="{Date}2016-08-02T03:19:12.983-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-02T03:19:12.983-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_ac51
+                jcr:created="{Date}2016-07-29T03:23:59.947-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-07-29T03:25:33.888-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-07-29T03:25:33.888-07:00"
+                        jcr:lastModifiedBy="ankshukl"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_ac51>
+            <text_260b
+                jcr:created="{Date}2016-07-29T03:24:02.584-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-07-29T03:24:02.584-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Learning&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-designers.html&quot;>Adobe Type Designers&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-team.html&quot;>Adobe Type Team&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-specimens.html&quot;>Type specimens&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-references-tips.html&quot;>Type reference materials&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-originals.html&quot;>Adobe Originals&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/opentype.html&quot;>OpenType&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14697879338970
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_ac51"/>
+            <text_b7ba
+                jcr:created="{Date}2016-07-29T03:24:04.484-07:00"
+                jcr:createdBy="ankshukl"
+                jcr:lastModified="{Date}2016-07-29T03:24:04.484-07:00"
+                jcr:lastModifiedBy="ankshukl"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Resources&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blog.typekit.com/&quot;>Type &amp;amp; Typekit blog&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blogs.adobe.com/CCJKType/&quot;>CJK Type blog (Asian fonts)&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype.html&quot;>Developer information&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype/afdko.html&quot;>Font Development Kit&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/install-instructions.html&quot;>Font installation instructions&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14697879338981
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_ac51"/>
+            <text_e5c1
+                jcr:created="{Date}2016-09-01T05:44:35.676Z"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-09-01T05:44:35.676Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Help&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing Center&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/creative-cloud-fonts.html&quot;>CC Bundled Fonts&amp;nbsp;FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://typekit.com/help&quot;>Web Font FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/products/fontfolio/faq.html&quot;>Font Folio FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing.html&quot;>Font Licensing FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://forums.adobe.com/community/typography_fonts&quot;>Adobe Type user forums&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14697879338982
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_ac51"/>
+            <column_e52d
+                jcr:created="{Date}2017-03-10T20:18:34.193Z"
+                jcr:createdBy="golee"
+                jcr:lastModified="{Date}2017-03-10T20:18:57.429Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                bgColor=" "
+                layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3;"
+                layoutMode="spatial"
+                multiplier="6"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-03-10T20:18:57.429Z"
+                        jcr:lastModifiedBy="golee"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_e52d>
+            <text_c44e
+                jcr:created="{Date}2017-03-10T20:19:15.324Z"
+                jcr:createdBy="golee"
+                jcr:lastModified="{Date}2017-04-26T23:26:58.583Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>More information&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/opentype/opentype-fonts-information.html&quot;>OpenType ReadMe&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/opentype/opentype-faq.html&quot;>OpenType FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/qna_japanese.pdf&quot; target=&quot;_blank&quot;>OpenType FAQ (Japanese)&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/opentype.html&quot;>OpenType Developer Information&lt;br>&#xa;&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/dam/acom/en/products/type/pdfs/PiFontInfo.pdf&quot; target=&quot;_blank&quot;>Pi Font Info&lt;/a>&lt;br>&#xa; &lt;a href=&quot;http://www.microsoft.com/typography/default.mspx&quot; target=&quot;_blank&quot;>Microsoft Typography&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14891771374410
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_e52d"/>
+            <break_14891771374411
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_e52d"/>
+            <end_14891771142010
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_e52d"/>
+            <end_14697878369710
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_ca1"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2016-08-22T23:38:16.570-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2016-08-22T23:38:16.570-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+    </jcr:content>
+</jcr:root>

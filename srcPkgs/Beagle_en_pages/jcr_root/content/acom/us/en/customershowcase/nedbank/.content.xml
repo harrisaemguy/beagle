@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-11-08T07:16:06.218Z"
+        cq:lastModifiedBy="akumawat"
+        cq:lastReplicated="{Date}2019-11-08T07:16:13.994Z"
+        cq:lastReplicatedBy="akumawat"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:csIndustry/financialServices,filters:csProduct/mc,filters:csProduct/mc/target,filters:csProduct/mc/experienceManager,filters:csProduct/mc/analytics]"
+        cq:template="/apps/beagle/templates/customershowcasedetailpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Nedbank"
+        jcr:uuid="d7e127e4-5ebc-4e84-9378-d5f4c6890897"
+        sling:resourceType="beagle/components/customershowcasedetailpage"
+        noIndex="true"
+        removeFromHtmlSitemap="true"
+        removeFromSitemap="true"
+        removeFromXmlSitemap="true">
+        <customershowcasecard
+            cq:lastReplicated="{Date}2017-03-10T19:26:38.711Z"
+            cq:lastReplicatedBy="tmina"
+            cq:lastReplicationAction="Activate"
+            jcr:lastModified="{Date}2019-11-08T07:16:06.193Z"
+            jcr:lastModifiedBy="akumawat"
+            jcr:mixinTypes="[cq:ReplicationStatus]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/customershowcasecard"
+            cardType="standard"
+            companyName="Nedbank"
+            creationDate="{Date}2018-03-29T21:33:00.000+05:30"
+            link1="https://www.adobe.com/customer-success-stories/nedbank-case-study.html"
+            link1Target="_blank"
+            link1Text="Read the story"
+            link2Target="_self"
+            orderDate="{Date}2016-12-02T04:23:00.000+05:30">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                    size="426x240"
+                    type="free">
+                    <social jcr:primaryType="nt:unstructured"/>
+                    <meta jcr:primaryType="nt:unstructured">
+                        <image
+                            jcr:lastModified="{Date}2019-11-08T07:16:06.193Z"
+                            jcr:lastModifiedBy="akumawat"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </meta>
+                    <tracking jcr:primaryType="nt:unstructured"/>
+                </video>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2019-11-08T07:16:06.193Z"
+                jcr:lastModifiedBy="akumawat"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Nedbank"
+                fileReference="/content/dam/acom/en/customer-showcase/images/nedbank-660x348.png"
+                xcord="{Long}72"
+                ycord="{Long}40"/>
+        </customershowcasecard>
+    </jcr:content>
+</jcr:root>

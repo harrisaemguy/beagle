@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content/>
+    <compare-plans/>
+    <compare-chart/>
+    <elements-switch/>
+    <checkout/>
+    <basics/>
+    <basics1/>
+    <elements-switch-qatest/>
+    <newpage-01/>
+    <elements-switch-qatest1/>
+    <lightroom-cc-vs-cc-photography/>
+    <compare-chart-bak/>
+    <lightroom-cc-vs-lightroom-classic/>
+    <compare-plans-bak/>
+    <free-trial-download/>
+    <complimentary-membership/>
+</jcr:root>

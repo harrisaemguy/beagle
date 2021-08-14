@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <jcr:content/>
+    <buying-guide/>
+    <resources/>
+    <learn-support/>
+    <cms-integration/>
+    <trial-select/>
+    <reviews/>
+    <pricing/>
+    <features/>
+    <features-all/>
+    <download-trial/>
+    <xml-dita-editor/>
+    <whitepapers/>
+    <vipdownload/>
+    <test_offer/>
+    <rep:policy/>
+</jcr:root>

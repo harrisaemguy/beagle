@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <jcr:content/>
+    <ccpp-offer-landing-test/>
+    <microsoft/>
+    <Photoserge-offer-landing-test/>
+    <PHOTOSERGEv1-offer-landing-test/>
+    <lr-offer-landing/>
+    <cc-offer-landing/>
+    <dc-offer-landing/>
+    <cc-allapps-offer-landing/>
+    <cct-offer-landing/>
+    <affiliate-partners/>
+    <PhotoSerge/>
+    <hp-offers/>
+    <rep:policy/>
+</jcr:root>

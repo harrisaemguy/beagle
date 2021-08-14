@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2017-02-10T16:45:03.789Z"
+        cq:lastModifiedBy="reference-adjustment-service"
+        cq:lastReplicated="{Date}2019-04-05T21:57:58.068Z"
+        cq:lastReplicatedBy="tvaldez"
+        cq:lastReplicationAction="Deactivate"
+        cq:tags="[filters:csProduct/dc/adobeSign,filters:csIndustry/healthcare,filters:csProduct/dc]"
+        cq:template="/apps/beagle/templates/customershowcasedetailpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="SteriHealth"
+        jcr:uuid="25178122-6585-4105-bb6f-7f110e7f7d9a"
+        sling:resourceType="beagle/components/customershowcasedetailpage"
+        noIndex="true"
+        removeFromHtmlSitemap="true"
+        removeFromSitemap="true"
+        removeFromXmlSitemap="true">
+        <customershowcasecard
+            cq:lastReplicated="{Date}2017-03-10T18:51:21.191Z"
+            cq:lastReplicatedBy="tmina"
+            cq:lastReplicationAction="Activate"
+            jcr:lastModified="{Date}2016-12-07T16:30:16.937-08:00"
+            jcr:lastModifiedBy="tvaldez"
+            jcr:mixinTypes="[cq:ReplicationStatus]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/customershowcasecard"
+            cardType="standard"
+            companyName="SteriHealth"
+            creationDate="{Date}2016-12-07T17:27:00.000-07:00"
+            link1="/content/dam/acom/en/customer-success/pdfs/sterihealth-case-study.pdf"
+            link1Target="_blank"
+            link1Text="Read the story"
+            link2Target="_self"
+            orderDate="{Date}2016-05-03T17:29:01.000-06:00">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    size="426x240"
+                    type="free"/>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2016-12-07T16:30:16.937-08:00"
+                jcr:lastModifiedBy="tvaldez"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="SteriHealth"
+                fileReference="/content/dam/acom/en/customer-showcase/images/sterihealth-660x348.png"
+                xcord="{Long}65"
+                ycord="{Long}44"/>
+        </customershowcasecard>
+    </jcr:content>
+</jcr:root>

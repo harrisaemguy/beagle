@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-04-09T15:15:28.309Z"
+        cq:lastModifiedBy="derjones"
+        cq:lastReplicated="{Date}2019-04-09T15:25:36.853Z"
+        cq:lastReplicatedBy="derjones"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Adobe Downloads"
+        jcr:uuid="0ff79037-0a4b-4fe0-8378-8dd9503e4ac4"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Adobe software and other downloads"
+        distType="dist5"
+        enableCCRedirect="NA"
+        freeTrialUrlLoggedInModalScrolling="no"
+        freeTrialUrlLoggedInModalSize="426x240"
+        freeTrialUrlLoggedInTarget="_self"
+        freeTrialUrlModalScrolling="no"
+        freeTrialUrlModalSize="426x240"
+        freeTrialUrlTarget="_self"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        isSectionNavParent="true"
+        manualChildren="true"
+        marketSegmentRewrite="COM"
+        marqueeStyle="newMarquee"
+        metaDescription="Download CS, Acrobat DC, Photoshop Elements, Premiere Elements product installers.&#xa;"
+        modalSize="426x240"
+        pageTitle="Adobe Downloads"
+        sectionNavTitle="Other downloads"
+        stagelastReplicated="15-Aug-2017 20:24"
+        stagelastReplicatedBy="sale"
+        stageLastReplicationAction="ActivatedtoStage"
+        tryLinkModalScrolling="no"
+        tryLinkModalSize="426x240"
+        tryLinkProductPlanModalScrolling="no"
+        tryLinkProductPlanModalSize="426x240"
+        tryLinkProductPlanTarget="_self"
+        tryLinkTarget="_self"
+        useH1Tags="pageTitle">
+        <sectionMore
+            jcr:primaryType="nt:unstructured"
+            linkModalScrolling="no"
+            linkModalSize="426x240"
+            linkTarget="_self"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2018-06-06T21:08:14.067Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2018-06-06T21:08:14.067Z"
+                    jcr:lastModifiedBy="golee"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <tophero
+            jcr:lastModified="{Date}2017-08-15T20:55:27.188Z"
+            jcr:lastModifiedBy="sale"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            avoid="hero2-avoid-1"
+            color="hero2-theme-2"
+            height="hero2-size-auto"
+            hideCredits="true"
+            hideLink="true">
+            <image
+                jcr:lastModified="{Date}2017-08-15T20:55:27.188Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Adobe Downloads Marquee"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </tophero>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_485
+                jcr:created="{Date}2016-10-26T11:03:49.902-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-15T19:00:04.142Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-02-15T19:00:04.142Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_485>
+            <column_2ca6
+                jcr:created="{Date}2017-02-16T02:14:06.563Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-02-16T19:32:27.726Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-cols-6;grid-cols-6;"
+                bgColor=" "
+                layout="2;grid-cols-6;grid-cols-6;"
+                layoutMode="structured"
+                multiplier="3"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-02-16T19:32:27.726Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_2ca6>
+            <text_2622
+                jcr:created="{Date}2017-02-16T02:14:37.159Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2018-03-19T20:38:32.187Z"
+                jcr:lastModifiedBy="vko"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>Adobe Creative Suite&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://helpx.adobe.com/x-productkb/policy-pricing/cs6-product-downloads.html&quot;>CS6&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;http://helpx.adobe.com/creative-suite/kb/cs5-5-product-downloads.html&quot;>CS5.5&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;http://helpx.adobe.com/creative-suite/kb/cs5-product-downloads.html&quot;>CS5&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;http://helpx.adobe.com/creative-suite/kb/cs4-product-downloads.html&quot;>CS4&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;http://helpx.adobe.com/creative-suite/kb/cs3-product-downloads.html&quot;>CS3&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;https://helpx.adobe.com/creative-suite/kb/cs2-product-downloads.html?promoid=19SCDRQK&quot;>CS2&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;p>Adobe Photoshop Elements&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a target=&quot;_self&quot; href=&quot;https://helpx.adobe.com/photoshop-elements/kb/photoshop-elements-downloads.html&quot;>2019, 2018, 15, 14&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a target=&quot;_self&quot; href=&quot;https://helpx.adobe.com/photoshop-elements/kb/download-earlier-version-photoshop-elements.html&quot;>13, 12, 11, 10, 9, 8, 7&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;p>Adobe Photoshop Lightroom&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://helpx.adobe.com/lightroom/kb/lightroom-downloads.html&quot;>6,&lt;/a> &lt;a href=&quot;https://helpx.adobe.com/lightroom/kb/lightroom-downloads.html&quot;>5,&lt;/a> &lt;a href=&quot;https://helpx.adobe.com/lightroom/kb/lightroom-downloads.html&quot;>4&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_9ccb
+                jcr:created="{Date}2017-04-11T19:12:20.689Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-10-23T06:08:20.811Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>Adobe Application Manager&lt;br>&#xa;&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/support/downloads/detail.jsp?ftpID=4774&quot;>Macintosh&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;http://www.adobe.com/support/downloads/detail.jsp?ftpID=4773&quot;>Windows&lt;/a>&amp;nbsp;&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;p>Adobe Color Management Module&lt;br>&#xa;&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/support/downloads/detail.jsp?ftpID=3617&quot;>Macintosh&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;http://www.adobe.com/support/downloads/detail.jsp?ftpID=3618&quot;>Windows&amp;nbsp;&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <break_14872112555610
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_2ca6"/>
+            <text_2410
+                jcr:created="{Date}2017-02-16T19:23:41.526Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2018-03-19T20:40:11.625Z"
+                jcr:lastModifiedBy="vko"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>Adobe Acrobat&lt;br>&#xa;&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://helpx.adobe.com/acrobat/kb/acrobat-downloads.html&quot;>DC (Classic), XI, X&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;http://helpx.adobe.com/acrobat/kb/acrobat-8-9-product-downloads.html&quot;>9, 8&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;p>Adobe Premiere Elements&lt;br>&#xa;&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://helpx.adobe.com/premiere-elements/kb/premiere-elements-downloads.html&quot;>2019, 2018, 15, 14&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;https://helpx.adobe.com/premiere-elements/kb/download-earlier-version-premiere-elements.html&quot;>13, 12, 11, 10, 9&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <text_6a6e
+                jcr:created="{Date}2017-04-11T19:12:29.931Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-10-23T06:07:52.882Z"
+                jcr:lastModifiedBy="patters"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>Adobe ICC Color Profiles&lt;br>&#xa;&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/support/downloads/iccprofiles/iccprofiles_mac.html&quot;>Macintosh&lt;/a>&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;http://www.adobe.com/support/downloads/iccprofiles/iccprofiles_win.html&quot;>Windows&lt;/a>&amp;nbsp;&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;p>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/cfusion/exchange/index.cfm&quot;>Adobe Add-ons&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <end_14872112465900
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_2ca6"/>
+            <end_14775050299050
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_485"/>
+            <showmore_54ae
+                jcr:created="{Date}2017-02-15T19:43:10.059Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-02-16T19:25:41.591Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/showmore"/>
+            <column_cb88
+                jcr:created="{Date}2017-02-15T22:07:00.151Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-04-26T01:05:47.951Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor="background-color:#f5f5f5;color:#000000"
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="6"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-04-26T01:05:47.951Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_cb88>
+            <text_e2a5
+                jcr:created="{Date}2017-02-15T22:07:15.223Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-02-15T22:07:15.223Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Downloads&lt;/span>&lt;/h3>&#xa;"
+                textIsRich="true"/>
+            <end_14871964202260
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_cb88"/>
+            <column_6bfa
+                jcr:created="{Date}2019-04-09T02:50:19.061Z"
+                jcr:createdBy="derjones"
+                jcr:lastModified="{Date}2019-04-09T15:15:28.293Z"
+                jcr:lastModifiedBy="derjones"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="3;grid-cols-4;grid-cols-4;grid-cols-4;"
+                bgColor="background-color:#f5f5f5;color:#000000"
+                columnCount="3"
+                grid0="4"
+                grid1="4"
+                grid2="4"
+                layout="3;grid-cols-4 grid-offset-2      ;grid-cols-4      ;grid-cols-4      ;"
+                multiplier="3"
+                offset0="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2019-04-09T15:15:28.293Z"
+                        jcr:lastModifiedBy="derjones"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_6bfa>
+            <column_a168
+                jcr:created="{Date}2019-04-09T02:53:07.442Z"
+                jcr:createdBy="derjones"
+                jcr:lastModified="{Date}2019-04-09T02:54:44.665Z"
+                jcr:lastModifiedBy="derjones"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of3;grid-span-2of3;"
+                bgColor=" "
+                columnCount="2"
+                grid0="1"
+                grid1="3"
+                layout="2;grid-cols-1      ;grid-cols-3      ;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2019-04-09T02:54:44.665Z"
+                        jcr:lastModifiedBy="derjones"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_a168>
+            <text_67a5
+                jcr:created="{Date}2019-04-09T02:55:03.238Z"
+                jcr:createdBy="derjones"
+                jcr:lastModified="{Date}2019-04-09T02:55:03.238Z"
+                jcr:lastModifiedBy="derjones"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-2-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;https://get.adobe.com/reader/&quot;>&lt;i class=&quot;adobe-icon-color-doc-cloud&quot;>&lt;/i>&lt;/a>&lt;/div>&#xa;"/>
+            <break_15547784846950
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_a168"/>
+            <text_e9a4
+                jcr:created="{Date}2019-04-09T02:55:07.585Z"
+                jcr:createdBy="derjones"
+                jcr:lastModified="{Date}2019-04-09T02:55:07.585Z"
+                jcr:lastModifiedBy="derjones"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-7-block&quot;>&lt;a href=&quot;https://get.adobe.com/reader/&quot;>Adobe Acrobat Reader DC&lt;/a>&lt;/div>&#xa;"/>
+            <end_15547783874550
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_a168"/>
+            <break_15547783072120
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_6bfa"/>
+            <column_79eb
+                jcr:created="{Date}2019-04-09T02:54:53.106Z"
+                jcr:createdBy="derjones"
+                jcr:lastModified="{Date}2019-04-09T02:54:53.106Z"
+                jcr:lastModifiedBy="derjones"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of3;grid-span-2of3;"
+                bgColor=" "
+                columnCount="2"
+                grid0="1"
+                grid1="3"
+                layout="2;grid-cols-1      ;grid-cols-3      ;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2019-04-09T02:54:44.665Z"
+                        jcr:lastModifiedBy="derjones"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_79eb>
+            <text_aa9c
+                jcr:created="{Date}2019-04-09T02:55:12.402Z"
+                jcr:createdBy="derjones"
+                jcr:lastModified="{Date}2019-04-09T02:55:12.402Z"
+                jcr:lastModifiedBy="derjones"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-2-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;https://www.adobe.com/go/getflashplayer/&quot;>&lt;i class=&quot;adobe-icon-color-flashplayer&quot;>&lt;/i>&lt;/a>&lt;/div>&#xa;"/>
+            <break_15547784931210
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_79eb"/>
+            <text_b485
+                jcr:created="{Date}2019-04-09T02:55:16.693Z"
+                jcr:createdBy="derjones"
+                jcr:lastModified="{Date}2019-04-09T02:55:16.693Z"
+                jcr:lastModifiedBy="derjones"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-7-block&quot;>&lt;a href=&quot;https://www.adobe.com/go/getflashplayer/&quot;>Adobe Flash Player&lt;/a>&lt;/div>&#xa;"/>
+            <end_15547784931211
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_79eb"/>
+            <break_15547783072121
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_6bfa"/>
+            <column_91f2
+                jcr:created="{Date}2019-04-09T02:54:55.904Z"
+                jcr:createdBy="derjones"
+                jcr:lastModified="{Date}2019-04-09T02:54:55.904Z"
+                jcr:lastModifiedBy="derjones"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of3;grid-span-2of3;"
+                bgColor=" "
+                columnCount="2"
+                grid0="1"
+                grid1="3"
+                layout="2;grid-cols-1      ;grid-cols-3      ;"
+                layoutMode="spatial"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2019-04-09T02:54:44.665Z"
+                        jcr:lastModifiedBy="derjones"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_91f2>
+            <text_764d
+                jcr:created="{Date}2019-04-09T02:55:20.736Z"
+                jcr:createdBy="derjones"
+                jcr:lastModified="{Date}2019-04-09T02:55:20.736Z"
+                jcr:lastModifiedBy="derjones"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-2-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;https://www.adobe.com/go/getair/&quot;>&lt;i class=&quot;adobe-icon-color-air&quot;>&lt;/i>&lt;/a>&lt;/div>&#xa;"/>
+            <break_15547784959190
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_91f2"/>
+            <text_a38f
+                jcr:created="{Date}2019-04-09T02:55:25.058Z"
+                jcr:createdBy="derjones"
+                jcr:lastModified="{Date}2019-04-09T02:55:25.058Z"
+                jcr:lastModifiedBy="derjones"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-7-block&quot;>&lt;a href=&quot;https://www.adobe.com/go/getair/&quot;>Adobe AIR&lt;/a>&lt;/div>&#xa;"/>
+            <end_15547784959201
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_91f2"/>
+            <end_15547782190730
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_6bfa"/>
+            <column_dd11
+                jcr:created="{Date}2016-11-08T10:13:55.117-08:00"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2016-11-08T10:15:22.995-08:00"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-08T10:15:22.995-08:00"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_dd11>
+            <end_14786288351390
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_dd11"/>
+        </contentbody>
+        <sectionNavItems
+            jcr:primaryType="nt:unstructured"
+            sort_mdv="[0,1,2]">
+            <_x0030_
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionLink"
+                link="/content/acom/us/en/downloads"
+                sectionNavTitle="Free trial downloads"
+                target="_self"/>
+            <_x0031_
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionLink"
+                link="/content/acom/us/en/downloads/updates"
+                sectionNavTitle="Product updates"
+                target="_self"/>
+            <_x0032_
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionLink"
+                link="/content/acom/us/en/downloads/other-downloads"
+                sectionNavTitle="Other downloads"
+                target="_self"/>
+        </sectionNavItems>
+    </jcr:content>
+</jcr:root>

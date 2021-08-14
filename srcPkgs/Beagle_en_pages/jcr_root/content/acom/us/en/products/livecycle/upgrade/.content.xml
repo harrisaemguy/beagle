@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-02-21T23:08:37.416Z"
+        cq:lastModifiedBy="wmyersta"
+        cq:lastReplicated="{Date}2016-11-15T22:29:57.444Z"
+        cq:lastReplicatedBy="atrevino"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Upgrade"
+        jcr:uuid="9e0bf8dc-267d-4519-b682-d7dd83af0f27"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        applauncherTheme="light"
+        bodyClass="whiteBackground"
+        browserTitle="Upgrade to LiveCycle ES4  | Adobe LiveCycle Enterprise Suite 4 "
+        disableFloatingNav="true"
+        distType="dist5"
+        enableBreadcrumb="true"
+        enableCCRedirect="NA"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideInSectionNav="true"
+        hideMerchandisingBar="inherit"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        marketSegmentRewrite="COM"
+        marqueeStyle="newMarquee"
+        metaDescription="Upgrading to the latest release of LiveCycle provides an excellent way for your organization to protect your investment in developing forms, processes, and applications."
+        modalSize="426x240"
+        navTitle="Upgrade"
+        pageTitle="Upgrade"
+        product="livecycle"
+        stagelastReplicated="21-Feb-2019 23:10"
+        stagelastReplicatedBy="wmyersta"
+        stageLastReplicationAction="ActivatedtoStage"
+        tagsKeywords="livecycle designer es2 update"
+        useH1Tags="pageTitle">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2019-02-21T23:08:37.386Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2019-02-21T23:08:37.386Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_a4d7
+                jcr:created="{Date}2016-03-03T00:30:41.461Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2016-03-03T00:30:55.849Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="4"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-03-03T00:30:55.849Z"
+                        jcr:lastModifiedBy="dwilbank"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_a4d7>
+            <text_2094
+                jcr:created="{Date}2016-03-03T00:31:00.508Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2016-10-20T09:27:59.281Z"
+                jcr:lastModifiedBy="krishnan"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&lt;span class=&quot;text-light&quot;>Benefit from upgrading to LiveCycle ES4.&lt;/span>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Upgrading to the latest release of Adobe® LiveCycle® software provides an excellent way for your organization to protect investments in developing forms, processes, and applications. LiveCycle ES4 also contains a number of new features and improvements to get work done more efficiently.&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <column_b5bb
+                jcr:created="{Date}2016-10-20T09:28:26.509Z"
+                jcr:createdBy="krishnan"
+                jcr:lastModified="{Date}2016-10-20T09:55:03.868Z"
+                jcr:lastModifiedBy="krishnan"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12;"
+                bgColor=" "
+                layout="1;grid-cols-12;"
+                layoutMode="structured"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-10-20T09:55:03.868Z"
+                        jcr:lastModifiedBy="krishnan"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_b5bb>
+            <text_251e
+                jcr:created="{Date}2016-10-20T09:29:50.696Z"
+                jcr:createdBy="krishnan"
+                jcr:lastModified="{Date}2016-10-20T10:01:06.622Z"
+                jcr:lastModifiedBy="krishnan"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>&lt;span class=&quot;text-light&quot;>New features and improvements&lt;/span>&lt;/h4>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>LiveCycle Forms Pro ES4 extends your new or existing form collections to mobile devices with next-generation HTML5 rendering of XFA templates. Forms Pro ES4 also adds new form management capabilities that make it easy to manage, upgrade, and retire forms and form assets such as fragments and images.&lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>The Forms Portal Solution allows business users to integrate searchable form directories into your website with drag-and-drop ease.&lt;/span>&lt;br>&#xa;&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>LiveCycle Process Management ES4 adds a Mobile Workspace app that lets mobile workers with tablet devices interact with processes online and offline. Other new features include a customizable HTML workspace that can be integrated into existing portals and process reporting capabilities.&lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>LiveCycle ES4 ECM Connector for Microsoft® SharePoint® can allow indexing of documents protected with LiveCycle Rights Management ES4.&lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>LiveCycle Rights Management ES4 adds the ability to add water marks and DRM documents that can be opened on Adobe Reader® for mobile.&lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>LiveCycle PDF Generator ES4 adds an option for high-performance HTML to PDF conversion, improvements to PDF/A conversion, and Adobe Acrobat® XI support that includes the ability to export to Microsoft PowerPoint®.&lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>The Correspondence Management Solution has enhanced performance and audit capabilities.&lt;/span>&lt;br>&#xa;&lt;/li>&#xa;&lt;/ul>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe has prepared detailed documentation to help you understand how to upgrade to LiveCycle ES4.&lt;br>&#xa; &lt;/span>&lt;a href=&quot;http://help.adobe.com/en_US/livecycle/10.0/UpgradeChecklist/index.html&quot; style=&quot;font-size: 0.875rem; font-style: normal; font-weight: 300;&quot;>&lt;span class=&quot;text-light&quot;>Learn more ›&lt;/span>&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Trusted Adobe enterprise partners can assist you with planning a LiveCycle upgrade.&lt;br>&#xa;&lt;/span>&lt;a href=&quot;http://solutionpartners.adobe.com/home/partnerFinder.html&quot; style=&quot;font-size: 0.875rem; font-style: normal; font-weight: 300;&quot;>&lt;span class=&quot;text-light&quot;>Find a Solution partner ›&lt;/span>&lt;/a>&lt;/div>&#xa;"/>
+            <end_14769557065190
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_b5bb"/>
+            <end_14569650414700
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_a4d7"/>
+        </contentbody>
+    </jcr:content>
+</jcr:root>

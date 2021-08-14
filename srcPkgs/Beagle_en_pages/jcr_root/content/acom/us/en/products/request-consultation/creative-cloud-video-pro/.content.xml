@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-02-11T06:14:55.538Z"
+        cq:lastModifiedBy="rikio"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Creative Cloud for video pros"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Adobe | Adobe Creative Cloud for video pros"
+        faasFormPage="true"
+        groupSectionNavItems="no"
+        hideInSectionNav="true"
+        hideMerchandisingBar="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        marketSegmentRewrite="none"
+        metaDescription="Adobe Creative Cloud for video pros"
+        modalSize="426x240"
+        pageTitle="Creative Cloud for video pros"
+        product="creative_cloud">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2016-02-11T00:46:19.630Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2016-02-11T00:46:19.630Z"
+                    jcr:lastModifiedBy="rikio"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_5cb8
+                jcr:created="{Date}2016-02-10T00:16:07.323Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2016-02-10T00:19:48.451Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-02-10T00:19:48.451Z"
+                        jcr:lastModifiedBy="rikio"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_5cb8>
+            <text_a931
+                jcr:created="{Date}2016-02-10T00:17:00.565Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2016-02-11T00:51:26.523Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>&lt;strong>Creative Cloud for video pros.&lt;br>&#xa; It’s a motion-picture&amp;nbsp;event.&lt;br>&#xa; &lt;/strong>&lt;/h4>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Thank you for your interest in Adobe Creative Cloud for teams Pro Video Edition. We’re excited to make our latest creative apps available offline to meet the specific security needs of post-production professionals. To speak with a representative, please complete information below.&lt;/span>&lt;/div>&#xa;"/>
+            <end_14550633673320
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5cb8"/>
+            <column_dbfa
+                jcr:created="{Date}2016-02-10T00:19:38.369Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2016-02-10T00:20:06.521Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-02-10T00:20:06.521Z"
+                        jcr:lastModifiedBy="rikio"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_dbfa>
+            <horizontalrule_632
+                jcr:created="{Date}2016-02-10T17:33:14.252Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2016-02-10T17:33:14.252Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <faasform_7911
+                jcr:created="{Date}2016-02-10T00:20:42.894Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2016-02-11T06:14:55.505Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/faasform"
+                destinationURL="/content/acom/us/en/products/request-consultation/thankyou"
+                formLocale="1"
+                formSubType="2851"
+                formTemplate="46"
+                formType="2846"
+                intCampaignId="701140000026waKAAQ"
+                modalID="false"
+                modalSize="426x240"
+                modalText="false"
+                modalTitle="false"
+                sku="3117"/>
+            <end_14550635884700
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_dbfa"/>
+        </contentbody>
+    </jcr:content>
+</jcr:root>

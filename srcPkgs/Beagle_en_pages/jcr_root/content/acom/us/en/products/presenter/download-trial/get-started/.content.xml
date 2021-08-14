@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2017-09-05T12:04:37.729Z"
+        cq:lastModifiedBy="kunsingh"
+        cq:lastReplicated="{Date}2021-01-27T11:13:59.127Z"
+        cq:lastReplicatedBy="nedas"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:lockable,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Adobe Presenter 11.1"
+        jcr:uuid="4ac207de-fa77-4967-8143-761bcbb84928"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="center"
+        bodyClass="whiteBackground"
+        browserTitle="Adobe Presenter 11.1"
+        disableOverviewLink="true"
+        distType="dist5"
+        globalnavProfileTheme="default"
+        groupSectionNavItems="no"
+        headingStyle="h1"
+        hideInSectionNav="true"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        marketSegmentRewrite="COM"
+        metaDescription="Free Video creator trial, eLearning software"
+        modalSize="426x240"
+        navTitle="Adobe Presenter 11.1"
+        pageTitle="Adobe Presenter 11.1"
+        stagelastReplicated="28-Oct-2020 14:23"
+        stagelastReplicatedBy="bgupta"
+        stageLastReplicationAction="ActivatedtoStage"
+        tagsKeywords="Video Creator, Adobe Presenter, eLearning Software"
+        useH1Tags="pageTitle">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="35">
+            <image
+                jcr:lastModified="{Date}2017-09-05T12:04:37.650Z"
+                jcr:lastModifiedBy="kunsingh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column
+                jcr:created="{Date}2015-07-29T16:59:31.902-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2015-07-29T17:00:15.204-07:00"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                grid0="8"
+                layout="1;grid-cols-10 grid-offset-3;"
+                offset0="4"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-07-29T17:00:15.204-07:00"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column>
+            <text_97254443
+                jcr:created="{Date}2015-07-29T17:04:22.229-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-28T04:52:30.505Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>Want to host your courses online?&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Use your Adobe ID to log into Adobe Captivate Prime - the easy breezy LMS from Adobe&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>Adobe Captivate Prime empowers you to set up, deliver, and track learning all by yourself.&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; text-align: center;&quot;>Want to host your courses?&lt;/span>&lt;br style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 20px; text-align: center;&quot;>&#xa;&lt;span style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; text-align: center;&quot;>Use your&amp;nbsp;&lt;/span>&lt;span style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; font-size: 20px; font-family: tahoma, arial, helvetica, sans-serif; text-align: center;&quot;>Adobe ID&amp;nbsp;&lt;/span>&lt;span style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; text-align: center;&quot;>to log into Adobe Captivate Prime - the easy breezy LMS from Adobe&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; text-align: center;&quot;>Want to host your courses?&lt;/span>&lt;br style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 20px; text-align: center;&quot;>&#xa;&lt;span style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; text-align: center;&quot;>Use your&amp;nbsp;&lt;/span>&lt;span style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; font-size: 20px; font-family: tahoma, arial, helvetica, sans-serif; text-align: center;&quot;>Adobe ID&amp;nbsp;&lt;/span>&lt;span style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; text-align: center;&quot;>to log into Adobe Captivate Prime - the easy breezy LMS from Adobe&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; text-align: center;&quot;>Want to host your courses?&lt;/span>&lt;br style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 20px; text-align: center;&quot;>&#xa;&lt;span style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; text-align: center;&quot;>Use your&amp;nbsp;&lt;/span>&lt;span style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; font-size: 20px; font-family: tahoma, arial, helvetica, sans-serif; text-align: center;&quot;>Adobe ID&amp;nbsp;&lt;/span>&lt;span style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; text-align: center;&quot;>to log into Adobe Captivate Prime - the easy breezy LMS from Adobe&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <column_1943157328
+                jcr:created="{Date}2015-07-29T17:00:26.078-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2015-09-16T13:24:36.747Z"
+                jcr:lastModifiedBy="ribhat"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10;"
+                layout="1;grid-cols-10;"
+                layoutMode="structured"
+                multiplier="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-09-16T13:24:36.747Z"
+                        jcr:lastModifiedBy="ribhat"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_1943157328>
+            <image
+                jcr:created="{Date}2015-07-29T17:00:58.619-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:description="Adobe Captivate Prime Video "
+                jcr:lastModified="{Date}2017-08-31T05:30:20.278Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Adobe Captivate Prime Video "
+                fileReference="/content/dam/acom/en/products/captivate-prime/Prime 2017 Marquee.png"
+                modalsize="640x360"
+                target="modal-frame"
+                videolinkcheck="true">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        adobeTvNewAutoPlay="true"
+                        adobeTvNewQuality="9"
+                        adobeTvNewUrl="3491"
+                        freeFormUrl="https://www.dropbox.com/s/s863uk0zpjqi0xv/Captivate%20Prime%20-%20Marquee%20-%20RC1_2.mp4?dl=0"
+                        type="adobetvnew"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2017-08-31T05:30:20.278Z"
+                    jcr:lastModifiedBy="nedas"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image>
+            <text
+                jcr:created="{Date}2015-07-29T17:01:16.085-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-02-28T04:56:56.531Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>Use your Adobe ID to log into Adobe Captivate Prime&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Captivate Prime is a modern LMS that empowers you to set up, deliver, and track learning all by yourself. Maximize the learning impact by developing skill-based learning programs. Play all kinds of content seamlessly with our unique Fluidic Player, which also allows learners to take notes for future referencing. Foster a learning culture in your organization by leveraging gamification and mobile learning.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://captivateprime.adobe.com/loginpost?workflowId=1&amp;amp;s_qp_request_origin=prime&amp;amp;sdid=PRESENTR&amp;amp;mv=display&quot; target=&quot;_blank&quot;>Create your free trial account today ›&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;em>Need more information? Check out our &lt;a href=&quot;http://www.adobe.com/products/captivateprime.html?sdid=PRESENT&amp;amp;mv=display&quot; target=&quot;_blank&quot;>website&lt;/a> or email us at &lt;a href=&quot;mailto:captivateprimesales@adobe.com&quot;>captivateprimesales@adobe.com&lt;/a>&lt;/em>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14382144260910
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1943157328"/>
+            <horizontalrule
+                jcr:created="{Date}2015-08-07T18:30:49.178-07:00"
+                jcr:createdBy="isola"
+                jcr:lastModified="{Date}2015-08-07T18:30:49.178-07:00"
+                jcr:lastModifiedBy="isola"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <text_1714716485
+                jcr:created="{Date}2015-07-29T17:05:47.401-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-08-30T10:22:14.249Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div style=&quot;text-align: center;&quot; class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Need help?&lt;/strong>&lt;br>&#xa; &amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Need more &lt;a href=&quot;https://helpx.adobe.com/presenter.html &quot; target=&quot;_blank&quot;>Adobe Presenter 11.1&lt;/a>&lt;br>&#xa; &lt;a href=&quot;https://www.adobe.com/go/15296&quot; target=&quot;_blank&quot;>Difficulties in Downloading?&lt;/a>&lt;br>&#xa; Adobe Presenter 11.1 : &lt;a href=&quot;https://helpx.adobe.com/presenter/system-requirements.html &quot; target=&quot;_blank&quot;>Tech Specs&lt;/a>&lt;br>&#xa; If you experience issues, &lt;a href=&quot;https://www.adobe.com/downloads.html&quot; target=&quot;_self&quot; data-installer-link=&quot;true&quot;>try restarting the download&lt;/a>.&amp;nbsp;&amp;nbsp;&lt;br>&#xa; &lt;br>&#xa; &lt;/span>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <hiddenfield_e5d3
+                jcr:created="{Date}2015-09-02T23:37:21.732-07:00"
+                jcr:createdBy="shk"
+                jcr:lastModified="{Date}2015-09-24T14:18:55.469Z"
+                jcr:lastModifiedBy="vikasgk"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/trials/components/hiddenfield"
+                name="ptThankyouPage"
+                value="presenter"/>
+            <end_14382143719110
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column"/>
+        </contentbody>
+        <promobar jcr:primaryType="nt:unstructured">
+            <promo
+                jcr:lastModified="{Date}2015-07-22T16:53:38.251Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/promo"
+                ctaButtonOverride="https://creative.adobe.com/plans?promoid=KSPCN"
+                ctaButtonText="Choose a plan"
+                enablePriceDisplay="true"
+                icon="promo-icon adobe-icon-creativecloud"
+                marketSegmentRewrite="COM"
+                priceType="SUB_NEW"
+                product="creative_cloud"
+                productIntroText="Get the entire collection of creative apps and more for"
+                purchasePhoneCss="promo-phone">
+                <productInfo jcr:primaryType="nt:unstructured"/>
+                <free
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="https://creative.adobe.com/plans?promoid=KSPCN"
+                    ctaButtonText="Choose a plan"
+                    productIntroText="Get the entire collection of creative apps and more for"/>
+                <paid
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="http://max.adobe.com/?promoid=KTJLS"
+                    ctaButtonText="Learn more"
+                    productIntroText="Join us at Adobe MAX. The Creativity Conference. Oct. 3–7 in Los Angeles."/>
+            </promo>
+        </promobar>
+        <contentlayer
+            jcr:lastModified="{Date}2014-11-25T22:30:20.382Z"
+            jcr:lastModifiedBy="wmyersta"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/contentlayer"
+            horizontalAlign="1"
+            opacity="{Long}0"
+            rgb="FFFFFF"
+            textcolor="text-alt-color"
+            verticalAlign="2"
+            width="{Long}55">
+            <title jcr:primaryType="nt:unstructured"/>
+            <text
+                jcr:primaryType="nt:unstructured"
+                text="&lt;div class=&quot;text-0-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Make something great.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>Introducing all-new versions of your favorite desktop apps.&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2017-09-05T12:04:37.650Z"
+                    jcr:lastModifiedBy="kunsingh"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <topofbodymbox
+            jcr:lastModified="{Date}2014-12-16T03:54:16.687Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="TopOfBody"/>
+        <bottomofbodymbox
+            jcr:lastModified="{Date}2014-12-16T03:54:30.562Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="BottomOfBody"/>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <card jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2017-09-05T12:04:37.650Z"
+                jcr:lastModifiedBy="kunsingh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"/>
+        </card>
+    </jcr:content>
+</jcr:root>

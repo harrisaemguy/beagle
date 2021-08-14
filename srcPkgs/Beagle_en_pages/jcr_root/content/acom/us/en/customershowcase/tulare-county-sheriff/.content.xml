@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-10-11T11:20:29.517Z"
+        cq:lastModifiedBy="handoo"
+        cq:lastReplicated="{Date}2019-10-16T21:27:22.045Z"
+        cq:lastReplicatedBy="karchie"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:csProduct/dc/adobeSign,filters:csIndustry/publicSector,filters:csProduct/dc]"
+        cq:template="/apps/beagle/templates/customershowcasedetailpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Tulare County Sheriff's Office"
+        jcr:uuid="1c35c4a4-b0c3-4884-a395-1d5cb881035a"
+        sling:resourceType="beagle/components/customershowcasedetailpage"
+        noIndex="true"
+        removeFromHtmlSitemap="true"
+        removeFromSitemap="true"
+        removeFromXmlSitemap="true">
+        <customershowcasecard
+            cq:lastReplicated="{Date}2017-03-10T17:09:48.896Z"
+            cq:lastReplicatedBy="tmina"
+            cq:lastReplicationAction="Activate"
+            jcr:lastModified="{Date}2016-12-05T12:39:40.718-08:00"
+            jcr:lastModifiedBy="lsloane"
+            jcr:mixinTypes="[cq:ReplicationStatus]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/customershowcasecard"
+            cardType="standard"
+            companyName="Tulare County Sheriff's Office"
+            creationDate="{Date}2016-11-21T09:48:00.000-08:00"
+            detailPageLink="http://www.adobe.com"
+            link1="/content/dam/acom/en/customer-success/pdfs/tulare-county-sheriff-case-study.pdf"
+            link1Target="_blank"
+            link1Text="Read the story"
+            link2Target="_self"
+            orderDate="{Date}2016-11-18T09:48:00.000-08:00">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    size="640x360"
+                    type="youtube"/>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2016-12-05T12:39:40.718-08:00"
+                jcr:lastModifiedBy="lsloane"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Tulare County Sheriff's Office"
+                fileReference="/content/dam/acom/en/customer-showcase/images/tulare-county-sheriff-660x348.png"
+                xcord="{Long}68"
+                ycord="{Long}38"/>
+            <ctavideolink1
+                jcr:lastModified="{Date}2016-11-10T18:45:46.605-08:00"
+                jcr:lastModifiedBy="zeng"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                size="426x240"
+                type="youtube"
+                youTubeUrl="Vc9SOkPWqIQ">
+                <social jcr:primaryType="nt:unstructured"/>
+                <meta jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-10T18:45:46.605-08:00"
+                        jcr:lastModifiedBy="zeng"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </meta>
+                <tracking jcr:primaryType="nt:unstructured"/>
+            </ctavideolink1>
+            <ctavideolink2
+                jcr:lastModified="{Date}2016-11-11T08:18:10.978-08:00"
+                jcr:lastModifiedBy="zeng"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                freeFormUrl="M359poNjvVA"
+                size="854x480"
+                type="youtube"
+                youTubeUrl="M359poNjvVA">
+                <social jcr:primaryType="nt:unstructured"/>
+                <meta jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-11T08:18:10.978-08:00"
+                        jcr:lastModifiedBy="zeng"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </meta>
+                <tracking jcr:primaryType="nt:unstructured"/>
+            </ctavideolink2>
+        </customershowcasecard>
+    </jcr:content>
+</jcr:root>

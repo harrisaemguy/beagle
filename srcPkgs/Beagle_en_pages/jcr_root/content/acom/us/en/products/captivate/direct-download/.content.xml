@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-07-26T10:48:13.244Z"
+        cq:lastModifiedBy="shresinh"
+        cq:lastReplicated="{Date}2021-01-27T10:47:18.739Z"
+        cq:lastReplicatedBy="nedas"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Adobe Captivate "
+        jcr:uuid="37275a61-ea3c-4fb9-ae5d-1532115dc68f"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        applauncherTheme="light"
+        bodyClass="whiteBackground"
+        browserTitle="Download Adobe Captivate free trial | Adobe Captivate "
+        distType="dist5"
+        enableCCRedirect="NA"
+        faasFormPage="true"
+        freeTrialUrlLoggedInModalScrolling="no"
+        freeTrialUrlLoggedInModalSize="426x240"
+        freeTrialUrlLoggedInTarget="_self"
+        freeTrialUrlModalScrolling="no"
+        freeTrialUrlModalSize="426x240"
+        freeTrialUrlTarget="_self"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideInSectionNav="true"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        marketSegmentRewrite="COM"
+        metaDescription="Download a free 30-day trial of Adobe Captivate "
+        modalSize="426x240"
+        pageTitle="Adobe Captivate "
+        product="captivate"
+        stagelastReplicated="27-Jan-2021 10:45"
+        stagelastReplicatedBy="nedas"
+        stageLastReplicationAction="ActivatedtoStage"
+        tagsKeywords="adobe captivate trial , adobe captivate download, adobe captivate free trial"
+        tryLinkModalScrolling="no"
+        tryLinkModalSize="426x240"
+        tryLinkProductPlanModalScrolling="no"
+        tryLinkProductPlanModalSize="426x240"
+        tryLinkProductPlanTarget="_self"
+        tryLinkTarget="_self"
+        useH1Tags="pageTitle">
+        <sectionMore
+            jcr:primaryType="nt:unstructured"
+            linkModalScrolling="no"
+            linkModalSize="426x240"
+            linkTarget="_self"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2019-07-26T08:53:50.694Z"
+                jcr:lastModifiedBy="debdas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2019-07-26T08:53:50.694Z"
+                    jcr:lastModifiedBy="debdas"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_3a90
+                jcr:created="{Date}2015-10-21T06:04:50.533Z"
+                jcr:createdBy="satikuma"
+                jcr:lastModified="{Date}2015-10-21T06:05:15.305Z"
+                jcr:lastModifiedBy="satikuma"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                layout="1;grid-cols-10 grid-offset-3;"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2015-10-21T06:05:15.305Z"
+                        jcr:lastModifiedBy="satikuma"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_3a90>
+            <text_2bf8
+                jcr:created="{Date}2019-07-26T09:04:47.150Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2019-07-26T10:47:17.614Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>Please fill the below form to get your free 30-day trial of Adobe Captivate (2017 release)/ Adobe Captivate (2019 release) Update 1&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <faasform_bf48
+                jcr:created="{Date}2019-07-26T08:52:23.542Z"
+                jcr:createdBy="debdas"
+                jcr:lastModified="{Date}2019-07-26T10:48:13.235Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/faasform"
+                destinationURL="/content/acom/us/en/products/captivate/direct-download/thank-you"
+                formLocale="en_us"
+                formSubType="2851"
+                formTemplate="69"
+                formType="2846"
+                intCampaignId="7011O000003CWAsQAO"
+                modalSize="426x240"
+                onsiteCampaignId="7011O000003CWAnQAO"
+                sku="3019"/>
+            <end_14454074905470
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_3a90"/>
+        </contentbody>
+    </jcr:content>
+    <thank-you/>
+</jcr:root>

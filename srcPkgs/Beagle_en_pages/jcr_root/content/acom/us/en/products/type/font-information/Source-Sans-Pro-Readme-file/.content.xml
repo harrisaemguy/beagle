@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-08-23T00:23:34.342-07:00"
+        cq:lastModifiedBy="dvirmani"
+        cq:lastReplicated="{Date}2016-08-23T00:31:18.873-07:00"
+        cq:lastReplicatedBy="dvirmani"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Source Sans Pro Readme file"
+        jcr:uuid="55e3b34d-237e-4012-987d-f6305db2ab0f"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Source sans pro font information | Adobe Type"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideMerchandisingBar="inherit"
+        hidePromoComponent="inherit"
+        marketSegmentRewrite="none"
+        metaDescription="Information about source sans pro font, updates, troubleshooting tips, history release notes, menu names and Style Linking &amp; known issues."
+        modalSize="426x240"
+        navTitle="Source Sans Pro Readme file"
+        pageTitle="Source Sans Pro Readme file"
+        tagsKeywords="source sans pro font, adobe source sans pro, source sans pro, source sans">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2016-08-23T00:23:34.298-07:00"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2016-08-23T00:23:34.298-07:00"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_5dbd
+                jcr:created="{Date}2016-08-05T02:35:10.783-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-05T02:35:43.906-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-05T02:35:43.906-07:00"
+                        jcr:lastModifiedBy="ashahab"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_5dbd>
+            <text_d893
+                jcr:created="{Date}2016-08-05T02:36:14.746-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-05T02:41:43.755-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>Family information&lt;/h3>&#xa;&lt;h3>&amp;nbsp;&lt;/h3>&#xa;"/>
+            <text_1e8b
+                jcr:created="{Date}2016-08-05T02:37:25.306-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-05T02:42:13.491-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>&lt;span class=&quot;text-light&quot;>History&lt;/span>&lt;/h4>&#xa;&lt;h4>&amp;nbsp;&lt;/h4>&#xa;"/>
+            <text_39be
+                jcr:created="{Date}2016-08-05T02:41:28.647-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-08T01:29:33.213-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Source Sans Pro was designed by&amp;nbsp;&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/paul-hunt.html&quot;>Paul D. Hunt&lt;/a>&amp;nbsp;under the guidance of&amp;nbsp;&lt;a href=&quot;/content/acom/us/en/products/type/font-designers/robert-slimbach.html&quot;>Robert Slimbach&lt;/a>. It was Adobe's first open source typeface family, conceived primarily as a typeface for user interfaces. Source Sans Pro draws inspiration from the clarity and legibility of twentieth-century American gothic typeface designs. Distilling the best archetypical qualities of these models, Paul followed a rational design approach by simplifying glyph shapes by paring them to their essential form. However, in order to more easily differentiate similar letter shapes (such as uppercase I and lowercase L), some additional details have been added. Besides providing such explicitly clarity in short text strings, another fundamental design consideration was to create a typeface that reads well in extended settings. This can be seen in the general proportions: Source Sans Pro has been designed with a more generous width than many other comparable gothics, and its shorter majuscule letters, combined with minuscule letters with longer extenders, create a more pleasant reading texture in longer text passages.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Source Sans Pro currently supports a wide range of languages using Latin script. Additionally, this family's non-italic fonts support modern and polytonic Greek, and also feature coverage for extended Cyrillic. Other members of the greater Source type system include Source Code Pro, a monospaced version of Source Sans designed specifically for coding, and Source Serif Pro. As an open source project, it is expected that incremental updates will be made over time to extend glyph set coverage and functionality. If you are interested in contributing to this open source project, please visit this &lt;a href=&quot;https://github.com/adobe-fonts/source-sans-pro&quot;>project page&lt;/a>&amp;nbsp;on GitHub for information on how to become involved. Source Sans Pro can be adapted and redistributed according to the terms of the&amp;nbsp;&lt;a href=&quot;http://wwwimages.adobe.com/content/dam/Adobe/en/products/type/pdfs/eulas/open-font-license.pdf&quot;>Open Font License (OFL) agreement&lt;/a>.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_3cb2
+                jcr:created="{Date}2016-08-05T02:49:16.171-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-05T03:14:40.405-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>&lt;span class=&quot;text-light&quot;>Menu Names And Style Linking&lt;/span>&lt;/h4>&#xa;&lt;h4>&amp;nbsp;&lt;/h4>&#xa;"/>
+            <text_7fb
+                jcr:created="{Date}2016-08-05T02:51:04.873-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-07T22:27:27.137-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>In many Windows®&amp;nbsp;applications, instead of every font appearing on the menu, fonts are grouped into style-linked sets, and only the name of the base style font for a set is shown in the menu. The italic and the bold weight fonts of the set (if any) are not shown in the font menu, but can still be accessed by selecting the base style font, and then using the italic and bold style buttons. In this family, such programs will show only the following base style font names in the menu:&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>Source Sans Pro&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>Source Sans&amp;nbsp;Pro Black&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>Source Sans&amp;nbsp;Pro ExtraLight&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>Source Sans&amp;nbsp;Pro Light&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&lt;span class=&quot;text-light&quot;>Source Sans&amp;nbsp;Pro Semibold&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <column_d96b
+                jcr:created="{Date}2016-08-09T01:14:59.950-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-10T00:01:05.992-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="1"
+                grid0="12"
+                layout="1;grid-cols-12;"
+                layoutMode="structured"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-10T00:01:05.992-07:00"
+                        jcr:lastModifiedBy="ashahab"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_d96b>
+            <table_ead8
+                jcr:created="{Date}2016-08-10T00:27:15.262-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-10T00:29:03.626-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/table"
+                tableDataHTML="&lt;table width=&quot;100%&quot; class=&quot;border-none no-footer&quot;>&#xa;&lt;tbody>&lt;tr>&lt;td>&lt;strong>Menu Name&lt;/strong>&lt;/td>&#xa;&lt;td>&lt;strong>plus Style Option&lt;/strong>&lt;/td>&#xa;&lt;td>&lt;strong>select this font&lt;/strong>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Source Sans Pro&lt;/td>&#xa;&lt;td>[none]&lt;/td>&#xa;&lt;td>Source Sans Pro Regular&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Source Sans Pro&lt;br>&#xa;&lt;/td>&#xa;&lt;td>Italic&lt;/td>&#xa;&lt;td>Source Sans Pro Italic&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Source Sans Pro&lt;br>&#xa;&lt;/td>&#xa;&lt;td>Bold&lt;/td>&#xa;&lt;td>Source Sans Pro Bold&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Source Sans Pro&lt;br>&#xa;&lt;/td>&#xa;&lt;td>Bold Italic&lt;/td>&#xa;&lt;td>Source Sans Pro Bold Italic&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Source Sans Pro Black&lt;/td>&#xa;&lt;td>[none]&lt;/td>&#xa;&lt;td>Source Sans Pro Black&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Source Sans Pro Black&lt;/td>&#xa;&lt;td>Italic&lt;/td>&#xa;&lt;td>Source Sans Pro Black Italic&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Source Sans Pro ExtraLight&lt;/td>&#xa;&lt;td>[none]&lt;/td>&#xa;&lt;td>Source Sans Pro ExtraLight&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Source Sans Pro ExtraLight&lt;/td>&#xa;&lt;td>Italic&lt;/td>&#xa;&lt;td>Source Sans Pro ExtraLight Italic&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Source Sans Pro Light&lt;/td>&#xa;&lt;td>[none]&lt;/td>&#xa;&lt;td>Source Sans Pro Light&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Source Sans Pro Light&lt;/td>&#xa;&lt;td>Italic&lt;/td>&#xa;&lt;td>Source Sans Pro Light Italic&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Source SansPro Semibold&lt;/td>&#xa;&lt;td>[none]&lt;/td>&#xa;&lt;td>Source Sans Pro Semibold&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Source Sans Pro Semibold&lt;/td>&#xa;&lt;td>Italic&lt;/td>&#xa;&lt;td>Source Sans Pro Semibold Italic&lt;/td>&#xa;&lt;/tr>&lt;/tbody>&lt;/table>"/>
+            <end_14707304999660
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_d96b"/>
+            <column_8538
+                jcr:created="{Date}2016-08-09T01:14:21.330-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-09T01:14:42.621-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12;"
+                bgColor=" "
+                layout="1;grid-cols-12;"
+                layoutMode="structured"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-09T01:14:42.621-07:00"
+                        jcr:lastModifiedBy="ashahab"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_8538>
+            <text_5a9f
+                jcr:created="{Date}2016-08-05T03:12:30.616-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-10T00:47:46.034-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>On the Mac OS operating system, although each font appears as a separate entry on the font menu, users may also select fonts by means of style links. Selecting a base style font and then using the style links (as described above for Windows applications) enhances cross-platform document compatibility with many applications, such as Microsoft Word, although it is unnecessary with more sophisticated Adobe applications such as recent versions of Illustrator, Photoshop&amp;nbsp;or InDesign&amp;nbsp;software.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>One should not, however, select a base font which has no style-linked variant, and then use the bold or italic styling button. Doing so will either have no effect, or result in programmatic bolding or slanting of the base font, which will usually produce inferior screen and print results.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_b040
+                jcr:created="{Date}2016-08-05T03:13:45.812-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-05T03:15:00.987-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>&lt;span class=&quot;text-light&quot;>Release Notes&lt;/span>&lt;/h4>&#xa;&lt;h4>&amp;nbsp;&lt;/h4>&#xa;"/>
+            <text_2f2d
+                jcr:created="{Date}2016-08-09T03:30:54.127-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-09T03:31:32.663-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>For all Roman fonts of family Source Sans Pro: version 2.010 created on Fri Jun 27 11:31:39 2014.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>For all Italic fonts of family Source Sans Pro: version 1.065 created on Wed Jun 25 13:50:02 2014.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <text_9c9f
+                jcr:created="{Date}2016-08-08T22:35:55.625-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-08T22:37:00.336-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>version 2.010 created 2014/06/27&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_d7ea
+                jcr:created="{Date}2016-08-08T22:37:37.767-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-10T00:03:33.416-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● [This release is Roman fonts only]&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp; &amp;nbsp; &lt;span class=&quot;text-light&quot;>● Fixed inconsistencies in several derived glyphs.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_1758
+                jcr:created="{Date}2016-08-08T22:39:28.723-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-08T22:39:57.487-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>version 2.005 created 2014/06/25&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_9dc1
+                jcr:created="{Date}2016-08-08T22:40:03.684-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-10T00:04:42.982-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● [This release is Roman fonts only]&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp; &amp;nbsp; ● &lt;span class=&quot;text-light&quot;>Fixed issue affecting composite glyphs with accents below in TrueType fonts&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_776e
+                jcr:created="{Date}2016-08-08T22:50:21.712-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-08T22:50:56.253-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>version 1.065 created 2014/06/25&lt;/span>&lt;/div>&#xa;"/>
+            <text_2ada
+                jcr:created="{Date}2016-08-08T22:50:28.379-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-10T00:06:21.636-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● [This release is Italic fonts only]&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp; &amp;nbsp; ● &lt;span class=&quot;text-light&quot;>Fixed TT hinting issues in Ohorn and eight.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp; &amp;nbsp; ● &lt;span class=&quot;text-light&quot;>Adjusted the position of some accents over a.alt.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp; &amp;nbsp; ● &lt;span class=&quot;text-light&quot;>Fixed issue affecting composite glyphs with accents below in TrueType fonts.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_8d4b
+                jcr:created="{Date}2016-08-08T22:53:34.729-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-08T22:54:42.752-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>version 2.000 created 2014/06/17&lt;/span>&lt;/div>&#xa;"/>
+            <end_14707304613490
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_8538"/>
+            <column_112b
+                jcr:created="{Date}2016-08-08T22:53:43.415-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-10T00:23:20.949-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12;"
+                bgColor=" "
+                layout="1;grid-cols-12;"
+                layoutMode="structured"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-10T00:23:20.949-07:00"
+                        jcr:lastModifiedBy="ashahab"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_112b>
+            <text_832a
+                jcr:created="{Date}2016-08-08T22:54:14.666-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-10T00:24:07.355-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● [This release is Roman fonts only]&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Geometric shapes were made larger. (GitHub issue #39)&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Adds narrow no-break space [U+202F] (GitHub issue #30)&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Updates kerning of small caps and adds small cap punctuation (GitHub issues #15 &amp;amp; #27)&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_7626
+                jcr:created="{Date}2016-08-08T22:54:18.151-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-10T00:24:17.192-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Adds Cyrillic and Greek support (GitHub issues #6 &amp;amp; #38)&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Updates size and shape of diacritics (GitHub issue #21)&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Adjusts superscript height to coordinate baseline of letters and numbers (GitHub issue #18)&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14707220234240
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_112b"/>
+            <text_7a6b
+                jcr:created="{Date}2016-08-08T22:58:28.018-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-09T00:28:52.519-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>version 1.060 created 2014/06/17&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_65cf
+                jcr:created="{Date}2016-08-08T23:07:35.285-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-10T00:09:39.878-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● [Italic fonts only] Updates size and shape of diacritics.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <text_6536
+                jcr:created="{Date}2016-08-08T23:08:37.900-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-08T23:08:59.922-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>version 1.050 created 2013/04/16&lt;/span>&lt;/div>&#xa;"/>
+            <text_d46f
+                jcr:created="{Date}2016-08-08T23:08:42.410-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-10T00:11:13.662-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; &lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● [TrueType] Coordinated the vertical alignment of the tops of the letters across all the styles at the various sizes. (GitHub issue #25)&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <text_ce7d
+                jcr:created="{Date}2016-08-08T23:09:50.498-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-08T23:10:10.696-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>version 1.040 created 2013/04/08&lt;/span>&lt;/div>&#xa;"/>
+            <text_39f2
+                jcr:created="{Date}2016-08-08T23:09:55.415-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-10T00:11:55.320-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Adds Zero_Width_Non_Breaking_Space character (ZWNBS, U+FEFF) to address GitHub issue #20.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_fda8
+                jcr:created="{Date}2016-08-08T23:10:35.369-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-08T23:11:08.448-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>version 1.039 created 2012/10/19&lt;/span>&lt;/div>&#xa;"/>
+            <text_c900
+                jcr:created="{Date}2016-08-08T23:10:40.331-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-10T00:12:29.645-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; &lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Rebuilt fonts with new MakeOTF version.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <text_df11
+                jcr:created="{Date}2016-08-08T23:11:45.526-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-08T23:12:04.527-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>version 1.038 created 2012/10/15&lt;/span>&lt;/div>&#xa;"/>
+            <text_1bc3
+                jcr:created="{Date}2016-08-08T23:11:51.258-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-10T00:13:08.189-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Updates TTF fonts with better hinting for asciitilde and approxequal, which references this hinting.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <text_ba1a
+                jcr:created="{Date}2016-08-08T23:12:48.262-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-08T23:13:10.432-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>version 1.037 created 2012/10/11&lt;/span>&lt;/div>&#xa;"/>
+            <column_3a7e
+                jcr:created="{Date}2016-08-09T00:11:31.705-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-10T00:24:41.343-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12;"
+                bgColor=" "
+                layout="1;grid-cols-12;"
+                layoutMode="structured"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-10T00:24:41.343-07:00"
+                        jcr:lastModifiedBy="ashahab"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_3a7e>
+            <text_9e81
+                jcr:created="{Date}2016-08-09T00:12:33.353-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-10T00:14:55.208-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Updates the metrics of Majuscule letters in lighter weights.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Updates fonts to add small capitals and superior capital letters to upright styles.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Adds the following characters for transliteration: Blinebelow blinebelow&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Klinebelow klinebelow Emacronacute emacronacute Omacronacute omacronacute primemod&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_ad23
+                jcr:created="{Date}2016-08-09T00:12:37.617-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-10T00:25:11.161-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Adds the following punctuation characters: bardbl iterrobang ceilingleft ceilingright&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● floorleft floorright bracketleftwhite bracketrightwhite brackhalftopleft&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● brackhalftopright brackhalfbotleft brackhalfbotright&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Adds dotted zero and slashed zero.&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_7319
+                jcr:created="{Date}2016-08-09T00:12:41.906-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-09T00:12:41.906-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"/>
+            <end_14707266917190
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_3a7e"/>
+            <text_b8bd
+                jcr:created="{Date}2016-08-09T00:15:20.863-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-09T00:28:33.649-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>version 1.036 created 2012/09/12&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_cd07
+                jcr:created="{Date}2016-08-09T00:15:58.045-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-10T00:17:03.632-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Updates fonts to fix bug in TTF versions in which the GDEF table was not included.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_fa3f
+                jcr:created="{Date}2016-08-09T00:16:31.225-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-09T00:16:55.700-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>version 1.035 created 2012/09/10&lt;/span>&lt;/div>&#xa;"/>
+            <text_38f0
+                jcr:created="{Date}2016-08-09T00:17:04.440-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-10T00:17:19.345-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Updates the fitting for 'u' and its related glyphs. Updates the kerning in the upright fonts.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_dbca
+                jcr:created="{Date}2016-08-09T00:19:27.848-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-09T00:21:24.480-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>version 1.034 created 2012/08/15&lt;/span>&lt;/div>&#xa;"/>
+            <column_69bc
+                jcr:created="{Date}2016-08-09T00:22:56.533-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-10T00:25:57.474-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12;"
+                bgColor=" "
+                layout="1;grid-cols-12;"
+                layoutMode="structured"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-08-10T00:25:57.474-07:00"
+                        jcr:lastModifiedBy="ashahab"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_69bc>
+            <text_86b5
+                jcr:created="{Date}2016-08-09T00:23:35.528-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-10T00:18:15.470-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Improved sidebearings of some glyphs, improved kerning classes, improved some kern pairs.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Fixed metrics issues with upright letter D and composites.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Added glyphs and OT feature support for Jarai language.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Added 'ordfeminine' glyph to 'ss02' feature.&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_a685
+                jcr:created="{Date}2016-08-09T00:23:40.612-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-10T00:26:17.944-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Changed glyph name 'schwa.supss' to 'uni0259.sups'.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Changed weightClass value of the ExtraLight fonts from 250 to 200.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Changed OS/2.usWinAscent and OS/2.usWinDescent values to be the same across all fonts.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Changed hhea.Ascender and hhea.Descender values as a result of the OS/2usWin changes.&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_44d8
+                jcr:created="{Date}2016-08-09T00:23:52.696-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-10T00:26:31.096-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Changed OS/2 table version number from 4 to 3.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● Harmonized the copyright strings.&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14707273771580
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_69bc"/>
+            <text_87ba
+                jcr:created="{Date}2016-08-09T00:26:50.668-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-09T00:27:13.500-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>version 1.033 created 2012/07/31&lt;/span>&lt;/div>&#xa;"/>
+            <text_b6d0
+                jcr:created="{Date}2016-08-09T00:27:20.662-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-10T00:20:53.983-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp; &amp;nbsp; ● First release.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;margin-left: 40px;&quot;>&amp;nbsp;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_5e76
+                jcr:created="{Date}2016-08-05T03:53:20.304-07:00"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-08-05T04:03:51.382-07:00"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>&lt;span class=&quot;text-light&quot;>Known Issues&lt;/span>&lt;/h4>&#xa;&lt;h4>&amp;nbsp;&lt;/h4>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Some glyphs in the font cannot be accessed unless you are using an OpenType compatible application.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;h4>&lt;span class=&quot;text-light&quot;>Customer Support&lt;/span>&lt;/h4>&#xa;&lt;h4>&amp;nbsp;&lt;/h4>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>If you require technical assistance, please email us at&amp;nbsp;&lt;a href=&quot;mailto:type-questions@adobe.com&quot;>type-questions@adobe.com&lt;/a>. Font specific resources can also be found on the&amp;nbsp;&lt;a href=&quot;http://forums.adobe.com/community/typography_fonts&quot;>Adobe Type user-to-user forums&lt;/a>.&lt;/span>&lt;/div>&#xa;&lt;h4>&amp;nbsp;&lt;/h4>&#xa;&lt;h4>&amp;nbsp;&lt;/h4>&#xa;&lt;h4>&amp;nbsp;&lt;/h4>&#xa;"/>
+            <end_14703897107880
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5dbd"/>
+        </contentbody>
+    </jcr:content>
+</jcr:root>

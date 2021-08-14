@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-02-29T19:21:05.697Z"
+        cq:lastModifiedBy="rikio"
+        cq:lastReplicated="{Date}2016-03-01T17:08:13.505Z"
+        cq:lastReplicatedBy="rikio"
+        cq:lastReplicationAction="Deactivate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Contact Adobe Connect Sales"
+        jcr:uuid="b7dfb31d-0218-42f0-946b-b9f5d44da710"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        browserTitle="Adobe | Request for consultation"
+        ctaButtonText="Free trial"
+        disableOverviewLink="true"
+        downloadTrialText="Free trial"
+        enableBreadcrumb="true"
+        enablePageTitle="true"
+        faasFormPage="true"
+        freeTrial="Join Demo"
+        freeTrialLoggedIn="Join Demo"
+        freeTrialUrl="http://www.adobe.com/go/dailydemo"
+        freeTrialUrlLoggedIn="http://www.adobe.com/go/dailydemo"
+        groupSectionNavItems="no"
+        hideInSectionNav="true"
+        hideMerchandisingBar="hide"
+        hidePromoComponent="hide"
+        isSectionNavParent="true"
+        manualChildren="true"
+        marketSegmentRewrite="none"
+        marqueeStyle="newMarquee"
+        metaDescription="Contact the Adobe Connect sales team. Adobe Connect is a web conferencing platform, powering complete solutions for meetings, learning, and webinars, on any device."
+        modalSize="426x240"
+        noLoggedInChange="true"
+        overrideBreadcrumbPath="/content/acom/us/en/products/adobeconnect"
+        pageTitle="Contact Adobe Connect Sales"
+        product="connect"
+        sectionNavTitle="Contact us"
+        stagelastReplicated="29-Feb-2016 19:23"
+        stagelastReplicatedBy="rikio"
+        stageLastReplicationAction="ActivatedtoStage"
+        tryLink="https://www.adobe.com/products/adobeconnect/trial.html">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2016-02-22T22:35:04.783Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2016-02-22T22:35:04.783Z"
+                    jcr:lastModifiedBy="rikio"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_5cb8
+                jcr:created="{Date}2016-02-10T00:16:07.323Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2016-02-22T22:35:18.542Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="6"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-02-22T22:35:18.542Z"
+                        jcr:lastModifiedBy="rikio"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_5cb8>
+            <text_a931
+                jcr:created="{Date}2016-02-10T00:17:00.565Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2016-02-10T22:37:17.741Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Hello! We can’t wait to speak with you! Here is how to get a hold of the Adobe Connect sales team….&lt;br>&#xa; &lt;br>&#xa; First, are you from a Government organization in the United States or Canada? If so &lt;a href=&quot;/content/acom/us/en/products/request-consultation/connect-gov.html&quot;>go here&lt;/a>.&lt;br>&#xa; &lt;br>&#xa; We sell Adobe Connect through our talented partner community of Adobe Connect experts. You can get connected with a partner in one of three ways:&lt;/span>&lt;/div>&#xa;&lt;ol>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Call us and we’ll introduce you to the perfect partner for you – 800-685-3644&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Ask us to call you by filling out the form below (a partner in your region will be in touch soon)&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Contact a partner directly by choosing one that’s right for you from our &lt;a target=&quot;_blank&quot; href=&quot;/content/acom/us/en/products/adobeconnect/strategic-partners.html&quot;>partner listings&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/li>&#xa;&lt;/ol>&#xa;"/>
+            <end_14550633673320
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5cb8"/>
+            <column_dbfa
+                jcr:created="{Date}2016-02-10T00:19:38.369Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2016-02-25T20:27:14.075Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                columnCount="1"
+                grid0="8"
+                layout="1;grid-cols-8 grid-offset-4;"
+                multiplier="6"
+                offset0="4"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-02-25T20:27:14.075Z"
+                        jcr:lastModifiedBy="rikio"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_dbfa>
+            <faasform_7911
+                jcr:created="{Date}2016-02-10T00:20:42.894Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2016-02-29T19:21:05.660Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/faasform"
+                destinationURL="/content/acom/us/en/products/request-consultation/thankyou"
+                formSubType="2851"
+                formTemplate="62"
+                formType="2846"
+                intCampaignId="70114000002EwCIAA0"
+                modalID="false"
+                modalSize="426x240"
+                modalText="false"
+                modalTitle="false"
+                sku="2788"/>
+            <end_14550635884700
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_dbfa"/>
+            <column_7ee
+                jcr:created="{Date}2016-02-10T22:23:05.161Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2016-02-22T22:35:40.851Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-02-22T22:35:40.851Z"
+                        jcr:lastModifiedBy="rikio"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_7ee>
+            <text_8533
+                jcr:created="{Date}2016-02-10T22:23:29.898Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2016-02-10T22:29:02.788Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe Connect is a &lt;a href=&quot;/content/acom/us/en/products/adobeconnect.html&quot; target=&quot;_self&quot;>web conferencing&lt;/a> platform, powering complete solutions for &lt;a href=&quot;/content/acom/us/en/products/adobeconnect/meetings.html&quot;>meetings&lt;/a>, &lt;a href=&quot;/content/acom/us/en/products/adobeconnect/learning.html&quot;>learning&lt;/a>, and &lt;a href=&quot;/content/acom/us/en/products/adobeconnect/webinars.html&quot;>webinars&lt;/a>, on &lt;a href=&quot;/products/adobeconnect/mobile-meetings.html&quot;>any device&lt;/a>.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <end_14551429851740
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_7ee"/>
+        </contentbody>
+        <tophero
+            jcr:lastModified="{Date}2016-02-22T22:36:28.078Z"
+            jcr:lastModifiedBy="rikio"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            fixedHeight="true"
+            height="hero2-size-5"
+            hideArticle="true"
+            hideCredits="true"
+            hideLink="true">
+            <image
+                jcr:lastModified="{Date}2016-02-22T22:36:28.078Z"
+                jcr:lastModifiedBy="rikio"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Sales Inquiries"
+                fileReference="/content/dam/acom/en/products/adobeconnect/images/splashbanner-no-logo-1440x300.png"
+                xcord="{Long}16"
+                ycord="{Long}18"/>
+        </tophero>
+        <sectionNavItems
+            jcr:primaryType="nt:unstructured"
+            sort_mdv="[0,1,2,3]">
+            <_x0030_
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionLink"
+                link="/content/acom/us/en/products/adobeconnect"
+                sectionNavTitle="Overview"/>
+            <_x0031_
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionLink"
+                link="/content/acom/us/en/products/adobeconnect/apps"
+                sectionNavTitle="Apps"/>
+            <_x0032_
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionLink"
+                link="http://helpx.adobe.com/adobe-connect.html"
+                sectionNavTitle="Learn &amp; Support"
+                target="_blank"/>
+            <_x0033_
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/sectionLink"
+                link="/content/acom/us/en/products/request-consultation/test/connect"
+                sectionNavTitle="Contact Us"/>
+        </sectionNavItems>
+    </jcr:content>
+</jcr:root>

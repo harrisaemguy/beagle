@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2015-09-15T16:44:24.642Z"
+        cq:lastModifiedBy="karchie"
+        cq:lastReplicated="{Date}2015-09-15T16:44:33.384Z"
+        cq:lastReplicatedBy="karchie"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fragmentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Students - How to Buy"
+        jcr:uuid="88cf9db1-c4c5-4689-bcec-f130d5f4e46e"
+        sling:resourceType="beagle/components/fragmentpage"
+        browserTitle=" "
+        groupSectionNavItems="no"
+        marketSegmentRewrite="none"
+        metaDescription=" "
+        stagelastReplicated="15-Sep-2015 22:04"
+        stagelastReplicatedBy="karchie"
+        stageLastReplicationAction="ActivatedtoStage">
+        <textandimage
+            jcr:lastModified="{Date}2015-09-15T16:44:24.610Z"
+            jcr:lastModifiedBy="karchie"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/textandimage"
+            align="left"
+            grid0="1"
+            grid1="11"
+            layout="2;grid-cols-1;grid-cols-11;"
+            layoutType="advanceLayout"
+            modalsize="426x240"
+            multiplier="4"
+            section="v"
+            target="_blank"
+            text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>To qualify for a student discount, you must be at least 13 years of age and enrolled in one of the following:&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>• University or college — accredited public or private university or college (including community, junior, or vocational college) that grants degrees requiring not less than the equivalent of two years of full-time study*&lt;br>&#xa; • Primary or secondary school — accredited public or private primary or secondary school providing full-time instruction*&lt;br>&#xa; • Homeschool — defined by state homeschooling regulations&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-4-block&quot;>&lt;span class=&quot;text-light&quot;>How do I purchase?&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>The best way to purchase is directly from Adobe through our website or by calling 800-585-0774. You can also find Adobe Student and Teacher Editions through many campus bookstores and other online retailers. See the “Online stores” section.&lt;br>&#xa; &lt;br>&#xa; At checkout, you’ll need to provide the name of your school and indicate whether you are a student, educator, or administrator.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-4-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;br>&#xa; What is proof of eligibility?&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Use a school-issued email address:&lt;/strong> If you provide a school-issued email address during purchase you are instantly verified. (A school email address may include .edu, .k12, or other email domains sponsored by educational institutions.) If you do not have a school-issued email address or your email address cannot be verified, additional proof of eligibility may be requested after purchase.&lt;br>&#xa; &amp;nbsp;&lt;br>&#xa; &lt;strong>Students and educators at accredited schools&lt;/strong>&lt;br>&#xa; Proof of eligibility must be a document issued by the institution with your name, institution name, and current date. Types of proof of enrollment include:&lt;br>&#xa; • School ID card&lt;br>&#xa; • Report card&lt;br>&#xa; • Transcript&lt;br>&#xa; • Tuition bill or statement&lt;br>&#xa; &amp;nbsp;&lt;br>&#xa; &lt;strong>Homeschooled students&lt;sup>†&lt;/sup>&lt;/strong>&lt;br>&#xa; Proof of eligibility may include:&lt;br>&#xa; • Dated copy of a letter of intent to homeschool&lt;br>&#xa; • Current membership ID to a homeschool association (for example, the Home School Legal Defense Association)&lt;br>&#xa; • Dated proof of purchase of curriculum for the current academic school year&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;br>&#xa; Contact Adobe at 800-585-0774&amp;nbsp;if you are unclear about whether you qualify.&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-4-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot;>&lt;span class=&quot;text-light&quot;> * Accredited schools are those that are approved by an association recognized by the U.S. Department of Education/State Board of Educationor the Canadian/Provincial Ministries of Education and that teach students as their primary focus. In the U.S., such associations include:Middle States Association of Colleges and Schools, North Central Association of Colleges and Schools, Western Association of Schools and Colleges, Southern Association of Colleges and Schools, New England Association of Schools and Colleges, Northwest Association of Accredited Schools.&lt;br>&#xa; &lt;sup>† &lt;/sup>Documents dated within the last six months are considered current.&lt;/span>&lt;/div>&#xa;"
+            title="Student eligibility"
+            whitespace="grid-padded-v4x">
+            <image
+                jcr:lastModified="{Date}2015-09-15T16:44:24.610Z"
+                jcr:lastModifiedBy="karchie"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Student eligibility"
+                imageRotate="0"/>
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    type="free"/>
+            </contentlayer>
+        </textandimage>
+        <image
+            jcr:lastModified="{Date}2015-07-28T20:21:39.200Z"
+            jcr:lastModifiedBy="wmyersta"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

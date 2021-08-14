@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-06-16T20:14:38.164Z"
+        cq:lastModifiedBy="craigc"
+        cq:lastReplicated="{Date}2020-06-16T20:14:54.907Z"
+        cq:lastReplicatedBy="craigc"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Tech specs"
+        jcr:uuid="89a1b851-a719-4f5f-b93d-8deb55863516"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        applauncherTheme="light"
+        bodyClass="whiteBackground"
+        browserTitle="Tech specs | Adobe Font Folio"
+        distType="dist5"
+        enableCCRedirect="NA"
+        freeTrialUrlLoggedInModalScrolling="no"
+        freeTrialUrlLoggedInModalSize="426x240"
+        freeTrialUrlLoggedInTarget="_self"
+        freeTrialUrlModalScrolling="no"
+        freeTrialUrlModalSize="426x240"
+        freeTrialUrlTarget="_self"
+        globalnavExperience="acom/cc-mega-menu/fontfolio-localnav"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        globalnavVersion="2"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideMerchandisingBar="inherit"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        marketSegmentRewrite="COM"
+        marqueeStyle="newMarquee"
+        metaDescription="Read more about the required tech specs for installing Adobe Font Folio to get the best performance."
+        modalSize="426x240"
+        pageTitle="Tech specs"
+        stagelastReplicated="16-Dec-2016 08:36"
+        stagelastReplicatedBy="rbedi"
+        stageLastReplicationAction="ActivatedtoStage"
+        tryLinkModalScrolling="no"
+        tryLinkModalSize="426x240"
+        tryLinkProductPlanModalScrolling="no"
+        tryLinkProductPlanModalSize="426x240"
+        tryLinkProductPlanTarget="_self"
+        tryLinkTarget="_self"
+        useH1Tags="pageTitle">
+        <sectionMore
+            jcr:primaryType="nt:unstructured"
+            linkModalScrolling="no"
+            linkModalSize="426x240"
+            linkTarget="_self"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2020-06-16T20:14:38.117Z"
+                jcr:lastModifiedBy="craigc"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2020-06-16T20:14:38.117Z"
+                    jcr:lastModifiedBy="craigc"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_1627
+                jcr:created="{Date}2016-09-05T11:57:25.614Z"
+                jcr:createdBy="ptyagi"
+                jcr:lastModified="{Date}2016-09-05T11:57:53.430Z"
+                jcr:lastModifiedBy="ptyagi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-05T11:57:53.430Z"
+                        jcr:lastModifiedBy="ptyagi"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_1627>
+            <text_c511
+                jcr:created="{Date}2016-09-05T11:58:52.341Z"
+                jcr:createdBy="ptyagi"
+                jcr:lastModified="{Date}2016-09-26T12:05:49.997Z"
+                jcr:lastModifiedBy="skansal"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h3>&#xa;&lt;h3>System requirements&lt;/h3>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h3>&#xa;"
+                textIsRich="true"/>
+            <column_417b
+                jcr:created="{Date}2016-09-05T11:59:51.351Z"
+                jcr:createdBy="ptyagi"
+                jcr:lastModified="{Date}2016-09-06T08:09:22.590Z"
+                jcr:lastModifiedBy="ptyagi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12;"
+                bgColor=" "
+                layout="1;grid-cols-12;"
+                layoutMode="structured"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-06T08:09:22.590Z"
+                        jcr:lastModifiedBy="ptyagi"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_417b>
+            <text_db40
+                jcr:created="{Date}2016-09-05T12:00:48.118Z"
+                jcr:createdBy="ptyagi"
+                jcr:lastModified="{Date}2016-09-05T12:28:22.546Z"
+                jcr:lastModifiedBy="ptyagi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot;>Windows&lt;/div>&#xa;"/>
+            <text_6153
+                jcr:created="{Date}2016-09-05T12:01:49.520Z"
+                jcr:createdBy="ptyagi"
+                jcr:lastModified="{Date}2016-09-06T08:11:01.162Z"
+                jcr:lastModifiedBy="ptyagi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;ul style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;&quot;>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>&lt;span style=&quot;color: rgb(0, 0, 0); font-family: adobe-clean, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; line-height: 21px;&quot;>Intel® Pentium®, Intel Centrino®, Intel Xeon®, or Intel Core™ Duo processor&lt;/span>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>&lt;span style=&quot;color: rgb(0, 0, 0); font-family: adobe-clean, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; line-height: 21px;&quot;>Microsoft® Windows® 2000, Windows XP, Windows Vista®, or Windows 7&lt;/span>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>&lt;span style=&quot;color: rgb(0, 0, 0); font-family: adobe-clean, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; line-height: 21px;&quot;>16MB of RAM (32MB recommended)&lt;/span>&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Note: Adobe® Font Folio® 11.1 also runs under Microsoft Windows 98, Windows Millennium Edition, and Windows NT® 4.0 with Service Pack 4 if you install Adobe Type Manager® (ATM™) Light 4.1. ATM Light is available as a free&amp;nbsp;&lt;a href=&quot;http://www.adobe.com/products/atmlight/&quot;>download from Adobe&lt;/a>. If using a PostScript® printer on Windows 98 or Windows ME, AdobePS™ printer driver 4.3 or later is recommended. If using a PostScript printer on Windows NT 4.0, AdobePS printer driver 5.1.2 or later is recommended.&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px; position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px; position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>Intel® Pentium®, Intel Centrino®, Intel Xeon®, or Intel Core™ Duo processor&lt;/div>&#xa;&lt;div style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px; position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;ul class=&quot;text-4-block&quot; style=&quot;margin-top: 0.115477em; margin-bottom: 0.115477em; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; font-size: 12px; font-family: tahoma, arial, helvetica, sans-serif;&quot;>&#xa;&lt;p>&lt;span class=&quot;text-light&quot;>Intel® Pentium®, Intel Centrino®, Intel Xeon®, or Intel Core™ Duo processor&lt;br>&#xa; &lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;text-light&quot;>Microsoft® Windows® 2000, Windows XP, Windows Vista®, or Windows 7&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;text-light&quot;>16MB of RAM (32MB recommended)&lt;/span>&lt;/p>&#xa;&lt;div>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;/ul>&#xa;&lt;/div>&#xa;&lt;div style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px; position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;ul class=&quot;text-4-block&quot; style=&quot;margin-top: 0.115477em; margin-bottom: 0.115477em; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; font-size: 12px; font-family: tahoma, arial, helvetica, sans-serif;&quot;>&#xa;&lt;p>&lt;span class=&quot;text-light&quot;>Intel® Pentium®, Intel Centrino®, Intel Xeon®, or Intel Core™ Duo processor&lt;br>&#xa; &lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;text-light&quot;>Microsoft® Windows® 2000, Windows XP, Windows Vista®, or Windows 7&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;text-light&quot;>16MB of RAM (32MB recommended)&lt;/span>&lt;/p>&#xa;&lt;div>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;/ul>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14730767913560
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_417b"/>
+            <column_f6da
+                jcr:created="{Date}2016-09-05T12:25:16.486Z"
+                jcr:createdBy="ptyagi"
+                jcr:lastModified="{Date}2016-09-06T08:09:46.246Z"
+                jcr:lastModifiedBy="ptyagi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12;"
+                bgColor=" "
+                layout="1;grid-cols-12;"
+                layoutMode="structured"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-06T08:09:46.246Z"
+                        jcr:lastModifiedBy="ptyagi"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_f6da>
+            <text_8921
+                jcr:created="{Date}2016-09-05T12:26:02.092Z"
+                jcr:createdBy="ptyagi"
+                jcr:lastModified="{Date}2016-09-05T12:27:00.780Z"
+                jcr:lastModifiedBy="ptyagi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot;>Mac OS&lt;/div>&#xa;"/>
+            <text_89fc
+                jcr:created="{Date}2016-09-05T12:26:04.654Z"
+                jcr:createdBy="ptyagi"
+                jcr:lastModified="{Date}2016-09-05T12:34:15.300Z"
+                jcr:lastModifiedBy="ptyagi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;ul>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>PowerPC® G4 or G5 or multicore Intel processor&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Mac OS® X&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>16MB of RAM (32MB recommended)&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Note: Font Folio 11.1 runs on Mac OS 8.6 through 9.2 with ATM Light 4.6.&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14730783164940
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_f6da"/>
+            <column_818c
+                jcr:created="{Date}2016-09-05T12:38:15.867Z"
+                jcr:createdBy="ptyagi"
+                jcr:lastModified="{Date}2016-09-06T08:10:06.171Z"
+                jcr:lastModifiedBy="ptyagi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12;"
+                bgColor=" "
+                layout="1;grid-cols-12;"
+                layoutMode="structured"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-09-06T08:10:06.171Z"
+                        jcr:lastModifiedBy="ptyagi"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_818c>
+            <text_e2f9
+                jcr:created="{Date}2016-09-05T12:38:47.608Z"
+                jcr:createdBy="ptyagi"
+                jcr:lastModified="{Date}2016-09-05T12:39:16.883Z"
+                jcr:lastModifiedBy="ptyagi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot;>Language versions&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_c99d
+                jcr:created="{Date}2016-09-05T12:38:49.899Z"
+                jcr:createdBy="ptyagi"
+                jcr:lastModified="{Date}2016-09-05T12:41:31.362Z"
+                jcr:lastModifiedBy="ptyagi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;ul>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Deutsch&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>English&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;text-light&quot;>Français&lt;/span>&lt;br>&#xa;&lt;/li>&#xa;&lt;/ul>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Although the product packaging is supplied only in English, French, and German, all fonts in Font Folio 11.1 contain character sets that support a wide range of languages. All alphanumeric fonts in Font Folio support these languages: Afrikaans, Basque, Breton, Catalan, Danish, Dutch, English, Finnish, French, Gaelic, German, Icelandic, Indonesian, Irish, Italian, Norwegian, Portuguese, Sami, Spanish, Swahili, and Swedish. Some OpenType® fonts from Adobe also contain characters to support the following languages: Croatian, Czech, Estonian, Hungarian, Latvian, Lithuanian, Polish, Romanian, Serbian (Latin), Slovak, Slovenian, and Turkish. Several fonts in the collection also support modern and polytonic Greek, as well as a full range of Cyrillic languages, such as Russian and Bulgarian. Font Folio 11.1 also contains Japanese, Korean, Arabic, Hebrew, and Devanagari fonts.&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14730790958750
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_818c"/>
+            <end_14730766456260
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_1627"/>
+            <column_c7a1
+                jcr:created="{Date}2016-09-05T12:44:19.946Z"
+                jcr:createdBy="ptyagi"
+                jcr:lastModified="{Date}2016-11-24T15:52:11.499Z"
+                jcr:lastModifiedBy="ren88707"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="1"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v1x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-24T15:52:11.499Z"
+                        jcr:lastModifiedBy="ren88707"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_c7a1>
+            <horizontalrule_1e3
+                jcr:created="{Date}2016-09-09T08:34:57.093Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-09-09T08:34:57.093Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_5477
+                jcr:created="{Date}2016-09-05T12:44:42.845Z"
+                jcr:createdBy="ptyagi"
+                jcr:lastModified="{Date}2016-11-24T15:52:12.555Z"
+                jcr:lastModifiedBy="ren88707"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-24T15:52:12.555Z"
+                        jcr:lastModifiedBy="ren88707"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_5477>
+            <text_3601
+                jcr:created="{Date}2016-09-06T08:01:02.865Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-09-06T08:01:02.865Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Learning&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-originals.html&quot;>About Adobe Originals&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/opentype.html&quot;>About OpenType&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-references-tips.html&quot;>Type reference materials&lt;/a>&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"/>
+            <break_14730795225730
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_5477"/>
+            <text_23d3
+                jcr:created="{Date}2016-09-06T08:01:04.935Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-09-06T08:01:04.935Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Help&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/font-licensing/licensing-faq.html&quot;>&lt;span class=&quot;text-light&quot;>Type Licensing FAQ&lt;/span>&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/products/fontfolio/faq.html&quot;>Font Folio FAQ&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://typekit.com/help&quot;>&lt;span class=&quot;text-light&quot;>Web Font FAQ&lt;/span>&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://forums.adobe.com/community/typography_fonts&quot;>Adobe Type user forums&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14730795225741
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_5477"/>
+            <text_353a
+                jcr:created="{Date}2016-09-06T08:01:07.004Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-09-06T08:01:07.004Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Resources&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/dam/acom/en/fontfolio/pdfs/fontfolio11_1_datasheet.pdf&quot;>Font Folio 11.1 datasheet&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/dam/acom/en/fontfolio/pdfs/fontfolio11.1_font_list.pdf&quot;>Font Folio 11.1 font list&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blog.typekit.com/&quot;>Adobe Type &amp;amp; Typekit blog&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blogs.adobe.com/CCJKType/&quot; style=&quot;font-style: normal; font-weight: 300;&quot;>CJK Type blog (Asian fonts)&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/install-instructions.html&quot;>Font installation instructions&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14730795225742
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_5477"/>
+            <text_7f60
+                jcr:created="{Date}2016-09-05T12:46:27.564Z"
+                jcr:createdBy="ptyagi"
+                jcr:lastModified="{Date}2016-09-06T08:01:37.397Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Follow us&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://twitter.com/typekit&quot; style=&quot;font-style: normal; font-weight: 300;&quot;>&lt;i class=&quot;icon-twitter&quot;>&lt;/i>&amp;nbsp;&lt;span class=&quot;text-light&quot;>Twitter&lt;/span>&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;/span>&lt;a href=&quot;http://blog.typekit.com/&quot;>&lt;i class=&quot;adobe-icon-typekit&quot;>&lt;/i>&lt;/a>&amp;nbsp;&lt;span class=&quot;text-light&quot;> &lt;a href=&quot;http://blog.typekit.com/&quot; style=&quot;font-size: 0.875rem; font-style: normal; line-height: 1rem; font-weight: 300;&quot;>Typekit blog&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; line-height: 16px;&quot;>Share on Facebook&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; line-height: 16px;&quot;>Share on Facebook&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14730794828540
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5477"/>
+            <end_14730794599560
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_c7a1"/>
+        </contentbody>
+    </jcr:content>
+</jcr:root>

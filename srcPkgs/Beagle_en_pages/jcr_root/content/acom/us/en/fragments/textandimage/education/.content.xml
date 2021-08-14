@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content/>
+    <edu-ste-eligibility-students/>
+    <edu-ste-eligibility-teachers/>
+    <edu-ste-eligibility-institutions/>
+    <modal/>
+    <emea-activation-blade/>
+    <ste-activation-blade/>
+</jcr:root>

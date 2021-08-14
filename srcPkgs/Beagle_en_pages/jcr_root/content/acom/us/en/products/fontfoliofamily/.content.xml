@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-06-04T13:36:19.415Z"
+        cq:lastModifiedBy="handoo"
+        cq:lastReplicated="{Date}2020-06-04T16:12:29.933Z"
+        cq:lastReplicatedBy="handoo"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Adobe Font Folio family"
+        jcr:uuid="5fd896db-04f4-45c4-b651-c6563b71ad14"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        browserTitle="Font collection for professional, students &amp; teachers | Adobe Font Folio family "
+        distType="dist5"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideMerchandisingBar="show"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        isSectionNavParent="true"
+        livePersonHide="hide"
+        livePersonLanguage="english"
+        livePersonUnit="marketing-cloud-us"
+        marketSegmentRewrite="none"
+        marqueeStyle="newMarquee"
+        metaDescription="Adobe has assembled two unique Font Folio products to meet the needs of creative professionals and design students and teachers. Buy Now."
+        modalSize="426x240"
+        phoneNumber="+18005850774"
+        phoneNumberText="Purchase by phone: 800-585-0774"
+        sectionNavTitle="Overview"
+        stagelastReplicated="30-Nov-2016 02:37"
+        stagelastReplicatedBy="atrevino"
+        stageLastReplicationAction="ActivatedtoStage"
+        tagsKeywords="adobe font folio, font folio, adobe font folio 11"
+        useH1Tags="pageTitle">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_240c
+                jcr:created="{Date}2016-10-19T06:36:55.237Z"
+                jcr:createdBy="shagarwa"
+                jcr:lastModified="{Date}2016-10-19T06:37:32.920Z"
+                jcr:lastModifiedBy="shagarwa"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-10-19T06:37:32.920Z"
+                        jcr:lastModifiedBy="shagarwa"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_240c>
+            <text_a381
+                jcr:created="{Date}2016-10-19T06:39:39.933Z"
+                jcr:createdBy="shagarwa"
+                jcr:lastModified="{Date}2016-10-21T07:58:50.931Z"
+                jcr:lastModifiedBy="vimehra"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3 style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>What are the Adobe Font Folio products?&lt;/span>&lt;/h3>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Adobe has two exceptionally priced font collections tailored for different customer needs. For creative professionals, Adobe offers Font Folio 11.1, which includes virtually all fonts in Adobe's award-winning typeface library.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;> And for design students and teachers, Adobe offers Font Folio Education Essentials, an ideal font collection for building a solid foundation in fine typography.&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <column_fc41
+                jcr:created="{Date}2016-10-19T06:42:35.215Z"
+                jcr:createdBy="shagarwa"
+                jcr:lastModified="{Date}2016-10-21T15:16:32.225Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-cols-6;grid-cols-6;"
+                bgColor=" "
+                layout="2;grid-cols-6;grid-cols-6;"
+                layoutMode="structured"
+                multiplier="2"
+                section="t"
+                showBorders="false"
+                whitespace="grid-padded-t2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-10-21T15:16:32.225Z"
+                        jcr:lastModifiedBy="rbedi"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_fc41>
+            <text_f80a
+                jcr:created="{Date}2016-10-21T08:02:29.287Z"
+                jcr:createdBy="vimehra"
+                jcr:lastModified="{Date}2016-11-16T06:58:03.072Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;strong>Font Folio 11.1&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>A collection of more than 2,400 high-quality OpenType® fonts from the Adobe Type Library, Font Folio 11.1 is the complete type solution for creative professionals.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;a href=&quot;/content/acom/us/en/products/fontfolio.html&quot;>Learn more ›&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14768593842040
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_fc41"/>
+            <text_57f0
+                jcr:created="{Date}2016-10-21T08:05:57.819Z"
+                jcr:createdBy="vimehra"
+                jcr:lastModified="{Date}2016-10-21T08:08:40.335Z"
+                jcr:lastModifiedBy="vimehra"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>&lt;strong>Font Folio Education Essentials&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>In collaboration with AIGA, the professional association of design, Adobe assembled Font Folio Education Essentials, a collection of 500 elegant and trusted OpenType fonts to provide depth, breadth, and value for design education.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;a href=&quot;/content/acom/us/en/products/fontfolio-education-essentials.html&quot;>Learn more ›&amp;nbsp;&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14768593552350
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_fc41"/>
+            <end_14768590152440
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_240c"/>
+            <text_9887
+                jcr:created="{Date}2016-10-19T10:07:47.019Z"
+                jcr:createdBy="shagarwa"
+                jcr:lastModified="{Date}2016-10-19T10:07:59.401Z"
+                jcr:lastModifiedBy="shagarwa"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&amp;nbsp; &amp;nbsp;&lt;/p>&#xa;"/>
+            <column_addb
+                jcr:created="{Date}2016-10-19T07:08:27.558Z"
+                jcr:createdBy="shagarwa"
+                jcr:lastModified="{Date}2016-10-19T07:08:59.909Z"
+                jcr:lastModifiedBy="shagarwa"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="1"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v1x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-10-19T07:08:59.909Z"
+                        jcr:lastModifiedBy="shagarwa"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_addb>
+            <text_c1ff
+                jcr:created="{Date}2016-10-19T07:09:14.696Z"
+                jcr:createdBy="shagarwa"
+                jcr:lastModified="{Date}2016-10-19T07:09:45.030Z"
+                jcr:lastModifiedBy="shagarwa"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&amp;nbsp; &amp;nbsp;&lt;/p>&#xa;"/>
+            <horizontalrule_1023
+                jcr:created="{Date}2016-10-20T16:07:24.568Z"
+                jcr:createdBy="rbedi"
+                jcr:lastModified="{Date}2016-10-20T16:07:24.568Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_dfbd
+                jcr:created="{Date}2016-10-19T07:09:27.246Z"
+                jcr:createdBy="shagarwa"
+                jcr:lastModified="{Date}2016-10-19T07:10:15.833Z"
+                jcr:lastModifiedBy="shagarwa"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-10-19T07:10:15.833Z"
+                        jcr:lastModifiedBy="shagarwa"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_dfbd>
+            <text_cedb
+                jcr:created="{Date}2016-10-19T07:10:48.077Z"
+                jcr:createdBy="shagarwa"
+                jcr:lastModified="{Date}2016-10-21T09:14:15.338Z"
+                jcr:lastModifiedBy="vimehra"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Learning&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-originals.html&quot;>&lt;span class=&quot;text-light&quot;>About Adobe Originals&lt;/span>&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/opentype.html&quot;>&lt;span class=&quot;text-light&quot;>About OpenType&lt;/span>&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-references-tips.html&quot;>Type reference materials&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14768610158800
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_dfbd"/>
+            <text_86a3
+                jcr:created="{Date}2016-10-19T07:10:50.641Z"
+                jcr:createdBy="shagarwa"
+                jcr:lastModified="{Date}2016-10-21T09:18:23.693Z"
+                jcr:lastModifiedBy="vimehra"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Help&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/licensing-faq.html&quot;>&lt;span class=&quot;text-light&quot;>Type Licensing FAQ&lt;/span>&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;/content/acom/us/en/products/fontfolio/faq.html&quot;>&lt;span class=&quot;text-light&quot;>Font Folio FAQ&lt;/span>&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://typekit.com/help&quot;>&lt;span class=&quot;text-light&quot;>Web Font FAQ&lt;/span>&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://forums.adobe.com/community/typography_fonts&quot;>&lt;span class=&quot;text-light&quot;>Adobe Type user forums&lt;/span>&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14768610158811
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_dfbd"/>
+            <text_69cf
+                jcr:created="{Date}2016-10-21T09:20:21.602Z"
+                jcr:createdBy="vimehra"
+                jcr:lastModified="{Date}2016-11-13T06:48:07.187Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Resources&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/dam/acom/en/fontfolio/pdfs/fontfolio11_1_datasheet.pdf&quot;>Font Folio 11.1 datasheet&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/dam/acom/en/fontfolio/pdfs/fontfolio11.1_font_list.pdf&quot;>Font Folio 11.1 font list&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/dam/acom/en/fontfolio/pdfs/fontfolioeducationessentials_datasheet.pdf&quot;>Font Folio Education Essentials datasheet&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/dam/acom/en/fontfolio/pdfs/fontfolioeducationessentials_font_list.pdf&quot;>Font Folio Education Essentials font list&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blog.typekit.com/&quot;>Adobe Type &amp;amp; Typekit blog&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blogs.adobe.com/CCJKType/&quot; style=&quot;font-style: normal; font-weight: 300;&quot;>CJK Type blog (Asian fonts)&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/install-instructions.html&quot;>Font installation instructions&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14768610158812
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_dfbd"/>
+            <text_223
+                jcr:created="{Date}2016-10-19T07:10:55.501Z"
+                jcr:createdBy="shagarwa"
+                jcr:lastModified="{Date}2016-10-20T16:17:49.910Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Follow us&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;i class=&quot;icon-facebook&quot;>&lt;/i>&amp;nbsp;&lt;a href=&quot;http://www.facebook.com/sharer.php&quot;>&lt;span class=&quot;text-light&quot;>Share on Facebook&lt;/span>&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://twitter.com/&quot; style=&quot;font-style: normal; font-weight: 300;&quot;>&lt;i class=&quot;icon-twitter&quot;>&lt;/i>&amp;nbsp;&lt;span class=&quot;text-light&quot;>Share on Twitter&lt;/span>&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;i class=&quot;icon-linkedin&quot;>&lt;/i>&amp;nbsp;&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.linkedin.com/&quot;>Share on LinkedIn&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; line-height: 16px;&quot;>Share on Facebook&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; line-height: 16px;&quot;>Share on Facebook&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal;&quot;>Share on Facebook&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal;&quot;>Share on Facebook&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14768609672610
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_dfbd"/>
+            <end_14768609075690
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_addb"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2016-12-16T14:05:41.732Z"
+                jcr:lastModifiedBy="vko"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2016-12-16T14:05:41.732Z"
+                    jcr:lastModifiedBy="vko"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <tophero
+            jcr:lastModified="{Date}2017-05-08T18:08:13.619Z"
+            jcr:lastModifiedBy="atrevino"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            avoid="hero2-avoid-1"
+            color="hero2-theme-1"
+            effect="hero2-fx-frame-2"
+            fixedHeight="true"
+            height="hero2-size-2"
+            hideCredits="true"
+            hideLink="true">
+            <image
+                jcr:lastModified="{Date}2017-05-08T18:08:13.619Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Font Folio Family"
+                fileReference="/content/dam/acom/en/fontfolio/images/fontfolio-marquee-1440x660_2.jpg"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+            <article
+                jcr:lastModified="{Date}2016-11-13T06:45:05.810Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hero/article"
+                articleAlignment="hero2-align-2"
+                text="&lt;p>Adobe has assembled two unique Font Folio products to meet the needs of creative professionals and design students and teachers.&lt;/p>&#xa;"
+                title="&lt;p>The ultimate font collections&lt;/p>&#xa;">
+                <titleImage
+                    jcr:lastModified="{Date}2016-11-13T06:45:05.810Z"
+                    jcr:lastModifiedBy="rbedi"
+                    jcr:primaryType="nt:unstructured"/>
+                <link
+                    jcr:primaryType="nt:unstructured"
+                    modalMode="VIDEO"
+                    size="426x240"
+                    type="free">
+                    <image
+                        jcr:lastModified="{Date}2016-11-13T06:45:05.810Z"
+                        jcr:lastModifiedBy="rbedi"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </link>
+                <links
+                    jcr:primaryType="nt:unstructured"
+                    sort_mdv="0">
+                    <_x0030_
+                        jcr:primaryType="nt:unstructured"
+                        link="http://www.adobe.com/products/fontfoliofamily/family-buying-guide.html"
+                        target="_self"
+                        text="Compare Font Folio "
+                        type="cta">
+                        <video
+                            jcr:primaryType="nt:unstructured"
+                            modalMode="VIDEO"
+                            size="426x240"
+                            type="free"/>
+                    </_x0030_>
+                </links>
+            </article>
+        </tophero>
+        <promobar jcr:primaryType="nt:unstructured">
+            <promo
+                jcr:lastModified="{Date}2016-11-13T06:52:31.598Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/promo"
+                hideCtaButton="true"
+                icon="none"
+                marketSegmentRewrite="COM"
+                priceType="YEAR"
+                product="font_folio"
+                productIntroText="The complete type solution for any creative need. Purchase by phone: 800-585-0774"
+                purchasePhoneCss="promo-phone"
+                purchasePhoneText="Purchase by Phone">
+                <productInfo jcr:primaryType="nt:unstructured"/>
+            </promo>
+        </promobar>
+        <merchandisingbar
+            jcr:lastModified="{Date}2016-11-22T21:59:56.306Z"
+            jcr:lastModifiedBy="atrevino"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/merchandisingbar"
+            purchasePhoneCss="merchpod-phone-item-label"
+            purchasePhoneText="Purchase by Phone">
+            <merchandising
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys">
+                <start
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/parsys/column"
+                    layout="3;grid-span-1of3;grid-span-1of3;grid-span-1of3"/>
+                <break_14798519963210
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/parsys/column"
+                    columnType="break"
+                    correspondingStart="start"/>
+                <merchandising_5cc3
+                    jcr:created="{Date}2016-12-16T14:07:16.449Z"
+                    jcr:createdBy="vko"
+                    jcr:lastModified="{Date}2017-06-15T00:17:39.091Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/merchandising"
+                    backgroundImg="image-off"
+                    channel="adobe.com"
+                    commitment="PERPETUAL"
+                    ctaButtonOverride="https://commerce.adobe.com/checkout/email/?items%5B0%5D%5Bid%5D=29F09D897B68249A493EF8732ED069F8&amp;items%5B0%5D%5Bcs%5D=0&amp;cli=adobe_com&amp;co=US&amp;lang=en"
+                    ctaButtonPosition="above"
+                    ctaButtonText="Buy now "
+                    ctaLinkTarget="_self"
+                    currency="US$"
+                    isOfferingsProduct="true"
+                    marketSegmentRewrite="COM"
+                    merchbackgroundcolor="background-color-off"
+                    merchborder="border-on"
+                    merchradius="radius-on"
+                    merchshadow="shadow-off"
+                    modelCode="INDIVIDUAL"
+                    offeringsProduct="product-code-FF"
+                    prefixTitleTextCOM="&lt;p style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/p>&#xa;&lt;h3 style=&quot;text-align: center;&quot;>Font Folio 11.1&lt;br>&#xa;&lt;/h3>&#xa;&lt;p style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/p>&#xa;"
+                    priceOverrideCOM="2,999"
+                    pricePoint="FULL"
+                    priceType="FULL"
+                    product="font_folio"
+                    showCTAButton="true"
+                    unifiedCheckout="false">
+                    <productInfo
+                        jcr:primaryType="nt:unstructured"
+                        monthText="mo"
+                        perText=" "/>
+                    <imagelayer jcr:primaryType="nt:unstructured">
+                        <image
+                            jcr:lastModified="{Date}2017-06-15T00:17:39.091Z"
+                            jcr:lastModifiedBy="wmyersta"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </imagelayer>
+                </merchandising_5cc3>
+                <break_14798519963231
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/parsys/column"
+                    columnType="break"
+                    correspondingStart="start"/>
+                <end_14792842545701
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/parsys/column"
+                    columnType="end"
+                    correspondingStart="start"/>
+            </merchandising>
+        </merchandisingbar>
+    </jcr:content>
+    <family-buying-guide/>
+</jcr:root>

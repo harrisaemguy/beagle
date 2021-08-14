@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-02-21T22:59:18.643Z"
+        cq:lastModifiedBy="wmyersta"
+        cq:lastReplicated="{Date}2016-11-15T22:29:50.424Z"
+        cq:lastReplicatedBy="atrevino"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Tools"
+        jcr:uuid="720211f2-f95a-4c02-bde4-8ec1bc332b8a"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        applauncherTheme="light"
+        bodyClass="whiteBackground"
+        browserTitle="Tools | Adobe LiveCycle Enterprise Suite 4"
+        disableFloatingNav="true"
+        distType="dist5"
+        enableBreadcrumb="true"
+        enableCCRedirect="NA"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideInSectionNav="true"
+        hideMerchandisingBar="inherit"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        marketSegmentRewrite="COM"
+        marqueeStyle="newMarquee"
+        metaDescription="Adobe LiveCycle Enterprise Suite 4 (ES4) tools enable developers to easily create and modify existing LiveCycle form, document templates, and applications"
+        modalSize="426x240"
+        navTitle="Tools"
+        pageTitle="Tools"
+        stagelastReplicated="21-Feb-2019 23:10"
+        stagelastReplicatedBy="wmyersta"
+        stageLastReplicationAction="ActivatedtoStage"
+        tagsKeywords="adobe livecycle workbench, livecycle workbench"
+        useH1Tags="pageTitle">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2019-02-21T22:59:18.613Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2019-02-21T22:59:18.613Z"
+                    jcr:lastModifiedBy="wmyersta"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_a4d7
+                jcr:created="{Date}2016-03-03T00:30:41.461Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2016-03-03T00:30:55.849Z"
+                jcr:lastModifiedBy="dwilbank"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="4"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-03-03T00:30:55.849Z"
+                        jcr:lastModifiedBy="dwilbank"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_a4d7>
+            <text_2094
+                jcr:created="{Date}2016-03-03T00:31:00.508Z"
+                jcr:createdBy="dwilbank"
+                jcr:lastModified="{Date}2016-10-19T06:08:20.628Z"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h3>&lt;span class=&quot;text-light&quot;>Easily develop applications that people want to use.&lt;/span>&lt;/h3>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe® LiveCycle® Enterprise Suite 4 (ES4) tools enable developers to easily create and modify existing LiveCycle forms, document templates, and applications to deliver intuitive forms, personalized documents, and rich mobile experiences. And because LiveCycle ES4 is JEE compatible and runs on industry-standard operating systems and Java™ application servers, you can easily integrate LiveCycle applications with your existing IT environment.&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <column_9fab
+                jcr:created="{Date}2016-10-19T06:09:06.615Z"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-10-19T06:09:48.624Z"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-cols-6;grid-cols-6;"
+                bgColor=" "
+                layout="2;grid-cols-6;grid-cols-6;"
+                layoutMode="structured"
+                multiplier="3"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-10-19T06:09:48.624Z"
+                        jcr:lastModifiedBy="ashahab"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_9fab>
+            <text_a39b
+                jcr:created="{Date}2016-10-19T06:09:56.977Z"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-11-11T11:04:58.786Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>&lt;span class=&quot;text-light&quot;>LiveCycle Designer ES4*&lt;/span>&lt;/h4>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe LiveCycle Designer ES4 software is a comprehensive design tool that helps you create form and document templates combining high-fidelity dynamic presentation with sophisticated XML data handling. LiveCycle Designer ES4 provides an intuitive, drag-and-drop user interface that makes it easy to create and deploy templates without deep technical knowledge. LiveCycle Designer 4 is included in every LiveCycle ES4 installation and embedded within LiveCycle Workbench.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/livecycle/tools/designer.html&quot;>Learn more ›&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14768573886320
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_9fab"/>
+            <text_7bd0
+                jcr:created="{Date}2016-10-19T06:10:02.832Z"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-10-19T06:49:43.763Z"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>&lt;span class=&quot;text-light&quot;>LiveCycle Foundation&lt;/span>&lt;/h4>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe LiveCycle Foundation provides the underlying server capabilities that enable the deployment, execution, and management of LiveCycle ES4 modules. Included with the purchase of most LiveCycle ES4 modules, LiveCycle Foundation consists of:&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;span class=&quot;text-light&quot;>●&amp;nbsp;Service container&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;span class=&quot;text-light&quot;>● Foundation services&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;span class=&quot;text-light&quot;>●&amp;nbsp;Administration tools&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;●&amp;nbsp;Central repository&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://help.adobe.com/en_US/livecycle/11.0/Overview/WS92d06802c76abadb2c8525912ddcb9aad9-7fff.2.html&quot; target=&quot;_self&quot;>Learn more ›&lt;/a>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14768573466210
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_9fab"/>
+            <column_ca34
+                jcr:created="{Date}2016-10-19T06:19:57.684Z"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-10-19T06:20:15.438Z"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-cols-6;grid-cols-6;"
+                bgColor=" "
+                layout="2;grid-cols-6;grid-cols-6;"
+                layoutMode="structured"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-10-19T06:20:15.438Z"
+                        jcr:lastModifiedBy="ashahab"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_ca34>
+            <text_c7b0
+                jcr:created="{Date}2016-10-19T06:20:32.322Z"
+                jcr:createdBy="ashahab"
+                jcr:lastModified="{Date}2016-10-19T06:36:44.972Z"
+                jcr:lastModifiedBy="ashahab"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h4>&lt;span class=&quot;text-light&quot;>LiveCycle Workbench ES4&lt;/span>&lt;/h4>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Adobe LiveCycle Workbench ES4 software is an integrated development environment (IDE) that allows developers, designers, and business analysts to work together collaboratively to develop forms, documents, and business processes. LiveCycle Workbench ES4 lets you streamline development by dynamically creating sophisticated documents that leverage existing resources with a common repository, and simplify testing and deployment.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://help.adobe.com/en_US/livecycle/11.0/WorkbenchHelp/index.html&quot;>Learn more ›&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14768580154470
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_ca34"/>
+            <end_14768579976900
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_ca34"/>
+            <end_14569650414700
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_a4d7"/>
+        </contentbody>
+    </jcr:content>
+    <designer/>
+</jcr:root>

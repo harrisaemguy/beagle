@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2021-06-12T07:26:06.234Z"
+        cq:lastModifiedBy="21n57074"
+        cq:lastReplicated="{Date}2020-12-02T18:13:30.828Z"
+        cq:lastReplicatedBy="21n57074"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Request demo"
+        jcr:uuid="bbe95a85-710a-42e1-b804-fca6a54c8ff7"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        applauncherTheme="light"
+        bodyClass="MarketingCloudSubPage"
+        browserTitle="XML Documentation for Adobe Experience Manager-Private Demo"
+        distType="dist5"
+        enableCCRedirect="NA"
+        faasFormPage="true"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        globalnavTheme="/etc/beagle/public/globalnav/themes/jcr:content/bgcolor_676839809"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideInSectionNav="true"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        isMCPage="true"
+        isSectionNavParent="true"
+        marketSegmentRewrite="COM"
+        metaDescription="Request for a private demo of XML Documentation for Adobe Experience Manager"
+        modalSize="426x240"
+        overrideSectionHeaderLink="/content/acom/us/en/products/xml-documentation-add-on-for-experience-manager"
+        overrideSectionHeaderTitle="XML Documentation for Adobe Experience Manager"
+        pageTitle="XML Documentation for Adobe Experience Manager"
+        stagelastReplicated="03-Dec-2020 10:14"
+        stagelastReplicatedBy="21n57074"
+        stageLastReplicationAction="ActivatedtoStage"
+        subnavGradient="/etc/beagle/public/globalnav/themes/jcr:content/bgcolor_921826334"
+        tagsKeywords="XML on AEM private demo, DITA on AEM Private demo, how to use XML on AEM, how to use DITA on AEM, XML on Adobe Experience Manager private demo, DITA on Adobe Experience Manager Private demo, how to use XML on Adobe Experience Manager, how to use DITA on Adobe Experience Manager"
+        useH1Tags="pageTitle">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2021-06-12T07:26:06.189Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2021-06-12T07:26:06.189Z"
+                    jcr:lastModifiedBy="21n57074"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_7bc5
+                jcr:created="{Date}2016-06-28T20:18:48.097Z"
+                jcr:createdBy="golee"
+                jcr:lastModified="{Date}2016-06-28T20:19:02.128Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="6"
+                section="b"
+                showBorders="false"
+                whitespace="grid-padded-b6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-06-28T20:19:02.128Z"
+                        jcr:lastModifiedBy="golee"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_7bc5>
+            <text_265b
+                jcr:created="{Date}2016-06-28T20:19:07.959Z"
+                jcr:createdBy="golee"
+                jcr:lastModified="{Date}2018-04-15T12:40:58.353Z"
+                jcr:lastModifiedBy="21n57074"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>For any queries on XML Documentation for Adobe Experience Manager please reach out to us at &lt;a href=&quot;mailto:techcomm@adobe.com&quot;>techcomm@adobe.com&lt;/a> or fill up the form below and an Adobe representative will contact you.&lt;/span>&lt;/div>&#xa;"/>
+            <end_14671451281010
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_7bc5"/>
+            <column_6f1a
+                jcr:created="{Date}2016-06-23T20:57:31.999Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2016-06-23T20:58:00.209Z"
+                jcr:lastModifiedBy="wmyersta"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="1"
+                grid0="8"
+                layout="1;grid-cols-8 grid-offset-4;"
+                offset0="4"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-06-23T20:58:00.209Z"
+                        jcr:lastModifiedBy="wmyersta"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_6f1a>
+            <faasform_1b4f
+                jcr:created="{Date}2016-06-23T20:57:16.423Z"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-07-26T05:00:22.936Z"
+                jcr:lastModifiedBy="krishnan"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/faasform"
+                destinationURL="/content/acom/us/en/products/xml-documentation-add-on-for-experience-manager/request-demo/thank-you"
+                formLocale="en_us"
+                formSubType="2851"
+                formTemplate="82"
+                formType="2846"
+                intCampaignId="70114000002XY3MAAW"
+                modalSize="426x240"
+                sku="3122"/>
+            <end_14667154520020
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_6f1a"/>
+        </contentbody>
+        <card jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2017-09-01T07:12:40.835Z"
+                jcr:lastModifiedBy="krishnan"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"/>
+        </card>
+    </jcr:content>
+    <thank-you/>
+</jcr:root>

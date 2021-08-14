@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2018-07-24T16:12:33.607Z"
+        cq:lastModifiedBy="golee"
+        cq:lastReplicated="{Date}2017-06-12T21:16:34.872Z"
+        cq:lastReplicatedBy="golee"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:product-catalog/pf/mobile,filters:product-catalog/de/e-signatures]"
+        cq:template="/apps/beagle/templates/productcardpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:lockIsDeep="{Boolean}true"
+        jcr:lockOwner="golee"
+        jcr:mixinTypes="[mix:lockable,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Fill &amp; Sign for mobile"
+        jcr:uuid="d7b8364c-3468-4384-a3db-7081e3baf5b9"
+        sling:resourceType="beagle/components/productcardpage"
+        alignment="left"
+        browserTitle="Fill &amp; Sign for mobile"
+        cardDescription="Fill and sign any form. Even snap a picture of paper form and fill it out."
+        cardIcon="adobe-icon-color-fill-and-sign-mobile-app"
+        cardIconLinkURL="https://acrobat.adobe.com/us/en/acrobat/how-to/fill-sign-pdf-forms-electronically.html"
+        cardIcontarget="_self"
+        cardTitle="Fill &amp; Sign for mobile"
+        creationDate="{Date}2018-03-29T08:52:00.000-07:00"
+        distType="dist5"
+        freeTrialUrlLoggedInModalScrolling="no"
+        freeTrialUrlLoggedInModalSize="426x240"
+        freeTrialUrlLoggedInTarget="_self"
+        freeTrialUrlModalScrolling="no"
+        freeTrialUrlModalSize="426x240"
+        freeTrialUrlTarget="_self"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        groupSectionNavItems="no"
+        hideInSectionNav="true"
+        hideMerchandisingBar="inherit"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="inherit"
+        marketSegmentRewrite="COM"
+        metaDescription="Fill &amp; Sign for mobile"
+        modalSize="426x240"
+        noFollow="true"
+        noIndex="true"
+        orderDate="{Date}2017-05-01T17:00:00.000-07:00"
+        pageTitle="Fill &amp; Sign for mobile"
+        removeFromHtmlSitemap="true"
+        removeFromSitemap="true"
+        removeFromXmlSitemap="true"
+        stagelastReplicated="12-Jun-2017 21:16"
+        stagelastReplicatedBy="golee"
+        stageLastReplicationAction="ActivatedtoStage"
+        tryLinkModalScrolling="no"
+        tryLinkModalSize="426x240"
+        tryLinkProductPlanModalScrolling="no"
+        tryLinkProductPlanModalSize="426x240"
+        tryLinkProductPlanTarget="_self"
+        tryLinkTarget="_self"
+        useH1Tags="pageTitle">
+        <sectionMore
+            jcr:primaryType="nt:unstructured"
+            linkModalScrolling="no"
+            linkModalSize="426x240"
+            linkTarget="_self"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2018-07-24T16:12:33.576Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2018-07-24T16:12:33.576Z"
+                    jcr:lastModifiedBy="golee"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <links
+            jcr:primaryType="nt:unstructured"
+            sort_mdv="[0,1]">
+            <_x0030_
+                jcr:primaryType="nt:unstructured"
+                cardLinktarget="_blank"
+                cardLinkText="iOS"
+                cardLinkType="buttonlink"
+                cardLinkURL="https://itunes.apple.com/us/app/id950099951"/>
+            <_x0031_
+                jcr:primaryType="nt:unstructured"
+                cardLinktarget="_blank"
+                cardLinkText="Android"
+                cardLinkType="buttonlink"
+                cardLinkURL="https://play.google.com/store/apps/details?id=com.adobe.fas"/>
+        </links>
+    </jcr:content>
+</jcr:root>

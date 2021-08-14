@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-08-04T13:41:48.957Z"
+        cq:lastModifiedBy="ksaxena"
+        cq:lastReplicated="{Date}2020-08-13T23:15:26.287Z"
+        cq:lastReplicatedBy="vko"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:product-catalog/cd/web-ux,filters:product-catalog/pf/desktop]"
+        cq:template="/apps/beagle/templates/productcardpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:Title="Animate"
+        jcr:title="Animate"
+        jcr:uuid="fe0d96db-24cb-4766-8294-7d141f6b7263"
+        sling:resourceType="beagle/components/productcardpage"
+        alignment="left"
+        applauncherTheme="light"
+        billingFrequency="MONTHLY"
+        browserTitle="Animate"
+        cardDescription="Design interactive vector animations for multiple platforms."
+        cardIcon="adobe-icon-color-an"
+        cardIconLinkURL="/content/acom/us/en/products/animate"
+        cardIcontarget="_self"
+        cardTitle="Animate "
+        channel="adobe.com"
+        commitment="YEAR"
+        creationDate="{Date}2017-04-28T00:37:00.000+05:30"
+        distType="dist5"
+        freeTrialUrlLoggedInModalScrolling="no"
+        freeTrialUrlLoggedInModalSize="426x240"
+        freeTrialUrlLoggedInTarget="_self"
+        freeTrialUrlModalScrolling="no"
+        freeTrialUrlModalSize="426x240"
+        freeTrialUrlTarget="_self"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        groupSectionNavItems="no"
+        hideInSectionNav="true"
+        hideMerchandisingBar="inherit"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="inherit"
+        iconLinkURL="/content/acom/us/en/products/animate"
+        isOfferingsProduct="true"
+        marketSegmentRewrite="COM"
+        metaDescription="Animate"
+        modalSize="426x240"
+        modelCode="INDIVIDUAL"
+        noIndex="true"
+        offeringsProduct="product-code-FLPR"
+        orderDate="{Date}2017-05-02T05:30:00.000+05:30"
+        pageTitle="Animate"
+        pricePoint="REGULAR"
+        removeFromHtmlSitemap="true"
+        removeFromSitemap="true"
+        removeFromXmlSitemap="true"
+        stagelastReplicated="11-Jun-2020 19:49"
+        stagelastReplicatedBy="golee"
+        stageLastReplicationAction="ActivatedtoStage"
+        tryLinkModalScrolling="no"
+        tryLinkModalSize="426x240"
+        tryLinkProductPlanModalScrolling="no"
+        tryLinkProductPlanModalSize="426x240"
+        tryLinkProductPlanTarget="_self"
+        tryLinkTarget="_self"
+        useH1Tags="pageTitle">
+        <sectionMore
+            jcr:primaryType="nt:unstructured"
+            linkModalScrolling="no"
+            linkModalSize="426x240"
+            linkTarget="_self"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2020-08-04T13:41:48.933Z"
+                jcr:lastModifiedBy="ksaxena"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2020-08-04T13:41:48.933Z"
+                    jcr:lastModifiedBy="ksaxena"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <links
+            jcr:primaryType="nt:unstructured"
+            sort_mdv="[0,1]">
+            <_x0030_
+                jcr:primaryType="nt:unstructured"
+                cardLinktarget="_self"
+                cardLinkText="Buy now"
+                cardLinkType="buttonlink"
+                cardLinkURL="https://commerce.adobe.com/checkout/email/?items%5B0%5D%5Bcs%5D=0&amp;items%5B0%5D%5Bid%5D=16622E9D38F87C5AF7BEC0B13CC23C12&amp;cli=creative&amp;co=US&amp;lang=en"
+                mv="other"
+                promoId="2SLRC8H4"/>
+            <_x0031_
+                jcr:primaryType="nt:unstructured"
+                cardLinktarget="_self"
+                cardLinkText="Download trial"
+                cardLinkType="textlink"
+                cardLinkURL="https://creative.adobe.com/products/download/animate?promoid=GMCWYFPY&amp;mv=other"/>
+        </links>
+    </jcr:content>
+</jcr:root>

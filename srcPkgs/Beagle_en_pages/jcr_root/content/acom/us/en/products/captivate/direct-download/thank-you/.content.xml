@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2021-02-23T10:43:37.723Z"
+        cq:lastModifiedBy="nedas"
+        cq:lastReplicated="{Date}2021-02-23T10:44:22.152Z"
+        cq:lastReplicatedBy="nedas"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:lockable,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Adobe Captivate "
+        jcr:uuid="1990e54b-76e7-40fb-bf61-5f39b53c11b1"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="center"
+        applauncherTheme="light"
+        bodyClass="whiteBackground"
+        browserTitle=" Download Trial | Adobe Captivate "
+        disableOverviewLink="true"
+        distType="dist5"
+        enableCCRedirect="NA"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        headingStyle="h1"
+        hideInSectionNav="true"
+        hideMerchandisingBar="hide"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        marketSegmentRewrite="COM"
+        metaDescription="Free screen capture tool trial, Free elearning software trial"
+        modalSize="426x240"
+        pageTitle="Adobe Captivate "
+        product="captivate"
+        stagelastReplicated="23-Feb-2021 10:44"
+        stagelastReplicatedBy="nedas"
+        stageLastReplicationAction="ActivatedtoStage"
+        tagsKeywords="Screen Capture, eLearning software, Mobile Learning"
+        useH1Tags="pageTitle">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="35">
+            <image
+                jcr:lastModified="{Date}2019-07-26T10:58:11.810Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_27d
+                jcr:created="{Date}2019-06-09T12:43:12.675Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2019-06-17T08:50:02.370Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                hideInMobile="true"
+                hideInTablet="true"
+                layout="1;grid-cols-14 grid-offset-1;"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2019-06-17T08:50:02.370Z"
+                        jcr:lastModifiedBy="shresinh"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_27d>
+            <text_7072
+                jcr:created="{Date}2019-06-17T08:48:18.226Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2021-02-23T10:43:37.714Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>Thank you for your interest in Adobe Captivate.&lt;/div>&#xa;&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>To download Adobe Captivate (2017 release), click below:&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;https://download.macromedia.com/captivate/cp10/Captivate_2017_x64_LS21.zip&quot; target=&quot;_blank&quot;>Windows&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;https://download.macromedia.com/captivate/cp10/Captivate_2017_LS21.dmg&quot; target=&quot;_blank&quot;>Mac&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>To download Adobe Captivate (2019 release) update 1, click below:&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;https://download.macromedia.com/captivate/cp11/Captivate_2019_x64_LS21.exe &quot; target=&quot;_self&quot;>Windows&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;https://download.macromedia.com/captivate/cp11/Captivate_2019_LS21.dmg &quot; target=&quot;_self&quot;>Mac&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <column_76e6
+                jcr:created="{Date}2019-06-09T12:45:03.863Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2019-06-17T08:20:09.080Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of2;grid-span-1of2;"
+                bgColor=" "
+                bottomPadding0="2"
+                columnCount="2-s"
+                grid0="1of2"
+                grid1="1of2"
+                horizontalPadding0="3"
+                horizontalPadding1="3"
+                layout="2;grid-span-1of2;grid-span-1of2;"
+                layoutMode="spatial"
+                multiplier="3"
+                section="b"
+                showBorders="false"
+                topPadding0="2"
+                whitespace="grid-padded-b3x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2019-06-17T08:20:09.080Z"
+                        jcr:lastModifiedBy="shresinh"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </imagelayer>
+            </column_76e6>
+            <image_47b1
+                jcr:created="{Date}2019-06-17T08:29:42.875Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2019-06-17T09:16:04.168Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Jumpstart Compliance and Soft Skill course creation with ready-to-go slides"
+                fileReference="/content/dam/acom/en/products/captivate/Captivate_JuneRelease2019/FinalImages/June6_2019/RevisedHomepage_Images/200pxPadding/mobile--ready-courses_2.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2019-06-17T09:16:04.168Z"
+                    jcr:lastModifiedBy="shresinh"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_47b1>
+            <text_ad83
+                jcr:created="{Date}2019-06-09T12:43:13.484Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2019-06-17T09:13:06.313Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>Jumpstart Compliance and Soft Skill course creation with ready-to-go slides&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Just plug-and-play your content in ready-to-go slides, or use Quick Start Projects to create beautiful, mobile-ready projects in minutes.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;/content/acom/us/en/products/captivate/rapid-elearning.html?#jumpstart&quot; target=&quot;_blank&quot;>Learn more&lt;/a>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;a href=&quot;#jump&quot; target=&quot;_parent&quot;>Watch video&lt;/a>&lt;/div>&#xa;"/>
+            <break_15600843038750
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_76e6"/>
+            <image_b432
+                jcr:created="{Date}2019-06-17T08:29:45.195Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2019-06-17T09:16:24.018Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="Convert existing PowerPoint Content to Interactive Videos"
+                fileReference="/content/dam/acom/en/products/captivate/Captivate_JuneRelease2019/FinalImages/June6_2019/RevisedHomepage_Images/200pxPadding/Home-page-piller_2_mobile.gif"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2019-06-17T09:16:24.018Z"
+                    jcr:lastModifiedBy="shresinh"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_b432>
+            <text_4df4
+                jcr:created="{Date}2019-06-09T12:43:14.730Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2019-06-17T09:10:58.104Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>Convert existing PowerPoint Content to Interactive Videos&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Record your PowerPoint content as a video and add cool interactions and knowledge check questions as overlays on top of your video.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;a href=&quot;/content/acom/us/en/products/captivate/rapid-elearning.html?#convertpdf&quot; target=&quot;_blank&quot;>Learn more&lt;/a>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;a href=&quot;#convert&quot; target=&quot;_parent&quot;>Watch video&lt;/a>&lt;/div>&#xa;"/>
+            <end_15600843038761
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_76e6"/>
+            <end_15600841926840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_27d"/>
+            <column
+                jcr:created="{Date}2015-07-29T16:59:31.902-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-02T07:26:12.516Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-14 grid-offset-1;"
+                bgColor=" "
+                grid0="8"
+                layout="1;grid-cols-14 grid-offset-1;"
+                offset0="4"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-11-02T07:26:12.516Z"
+                        jcr:lastModifiedBy="nedas"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column>
+            <text_97254443
+                jcr:created="{Date}2015-07-29T17:04:22.229-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2017-11-02T07:26:39.334Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot; style=&quot;text-align: center;&quot;>Want to host your courses?&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <text_658c
+                jcr:created="{Date}2017-11-02T07:26:22.775Z"
+                jcr:createdBy="nedas"
+                jcr:lastModified="{Date}2017-11-02T07:26:53.725Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>Use your &lt;strong>Adobe ID &lt;/strong>to log into Adobe Captivate Prime LMS&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <standalonecta_29e
+                jcr:created="{Date}2017-09-15T11:12:19.843Z"
+                jcr:createdBy="nedas"
+                jcr:lastModified="{Date}2019-04-29T06:06:37.177Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/standalonecta"
+                ctabuttonalign="text-center"
+                ctabuttoncolor="merchpod-cta-button"
+                ctaType="{Boolean}true"
+                link="https://captivateprime.adobe.com/loginpost?workflowId=1&amp;s_qp_request_origin=prime&amp;sdid=PC1PQQVK&amp;mv=display"
+                linkText="Create your free 30-day trial account today"
+                target="_blank"/>
+            <text_41ba
+                jcr:created="{Date}2017-10-31T11:46:54.458Z"
+                jcr:createdBy="nedas"
+                jcr:lastModified="{Date}2017-11-02T07:27:14.743Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;code class=&quot;text-7&quot;>&lt;br _rte_temp_br=&quot;brEOB&quot;>&#xa;&lt;/code>"
+                textIsRich="true"/>
+            <image
+                jcr:created="{Date}2015-07-29T17:00:58.619-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2019-06-21T10:29:06.198Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Adobe Captivate Prime LMS"
+                fileReference="/content/dam/acom/en/products/captivate-prime/prime2019/CPP_Trials_1440x400.png"
+                modalsize="640x360"
+                target="modal-frame">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        adobeTvNewAutoPlay="true"
+                        adobeTvNewQuality="9"
+                        adobeTvNewUrl="3491/"
+                        freeFormUrl="https://www.dropbox.com/s/s863uk0zpjqi0xv/Captivate%20Prime%20-%20Marquee%20-%20RC1_2.mp4?dl=0"
+                        type="adobetvnew"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2019-04-29T06:05:57.209Z"
+                    jcr:lastModifiedBy="nedas"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image>
+            <text_e05e
+                jcr:created="{Date}2017-11-02T07:08:21.002Z"
+                jcr:createdBy="nedas"
+                jcr:lastModified="{Date}2017-11-02T07:27:31.556Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;code class=&quot;text-7&quot;>&lt;br _rte_temp_br=&quot;brEOB&quot;>&#xa;&lt;/code>"
+                textIsRich="true"/>
+            <standalonecta_15b1
+                jcr:created="{Date}2017-10-31T11:42:24.787Z"
+                jcr:createdBy="nedas"
+                jcr:lastModified="{Date}2019-04-29T06:06:56.424Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/standalonecta"
+                ctabuttonalign="text-center"
+                ctabuttoncolor="merchpod-cta-button"
+                ctaType="{Boolean}true"
+                link="http://www.adobe.com/products/captivateprime.html?sdid=X-TRIALS-CP-RFI&amp;mv=other#prime-offer"
+                linkText="Request for information"
+                target="_blank"/>
+            <text
+                jcr:created="{Date}2015-07-29T17:01:16.085-07:00"
+                jcr:createdBy="wmyersta"
+                jcr:lastModified="{Date}2019-04-29T06:08:06.898Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Need more information? Check out our &lt;a href=&quot;/content/acom/us/en/products/captivateprime.html?sdid=NYTLR42N&amp;amp;mv=display&quot; target=&quot;_blank&quot;>website&lt;/a> or email us at &lt;a href=&quot;mailto:captivateprimesales@adobe.com&quot; target=&quot;_self&quot;>captivateprimesales@adobe.com&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <horizontalrule_a72
+                jcr:created="{Date}2015-09-16T13:35:54.134Z"
+                jcr:createdBy="ribhat"
+                jcr:lastModified="{Date}2015-09-16T13:35:54.134Z"
+                jcr:lastModifiedBy="ribhat"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <hiddenfield_26f9
+                jcr:created="{Date}2015-09-03T01:47:55.341-07:00"
+                jcr:createdBy="shk"
+                jcr:lastModified="{Date}2015-09-24T15:38:43.814Z"
+                jcr:lastModifiedBy="ribhat"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/trials/components/hiddenfield"
+                name="ptThankyouPage"
+                value="captivate"/>
+            <end_14382143719110
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column"/>
+        </contentbody>
+        <promobar jcr:primaryType="nt:unstructured">
+            <promo
+                jcr:lastModified="{Date}2015-07-22T16:53:38.251Z"
+                jcr:lastModifiedBy="gewittig"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/promo"
+                ctaButtonOverride="https://creative.adobe.com/plans?promoid=KSPCN"
+                ctaButtonText="Choose a plan"
+                enablePriceDisplay="true"
+                icon="promo-icon adobe-icon-creativecloud"
+                marketSegmentRewrite="COM"
+                priceType="SUB_NEW"
+                product="creative_cloud"
+                productIntroText="Get the entire collection of creative apps and more for"
+                purchasePhoneCss="promo-phone">
+                <productInfo jcr:primaryType="nt:unstructured"/>
+                <free
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="https://creative.adobe.com/plans?promoid=KSPCN"
+                    ctaButtonText="Choose a plan"
+                    productIntroText="Get the entire collection of creative apps and more for"/>
+                <paid
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/promo/state"
+                    ctaButtonOverride="http://max.adobe.com/?promoid=KTJLS"
+                    ctaButtonText="Learn more"
+                    productIntroText="Join us at Adobe MAX. The Creativity Conference. Oct. 3–7 in Los Angeles."/>
+            </promo>
+        </promobar>
+        <contentlayer
+            jcr:lastModified="{Date}2014-11-25T22:30:20.382Z"
+            jcr:lastModifiedBy="wmyersta"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/contentlayer"
+            horizontalAlign="1"
+            opacity="{Long}0"
+            rgb="FFFFFF"
+            textcolor="text-alt-color"
+            verticalAlign="2"
+            width="{Long}55">
+            <title jcr:primaryType="nt:unstructured"/>
+            <text
+                jcr:primaryType="nt:unstructured"
+                text="&lt;div class=&quot;text-0-block&quot; style=&quot;text-align: center;&quot;>&lt;span class=&quot;text-light&quot;>Make something great.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot; style=&quot;text-align: center;&quot;>Introducing all-new versions of your favorite desktop apps.&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2019-07-26T10:58:11.810Z"
+                    jcr:lastModifiedBy="shresinh"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <topofbodymbox
+            jcr:lastModified="{Date}2014-12-16T03:54:16.687Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="TopOfBody"/>
+        <bottomofbodymbox
+            jcr:lastModified="{Date}2014-12-16T03:54:30.562Z"
+            jcr:lastModifiedBy="gewittig"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/mboxtemplate"
+            includedMetaData="[site,geo,channel]"
+            mBoxBaseName="BottomOfBody"/>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <modalcontent
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <standalonemodal_4d87
+                jcr:created="{Date}2019-06-17T08:27:54.216Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2019-06-17T08:27:54.216Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/standalonemodal"
+                adobeTvNewAutoPlay="true"
+                adobeTvNewQuality="5"
+                adobeTvNewUrl="27754"
+                modalId="jump"
+                modalType="video"
+                size="854x480"
+                type="adobetvnew">
+                <social jcr:primaryType="nt:unstructured"/>
+                <meta
+                    jcr:primaryType="nt:unstructured"
+                    type="website">
+                    <image
+                        jcr:lastModified="{Date}2019-06-12T10:18:26.386Z"
+                        jcr:lastModifiedBy="debdas"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </meta>
+                <tracking jcr:primaryType="nt:unstructured"/>
+            </standalonemodal_4d87>
+            <standalonemodal_12cc
+                jcr:created="{Date}2019-06-17T08:29:07.951Z"
+                jcr:createdBy="shresinh"
+                jcr:lastModified="{Date}2019-06-17T08:29:07.951Z"
+                jcr:lastModifiedBy="shresinh"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/standalonemodal"
+                adobeTvNewAutoPlay="true"
+                adobeTvNewQuality="5"
+                adobeTvNewUrl="27755"
+                modalId="convert"
+                modalType="video"
+                size="854x480"
+                type="adobetvnew">
+                <social jcr:primaryType="nt:unstructured"/>
+                <meta
+                    jcr:primaryType="nt:unstructured"
+                    type="website">
+                    <image
+                        jcr:lastModified="{Date}2019-06-12T11:48:01.116Z"
+                        jcr:lastModifiedBy="debdas"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"/>
+                </meta>
+                <tracking jcr:primaryType="nt:unstructured"/>
+            </standalonemodal_12cc>
+        </modalcontent>
+    </jcr:content>
+</jcr:root>

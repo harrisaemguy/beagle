@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-05-16T07:17:37.773Z"
+        cq:lastModifiedBy="golee"
+        cq:lastReplicated="{Date}2019-05-16T07:17:45.034Z"
+        cq:lastReplicatedBy="golee"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Adobe Experience Manager Document Security/LiveCycle Rights Management Extension for Microsoft Office"
+        jcr:uuid="11ea149d-8560-4f1e-bc5e-91cd84f4f379"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Download rights management extension | Adobe LiveCycle Enterprise Suite 4"
+        disableFloatingNav="true"
+        distType="dist5"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideMerchandisingBar="inherit"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        hideSectionNav="true"
+        marketSegmentRewrite="none"
+        marqueeStyle="newMarquee"
+        metaDescription="Using Rights Management Extension for Microsoft Office software, you can maintain the confidentiality of sensitive information by protecting critical files against unauthorized access at all times"
+        modalSize="426x240"
+        pageTitle="Adobe Experience Manager Document Security/LiveCycle Rights Management Extension for Microsoft Office"
+        stagelastReplicated="15-Nov-2016 22:34"
+        stagelastReplicatedBy="atrevino"
+        stageLastReplicationAction="ActivatedtoStage"
+        tagsKeywords="adobe livecycle rights management, adobe rights management"
+        useH1Tags="pageTitle">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2016-12-21T04:49:40.677Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2016-12-21T04:49:40.677Z"
+                    jcr:lastModifiedBy="atrevino"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_2618
+                jcr:created="{Date}2016-11-08T10:15:46.357Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-08T10:16:21.200Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-08T10:16:21.200Z"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_2618>
+            <column_2707
+                jcr:created="{Date}2016-11-08T10:20:56.047Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-08T10:21:39.502Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                bgColor=" "
+                columnCount="2-s"
+                grid0="1of4"
+                grid1="3of4"
+                layout="2;grid-span-1of4;grid-span-3of4;"
+                layoutMode="structured"
+                section="b"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-08T10:21:39.502Z"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_2707>
+            <image_2383
+                jcr:created="{Date}2016-11-08T10:21:58.643Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-08T10:22:38.191Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Adobe Experience Manager"
+                fileReference="/content/dam/acom/en/livecycle/images/adobe-experience-manager.png"
+                modalsize="426x240"
+                target="_self">
+                <contentlayer jcr:primaryType="nt:unstructured">
+                    <video
+                        jcr:primaryType="nt:unstructured"
+                        type="free"/>
+                </contentlayer>
+                <placeHolder
+                    jcr:lastModified="{Date}2016-11-08T10:22:38.191Z"
+                    jcr:lastModifiedBy="dvirmani"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </image_2383>
+            <break_14786004995140
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_2707"/>
+            <text_24e7
+                jcr:created="{Date}2016-11-08T10:27:36.804Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-08T10:36:32.135Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Extension for Microsoft Office (30-35 MB)&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Microsoft Windows&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Multi-language&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;table width=&quot;100&quot; border=&quot;1&quot; cellpadding=&quot;1&quot;>&#xa;&lt;tbody>&lt;tr>&lt;td>&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>MS Office 32-bit&lt;/span>&lt;/div>&#xa;&lt;/td>&#xa;&lt;td>&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>MS Office 64-bit&lt;/span>&lt;/div>&#xa;&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://download.macromedia.com/pub/livecycle/policyserver/DocumentSecurityExtensionforMicrosoftOffice.exe&quot;>Download EXE&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;/td>&#xa;&lt;td>&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://download.macromedia.com/pub/livecycle/policyserver/DocumentSecurityExtensionforMicrosoftOffice64.exe&quot;>Download EXE&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://download.macromedia.com/pub/livecycle/policyserver/DocumentSecurityExtensionforMicrosoftOffice.zip&quot;>Download MSI&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;/td>&#xa;&lt;td>&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://download.macromedia.com/pub/livecycle/policyserver/DocumentSecurityExtensionforMicrosoftOffice64.zip&quot;>Download MSI&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;/td>&#xa;&lt;/tr>&lt;/tbody>&lt;/table>&#xa;"
+                textIsRich="true"/>
+            <end_14786004560530
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_2707"/>
+            <text_4e12
+                jcr:created="{Date}2016-11-08T10:36:36.154Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2019-05-16T07:17:37.768Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>Adobe Experience Manager Forms Document Security Extension for Microsoft Office&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Using Document Security Extension&amp;nbsp;for Microsoft Office software, you can maintain the confidentiality of sensitive information by protecting critical files against unauthorized access at all times - from document creation through distribution, archiving, and destruction - regardless of how the files are distributed or where they are stored.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>System requirements&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>32-bit or 64-bit versions of Microsoft Windows 7 or Windows 10&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Note: Document security extension for Microsoft Office is also expected to work on Microsoft Surface devices.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>32-bit or 64-bit versions Microsoft Office 2013,&amp;nbsp;2016, 2019 or Microsoft Office desktop applications installed as part of Office 365.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>1.3-GHz processor or higher&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>2GB of RAM&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>100 MB of available hard disk space&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;/content/acom/us/en/marketing-cloud/enterprise-content-management/forms-management.html&quot; target=&quot;_self&quot;>&lt;span class=&quot;text-light&quot;>Learn more about AEM Forms ›&lt;/span>&lt;/a>&lt;/div>&#xa;"/>
+            <end_14786001463630
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_2618"/>
+            <column_4a80
+                jcr:created="{Date}2016-11-08T10:42:15.358Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-08T10:42:40.448Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="1"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v1x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-08T10:42:40.448Z"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_4a80>
+            <horizontalrule_7df1
+                jcr:created="{Date}2016-11-08T10:42:59.340Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-08T10:42:59.340Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_9adc
+                jcr:created="{Date}2016-11-08T10:42:49.845Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-11T03:52:44.538Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="2;grid-span-1of2;grid-span-1of2;"
+                bgColor=" "
+                layout="2;grid-span-1of2;grid-span-1of2;"
+                layoutMode="spatial"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-11T03:52:44.538Z"
+                        jcr:lastModifiedBy="rbedi"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_9adc>
+            <text_d6fa
+                jcr:created="{Date}2016-11-08T10:43:45.542Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2019-05-16T07:17:06.938Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;strong>Learn more&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/go/aemforms&quot;>Learn more about AEM Forms&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://www.adobe.com/go/learn_aemforms_documentation_65&quot; target=&quot;_self&quot;>AEM 6.5 Forms Help&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/marketing-cloud/enterprise-content-management/forms-management.html&quot; target=&quot;_self&quot;>Get support&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://apps.enterprise.adobe.com/go/701a0000000likBAAQ&quot; target=&quot;_self&quot;>Become an OEM partner&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14786018170150
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_9adc"/>
+            <text_e2d2
+                jcr:created="{Date}2016-11-08T10:46:46.073Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-08T10:47:49.749Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;strong>Documentation&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://helpx.adobe.com/aem-forms/aem-document-security/aem-document-security-extension-help.html&quot; target=&quot;_self&quot;>AEM Document Security Extension for Microsoft Office Help&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <end_14786017698520
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_9adc"/>
+            <end_14786017353650
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_4a80"/>
+        </contentbody>
+    </jcr:content>
+</jcr:root>

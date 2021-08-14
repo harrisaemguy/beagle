@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2020-12-14T11:49:25.006Z"
+        cq:lastModifiedBy="shresinh"
+        cq:lastReplicated="{Date}2020-12-15T07:34:12.194Z"
+        cq:lastReplicatedBy="shresinh"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/onecolumnpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:uuid="f3f66146-46eb-4d37-af3b-761bede77242"
+        sling:resourceType="beagle/components/onecolumnpage"
+        applauncherTheme="light"
+        browserTitle="Thank you for providing your information"
+        footerRequired="true"
+        globalnavHighlight="Auto-detect"
+        globalnavProfileTheme="default"
+        groupSectionNavItems="no"
+        headerIcon="adobe-icon-color-adobe-A"
+        headerRequired="true"
+        hideInSectionNav="true"
+        hidePersonalizedHero="hide"
+        hideSectionNav="true"
+        marketSegmentRewrite="COM"
+        metaDescription=" "
+        navTitle="Adobe Captivate Prime LMS"
+        noFollow="true"
+        noIndex="true"
+        pageTitle="Adobe Captivate Prime LMS"
+        product="captivate-prime"
+        removeFromHtmlSitemap="true"
+        removeFromSitemap="true"
+        removeFromXmlSitemap="true"
+        stagelastReplicated="15-Dec-2020 07:22"
+        stagelastReplicatedBy="bgupta"
+        stageLastReplicationAction="ActivatedtoStage"
+        useH1Tags="pageTitle">
+        <image
+            jcr:lastModified="{Date}2020-12-14T11:49:24.995Z"
+            jcr:lastModifiedBy="shresinh"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+        <tophero
+            jcr:lastModified="{Date}2019-05-16T10:09:36.271Z"
+            jcr:lastModifiedBy="nedas"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            avoid="hero2-avoid-1"
+            color="hero2-theme-1"
+            fixedHeight="true"
+            height="hero2-size-5"
+            hideArticle="true"
+            hideCredits="true"
+            hideLink="true">
+            <image
+                jcr:lastModified="{Date}2019-05-16T10:09:36.271Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Adobe is a Leader in web content management. Again."
+                xcord="{Long}72"
+                ycord="{Long}7"/>
+            <article
+                jcr:lastModified="{Date}2017-07-11T12:48:15.786Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/hero/article"
+                articleAlignment="hero2-align-1"
+                width="hero2-basis-0">
+                <titleImage
+                    jcr:lastModified="{Date}2017-07-11T12:48:15.786Z"
+                    jcr:lastModifiedBy="nedas"
+                    jcr:primaryType="nt:unstructured"/>
+                <link
+                    jcr:primaryType="nt:unstructured"
+                    modalMode="VIDEO"
+                    size="1000x940"
+                    type="free">
+                    <image
+                        jcr:lastModified="{Date}2017-07-11T12:48:15.786Z"
+                        jcr:lastModifiedBy="nedas"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </link>
+            </article>
+        </tophero>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_aa29
+                jcr:created="{Date}2016-10-27T08:18:10.333Z"
+                jcr:createdBy="rikio"
+                jcr:lastModified="{Date}2019-05-16T10:10:51.389Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-10 grid-offset-3;"
+                bgColor=" "
+                columnCount="2"
+                grid0="8"
+                grid1="6"
+                layout="1;grid-cols-10 grid-offset-3;"
+                multiplier="8"
+                offset0="1"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v8x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2019-05-16T10:10:51.389Z"
+                        jcr:lastModifiedBy="nedas"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_aa29>
+            <text_fb03
+                jcr:created="{Date}2016-12-02T16:43:12.159Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2019-09-03T09:52:52.556Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-4-block&quot;>&lt;span class=&quot;text-light&quot;>Thank you for providing your information.&lt;/span>&lt;/div>&#xa;"/>
+            <text_1846
+                jcr:created="{Date}2019-09-03T09:53:36.468Z"
+                jcr:createdBy="nedas"
+                jcr:lastModified="{Date}2019-09-03T09:54:59.926Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Please click on the link below to download the whitepaper&lt;/span>&lt;/div>&#xa;"/>
+            <text_139f
+                jcr:created="{Date}2019-01-19T21:49:40.814Z"
+                jcr:createdBy="nedas"
+                jcr:lastModified="{Date}2019-01-19T21:49:40.814Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"/>
+            <standalonecta_3ff4
+                jcr:created="{Date}2019-01-19T21:39:28.796Z"
+                jcr:createdBy="nedas"
+                jcr:lastModified="{Date}2019-09-03T10:17:38.536Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/standalonecta"
+                ctabuttonalign="text-start"
+                ctabuttoncolor="merchpod-cta-button"
+                ctaType="{Boolean}true"
+                link="http://wwwimages.adobe.com/content/dam/acom/en/products/captivate-prime/PDFs/Adobe_StateofSocialLearning.pdf"
+                linkText="Download Whitepaper"
+                target="_blank"/>
+            <text_a9d8
+                jcr:created="{Date}2016-12-02T16:46:22.435Z"
+                jcr:createdBy="peharris"
+                jcr:lastModified="{Date}2017-07-12T11:09:08.025Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"/>
+            <text_f319
+                jcr:created="{Date}2020-01-10T08:42:09.647Z"
+                jcr:createdBy="nedas"
+                jcr:lastModified="{Date}2020-01-10T08:43:45.174Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-7-block&quot; style=&quot;text-align: center;&quot;>&lt;strong>&lt;span class=&quot;text-light&quot;>Interested in attending a &lt;/span>&lt;/strong>&lt;span class=&quot;text-light&quot;>&lt;strong>LIVE &lt;/strong>&lt;/span>&lt;strong>&lt;span class=&quot;text-light&quot;>demo of Adobe Captivate Prime LMS? &lt;a href=&quot;https://meetus.adobeevents.com/daily-demos/?WHITE&quot;>Register today&amp;nbsp;&lt;/a>&lt;/span>&lt;/strong>&lt;/div>&#xa;"/>
+            <text_d7e0
+                jcr:created="{Date}2019-09-03T10:02:30.222Z"
+                jcr:createdBy="nedas"
+                jcr:lastModified="{Date}2020-01-10T08:44:30.150Z"
+                jcr:lastModifiedBy="nedas"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-7-block&quot; style=&quot;text-align: center;&quot;>&lt;strong>&lt;span class=&quot;text-light&quot;>For any sales related queries you can write to&amp;nbsp;&lt;a href=&quot;mailto:captivateprimesales@adobe.com?Subject=Request%20for%20Information%20%7C%20Whitepapers&amp;amp;Body=Hi%20team%2C%0A%0AI%20am%20interested%20in%20knowing%20more%20about%20the%20Adobe%20Captivate%20Prime%20LMS.%0A%0AHere%20are%20my%20details%3A%0AName%3A%20%0APhone%3A%0ACity%3A%0ASize%20of%20my%20team%3A%0A%0ARegards%0A%20&quot; target=&quot;_self&quot;>captivateprimesales@adobe.com&lt;/a>&amp;nbsp;or fill up the form below. &lt;/span>&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-7-block&quot; style=&quot;text-align: center;&quot;>&lt;strong>&lt;span class=&quot;text-light&quot;>An Adobe representative will contact you at the earliest.&lt;/span>&lt;/strong>&lt;/div>&#xa;"/>
+            <end_14775562903380
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_aa29"/>
+        </contentbody>
+        <customizedfooter
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="wcm/foundation/components/iparsys"/>
+    </jcr:content>
+</jcr:root>

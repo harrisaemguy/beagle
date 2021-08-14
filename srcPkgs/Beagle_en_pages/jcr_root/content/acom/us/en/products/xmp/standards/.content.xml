@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-12-13T07:26:34.237Z"
+        cq:lastModifiedBy="rbedi"
+        cq:lastReplicated="{Date}2016-12-15T18:10:30.635Z"
+        cq:lastReplicatedBy="vko"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Standards"
+        jcr:uuid="55e11ccd-217e-4e9a-9ce2-a116b2bb1057"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="XMP standards | Adobe Extensible Metadata Platform (XMP)"
+        distType="dist5"
+        enableBreadcrumb="true"
+        gnavTheme="light"
+        hidePersonalizedHero="hide"
+        marqueeStyle="newMarquee"
+        metaDescription="Adobe Extensible Metadata Platform (XMP) provides an open and extensible file metadata framework, allowing standards to be expressed and carried throughout the workflow."
+        pageTitle="Standards"
+        stagelastReplicated="15-Dec-2016 18:10"
+        stagelastReplicatedBy="vko"
+        stageLastReplicationAction="ActivatedtoStage"
+        useH1Tags="pageTitle">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_a6a1
+                jcr:created="{Date}2016-11-04T11:39:02.454Z"
+                jcr:createdBy="nitsharm"
+                jcr:lastModified="{Date}2016-11-04T11:39:02.454Z"
+                jcr:lastModifiedBy="nitsharm"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="1"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v1x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-03T14:51:58.851Z"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_a6a1>
+            <text_9a0e
+                jcr:created="{Date}2016-11-04T12:06:17.198Z"
+                jcr:createdBy="nitsharm"
+                jcr:lastModified="{Date}2016-11-23T16:19:49.724Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;h5>XMP is an ISO standard&lt;/h5>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Since early 2012, the XMP specification part one, which defines the XMP data model and core namespaces, is an open, international&amp;nbsp;&lt;a href=&quot;http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=57421&quot;>ISO standard (16684-1)&lt;/a>.&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>The maintenance of the other parts of the XMP specification remain with Adobe.&lt;/span>&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;h5>Industry standards groups using XMP&lt;/h5>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>The XMP framework is open, extensible, and can accommodate existing metadata schemas. Various standards initiatives are using XMP as their framework of choice for implementation. The extensibility of XMP allows standards to be carried throughout the workflow. Below is the growing list of standards bodies working on initiatives based on XMP:&lt;/span>&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;h6>&lt;a href=&quot;http://ad-id.org/&quot; style=&quot;font-style: normal;&quot;>Ad-ID&lt;/a>&lt;/h6>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Ad-ID is the advertising industry’s supported coding standard for advertising assets across all media platforms. Ad-ID, the&amp;nbsp;&lt;a href=&quot;https://www.iab.com/&quot; target=&quot;_blank&quot;>Interactive Advertising Bureau&lt;/a>&amp;nbsp;(IAB), and Adobe announced in October 2013 the&amp;nbsp;&lt;a href=&quot;http://www.ad-id.org/news-announcements/ad-id-and-adobe-collaborate-digital-ad-slate-xmp-version-10-0&quot;>Ad-ID Digital Slate for XMP Version 1.0&lt;/a>. The Ad-ID Digital Slate is based on&amp;nbsp;XMP and&amp;nbsp;enables improved interoperability by allowing advertising assets to identify on which platforms (such as radio, print, online, mobile, over the top, place based) they should run.&amp;nbsp;Embedding this ID information directly into assets makes for more efficient and accurate tracking and measurement of assets throughout their cross-platform lifecycle. The Ad-ID Digital Slate also helps simplify workflows for everyone in the marketing supply chain through a consistent digital identification standard that all platforms can recognize.&lt;/span>&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;h6>&lt;a href=&quot;http://195.52.248.218/WebSite/adsml.nsf/HTML/Index.html&quot; style=&quot;font-style: normal;&quot;>AdsML&lt;/a>&lt;/h6>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>The AdsML Consortium is a growing list of companies and organizations united to create a set of international specifications and business processes for the exchange of advertising information and content. The Advertising Submission Standards Subset of AdsML is carried into workflows with XMP.&lt;/span>&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;h6>&lt;a href=&quot;https://wiki.creativecommons.org/wiki/XMP&quot; style=&quot;font-style: normal;&quot;>Creative Commons&lt;/a>&lt;/h6>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Creative Commons offers a flexible range of protections and freedoms for authors and artists. It has built upon the “all rights reserved” philosophy of traditional copyright to create a voluntary “some rights reserved” copyright.&lt;/span>&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;h6>&lt;span style=&quot;font-style: normal;&quot;>&lt;a href=&quot;http://www.idealliance.org/specifications/disc/specifications&quot;>Digital Image Submission Criteria (DISC)&lt;/a>&lt;/span>&lt;/h6>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>DISC, a working group of IDEAlliance, has developed the DISC Metadata for Digital Image Submission Specification, which defines standard metadata fields to be attached to digital images for submission to magazines for publication.&lt;/span>&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;h6>&lt;a href=&quot;http://www.dublincore.org/&quot; style=&quot;font-style: normal;&quot;>Dublin Core Metadata Initiative (DCMI)&lt;/a>&lt;/h6>&#xa;&lt;h6>&lt;span style=&quot;font-style: normal;&quot;>&lt;span class=&quot;text-light&quot;>DCMI&amp;nbsp;is an open forum engaged in the development of interoperable online metadata standards that support a broad range of purposes and business models.&lt;/span>&lt;/span>&lt;/h6>&#xa;&lt;p>&lt;a href=&quot;http://iptc.org/standards/photo-metadata/iptc-standard/&quot;>&amp;nbsp;&lt;/a>&lt;/p>&#xa;&lt;h6>&lt;a href=&quot;http://iptc.org/standards/photo-metadata/iptc-standard/&quot; style=&quot;font-style: normal;&quot;>International Press Telecommunications Council (IPTC)&lt;/a>&lt;/h6>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>The IPTC was established to safeguard the telecommunications interests of the world’s news organizations. Now its activities are primarily focused on developing and publishing industry standards for the interchange of news data. Since 2004, a joint effort of the IPTC, Adobe, and IDEAlliance has been working on the IPTC Core Schema for XMP for a smooth and explicit transfer of metadata values from the IPTC Headers to the XMP framework.&lt;/span>&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;h6>&lt;a href=&quot;http://www.metadataworkinggroup.com/&quot; style=&quot;font-style: normal;&quot;>Metadata Working Group&lt;/a>&lt;/h6>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>The Metadata Working Group (MWG) was formed in 2006 as a consortium of leading companies in the digital media industry focused on the preservation and seamless interoperability of digital image metadata, making it available to all applications, devices, and services. The MWG publishes technical specifications that describe how to effectively store metadata into digital media files. These royalty-free specifications are made available to manufacturers and service providers so they can create products that store metadata in a consistent way, and that allow consumers to maintain control over their valuable information. Where possible, these specifications rely on existing standards.&lt;/span>&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;h6>&lt;a href=&quot;http://www.useplus.com/index.asp?&quot; style=&quot;font-style: normal;&quot;>Picture Licensing Universal System (PLUS) Coalition&lt;/a>&lt;/h6>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>The PLUS Coalition is an international nonprofit organization dedicated to the development of industry standards for the communication of image rights metadata. In the PLUS Coalition, publishers, designers, advertising agencies, photographers, illustrators, stock agencies, museums, libraries, educational institutions, and software developers work collaboratively to simplify and facilitate the licensing of images. The PLUS standards provide a universal image licensing language, defining and codifying the structure and elements of image licenses. PLUS leverages the power of XMP, allowing users to embed a PLUS Universal License Statement in digital image files when capturing, editing, managing, and delivering images.&lt;/span>&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;h6>&lt;a href=&quot;http://www.idealliance.org/specifications/prism-metadata-initiative&quot; style=&quot;font-style: normal;&quot;>Publishing Requirements for Industry Standard Metadata (PRISM)&lt;/a>&lt;/h6>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>A working group of IDEAlliance, the organization has developed the PRISM Specification, which defines an XML metadata vocabulary for managing, aggregating, and processing magazine, news, catalog, book, and mainstream journal content.&lt;/span>&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;h6>&lt;a href=&quot;https://www.w3.org/RDF/&quot; style=&quot;font-style: normal;&quot;>World Wide Web Consortium (W3C)&lt;/a>&lt;/h6>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>The W3C develops interoperable technologies (specifications, guidelines, software, and tools) to lead the web to its full potential. One enabling technology is the Resource Description Framework (RDF) that uses XMP.&lt;/span>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14782595424600
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_a6a1"/>
+            <column_5571
+                jcr:created="{Date}2016-11-04T11:13:42.634Z"
+                jcr:createdBy="nitsharm"
+                jcr:lastModified="{Date}2016-11-04T11:13:42.634Z"
+                jcr:lastModifiedBy="nitsharm"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="1"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v1x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-03T14:51:58.851Z"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_5571>
+            <horizontalrule_8214
+                jcr:created="{Date}2016-11-04T11:13:44.473Z"
+                jcr:createdBy="nitsharm"
+                jcr:lastModified="{Date}2016-11-04T11:13:44.473Z"
+                jcr:lastModifiedBy="nitsharm"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_519f
+                jcr:created="{Date}2016-11-04T11:13:46.674Z"
+                jcr:createdBy="nitsharm"
+                jcr:lastModified="{Date}2016-11-04T12:01:48.582Z"
+                jcr:lastModifiedBy="nitsharm"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-04T12:01:48.582Z"
+                        jcr:lastModifiedBy="nitsharm"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_519f>
+            <text_feb8
+                jcr:created="{Date}2016-11-04T11:13:48.997Z"
+                jcr:createdBy="nitsharm"
+                jcr:lastModified="{Date}2016-11-23T16:20:16.910Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Resources&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/xmp/white-papers.html&quot; target=&quot;_self&quot;>Whitepapers&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14782609085960
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_519f"/>
+            <text_1175
+                jcr:created="{Date}2016-11-04T11:13:51.237Z"
+                jcr:createdBy="nitsharm"
+                jcr:lastModified="{Date}2016-11-04T11:13:51.237Z"
+                jcr:lastModifiedBy="nitsharm"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Downloads&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;https://www.adobe.com/devnet/xmp/&quot; target=&quot;_self&quot;>XMP SDK&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14782609085961
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_519f"/>
+            <text_a5a2
+                jcr:created="{Date}2016-11-04T11:13:53.473Z"
+                jcr:createdBy="nitsharm"
+                jcr:lastModified="{Date}2016-11-23T16:20:42.044Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Support&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://forums.adobe.com/community/design_development/xmp_sdk&quot; target=&quot;_self&quot;>User forums&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.adobe.com/devnet/xmp.html&quot; target=&quot;_self&quot;>Developer resources&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14782609085972
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_519f"/>
+            <text_b5af
+                jcr:created="{Date}2016-11-04T11:13:55.718Z"
+                jcr:createdBy="nitsharm"
+                jcr:lastModified="{Date}2016-11-10T17:04:17.881Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Page tools&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;i class=&quot;icon-facebook&quot;>&lt;/i>&amp;nbsp;&lt;a href=&quot;http://www.facebook.com/sharer.php&quot;>Share on Facebook&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://twitter.com/&quot; style=&quot;font-style: normal; font-weight: 300;&quot;>&lt;i class=&quot;icon-twitter&quot;>&lt;/i>&lt;/a>&amp;nbsp;&lt;a href=&quot;http://twitter.com/&quot;>Share on Twitter&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;i class=&quot;icon-linkedin&quot;>&lt;/i>&amp;nbsp;&lt;a href=&quot;http://www.linkedin.com/&quot;>Share on&amp;nbsp;LinkedIn&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span class=&quot;text-light&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; line-height: 16px;&quot;>Share on Facebook&lt;/span>&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span class=&quot;text-light&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; line-height: 16px;&quot;>Share on Facebook&lt;/span>&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14782609085973
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_519f"/>
+            <end_14782600960110
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5571"/>
+        </contentbody>
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2016-12-13T07:26:34.214Z"
+                jcr:lastModifiedBy="rbedi"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"/>
+        </imagelayer>
+        <credits jcr:primaryType="nt:unstructured"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video jcr:primaryType="nt:unstructured">
+                <image
+                    jcr:lastModified="{Date}2016-12-13T07:26:34.214Z"
+                    jcr:lastModifiedBy="rbedi"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+    </jcr:content>
+</jcr:root>

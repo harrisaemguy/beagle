@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <jcr:content/>
+    <backup_community-translation/>
+    <creative-cloud-fonts/>
+    <fonts-by-adobe/>
+    <font-licensing/>
+    <install-instructions/>
+    <opentype/>
+    <creative-suite-5-installed-fonts/>
+    <adobe-type-references-tips/>
+    <creative-suite-4-installed-fonts/>
+    <creative-suite-3-installed-fonts/>
+    <font-designers/>
+    <font-team/>
+    <adobe-type-originals/>
+    <font-information/>
+    <adobe-type-specimens/>
+    <creative-suite-6-installed-fonts/>
+    <typekit-tiers/>
+    <rep:policy/>
+</jcr:root>

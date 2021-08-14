@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-11-30T02:34:47.604Z"
+        cq:lastModifiedBy="atrevino"
+        cq:lastReplicated="{Date}2016-11-30T02:37:47.934Z"
+        cq:lastReplicatedBy="atrevino"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Comparison guide"
+        jcr:uuid="73b6d499-c380-4670-8007-ac131721388d"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        bodyClass="whiteBackground"
+        browserTitle="Comparison guide | Adobe Font Folio Family"
+        distType="dist5"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideMerchandisingBar="show"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="hide"
+        marketSegmentRewrite="none"
+        marqueeStyle="newMarquee"
+        metaDescription="Learn more and compare the product offerings of Adobe Font Folio Family."
+        modalSize="426x240"
+        pageTitle="Comparison guide"
+        stagelastReplicated="30-Nov-2016 02:37"
+        stagelastReplicatedBy="atrevino"
+        stageLastReplicationAction="ActivatedtoStage">
+        <sectionMore jcr:primaryType="nt:unstructured"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2016-11-30T02:34:47.575Z"
+                jcr:lastModifiedBy="atrevino"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2016-11-30T02:34:47.575Z"
+                    jcr:lastModifiedBy="atrevino"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_151b
+                jcr:created="{Date}2016-11-23T10:51:52.557Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-23T10:52:16.457Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="5"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v5x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-23T10:52:16.457Z"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_151b>
+            <text_4a97
+                jcr:created="{Date}2016-11-23T10:52:47.879Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-23T10:56:52.021Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>Compare editions of Adobe® Font Folio® software.&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>Product editions&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;"/>
+            <table_90ff
+                jcr:created="{Date}2016-11-23T10:52:38.419Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-23T11:04:12.381Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/table"
+                tableDataHTML="&lt;table width=&quot;100%&quot; class=&quot;stripe-grey-white-reverse data-table-row-em&quot;>&#xa;&lt;thead>&lt;tr>&lt;th>&lt;div class=&quot;text-5-block&quot;>Whether you are a professional, student, or teacher, Adobe has a Font Folio offering for you.&lt;/div>&#xa;&lt;/th>&#xa;&lt;th>&lt;p>&lt;a href=&quot;/content/acom/us/en/products/fontfolio.html&quot; adhocenable=&quot;false&quot;>Font Folio 11.1&lt;/a>&lt;/p>&#xa;&lt;/th>&#xa;&lt;th>&lt;p>&lt;a href=&quot;/content/acom/us/en/products/fontfolio-education-essentials.html&quot; adhocenable=&quot;false&quot;>Font Folio Education Essentials 11&lt;/a>&lt;/p>&#xa;&lt;/th>&#xa;&lt;/tr>&lt;/thead>&lt;tbody>&lt;tr>&lt;td>Includes more than 2,400 high-quality OpenType® fonts from the Adobe Type Library&lt;/td>&#xa;&lt;td>&lt;p style=&quot;text-align: center;&quot;>●&lt;/p>&#xa;&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Includes 500 OpenType fonts specifically chosen to provide depth, breadth, and value for higher education&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>&lt;p style=&quot;text-align: center;&quot;>●&lt;/p>&#xa;&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Includes fonts that support Central and Eastern European languages, as well as Greek and Cyrillic&lt;/td>&#xa;&lt;td>&lt;p style=&quot;text-align: center;&quot;>●&lt;/p>&#xa;&lt;/td>&#xa;&lt;td>&lt;p style=&quot;text-align: center;&quot;>●&lt;/p>&#xa;&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Includes fonts that support Japanese, Korean, Hebrew, Arabic, Thai, and Devanagari&lt;/td>&#xa;&lt;td>&lt;p style=&quot;text-align: center;&quot;>●&lt;/p>&#xa;&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Includes the Adobe Type Library Reference Book, Fourth Edition&lt;/td>&#xa;&lt;td>&lt;p style=&quot;text-align: center;&quot;>●&lt;/p>&#xa;&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Includes keyboard layouts for more than 40 Pi fonts&lt;/td>&#xa;&lt;td>&lt;p style=&quot;text-align: center;&quot;>●&lt;/p>&#xa;&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Includes an OpenType User Guide (PDF)&lt;/td>&#xa;&lt;td>&lt;p style=&quot;text-align: center;&quot;>●&lt;/p>&#xa;&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Recommended by AIGA, the professional association for design, for educators and students&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>&lt;p style=&quot;text-align: center;&quot;>●&lt;/p>&#xa;&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Requires proof of academic eligibility prior to shipment of order&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>&lt;p style=&quot;text-align: center;&quot;>●&lt;/p>&#xa;&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Limited to one purchase within a 12 month period&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>&lt;p style=&quot;text-align: center;&quot;>●&lt;/p>&#xa;&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Licensed for use on either 5, 10, or 20 computers&lt;/td>&#xa;&lt;td>&lt;p style=&quot;text-align: center;&quot;>●&lt;/p>&#xa;&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;/tr>&lt;tr>&lt;td>Licensed for use on one computer&lt;/td>&#xa;&lt;td>&lt;/td>&#xa;&lt;td>&lt;p style=&quot;text-align: center;&quot;>●&lt;/p>&#xa;&lt;/td>&#xa;&lt;/tr>&lt;/tbody>&lt;/table>"/>
+            <end_14798983125620
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_151b"/>
+            <column_bb9d
+                jcr:created="{Date}2016-11-23T10:52:55.289Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-23T10:53:17.615Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                multiplier="1"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v1x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-23T10:53:17.615Z"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_bb9d>
+            <horizontalrule_6a8d
+                jcr:created="{Date}2016-11-23T10:53:25.565Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-23T10:53:25.565Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/horizontalrule"/>
+            <column_d750
+                jcr:created="{Date}2016-11-23T10:53:31.783Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-23T10:54:01.915Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                bgColor=" "
+                layout="4;grid-span-1of4;grid-span-1of4;grid-span-1of4;grid-span-1of4;"
+                layoutMode="spatial"
+                multiplier="4"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v4x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2016-11-23T10:54:01.915Z"
+                        jcr:lastModifiedBy="dvirmani"
+                        jcr:primaryType="nt:unstructured"/>
+                </imagelayer>
+            </column_d750>
+            <text_1efb
+                jcr:created="{Date}2016-11-23T10:54:26.715Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-23T10:54:26.715Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Learning&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-originals.html&quot;>&lt;span class=&quot;text-light&quot;>About Adobe Originals&lt;/span>&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/opentype.html&quot;>&lt;span class=&quot;text-light&quot;>About OpenType&lt;/span>&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/adobe-type-references-tips.html&quot;>Type reference materials&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14798984419280
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_d750"/>
+            <text_6531
+                jcr:created="{Date}2016-11-23T10:54:29.532Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-23T10:54:29.532Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Help&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/licensing-faq.html&quot;>&lt;span class=&quot;text-light&quot;>Type Licensing FAQ&lt;/span>&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;/content/acom/us/en/products/fontfolio/faq.html&quot;>&lt;span class=&quot;text-light&quot;>Font Folio FAQ&lt;/span>&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;https://typekit.com/help&quot;>&lt;span class=&quot;text-light&quot;>Web Font FAQ&lt;/span>&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://forums.adobe.com/community/typography_fonts&quot;>&lt;span class=&quot;text-light&quot;>Adobe Type user forums&lt;/span>&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <break_14798984419291
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_d750"/>
+            <text_acb0
+                jcr:created="{Date}2016-11-23T10:54:32.433Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-23T10:54:32.433Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Resources&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/dam/acom/en/fontfolio/pdfs/fontfolio11_1_datasheet.pdf&quot;>Font Folio 11.1 datasheet&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/dam/acom/en/fontfolio/pdfs/fontfolio11.1_font_list.pdf&quot;>Font Folio 11.1 font list&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/dam/acom/en/fontfolio/pdfs/fontfolioeducationessentials_datasheet.pdf&quot;>Font Folio Education Essentials datasheet&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/dam/acom/en/fontfolio/pdfs/fontfolioeducationessentials_font_list.pdf&quot;>Font Folio Education Essentials font list&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blog.typekit.com/&quot;>Adobe Type &amp;amp; Typekit blog&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://blogs.adobe.com/CCJKType/&quot; style=&quot;font-style: normal; font-weight: 300;&quot;>CJK Type blog (Asian fonts)&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;/content/acom/us/en/products/type/install-instructions.html&quot;>Font installation instructions&lt;/a>&lt;/span>&lt;/div>&#xa;"/>
+            <break_14798984419302
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="break"
+                correspondingStart="column_d750"/>
+            <text_c766
+                jcr:created="{Date}2016-11-23T10:54:35.847Z"
+                jcr:createdBy="dvirmani"
+                jcr:lastModified="{Date}2016-11-23T10:54:35.847Z"
+                jcr:lastModifiedBy="dvirmani"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Follow us&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;i class=&quot;icon-facebook&quot;>&lt;/i>&amp;nbsp;&lt;a href=&quot;http://www.facebook.com/sharer.php&quot;>&lt;span class=&quot;text-light&quot;>Share on Facebook&lt;/span>&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;a href=&quot;http://twitter.com/&quot; style=&quot;font-style: normal; font-weight: 300;&quot;>&lt;i class=&quot;icon-twitter&quot;>&lt;/i>&amp;nbsp;&lt;span class=&quot;text-light&quot;>Share on Twitter&lt;/span>&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;i class=&quot;icon-linkedin&quot;>&lt;/i>&amp;nbsp;&lt;span class=&quot;text-light&quot;>&lt;a href=&quot;http://www.linkedin.com/&quot;>Share on LinkedIn&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; line-height: 16px;&quot;>Share on Facebook&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; line-height: 16px;&quot;>Share on Facebook&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal;&quot;>Share on Facebook&lt;/span>&lt;/div>&#xa;&lt;div style=&quot;position: absolute; left: -10000px; width: 9000px; top: 0px;&quot;>&lt;span style=&quot;color: rgb(0, 102, 153); font-family: adobe-clean, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal;&quot;>Share on Facebook&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_14798984117920
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_d750"/>
+            <end_14798983752940
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_bb9d"/>
+        </contentbody>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2017-09-22T00:35:25.036Z"
+        cq:lastModifiedBy="golee"
+        cq:lastReplicated="{Date}2017-09-22T00:54:57.049Z"
+        cq:lastReplicatedBy="golee"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fragmentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="After Effects Single App"
+        jcr:uuid="9f873b9d-ebcb-4056-924d-fb5899b57cce"
+        sling:resourceType="beagle/components/fragmentpage"
+        hideInNav="{Boolean}true"
+        stagelastReplicated="09-Oct-2018 23:50"
+        stagelastReplicatedBy="derjones"
+        stageLastReplicationAction="ActivatedtoStage">
+        <textandimage
+            jcr:lastModified="{Date}2017-09-22T00:19:07.232Z"
+            jcr:lastModifiedBy="golee"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/textandimage"
+            align="right"
+            basicLayout="2;grid-cols-6;grid-cols-6;"
+            grid0="12"
+            grid1="0"
+            layout="2;grid-cols-12 grid-offset-1      ;grid-cols-0 grid-offset--1      ;"
+            layoutType="advanceLayout"
+            modalsize="426x240"
+            offset0="1"
+            offset1="-1"
+            section="v"
+            target="_self"
+            text="&lt;div class=&quot;text-0-block&quot; style=&quot;text-align: center;&quot;>&lt;i class=&quot;adobe-icon-color-segment-icon-ae-cc-app-grey&quot;>&lt;/i>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>&lt;strong>Adobe After Effects Single App&lt;/strong>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot; style=&quot;text-align: center;&quot;>Get After Effects as part of Creative Cloud for just US$20.99/mo.&lt;br>&#xa;&lt;/div>&#xa;"
+            textIsRich="true">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    type="free"/>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2017-09-22T00:19:07.232Z"
+                jcr:lastModifiedBy="golee"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alignment="center"
+                alt="null"
+                imageRotate="0"/>
+        </textandimage>
+    </jcr:content>
+</jcr:root>

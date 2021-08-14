@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2021-06-14T11:59:03.281Z"
+        cq:lastModifiedBy="21n52271"
+        cq:lastReplicated="{Date}2021-07-02T11:20:23.701Z"
+        cq:lastReplicatedBy="21n52271"
+        cq:lastReplicationAction="Activate"
+        cq:tags="[filters:tcs-cs,filters:tcs-cs/rh]"
+        cq:template="/apps/beagle/templates/customershowcasedetailpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Easily Create Android and iOS Mobile Apps"
+        jcr:uuid="7932dd24-fe39-4e78-9ed2-3583c544116a"
+        sling:resourceType="beagle/components/customershowcasedetailpage">
+        <customershowcasecard
+            jcr:lastModified="{Date}2021-06-14T11:59:03.267Z"
+            jcr:lastModifiedBy="21n52271"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/customershowcasecard"
+            cardType="standard"
+            companyName="Easily Create Android and iOS Mobile Apps"
+            creationDate="{Date}2018-08-19T17:13:00.000+05:30"
+            link1="https://www.adobe.com/products/robohelp/whitepaper-easily-create-android-and-ios-mobile-apps.html"
+            link1Target="_blank"
+            link1Text="Read more"
+            link2Target="_self"
+            orderDate="{Date}2018-07-01T22:46:00.000+05:30">
+            <contentlayer jcr:primaryType="nt:unstructured">
+                <video
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="beagle/components/modalcontent/socialsharemobilepage"
+                    size="426x240"
+                    type="free">
+                    <social jcr:primaryType="nt:unstructured"/>
+                    <meta
+                        jcr:primaryType="nt:unstructured"
+                        type="website">
+                        <image
+                            jcr:lastModified="{Date}2021-06-14T11:59:03.267Z"
+                            jcr:lastModifiedBy="21n52271"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="beagle/components/image"
+                            alt="&amp;nbsp;"/>
+                    </meta>
+                    <tracking jcr:primaryType="nt:unstructured"/>
+                </video>
+            </contentlayer>
+            <image
+                jcr:lastModified="{Date}2021-06-14T11:59:03.267Z"
+                jcr:lastModifiedBy="21n52271"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Easily Create Android and iOS Mobile Apps"
+                fileReference="/content/dam/acom/en/products/technicalcommunicationsuite/technicalcommunicationsuite_2019/images/easily_create_android_and_ios_mobile_apps.png"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </customershowcasecard>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <jcr:content/>
+    <learn-more-old/>
+    <features/>
+    <buying-guide/>
+    <advanced-elearning/>
+    <rapid-elearning/>
+    <responsive-elearning/>
+    <reviews/>
+    <showcase/>
+    <education/>
+    <screen-capture/>
+    <mobile-learning/>
+    <worlds-best-elearning-tool/>
+    <vipdownload/>
+    <captivate-draft/>
+    <screen-recording/>
+    <download-trial/>
+    <smart-elearning/>
+    <fluid-boxes/>
+    <roundtripping-adobecc/>
+    <auto-migration/>
+    <responsive-simulations/>
+    <typekit-integration/>
+    <multistate-objects/>
+    <asset-store/>
+    <responsive-authoring/>
+    <virtual-reality/>
+    <interactive-videos/>
+    <powerpoint-to-elearning/>
+    <events/>
+    <webinar/>
+    <certificate/>
+    <future-ready-eLearning/>
+    <direct-download/>
+    <learn-more/>
+    <ideal_user/>
+    <education_continuity/>
+    <certification-faq/>
+    <rep:policy/>
+</jcr:root>

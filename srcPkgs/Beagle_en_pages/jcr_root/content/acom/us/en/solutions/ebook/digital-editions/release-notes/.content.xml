@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2021-04-14T08:19:14.540Z"
+        cq:lastModifiedBy="dmichael"
+        cq:lastReplicated="{Date}2021-04-14T08:19:33.212Z"
+        cq:lastReplicatedBy="dmichael"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/beagle/templates/fullwidthcontentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Release Notes"
+        jcr:uuid="4387f0a5-0d94-40a4-80da-e3a178b92418"
+        sling:resourceType="beagle/components/fullwidthcontentpage"
+        alignment="left"
+        billingFrequency="ANNUAL"
+        bodyClass="whiteBackground"
+        browserTitle="Adobe Digital Editions | Release Notes"
+        channel="adobe.com"
+        commitment="YEAR"
+        distType="dist5"
+        freeTrialUrlLoggedInModalScrolling="no"
+        freeTrialUrlLoggedInModalSize="426x240"
+        freeTrialUrlLoggedInTarget="_self"
+        freeTrialUrlModalScrolling="no"
+        freeTrialUrlModalSize="426x240"
+        freeTrialUrlTarget="_self"
+        globalnavProfileTheme="default"
+        gnavTheme="light"
+        groupSectionNavItems="no"
+        hideMerchandisingBar="inherit"
+        hidePersonalizedHero="hide"
+        hidePromoComponent="inherit"
+        languageDirection="ltr"
+        marketSegmentRewrite="COM"
+        marqueeStyle="newMarquee"
+        metaDescription="Release Notes&#xa;"
+        modalSize="426x240"
+        modelCode="INDIVIDUAL"
+        navTitle="Release Notes"
+        pageTitle="Release Notes"
+        pricePoint="REGULAR"
+        seodescription=""
+        stagelastReplicated="05-Sep-2017 19:54"
+        stagelastReplicatedBy="sale"
+        stageLastReplicationAction="ActivatedtoStage"
+        topPadding="Default (Top Padding - 7 rem)"
+        tryLinkModalScrolling="no"
+        tryLinkModalSize="426x240"
+        tryLinkProductPlanModalScrolling="no"
+        tryLinkProductPlanModalSize="426x240"
+        tryLinkProductPlanTarget="_self"
+        tryLinkTarget="_self"
+        useH1Tags="pageTitle">
+        <contentbody
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/parsys">
+            <column_126b
+                jcr:lastModified="{Date}2017-08-30T23:00:50.452Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12 grid-offset-2;"
+                bgColor=" "
+                layout="1;grid-cols-12 grid-offset-2;"
+                section="t"
+                showBorders="false">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-08-30T23:00:50.452Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_126b>
+            <column_a3e5
+                jcr:created="{Date}2017-09-01T23:10:17.687Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-01T23:10:30.131Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12;"
+                bgColor=" "
+                layout="1;grid-cols-12;"
+                layoutMode="structured"
+                multiplier="2"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v2x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-01T23:10:30.131Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_a3e5>
+            <end_15043074176920
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_a3e5"/>
+            <column_5f31
+                jcr:created="{Date}2017-09-01T22:28:02.810Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2017-09-01T23:09:28.936Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                basicLayout="1;grid-cols-12;"
+                bgColor=" "
+                layout="1;grid-cols-12;"
+                layoutMode="structured"
+                multiplier="6"
+                section="v"
+                showBorders="false"
+                whitespace="grid-padded-v6x">
+                <imagelayer jcr:primaryType="nt:unstructured">
+                    <image
+                        jcr:lastModified="{Date}2017-09-01T23:09:28.936Z"
+                        jcr:lastModifiedBy="sale"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="beagle/components/image"
+                        alt="&amp;nbsp;"
+                        xcord="{Long}50"
+                        ycord="{Long}50"/>
+                </imagelayer>
+            </column_5f31>
+            <text_e293
+                jcr:created="{Date}2017-09-01T22:28:16.096Z"
+                jcr:createdBy="sale"
+                jcr:lastModified="{Date}2021-04-14T08:19:14.535Z"
+                jcr:lastModifiedBy="dmichael"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/text"
+                text="&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Changes in ADE 4.5.11&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>ADE 4.5.11.187606 (Mac only)&lt;br>&#xa;&lt;/strong>&lt;/span>This update resolves:&lt;/div>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li> Bug fix for Security vulnerability&lt;/li>&#xa;&lt;/ul>&#xa;&lt;div class=&quot;text-6-block&quot;>Refer Security bulletin at,&amp;nbsp;&lt;a href=&quot;https://helpx.adobe.com/security/products/Digital-Editions/apsb21-26.html &quot;>https://helpx.adobe.com/security/products/Digital-Editions/apsb21-26.html&amp;nbsp;&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>ADE 4.5.11.187303 (Windows only)&lt;/strong>&lt;/span>&lt;br>&#xa;This update resolves:&lt;/div>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>Bug fix for Security vulnerability&lt;/li>&#xa;&lt;/ul>&#xa;&lt;div class=&quot;text-6-block&quot;>Refer Security bulletin at,&amp;nbsp;&lt;a href=&quot;https://helpx.adobe.com/security/products/Digital-Editions/apsb20-23.html&quot;>https://helpx.adobe.com/security/products/Digital-Editions/apsb20-23.html&lt;/a>&lt;/div>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>ADE 4.5.11&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>This update resolves:&lt;/div>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>Bug fixes for security vulnerabilities.&lt;/li>&#xa;&lt;li>Compatibility for dark theme in Mac.&lt;/li>&#xa;&lt;li>Has the ePub3 rendering improvements.&lt;br>&#xa;&lt;/li>&#xa;&lt;/ul>&#xa;&lt;div class=&quot;text-6-block&quot;>Refer Security bulletin at,&amp;nbsp;&lt;a href=&quot;https://helpx.adobe.com/security/products/Digital-Editions/apsb20-07.html&quot;>https://helpx.adobe.com/security/products/Digital-Editions/apsb20-07.html&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>If you are using the earlier version of Adobe Digital Editions, we recommend that you update to 4.5.11&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Changes in ADE 4.5.10&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>ADE 4.5.10.186048 (Windows only)&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>This update resolves:&lt;/div>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>Bug fix for Security vulnerability&lt;/li>&#xa;&lt;/ul>&#xa;&lt;div class=&quot;text-6-block&quot;>Refer Security bulletin at, &lt;a href=&quot;https://helpx.adobe.com/security/products/Digital-Editions/apsb19-16.html&quot;>https://helpx.adobe.com/security/products/Digital-Editions/apsb19-16.html&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>ADE 4.5.10.185749 (Win, Mac, iOS &amp;amp; Android)&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>This update resolves:&lt;/div>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>Has ePub3 rendering improvements&lt;/li>&#xa;&lt;li>Bug fixes for Security vulnerabilities&lt;/li>&#xa;&lt;/ul>&#xa;&lt;div class=&quot;text-6-block&quot;>Refer Security bulletin at,&amp;nbsp;&lt;a href=&quot;https://helpx.adobe.com/security/products/Digital-Editions/apsb19-04.html&quot;>https://helpx.adobe.com/security/products/Digital-Editions/apsb19-04.html&lt;/a>&lt;br>&#xa;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Changes in ADE 4.5.9&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>This update resolves:&lt;/div>&#xa;&lt;ul class=&quot;text-6-block&quot;>&#xa;&lt;li>The issue &amp;quot;Connection Error Detected: Digital Editions could not connect to the fulfillment server.&amp;quot;&lt;/li>&#xa;&lt;li>Has ePub3 rendering improvements&lt;/li>&#xa;&lt;li>Bug fixes for Security vulnerabilities&lt;/li>&#xa;&lt;/ul>&#xa;&lt;div class=&quot;text-6-block&quot;>Refer Security bulletin at&amp;nbsp;&lt;a href=&quot;https://helpx.adobe.com/security/products/Digital-Editions/apsb18-27.html&quot;>https://helpx.adobe.com/security/products/Digital-Editions/apsb18-27.html&lt;/a>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Changes in ADE 4.5.8&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>This update resolves an out-of-bounds read vulnerability rated Important, and a stack overflow vulnerability rated Important that is caused by unsafe processing of specially crafted epub files. Refer Security bulletin at&amp;nbsp;&lt;a href=&quot;https://helpx.adobe.com/security/products/Digital-Editions/apsb18-13.html&quot;>https://helpx.adobe.com/security/products/Digital-Editions/apsb18-13.html&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Changes in ADE 4.5.7&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>This&amp;nbsp;update&amp;nbsp;addresses&amp;nbsp;an XML external entity processing vulnerability rated critical that&lt;br>&#xa; could&amp;nbsp;lead to information disclosure,&amp;nbsp;out-of-bounds read&amp;nbsp;vulnerabilities&amp;nbsp;that could lead to the&amp;nbsp;disclosure of memory addresses and a memory corruption vulnerability&amp;nbsp;that could lead to the disclosure of memory addresses. Refer Security bulletin at &lt;a href=&quot;https://helpx.adobe.com/security/products/Digital-Editions/apsb17-39.html&quot;>https://helpx.adobe.com/security/products/Digital-Editions/apsb17-39.html&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Changes in ADE 4.5.6&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>This update resolves a critical heap buffer overflow vulnerability that could lead to code execution, seven memory corruption vulnerabilities rated important that could lead to disclosure of memory addresses and an XML external entity processing vulnerability rated critical that could lead to information disclosure. Refer Security bulletin at &lt;a href=&quot;https://helpx.adobe.com/security/products/Digital-Editions/apsb17-27.html&quot;>https://helpx.adobe.com/security/products/Digital-Editions/apsb17-27.html&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Changes in ADE 4.5.5&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Multiple security bug fixes for Adobe Digital Editions memory corruption vulnerability. Refer Security bulletin at &lt;a href=&quot;https://helpx.adobe.com/security/products/Digital-Editions/apsb17-20.html&quot;>https://helpx.adobe.com/security/products/Digital-Editions/apsb17-20.html&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Changes in ADE 4.5.4&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Multiple security bug fixes for Adobe Digital Editions memory corruption vulnerability. Refer Security bulletin at &lt;a href=&quot;https://helpx.adobe.com/security/products/Digital-Editions/apsb17-05.html&quot;>https://helpx.adobe.com/security/products/Digital-Editions/apsb17-05.html&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Changes in ADE 4.5.3&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>This update resolves an important vulnerability that could result in a memory address leak, and an important XML parsing vulnerability that could lead to information disclosure. Refer Security bulletin at, &lt;a href=&quot;https://helpx.adobe.com/security/products/Digital-Editions/apsb16-45.html&quot;>https://helpx.adobe.com/security/products/Digital-Editions/apsb16-45.html&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Changes in ADE 4.5.2&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>Multiple security bug fixes for Adobe Digital Editions memory corruption vulnerability . Refer Security bulletin at&lt;a href=&quot; https://helpx.adobe.com/security/products/Digital-Editions/apsb16-28.html&quot;> https://helpx.adobe.com/security/products/Digital-Editions/apsb16-28.html&lt;/a>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&amp;nbsp;&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Changes in ADE 4.5.1&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;ul>&#xa;&lt;li>Security bug fix for Adobe Digital Editions memory corruption vulnerability (PSIRT 4243). Refer Security bulletin at &lt;a href=&quot;https://helpx.adobe.com/security/products/Digital-Editions/apsb16-06.html&quot;>https://helpx.adobe.com/security/products/Digital-Editions/apsb16-06.html&lt;/a>&lt;/li>&#xa;&lt;li>New UI refinements&lt;/li>&#xa;&lt;li>Localization support in additional 6 languages (JA,IT,KO,ES,FR &amp;amp; DE) for iOS and Android version of ADE&lt;/li>&#xa;&lt;li>iPhone support&lt;/li>&#xa;&lt;/ul>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Changes in ADE 4.5&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;ul>&#xa;&lt;li>Seamless fulfillment of books across devices: With this new feature, when a consumer fulfills a book on one device, the book will be automatically downloaded to all the other devices that belong to this consumer (activated using the same user ID).&lt;/li>&#xa;&lt;/ul>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Changes in ADE 4.0.3&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;ul>&#xa;&lt;li>Support is now available for navigational items like Landmarks, Pages list, Images list and Tables list.&lt;/li>&#xa;&lt;li>MathML support is now available for ADE on Windows.&lt;/li>&#xa;&lt;li>Audio and video content in the eBooks can be progressively downloaded on all platforms.&lt;/li>&#xa;&lt;li>Erasing the authorization of this computer adds one more to your number of allowed authorizations.&lt;/li>&#xa;&lt;li>An intuitive popup box for controlling media overlays.&lt;/li>&#xa;&lt;li>The Scrubber bar can be used to navigate to pages across eBooks.&lt;/li>&#xa;&lt;li>Full support for EPUB’s Fragment Identifier.&lt;/li>&#xa;&lt;li>Full support for all input types in eBooks.&lt;/li>&#xa;&lt;/ul>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Changes in ADE 4.0.2&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;ul>&#xa;&lt;li>Support for double-page view allows you to view 2 pages at a time for EPUB3-based books.&lt;/li>&#xa;&lt;li>Support for adding notes to selected text content in EPUB3-based books.&lt;/li>&#xa;&lt;/ul>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Changes in ADE 4.0.1&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;ul>&#xa;&lt;li>Full-text search allows you to search for keywords across chapters.&lt;/li>&#xa;&lt;li>An intuitive panel displays the search results in a list view (EPUB 3.0 only).&lt;/li>&#xa;&lt;li>Enhanced security for transmitting rights management and licensing validation information. With this latest version of Digital Editions 4.0.1, the data is sent to Adobe in a secure transmission (using HTTPS). More privacy-related information for Adobe Digital Editions 4.0.1 is provided here.&lt;/li>&#xa;&lt;/ul>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-5-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;strong>Known issues in ADE 4.0&lt;/strong>&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>Known issues with rendering EPUB 3 content:&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;ul>&#xa;&lt;li>On Windows, EPUB 3 features do not render if the IE version is less than 10.&lt;/li>&#xa;&lt;li>On Windows, Detail, Bdi, Wbr tags are not supported.&lt;/li>&#xa;&lt;li>On Windows, Mouse wheel scrolling is not supported.&lt;/li>&#xa;&lt;li>Hitting Tab inside the contents of the book changes the content alignment.&lt;/li>&#xa;&lt;/ul>&#xa;&lt;/span>&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>Other known issues:&lt;/div>&#xa;&lt;div class=&quot;text-6-block&quot;>&lt;span class=&quot;text-light&quot;>&lt;ul>&#xa;&lt;li>Adobe Digital Editions will not turn to the next page automatically in the NVDA Say All mode. NVDA only reads the current page until the user changes the page.&lt;/li>&#xa;&lt;li>If you have a prior version of Adobe Digital Editions installed along with Adobe Digital Editions 4.0, uninstalling one of them will de-associate the EPUB and ASCM file types with the application. You’ll then need to manually associate file types (see your operating system’s instructions for associating file types).&lt;/li>&#xa;&lt;li>If you unplug a device while it is in the process of authorizing, ADE may report the device is authorized when it isn’t. After restarting ADE, it will show the correct authorization state of the device.&lt;/li>&#xa;&lt;li>Simultaneously adding *.ACSM files along with *.EPUB/*.PDF files into the same library on Mac OS X is not recommended. Some *.PDF/ *.EPUB books may not be added in this case.&lt;/li>&#xa;&lt;/ul>&#xa;&lt;/span>&lt;/div>&#xa;"
+                textIsRich="true"/>
+            <end_15043048828290
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_5f31"/>
+            <end_14544550461840
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/parsys/column"
+                columnType="end"
+                correspondingStart="column_126b"/>
+        </contentbody>
+        <sectionMore
+            jcr:primaryType="nt:unstructured"
+            linkModalScrolling="no"
+            linkModalSize="426x240"
+            linkTarget="_self"/>
+        <imagelayer
+            jcr:primaryType="nt:unstructured"
+            backgroundHeight="67">
+            <image
+                jcr:lastModified="{Date}2017-09-01T21:50:15.424Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="&amp;nbsp;"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </imagelayer>
+        <credits
+            jcr:primaryType="nt:unstructured"
+            preposition="by"
+            target="_self"/>
+        <contentlayer jcr:primaryType="nt:unstructured">
+            <video
+                jcr:primaryType="nt:unstructured"
+                size="426x240"
+                type="free">
+                <image
+                    jcr:lastModified="{Date}2017-09-01T21:50:15.424Z"
+                    jcr:lastModifiedBy="sale"
+                    jcr:primaryType="nt:unstructured"/>
+            </video>
+        </contentlayer>
+        <card jcr:primaryType="nt:unstructured">
+            <image
+                jcr:lastModified="{Date}2017-09-01T21:50:15.424Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </card>
+        <tophero
+            jcr:lastModified="{Date}2017-08-30T22:52:23.364Z"
+            jcr:lastModifiedBy="sale"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="beagle/components/hero"
+            avoid="hero2-avoid-3"
+            color="hero2-theme-1"
+            height="hero2-size-auto"
+            hideArticle="true"
+            hideCredits="true"
+            hideLink="true">
+            <image
+                jcr:lastModified="{Date}2017-08-30T22:52:23.364Z"
+                jcr:lastModifiedBy="sale"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="beagle/components/image"
+                alt="Optimize your reading experience with the best eBook reader across formats."
+                xcord="{Long}50"
+                ycord="{Long}50"/>
+        </tophero>
+    </jcr:content>
+</jcr:root>
