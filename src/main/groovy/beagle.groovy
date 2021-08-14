@@ -355,7 +355,10 @@ if(doAsset) {
         srcDam = all_assets + '/jcr_root' + srcPath
       }
       def destDam = projectDir + '/'+dxTarget+'/jcr_root' + destPath
-      targetUtil.createAsset(srcDam, destDam)
+      if(targetUtil.createAsset(srcDam, destDam) == false ) {
+        // empty destPath
+        assets.put(srcPath, '')
+      }
     }
   }
 }

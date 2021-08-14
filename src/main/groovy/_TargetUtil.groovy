@@ -200,7 +200,7 @@ class TargetUtil {
   }
 
   // create asset from img file
-  def createAsset(final String srcFile, final String destDamDir) {
+  def boolean createAsset(final String srcFile, final String destDamDir) {
 
     def srcOriginal = srcFile + '/_jcr_content/renditions/original'
     if(! new File(srcOriginal).exists()) {
@@ -260,8 +260,10 @@ class TargetUtil {
       def filexOS = new FileOutputStream(destDamDir+'/.content.xml')
       IOUtils.write(commonUtil.xmlPretty(damAsset), filexOS, 'UTF-8')
       filexOS.close()
+      return true
     } else {
       println 'Missing source asset: ' + srcOriginal
+      return false
     }
   }
 
