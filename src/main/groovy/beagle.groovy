@@ -373,7 +373,8 @@ new File(projectDir+'/filter.txt').withWriter { out ->
   }
 
   fragmentpages.each { key, item ->
-    out.println item
+  def destPath = item.replaceAll(srcFragPtn, destFragPtn) + '/jcr:content'
+    out.println destPath
 
     println key
     println "item: "+item
