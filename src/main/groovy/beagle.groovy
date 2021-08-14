@@ -40,6 +40,8 @@ try {
 
   //any.printStackTrace()
   scriptDir = new File(getClass().protectionDomain.codeSource.location.path).parent
+  scriptDir = scriptDir.replace("\\","/")
+  println "S C R I P T D I R  ---------*************"+scriptDir
   projectDir = scriptDir.substring(0, scriptDir.indexOf('/build'))
   commonUtil = Class.forName('CommonUtil').newInstance()
   adobeUtil = Class.forName('AdobeUtil').newInstance()
@@ -55,6 +57,7 @@ commonUtil.projectDir = projectDir
 targetUtil.projectDir = projectDir
 targetUtil._init()
 println projectDir
+projectDir = projectDir.replace("\\","/")
 // ==================== end: resolve projectDir and shared library =========
 
 // Specify srcPkg location
@@ -300,6 +303,7 @@ fragmentpages.each { pageFile, pagePath ->
     def destPath = pagePath.replaceAll(srcFragPtn, destFragPtn) + '/.content.xml'
     String outputFile = projectDir + '/'+dxTarget+'/jcr_root/' + destPath
     println 'output file: ' + outputFile
+    println 'pagePath : ' + pagePath
 
     navListNameUniqueCache.clear()
     String xml = commonUtil.file2xml(file)
@@ -372,6 +376,7 @@ new File(projectDir+'/filter.txt').withWriter { out ->
     out.println item
 
     println key
+    println "item: "+item
   }
 
   if(doAsset) {
@@ -411,7 +416,8 @@ ProcessBuilder pb = new ProcessBuilder('gradle', 'clean', 'myZip', "-PpackageNam
 pb.redirectErrorStream(true)
 pb.redirectOutput(ProcessBuilder.Redirect.INHERIT)
 
-pb.directory(new File(projectDir))
+/*
+pb.directory(new File(projectDir.replace("/","\\")))
 def proc = pb.start()
 proc.waitFor()
 
@@ -420,6 +426,7 @@ if(proc.exitValue() != 0) {
   println error
   throw new Exception('gradle build failed')
 }
+*/
 
 if(doDeploy) {
   // use gradle to create package and deploy it
@@ -1841,8 +1848,9 @@ def doCalendar(Document doc) {
       def sd1 = new SimpleDateFormat('yyyy-MM-dd').parse(date)
       // 2019-Apr.-02
       def sd2 = new SimpleDateFormat('yyyy-MMM-dd').format(sd1)
-      def leftTxt = '<p><span>' + sd2.substring(5,8) + '</span><span>-' + sd2.substring(10, 12) + '-</span><span>' + sd2.substring(0, 4) + '</span></p>'
-
+      //println "SD2***********************" +sd2
+      def leftTxt = '<p><span>' + sd2.substring(5,8) + '</span><span>-' + sd2.substring(9, 11) + '-</span><span>' + sd2.substring(0, 4) + '</span></p>'
+      //println "leftTxt***********************" +leftTxt
       def groupFlex = targetUtil.getTgtComponent('flex')
       ele.before(groupFlex)
       groupFlex.tagName(featuregroup.tagName())
