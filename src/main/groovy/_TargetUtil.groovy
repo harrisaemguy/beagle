@@ -378,7 +378,7 @@ class TargetUtil {
     //create experience_folder all the way to site folder
     while(dirFile && dirFile.parentFile) {
 
-      println '...frag: ' + dirFile.absolutePath+'/.content.xml'
+      //println '...frag: ' + dirFile.absolutePath+'/.content.xml'
       def filex = dirFile.absolutePath+'/.content.xml'
       if(! new File(filex).exists()) {
         def docx = getTgtTemplate('fragment_folder')
@@ -393,7 +393,7 @@ class TargetUtil {
           def jcrNd = docx.selectFirst('jcr|root>jcr|content')
           jcrNd.attr('cq:allowedTemplates', '[/conf/dexter/settings/wcm/templates/experience-fragment-web-variation]')
         }
-        //println "filex ***********"+ leftTxt
+        //println "filex ***********"+ filex
         def filexOS = new FileOutputStream(filex)
         IOUtils.write(commonUtil.xmlPretty(docx), filexOS, 'UTF-8')
         filexOS.close()
