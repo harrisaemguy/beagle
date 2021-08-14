@@ -1,106 +1,106 @@
 #beagle/components/textandimage2col
 #text_2125593924 h3
 #FaaS form modalID
-content/acom/au/en/creativecloud/business/enterprise/how-to-wireframe-xd
+Beagle_en_pages/jcr_root/content/acom/au/en/creativecloud/business/enterprise/how-to-wireframe-xd
 
 #tab and hero, and fragment
-#content/acom/la/es/creativecloud/features
+#Beagle_en_pages/jcr_root/content/acom/la/es/creativecloud/features
 #topHero (backgroup-image, hero-article(title, text, articleAlignment, titile-link)
-content/acom/us/en/products/adobe-extension-builder
+Beagle_en_pages/jcr_root/content/acom/us/en/products/adobe-extension-builder
 
 #hero with featuredvideo
-content/acom/la/es/creativecloud/photography
+Beagle_en_pages/jcr_root/content/acom/la/es/creativecloud/photography
 
 #hideArticle, hide, hide, showFeaturedVideo
-content/acom/la/es/creativecloud/photoshop-ecosystem
+Beagle_en_pages/jcr_root/content/acom/la/es/creativecloud/photoshop-ecosystem
 
 #inlineVideo
-#content/acom/la/es/creativecloud/print-graphic-design
+#Beagle_en_pages/jcr_root/content/acom/la/es/creativecloud/print-graphic-design
 
 #faqmodal, btn icon, Beagle_Country_Sites_Batch2
-content/acom/de/de/creativecloud/membership
+Beagle_en_pages/jcr_root/content/acom/de/de/creativecloud/membership
 
 #africa FaaSForm
-#content/acom/africa/en/solutions/request-consultation/elearning
-#content/acom/africa/en/solutions/request-consultation/captivate
+#Beagle_en_pages/jcr_root/content/acom/africa/en/solutions/request-consultation/elearning
+#Beagle_en_pages/jcr_root/content/acom/africa/en/solutions/request-consultation/captivate
 
 #pullquote
-content/acom/us/en/customershowcase/story/reliance-foundry
+Beagle_en_pages/jcr_root/content/acom/us/en/customershowcase/story/reliance-foundry
 
 #chart -> table
-content/acom/la/es/creativecloud/photography/compare-plans
+Beagle_en_pages/jcr_root/content/acom/la/es/creativecloud/photography/compare-plans
 
 #asset migration from text a href
 #https://jira.corp.adobe.com/projects/MWPW/issues/MWPW-92645
-content/acom/us/en/solutions/ebook/digital-editions/download
-content/acom/us/en/products/elements-family/premiere-elements/download-trial/get-started
+Beagle_en_pages/jcr_root/content/acom/us/en/solutions/ebook/digital-editions/download
+Beagle_en_pages/jcr_root/content/acom/us/en/products/elements-family/premiere-elements/download-trial/get-started
 
 # why bold font
-content/acom/us/en/products/elements-family/premiere-elements/download-trial/get-started
+Beagle_en_pages/jcr_root/content/acom/us/en/products/elements-family/premiere-elements/download-trial/get-started
 
 # absolute text chunk
-content/acom/us/en/products/amazon-web-services/faq
+Beagle_en_pages/jcr_root/content/acom/us/en/products/amazon-web-services/faq
 
 # image with dam link
-content/acom/us/en/products/flash-builder-php/showcase
-content/acom/us/en/products/flash-builder-php-standard/features
-content/acom/us/en/products/adobe-extension-builder/features
+Beagle_en_pages/jcr_root/content/acom/us/en/products/flash-builder-php/showcase
+Beagle_en_pages/jcr_root/content/acom/us/en/products/flash-builder-php-standard/features
+Beagle_en_pages/jcr_root/content/acom/us/en/products/adobe-extension-builder/features
 
 #link not working
-content/acom/us/en/products/flash-builder-php/features
+Beagle_en_pages/jcr_root/content/acom/us/en/products/flash-builder-php/features
 
 #hideInDesktop
-content/acom/us/en/products/captivate/download-trial/get-started
+Beagle_en_pages/jcr_root/content/acom/us/en/products/captivate/download-trial/get-started
 
 # horizontal lines
-content/acom/us/en/products/coldfusion/download-trial/get-started
+Beagle_en_pages/jcr_root/content/acom/us/en/products/coldfusion/download-trial/get-started
 
-content/acom/us/en/products/adobeconnect/trial-check
+Beagle_en_pages/jcr_root/content/acom/us/en/products/adobeconnect/trial-check
 
 # 2/3 1/3 missing pos
-content/acom/us/en/products/adobe-extension-builder/faq
+Beagle_en_pages/jcr_root/content/acom/us/en/products/adobe-extension-builder/faq
 
 #calendar Beagle_en_pages
-content/acom/us/en/creativecloud/team-projects/features
+Beagle_en_pages/jcr_root/content/acom/us/en/creativecloud/team-projects/features
 
 #featurewidget Beagle_Languages_Batch2
 marketing-cloud/experience-manager/development-deployment
 
 #features/intro, beagle_pages
-content/acom/la/es/creativecloud/assets
+Beagle_en_pages/jcr_root/content/acom/la/es/creativecloud/assets
 
 # bg.jpg backgroud image missing
-content/acom/us/en/products/technicalcommunicationsuite/download-trial/get-started
+Beagle_en_pages/jcr_root/content/acom/us/en/products/technicalcommunicationsuite/download-trial/get-started
 
 #broswerTitle
-content/acom/us/en/products/adobeconnect/contact-thankyou
+Beagle_en_pages/jcr_root/content/acom/us/en/products/adobeconnect/contact-thankyou
 
 #srcPkgs/Beagle_en_pages/jcr_root/
-content/acom/us/en/products/xmp/partners
-content/acom/us/en/solutions/ebook/digital-editions/sample-ebook-library
+Beagle_en_pages/jcr_root/content/acom/us/en/products/xmp/partners
+Beagle_en_pages/jcr_root/content/acom/us/en/solutions/ebook/digital-editions/sample-ebook-library
 
-content/acom/us/en/products/robohelp-server/download-trial/get-started
+Beagle_en_pages/jcr_root/content/acom/us/en/products/robohelp-server/download-trial/get-started
 
-content/acom/us/en/products/framemakerpublishingserver/download-trial/get-started
+Beagle_en_pages/jcr_root/content/acom/us/en/products/framemakerpublishingserver/download-trial/get-started
 
 # tableHtml font and alignment, text-5-block of first cell.
-content/acom/us/en/products/fontfoliofamily/family-buying-guide
+Beagle_en_pages/jcr_root/content/acom/us/en/products/fontfoliofamily/family-buying-guide
 
-content/acom/us/en/products/adobeconnect/enterprise/trial-check
+Beagle_en_pages/jcr_root/content/acom/us/en/products/adobeconnect/enterprise/trial-check
 
 #srcPkgs/Beagle_Country_Sites_Batch2/jcr_root/
-content/acom/cn/zh-Hans/landing/photo/yourshotyourstory/pets
+Beagle_en_pages/jcr_root/content/acom/cn/zh-Hans/landing/photo/yourshotyourstory/pets
 
 #srcPkgs/Beagle_en_pages/jcr_root/
-content/acom/us/en/products/xml-documentation-for-experience-manager/dita-ccms
+Beagle_en_pages/jcr_root/content/acom/us/en/products/xml-documentation-for-experience-manager/dita-ccms
 
 #srcPkgs/Beagle_en_pages/jcr_root/
-content/acom/us/en/products/type/font-designers/michael-harvey
+Beagle_en_pages/jcr_root/content/acom/us/en/products/type/font-designers/michael-harvey
 
 #navlist to map select, srcPkgs/Beagle_en_pages/jcr_root/
-content/acom/us/en/products/wishform
+Beagle_en_pages/jcr_root/content/acom/us/en/products/wishform
 
-content/acom/us/en/products/presenter/vipdownload
+Beagle_en_pages/jcr_root/content/acom/us/en/products/presenter/vipdownload
 
 #Beagle_Country_Sites_Batch2/jcr_root/
-content/acom/ro/ro/products/technicalcommunicationsuite/download-trial/get-started
+Beagle_en_pages/jcr_root/content/acom/ro/ro/products/technicalcommunicationsuite/download-trial/get-started

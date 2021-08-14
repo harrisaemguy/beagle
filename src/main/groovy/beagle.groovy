@@ -58,22 +58,20 @@ println projectDir
 // ==================== end: resolve projectDir and shared library =========
 
 // Specify srcPkg location
-//packageName = 'beagle_pages'
-packageName = 'Beagle_Country_Sites_Batch1'
-packageName = 'Beagle_Country_Sites_Batch2'
-//packageName = 'Beagle_en_pages'
+packageName = 'beagle_pages'
+//packageName = 'Beagle_Country_Sites_Batch1'
+//packageName = 'Beagle_Country_Sites_Batch2'
+packageName = 'Beagle_en_pages'
 //packageName = 'Beagle_Languages_Batch1'
 //packageName = 'Beagle_Languages_Batch2'
 
 packageVersion = '1.0'
 
 jsonSlurper = new JsonSlurper()
-def ciFile = null // if null, then migrate all pages
 
 // provide ci list to migrate from small set of pages
 ciFile = new File(projectDir + '/test.txt')
 
-srcPkgDir = projectDir + '/srcPkgs/' + packageName
 if(packageName.indexOf('/') > 0) {
   // resolve generated packageName
   packageName = packageName.substring(packageName.lastIndexOf('/')+1)
@@ -89,11 +87,13 @@ allPkgsDir = projectDir + '/srcPkgs'
 all_assets = allPkgsDir + '/all_assets'
 srcSitename = 'acom'
 dxTarget = 'cc1'
-doDeploy = true
+useCiFile = true
+doDeploy = false
 doAsset = true
 doPage = true
-runScan = false
+runScan = true
 
+srcPkgDir = projectDir + '/srcPkgs/' + packageName
 ////////////////////////////////////////////////////////////////////////
 ////                      global variables                          ////
 ////////////////////////////////////////////////////////////////////////
@@ -130,7 +130,7 @@ def start = System.currentTimeMillis()
 srcpageMap = [:]
 largeTable = []
 
-if(ciFile) {
+if(useCiFile) {
   srcpageMap = commonUtil.readSrcCIList(ciFile)
 } else {
   srcpageMap = commonUtil.findContentList(new File(srcPkgDir + '/jcr_root'), 'resourceType="beagle/components/fullwidthcontentpage"')
@@ -172,7 +172,17 @@ println 'Total line of srcList: ' + srcpageMap.size()
 int xxx = 0
 srcpageMap.each { filePath, pagePath  ->
 
-  def file = new File(srcPkgDir + '/jcr_root/' + filePath)
+  def file
+  if(useCiFile) {
+    file = new File(projectDir + '/srcPkgs/' + filePath)
+
+    // use relative string
+    filePath = filePath.substring(pagePath.indexOf('/jcr_root') + 9)
+    pagePath = pagePath.substring(pagePath.indexOf('/jcr_root') + 9)
+  } else {
+    file = new File(srcPkgDir + '/jcr_root' + filePath)
+  }
+
   if(file.exists()) {
     println "${xxx++}. process " + pagePath
     navListNameUniqueCache.clear()
@@ -267,11 +277,12 @@ srcpageMap.each { filePath, pagePath  ->
       def destPath = filePath.replaceAll(srcPagesPtn, destPagesPtn)
 
       // add to filter.txt
-      targetPages.add('/' + destPath - '/.content.xml' + '/jcr:content')
+      targetPages.add(destPath - '/.content.xml' + '/jcr:content')
       // report.xslx
       srcTargetPages.put(pagePath, destPath - '/.content.xml')
 
-      String outputFile = projectDir + '/'+dxTarget+'/jcr_root/' + destPath
+      String outputFile = projectDir + '/'+dxTarget+'/jcr_root' + destPath
+      println '.........write out outputFile.................' + outputFile
       targetUtil.savePage(docDest, outputFile, srcAssetsPtn, destAssetsPtn, srcFragPtn, destFragPtn, srcPagesPtn, destPagesPtn)
     }
   }

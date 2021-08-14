@@ -70,7 +70,7 @@ class CommonUtil {
         String xml =  file2xml(file)
         if(xml.contains(contentContains)) {
           String relPath = rootPath.relativize(Paths.get(file.absolutePath)).toString()
-          contentpages.put(relPath, relPath - '/.content.xml')
+          contentpages.put('/'+relPath, '/'+relPath - '/.content.xml')
         }
       }
     }
