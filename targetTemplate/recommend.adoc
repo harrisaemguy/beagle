@@ -1,0 +1,60 @@
+== container ==
+* dexter/components/structure/flex
+* dexter/components/structure/position
+  ** try to use position instead of flex
+  ** no need position for single child
+* dexter/components/super/parsys
+  ** for position-item, flex-item, and table-row
+* table
+  ** dexter/components/structure/table
+  ** dexter/components/structure/table/tableRow
+
+* accordion
+  ** helpx/components/content/accordion
+  ** dexter/components/content/accordion/item
+  ** wcm/foundation/components/responsivegrid
+
+* procedure and step 
+  ** help/components/procedure
+  ** help/components/procedure/proc_parsys
+  ** help/components/step
+  ** help/components/step/step_parsys
+
+* before-and-after has 2 images, need to see live sample when I have vpn access
+  ** help/components/ccl/before-and-after
+  ** help/components/ccl/before-and-after/image
+
+== content ==
+* fixed node pair per page
+  ** helpx/components/content/article3/titleBar
+  ** helpx/components/content/article3/internalBanner
+* use helpx/components/content/text instead of other text component
+  ** helpx/components/content/text
+  ** help/components/text
+* render image for 3 devices, align, ...
+  ** helpx/components/content/image
+* custom video support
+  ** helpx/components/content/video
+* Button
+  ** dexter/components/content/cta
+* support codeLanguage
+  ** help/components/codeblock
+* legacy component of node reference
+  ** help/components/reference
+* experience fragment
+  ** helpx/components/content/xfreference
+* support mobileHeight, ...
+  ** helpx/components/content/spacer
+
+== same as before ==
+* help/components/article-3/download-section
+* help/components/article-3/download
+* help/components/ccl/before-and-after
+* help/components/article-3/card-reference
+* help/components/codeblock
+* help/components/procedure
+* help/components/reference
+
+== src / target component ==
+* help/components/shared/accordion/accordion-container
+  ** helpx/components/content/accordion

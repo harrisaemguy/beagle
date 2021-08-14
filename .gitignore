@@ -1,0 +1,6 @@
+srcPkgs/
+destPkg/
+*.zip
+cc1/
+cc2/
+build/

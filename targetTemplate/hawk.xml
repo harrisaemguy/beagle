@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:template="/conf/hawks/settings/wcm/templates/theme-3-full-width-globalnav"
+        jcr:primaryType="cq:PageContent"
+        jcr:title=""
+        sling:resourceType="hawks/components/structure/page"
+        cardType="standard"
+        enableCardCollection="false"
+        pageCreatedAt=""
+        pageTitle=""
+        prelinkInheritance="merge"
+        schemaInheritance="override"
+        style="spectrum spectrum--lightest"
+        translated="{Boolean}false">
+        <root
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="wcm/foundation/components/responsivegrid">
+            <globalnavheader
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="dexter/components/restricted/globalNavHeader">
+                <globalnav jcr:primaryType="nt:unstructured">
+                    <disable
+                        jcr:primaryType="nt:unstructured"
+                        type="inheritFromParent"/>
+                    <theme
+                        jcr:primaryType="nt:unstructured"
+                        theme="globlanavtheme"
+                        type="inheritFromParent"/>
+                    <sticky
+                        jcr:primaryType="nt:unstructured"
+                        type="inheritFromParent"/>
+                    <progressive
+                        jcr:primaryType="nt:unstructured"
+                        type="inheritFromParent"/>
+                </globalnav>
+                <subnav jcr:primaryType="nt:unstructured">
+                    <disable
+                        jcr:primaryType="nt:unstructured"
+                        disable="{Boolean}true"
+                        type="override"/>
+                    <theme
+                        jcr:primaryType="nt:unstructured"
+                        theme="creative_cloud_for_s"
+                        type="inheritFromParent"/>
+                    <mnemonic
+                        jcr:lastModified="{Date}2019-07-12T18:00:04.993Z"
+                        jcr:lastModifiedBy="moussa"
+                        jcr:primaryType="nt:unstructured"
+                        fileReference="/content/dam/cc/icons/creativecloud.svg"
+                        type="inheritFromParent"/>
+                    <logoText
+                        jcr:primaryType="nt:unstructured"
+                        text="Creative Cloud for Education"
+                        type="inheritFromParent"/>
+                    <logoLink
+                        jcr:primaryType="nt:unstructured"
+                        link="/content/cc/us/en/education"
+                        type="inheritFromParent"/>
+                    <cta
+                        jcr:primaryType="nt:unstructured"
+                        type="inheritFromParent"/>
+                    <links
+                        jcr:primaryType="nt:unstructured"
+                        generateGrandchildren="{Boolean}true"
+                        type="inheritFromParent"/>
+                    <personalize
+                        jcr:primaryType="nt:unstructured"
+                        productCodes="CCLE, CCSV, CTSK, CISK, CCSN, AEFT, AESK, EDGE, FLPR, FPSK, AUDT, AUSK, ANML, ESHR, DRWV, DWSK, ILST, ILSK, AICY, ICSK, IDSN, IDSK, MUSE, MUSK, PHLT, PPSK, LPES, PLES, PHSP, PHSK, LRMP, LTRM, PRLD, PPRO, PRSK, SPGD, SPRK, ASPK, CESK"
+                        type="inheritFromParent"/>
+                    <childLinks
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="dexter/components/super/parsys"/>
+                </subnav>
+            </globalnavheader>
+            <content
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="wcm/foundation/components/responsivegrid"/>
+            <globalnavfooter
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="dexter/components/restricted/globalNavFooter">
+                <disable
+                    jcr:primaryType="nt:unstructured"
+                    type="inheritFromParent"/>
+                <theme
+                    jcr:primaryType="nt:unstructured"
+                    type="inheritFromParent"/>
+                <excludeNavigation
+                    jcr:primaryType="nt:unstructured"
+                    type="inheritFromParent"/>
+                <hideLogo
+                    jcr:primaryType="nt:unstructured"
+                    type="inheritFromParent"/>
+                <breadcrumbs
+                    jcr:primaryType="nt:unstructured"
+                    linkType="override"
+                    type="override">
+                    <links jcr:primaryType="nt:unstructured">
+                        <item0
+                            jcr:primaryType="nt:unstructured"
+                            title="Adobe Creative Cloud"
+                            url="/content/cc/us/en/creativecloud"/>
+                        <item1
+                            jcr:primaryType="nt:unstructured"
+                            title="Education"
+                            url="/content/cc/us/en/education"/>
+                    </links>
+                </breadcrumbs>
+            </globalnavfooter>
+        </root>
+        <modalContainer
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="dexter/components/super/parsys"/>
+    </jcr:content>
+</jcr:root>

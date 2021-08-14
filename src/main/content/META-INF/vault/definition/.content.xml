@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:vlt="http://www.day.com/jcr/vault/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:description="@description@ Pacakge"
+    jcr:primaryType="vlt:PackageDefinition"
+    sling:resourceType="cq/packaging/components/pack/definition"
+    acHandling="merge_preserve"
+    buildCount="1"
+    group="@group@"
+    name="@name@"
+    version="@version@">
+    <filter jcr:primaryType="nt:unstructured">
+    </filter>
+    <thumbnail jcr:primaryType="nt:unstructured">
+        <file/>
+    </thumbnail>
+    <screenshots jcr:primaryType="nt:unstructured"/>
+    <thumbnail.png/>
+</jcr:root>

@@ -1,0 +1,199 @@
+
+import org.apache.commons.io.IOUtils
+import org.jsoup.Jsoup
+import org.jsoup.nodes.Document
+import org.jsoup.parser.ParseSettings
+import org.jsoup.parser.Parser
+
+buildscript {
+  repositories {
+    mavenCentral()
+    maven { url 'https://plugins.gradle.org/m2/' }
+  }
+  dependencies {
+    classpath group: 'org.jsoup', name: 'jsoup', version: '1.13.1'
+    classpath group: 'commons-io', name: 'commons-io', version: '2.6'
+    classpath group: 'org.apache.commons', name: 'commons-text', version: '1.6'
+  }
+}
+
+// usage: gradle toDexter_helpx clean myZip
+
+// Informations for generated bundle and package
+// ext.dxTarget = 'ia1'
+ext.dxTarget = 'cc1'
+// ext.dxTarget = 'helpx'
+
+ext.filterDef = [:]
+ext.runningAEM = 'http://admin:admin@localhost:5502'
+ext.newLine = System.getProperty("line.separator")
+
+apply plugin : 'groovy'
+repositories {
+  mavenCentral()
+  maven { url "https://repo.adobe.com/nexus/content/groups/public/" }
+}
+
+group = 'oproma.migrated'
+packageName = packageName?: project.name
+
+project.version = '' + new Date().format("yyyyMMdd'T'HHmmss'Z-'") + packageVersion
+description = 'hawk'
+
+dependencies() {
+  compile 'org.codehaus.groovy:groovy-all:2.5.8'
+  compile group: 'commons-io', name: 'commons-io', version: '2.6'
+  compile group: 'commons-lang', name: 'commons-lang', version: '2.6'
+  compile group: 'org.apache.commons', name: 'commons-text', version: '1.6'
+  compile group: 'commons-codec', name: 'commons-codec', version: '1.9'
+  compile group: 'org.jsoup', name: 'jsoup', version: '1.13.1'
+  compile 'org.apache.poi:poi-ooxml:4.1.1'
+
+  // JcrUtils.getRepository
+  compile 'javax.jcr:jcr:2.0'
+  compile 'org.apache.jackrabbit:jackrabbit-jcr-commons:2.19.0'
+  compile 'org.apache.jackrabbit:jackrabbit-jcr2dav:2.19.0'
+  //compile fileTree(dir: '/home/xilu/Downloads/opr', include: '*.jar')
+}
+
+ext.filterXml = '''
+'''
+
+task myCopy(type: Copy, dependsOn:[clean]) {
+  ext {
+    filters = ''
+    filterIdxs = ''
+  }
+  into "${buildDir}/toArchive"
+  from("$projectDir/src/main/content") { include '**/*' }
+
+  doFirst {
+    ant.copy(overwrite:"true", todir:"${buildDir}/toArchive", failonerror:"true", includeEmptyDirs:"no") {
+      fileset(dir:"$projectDir/$dxTarget") { include name:"**/*" }
+    }
+
+    // populate filterDef from filter.txt if it is empty
+    int lines = 0
+    def line
+    def filterLines = [:]
+    file("${projectDir}/filter.txt").withReader { reader ->
+      while ((line = reader.readLine())!=null) {
+        //println line
+        lines++
+        filterLines.put(line, 'merge')
+      }
+    }
+
+    if(lines<300000) {
+      filterDef = filterLines
+    } else {
+      // take 5 folder deep from filterLines
+      filterDef.clear()
+      filterLines.each { path, mode->
+        def prefixs = path.split('/')
+        def root = ''
+        for(int x=0; x<prefixs.length; x++) {
+          if(x==0) {
+            root += prefixs[x]
+          } else if(x<6) {
+            root += '/'+prefixs[x]
+          }
+        }
+
+        filterDef.put(root, 'replace')
+      }
+    }
+
+  }
+
+  doLast {
+    println "... post processing to update package vault filter ..."
+    ant.replace dir : "${buildDir}/toArchive/META-INF/vault", token : '@group@', value : project.group, includes : "**/*.xml"
+    ant.replace dir : "${buildDir}/toArchive/META-INF/vault", token : '@name@', value : "${packageName}", includes : "**/*.xml"
+    ant.replace dir : "${buildDir}/toArchive/META-INF/vault", token : '@version@', value : project.version, includes : "**/*.xml"
+    ant.replace dir : "${buildDir}/toArchive/META-INF/vault", token : '@description@', value : project.description, includes : "**/*.xml"
+
+    def filterIS = new FileInputStream("${buildDir}/toArchive/META-INF/vault/filter.xml")
+    String filterXml = IOUtils.toString(filterIS, 'UTF-8')
+    filterIS.close()
+    Parser parser = Parser.xmlParser()
+    parser.settings(new ParseSettings(true, true))
+    Document filterdoc = Jsoup.parse(filterXml, '', parser)
+
+    def definitionIS = new FileInputStream("${buildDir}/toArchive/META-INF/vault/definition/.content.xml")
+    String definitionXml = IOUtils.toString(definitionIS, 'UTF-8')
+    definitionIS.close()
+    Document definitiondoc = Jsoup.parse(definitionXml, '', parser)
+
+    filterDef.eachWithIndex { fentry, index ->
+      filterdoc.selectFirst('workspaceFilter').appendElement('filter').attr('root', fentry.key)
+      definitiondoc.selectFirst('jcr|root>filter').appendElement("f${index}").attr('jcr:primaryType','nt:unstructured').attr('mode',fentry.value).attr('root', fentry.key).attr('rules','[]')
+    }
+
+    println "... create filter.xml and  ...definition.content.xml"
+    IOUtils.write(filterdoc.toString(), new FileOutputStream("${buildDir}/toArchive/META-INF/vault/filter.xml"), 'UTF-8')
+    IOUtils.write(definitiondoc.toString(), new FileOutputStream("${buildDir}/toArchive/META-INF/vault/definition/.content.xml"), 'UTF-8')
+  }
+
+  onlyIf {
+    file("$projectDir/$dxTarget").exists()
+  }
+}
+
+task myZip(type: Zip, dependsOn:[myCopy]) {
+  baseName = "${project.group}-${packageName}"
+  destinationDir = distsDir
+  from "${buildDir}/toArchive"
+  zip64 = true
+
+  doLast {
+    // backup to project_dir
+    ant.copy(overwrite:"true", todir:"$projectDir", failonerror:"true", includeEmptyDirs:"no") {
+      fileset(dir:"$projectDir/build/distributions") { include name:"**/*.zip" }
+    }
+  }
+}
+
+task deploy() {
+
+  def packName = myZip.archiveName
+  doLast {
+    def packSrcName = ""
+    file('build/distributions').eachFile {
+      // find the first zip file
+      if(it.name.endsWith('.zip')) {
+        packSrcName = packSrcName?: it.absolutePath
+      }
+    }
+
+    def stdout = new ByteArrayOutputStream()
+
+    println 'upload my package: ' + packName + ' from ' + packSrcName
+
+    exec {
+      commandLine 'curl'
+      args '-F cmd=upload', '-F force=true', '-F install=true'
+      args "-F file=@${packSrcName}"
+      args "${runningAEM}/crx/packmgr/service.jsp"
+      standardOutput stdout
+    }
+
+    def curlResponse = stdout.toString()
+    stdout.close()
+  }
+}
+
+// providing extra task by using rule
+tasks.addRule("Pattern: todexter_<ID>") { String taskName ->
+  if (taskName.startsWith("todexter_")) {
+    task(taskName, type: JavaExec) {
+      println sourceSets.main.runtimeClasspath.asPath
+      classpath sourceSets.main.runtimeClasspath
+      main = taskName - 'todexter_'
+
+      doLast {
+        println "run migration of: " + (taskName - 'todexter_')
+      }
+    }
+  }
+}
