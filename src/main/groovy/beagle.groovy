@@ -424,8 +424,8 @@ pb.redirectErrorStream(true)
 pb.redirectOutput(ProcessBuilder.Redirect.INHERIT)
 
 
-//pb.directory(new File(projectDir.replace("\\","/")))
-pb.directory(new File('.'))
+pb.directory(new File(projectDir))
+//pb.directory(new File('.'))
 def proc = pb.start()
 proc.waitFor()
 
