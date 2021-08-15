@@ -413,12 +413,19 @@ srcTargetPages.each { key, val ->
 reportUtil.printReport("${packageName}_report.xlsx", 'page map', 'src page | target page', reportLines)
 
 // use gradle to create package
-ProcessBuilder pb = new ProcessBuilder('gradle', 'clean', 'myZip', "-PpackageName=${packageName}", "-PpackageVersion=${packageVersion}")
+ProcessBuilder pb = null
+if(System.properties['os.name'].toLowerCase().contains('windows')) {
+  pb = new ProcessBuilder('gradle.bat', 'clean', 'myZip', "-PpackageName=${packageName}", "-PpackageVersion=${packageVersion}")
+} else {
+  pb = new ProcessBuilder('gradle', 'clean', 'myZip', "-PpackageName=${packageName}", "-PpackageVersion=${packageVersion}")
+}
+
 pb.redirectErrorStream(true)
 pb.redirectOutput(ProcessBuilder.Redirect.INHERIT)
 
-/*
-pb.directory(new File(projectDir.replace("/","\\")))
+
+//pb.directory(new File(projectDir.replace("\\","/")))
+pb.directory(new File('.'))
 def proc = pb.start()
 proc.waitFor()
 
@@ -427,7 +434,7 @@ if(proc.exitValue() != 0) {
   println error
   throw new Exception('gradle build failed')
 }
-*/
+
 
 if(doDeploy) {
   // use gradle to create package and deploy it
