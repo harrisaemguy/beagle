@@ -360,7 +360,7 @@ if(doAsset) {
       }
       def destDam = projectDir + '/'+dxTarget+'/jcr_root' + destPath
       if(targetUtil.createAsset(srcDam, destDam) == false ) {
-        // empty destPath
+        // empty destPath to avoid to output into filter.txt
         assets.put(srcPath, '')
       }
     }
@@ -425,7 +425,6 @@ pb.redirectOutput(ProcessBuilder.Redirect.INHERIT)
 
 
 pb.directory(new File(projectDir))
-//pb.directory(new File('.'))
 def proc = pb.start()
 proc.waitFor()
 
