@@ -493,6 +493,7 @@ def migrateDocument(Document doc, pagePath, pageFile) {
   do_reimtabs(doc)
   doMerchandisingbar(doc)
   do_faasform(doc)
+  doPromo(doc)
 
   commonUtil.duplicateNodeDetect(doc)
 }
@@ -1147,6 +1148,14 @@ def do_anchor(Document doc) {
     text.tagName('archor')
     text.attr('text', "<p>&nbsp;<a id=\"${anchorName}\"></a> &nbsp;</p>")
     ele.before(text)
+    ele.remove()
+  }
+}
+
+def doPromo(Document doc) {
+  doc.select('[sling:resourceType=beagle/components/promo]').each { ele ->
+    println "Promo:  "+ele.toString()
+    println "Promo productIntroText "+ele.attr('productIntroText')
     ele.remove()
   }
 }
