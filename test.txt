@@ -104,6 +104,6 @@ Beagle_en_pages/jcr_root/content/acom/us/en/products/presenter/vipdownload
 
 #Beagle_Country_Sites_Batch2/jcr_root/
 Beagle_en_pages/jcr_root/content/acom/ro/ro/products/technicalcommunicationsuite/download-trial/get-started
-
+#/promo
 Beagle_en_pages/jcr_root/content/acom/us/en/products/technicalcommunicationsuite
 
