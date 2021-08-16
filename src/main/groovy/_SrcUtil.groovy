@@ -41,6 +41,17 @@ class SrcUtil {
       it.remove()
     }
 
+    doc.select('[sling:resourceType=beagle/components/promopod]').each { ele ->
+      def showDraggedPromobar = ele.attr('showDraggedPromobar')
+      def showPromoBar = ele.attr('showPromoBar')
+      if(showDraggedPromobar && showDraggedPromobar.contains('true') || showPromoBar && showPromoBar.contains('true')) {
+        // keep it
+      } else {
+        // no need to migrate it
+        it.remove()
+      }
+    }
+
     doc.select('[sling:resourceType=beagle/components/text]:not([text])').each {
       println '...remove text node: ' + it.tagName()
       it.remove()
