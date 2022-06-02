@@ -1,6 +1,6 @@
-I am normal
-**I am bold**
-_I am italic_
+I am normal  
+**I am bold**  
+_I am italic_  
 ~~I am strike-through~~  
 Heading with level 1
 ====================
